@@ -198,8 +198,6 @@ def main():
         "https://www.squarepoint-capital.com/open-opportunities?id=6212106",
         "https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
         "https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering",
-        "https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#",
-        "https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore",
     ]
 
     process_urls(urls)
