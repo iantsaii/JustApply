@@ -176,7 +176,7 @@ cookie policy
 .
 You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
 Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/1
+Press again to continue 0/2
 Learn more and customize
 Reject
 Accept
