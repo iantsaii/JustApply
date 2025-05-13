@@ -27,8 +27,8 @@ Warsaw
 Geneva
 Netherlands
 Shanghai
-Bangalore
 New York
+Bangalore
 Dubai
 Singapore
 Hong Kong
@@ -45,6 +45,8 @@ Commercial Operator
 Netherlands (Remote)
 Compliance Analyst - Commodities
 Geneva, London
+Compliance Analyst - Expert Networks
+New York
 Compliance Analyst - Surveillance
 Bangalore
 Data Center Technician
