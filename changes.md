@@ -1,4 +1,96 @@
 
+## 2025-05-14 07:12:43
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -195,17 +195,18 @@
+ Region
+ *
+ Please Select
+-North America
+-EMEA
+ APAC
+ Australia
++EMEA
++Hong Kong
++India
++Japan
++Mainland China
+ New Zealand
+-Singapore
++North America
++Singapore
++South Korea
+ Taiwan
+-Mainland China
+-India
+-Hong Kong
+-South Korea
+ United Kingdom
+ United States of America
+ Other
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Mumbai
+ Chicago
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Mumbai
+ Chicago
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -713,8 +713,8 @@
+ Youngdeungpo-gu, Seoul, 07326
+ South Korea
+ Hong Kong
+-Unit 1501
+-28 Stanley Street
++Unit 2002-03,
++28 Stanley Street,
+ Central, Hong Kong
+ Europe
+ London
+```
+
+---
+
 ## 2025-05-13 07:12:52
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)

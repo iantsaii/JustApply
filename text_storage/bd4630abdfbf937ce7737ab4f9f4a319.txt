@@ -195,17 +195,18 @@ Company name
 Region
 *
 Please Select
-North America
-EMEA
 APAC
 Australia
-New Zealand
-Singapore
-Taiwan
-Mainland China
-India
+EMEA
 Hong Kong
+India
+Japan
+Mainland China
+New Zealand
+North America
+Singapore
 South Korea
+Taiwan
 United Kingdom
 United States of America
 Other
