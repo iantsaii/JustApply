@@ -71,6 +71,16 @@ Tech Programs
 University
 Opens the multi-select filter menu
 Office Locations (1)
+North America
+Atlanta
+Chicago
+New York
+San Francisco Bridge HQ
+Seattle
+South San Francisco HQ
+Washington DC
+Toronto
+Mexico City
 Asia Pacific
 Sydney
 Melbourne
@@ -79,14 +89,6 @@ Bengaluru
 Tokyo
 Singapore
 Bangkok
-North America
-Toronto
-Mexico City
-Seattle
-South San Francisco HQ
-San Francisco Bridge HQ
-New York
-Chicago
 Europe
 Paris
 Berlin
@@ -104,6 +106,10 @@ Middle East
 Dubai
 Opens the multi-select filter menu
 Remote Locations
+North America
+United States
+Canada
+Mexico
 Asia Pacific
 Australia
 Hong Kong
@@ -114,10 +120,6 @@ Malaysia
 New Zealand
 South Korea
 Thailand
-North America
-Canada
-Mexico
-United States
 Europe
 Austria
 Belgium

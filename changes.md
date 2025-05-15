@@ -1,4 +1,228 @@
 
+## 2025-05-15 07:12:25
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -52,7 +52,6 @@
+ All levels
+ Experienced
+ Internship
+-Student and Graduate
+ Internship
+ All departments
+ Business Operations
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -71,6 +71,16 @@
+ University
+ Opens the multi-select filter menu
+ Office Locations (1)
++North America
++Atlanta
++Chicago
++New York
++San Francisco Bridge HQ
++Seattle
++South San Francisco HQ
++Washington DC
++Toronto
++Mexico City
+ Asia Pacific
+ Sydney
+ Melbourne
+@@ -79,14 +89,6 @@
+ Tokyo
+ Singapore
+ Bangkok
+-North America
+-Toronto
+-Mexico City
+-Seattle
+-South San Francisco HQ
+-San Francisco Bridge HQ
+-New York
+-Chicago
+ Europe
+ Paris
+ Berlin
+@@ -104,6 +106,10 @@
+ Dubai
+ Opens the multi-select filter menu
+ Remote Locations
++North America
++United States
++Canada
++Mexico
+ Asia Pacific
+ Australia
+ Hong Kong
+@@ -114,10 +120,6 @@
+ New Zealand
+ South Korea
+ Thailand
+-North America
+-Canada
+-Mexico
+-United States
+ Europe
+ Austria
+ Belgium
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Mumbai
+ Chicago
+@@ -139,8 +139,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Mumbai
+ Chicago
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -238,12 +238,6 @@
+ Experienced
+ C++
+ Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
+-Systems Engineer – Research & Development
+-↳ Apply Now
+-Boulder
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. Much of our hardware layer and operating system layer reflect...
+ Site Reliability Engineer Lead – Enterprise Technology
+ ↳ Apply Now
+ New York
+@@ -532,18 +526,6 @@
+ Experienced
+ Trade Operations
+ Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our Trade Operations (TradeOps) team in our London office. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
+-Systems Engineer – Research & Development
+-↳ Apply Now
+-Seattle
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. Much of our hardware layer and operating system layer reflect...
+-Systems Engineer – Research & Development
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. Much of our hardware layer and operating system layer reflect...
+ Data Production Engineer
+ ↳ Apply Now
+ London
+@@ -604,12 +586,6 @@
+ Experienced
+ Systems and Networking
+ The Networks team designs, builds and maintains all the communications infrastructure that allows our high-capacity, low-latency trading and data research environments to run 24/7.  This network spans over 25 countries and 100 locations. We are looking for a Senior Network Engineer with experience designing and managing large environments to fulfill...
+-Systems Engineer – Research & Development
+-↳ Apply Now
+-New York
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. Much of our hardware layer and operating system layer reflect...
+ Senior Network Engineer – Low Latency Trading
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -18,6 +18,7 @@
+ Office Acquisition and Development
+ Office Management
+ Operations
++Recruiting & Talent Development
+ Technology
+ Offices
+ Jersey
+@@ -54,7 +55,7 @@
+ Delta One and Financing Trader
+ Singapore, Dubai
+ Desk Quant Analyst
+-London, Madrid, Montreal, Bangalore, Singapore
++London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+ Graduate Software Developer
+ London, Montreal, Warsaw
+ Graduate Support Specialist
+@@ -113,6 +114,8 @@
+ London, Montreal, Warsaw
+ Quant Developer - High Performance Software Engineering
+ Singapore, London, New York
++Recruitment Intern (Fall 2025)
++Montreal
+ Senior Discretionary Trader - Credit
+ London, New York
+ Senior Discretionary Trader - Equities
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -31,6 +31,7 @@
+ Work on meaningful projects from healthcare to anti-scam technology. Use your skills to fix actual problems in the community and build a better Singapore.
+ Open positions
+ All departments
++Corporate
+ Product Design
+ Product Management
+ Software Engineering
+```
+
+---
+
 ## 2025-05-14 07:12:43
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

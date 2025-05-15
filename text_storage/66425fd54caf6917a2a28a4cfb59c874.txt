@@ -18,6 +18,7 @@ Legal
 Office Acquisition and Development
 Office Management
 Operations
+Recruiting & Talent Development
 Technology
 Offices
 Jersey
@@ -54,7 +55,7 @@ New York
 Delta One and Financing Trader
 Singapore, Dubai
 Desk Quant Analyst
-London, Madrid, Montreal, Bangalore, Singapore
+London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
 Graduate Software Developer
 London, Montreal, Warsaw
 Graduate Support Specialist
@@ -113,6 +114,8 @@ Quant Developer
 London, Montreal, Warsaw
 Quant Developer - High Performance Software Engineering
 Singapore, London, New York
+Recruitment Intern (Fall 2025)
+Montreal
 Senior Discretionary Trader - Credit
 London, New York
 Senior Discretionary Trader - Equities
