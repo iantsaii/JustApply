@@ -78,6 +78,11 @@ Load more
 Careers
 Recruitment news
 <
+Experienced, Technology
+FPGA Hardware at Optiver: Making impact at speed and scale
+At Optiver, hardware engineering isn’t an isolated function—it’s embedded in strategy, driven by collaboration, and built for speed. In this post, one of our hardware engineers shares how we design custom FPGA systems that process massive volumes of market data in real time, adapt to evolving trading demands, and go from idea to impact faster than you might expect.
+Learn more
+Global
 Technology
 Low Latency Cpp Systems for Trading with David Gross at CppCon
 Watch David Gross at CppCon 2024 as he shares how to design low latency trading systems in Cpp using high performance and concurrency techniques.
@@ -126,12 +131,6 @@ Finance meets technology: Life as a Middle Office Analyst at Optiver
 As a leading proprietary trading firm, Optiver works to make markets more efficient, transparent and stable across the globe. While our commitment to provide liquidity is continuous and our aim is to be a stabilising force, financial markets and our operations are dynamic. For the Finance Team, this requires continuous improvements in finance processes to stay aligned with evolving market conditions and business strategies.
 Learn more
 Europe
-Series
-Life at Optiver
-Turning ideas into reality: Chicago summer tech interns
-This year, the Chicago office welcomed 68 interns from tech, trading and research to work alongside our full-time colleagues on industry challenges. Our tech interns each worked on a project to solve a real business challenge, with the expectation that they would push a solution into production over the summer. In this blog post, one […]
-Learn more
-Americas
 >
 See more
 Newsletter

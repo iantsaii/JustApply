@@ -106,6 +106,12 @@ ALL
 Locations
 
 Clear All
+Linux Engineer, Trading Infrastructure
+↳ Apply Now
+Boston
+Experienced
+Systems and Networking
+Hudson River Trading (HRT) is seeking a Trading Systems Support Engineer to join our dynamic Systems team, which develops and maintains the fast, reliable infrastructure that powers our trading. This team is responsible for deploying and managing all servers in our trading environment, ensuring optimal performance and uptime. Your responsibilities...
 External Reporting Accountant
 ↳ Apply Now
 New York
@@ -709,6 +715,7 @@ HRT® and Hudson River Trading® are registered trademarks of Hudson River Tradi
 Locations
 All
 Austin
+Boston
 Boulder
 Carteret
 Chicago
