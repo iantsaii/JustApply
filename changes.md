@@ -1,4 +1,94 @@
 
+## 2025-05-17 07:13:18
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -14,9 +14,7 @@
+ Finance
+ Human Resources
+ Investment
+-Legal
+ Office Acquisition and Development
+-Office Management
+ Operations
+ Recruiting & Talent Development
+ Technology
+@@ -76,12 +74,8 @@
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Junior Quant Researcher - ML Alpha Research
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+-Legal Assistant
+-Montreal
+ Metals Commercial Operator
+ Singapore
+-Office Administrator
+-London, Montreal
+ Operational Risk Analyst
+ London
+ Operations Analyst
+@@ -124,8 +118,6 @@
+ London, New York
+ Senior Discretionary Trader - Macro
+ London, New York
+-Senior Quantitative Researcher - Volatility
+-New York
+ Senior Quant Researcher - CTA/Short-Term
+ Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+ Senior Quant Researcher - Equity Mid/Low Frequency
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -156,15 +156,16 @@
+ Houston
+ Miami
+ New York
++Europe
++Dublin
++London
++Paris
+ Asia-Pacific
+ Gurugram
+ Hong Kong
+ Singapore
+ Sydney
+ Tokyo
+-Europe
+-London
+-Paris
+ Clear Selection
+ Save
+ Newest
+@@ -174,11 +175,11 @@
+ 6
+ of
+ 6
++Quantitative Researcher – 2025 PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Chicago, Miami, New York
+-Apply Now
+-Quantitative Researcher – 2025 PhD Intern (Asia)
+-Hong Kong, Singapore
+ Apply Now
+ Quantitative Research Analyst – 2025 Intern (Europe)
+ London, Paris
+```
+
+---
+
 ## 2025-05-16 07:12:41
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

@@ -156,15 +156,16 @@ Greenwich
 Houston
 Miami
 New York
+Europe
+Dublin
+London
+Paris
 Asia-Pacific
 Gurugram
 Hong Kong
 Singapore
 Sydney
 Tokyo
-Europe
-London
-Paris
 Clear Selection
 Save
 Newest
@@ -174,11 +175,11 @@ Viewing
 6
 of
 6
-Quantitative Researcher – PhD Intern (US)
-Chicago, Miami, New York
-Apply Now
 Quantitative Researcher – 2025 PhD Intern (Asia)
 Hong Kong, Singapore
+Apply Now
+Quantitative Researcher – PhD Intern (US)
+Chicago, Miami, New York
 Apply Now
 Quantitative Research Analyst – 2025 Intern (Europe)
 London, Paris

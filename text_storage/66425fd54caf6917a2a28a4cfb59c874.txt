@@ -14,9 +14,7 @@ Corporate Application Management
 Finance
 Human Resources
 Investment
-Legal
 Office Acquisition and Development
-Office Management
 Operations
 Recruiting & Talent Development
 Technology
@@ -76,12 +74,8 @@ Junior Quant Researcher
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
 Junior Quant Researcher - ML Alpha Research
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
-Legal Assistant
-Montreal
 Metals Commercial Operator
 Singapore
-Office Administrator
-London, Montreal
 Operational Risk Analyst
 London
 Operations Analyst
@@ -124,8 +118,6 @@ Senior Discretionary Trader - Equities
 London, New York
 Senior Discretionary Trader - Macro
 London, New York
-Senior Quantitative Researcher - Volatility
-New York
 Senior Quant Researcher - CTA/Short-Term
 Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
 Senior Quant Researcher - Equity Mid/Low Frequency
