@@ -1,4 +1,85 @@
 
+## 2025-05-19 07:12:53
+
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -223,6 +223,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -15,6 +15,7 @@
+ Human Resources
+ Investment
+ Office Acquisition and Development
++Office Management
+ Operations
+ Recruiting & Talent Development
+ Technology
+@@ -42,8 +43,6 @@
+ London
+ Commercial Operator
+ Netherlands (Remote)
+-Compliance Analyst - Commodities
+-Geneva, London
+ Compliance Analyst - Expert Networks
+ New York
+ Compliance Analyst - Surveillance
+@@ -54,6 +53,8 @@
+ Singapore, Dubai
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
++Global Travel Coordinator
++Bangalore
+ Graduate Software Developer
+ London, Montreal, Warsaw
+ Graduate Support Specialist
+@@ -76,8 +77,6 @@
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Metals Commercial Operator
+ Singapore
+-Operational Risk Analyst
+-London
+ Operations Analyst
+ Warsaw
+ Platform Applications Specialist
+@@ -103,7 +102,7 @@
+ Platforms ULL - Colo
+ Montreal, London, New York and Singapore
+ Project Coordinator
+-London
++London, Bangalore
+ Property Manager
+ London
+ Quant Developer
+```
+
+---
+
 ## 2025-05-18 07:11:01
 
 **No changes for today**

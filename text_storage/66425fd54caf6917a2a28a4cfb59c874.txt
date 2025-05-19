@@ -15,6 +15,7 @@ Finance
 Human Resources
 Investment
 Office Acquisition and Development
+Office Management
 Operations
 Recruiting & Talent Development
 Technology
@@ -42,8 +43,6 @@ Business Analyst
 London
 Commercial Operator
 Netherlands (Remote)
-Compliance Analyst - Commodities
-Geneva, London
 Compliance Analyst - Expert Networks
 New York
 Compliance Analyst - Surveillance
@@ -54,6 +53,8 @@ Delta One and Financing Trader
 Singapore, Dubai
 Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+Global Travel Coordinator
+Bangalore
 Graduate Software Developer
 London, Montreal, Warsaw
 Graduate Support Specialist
@@ -76,8 +77,6 @@ Junior Quant Researcher - ML Alpha Research
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
 Metals Commercial Operator
 Singapore
-Operational Risk Analyst
-London
 Operations Analyst
 Warsaw
 Platform Applications Specialist
@@ -103,7 +102,7 @@ London & Montreal
 Platforms ULL - Colo
 Montreal, London, New York and Singapore
 Project Coordinator
-London
+London, Bangalore
 Property Manager
 London
 Quant Developer
