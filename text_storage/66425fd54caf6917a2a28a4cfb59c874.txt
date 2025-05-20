@@ -39,8 +39,6 @@ Zug
 Boston
 Accountant
 London, Montreal, Warsaw, Jersey
-Business Analyst
-London
 Commercial Operator
 Netherlands (Remote)
 Compliance Analyst - Expert Networks
@@ -75,8 +73,6 @@ Junior Quant Researcher
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
 Junior Quant Researcher - ML Alpha Research
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
-Metals Commercial Operator
-Singapore
 Operations Analyst
 Warsaw
 Platform Applications Specialist
