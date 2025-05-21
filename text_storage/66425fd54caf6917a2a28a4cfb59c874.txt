@@ -18,6 +18,7 @@ Office Acquisition and Development
 Office Management
 Operations
 Recruiting & Talent Development
+Tax
 Technology
 Offices
 Jersey
@@ -39,9 +40,11 @@ Zug
 Boston
 Accountant
 London, Montreal, Warsaw, Jersey
+Assistant Tax Manager
+London
 Commercial Operator
 Netherlands (Remote)
-Compliance Analyst - Expert Networks
+Compliance Analyst - Discretionary Trading & Fundamental Research
 New York
 Compliance Analyst - Surveillance
 Bangalore
@@ -75,6 +78,8 @@ Junior Quant Researcher - ML Alpha Research
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
 Operations Analyst
 Warsaw
+Operations Analyst - Options
+Montreal
 Platform Applications Specialist
 Montreal & Singapore
 Platform Compute and Storage Specialist
@@ -141,8 +146,6 @@ Software Developer – Internal Compute Frameworks (Rust)
 London, Montreal, Singapore, Warsaw
 Software Developer (KDB+/Q)
 London, Montreal
-Software Developer – Market Data
-Singapore
 Software Developer - Order Gateway
 London , Montreal , Singapore, Bangalore & Warsaw
 Software Developer - Order Gateway Integration
