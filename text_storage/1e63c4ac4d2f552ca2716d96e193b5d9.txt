@@ -124,12 +124,6 @@ Singapore
 Experienced
 Python
 Hudson River Trading (HRT) is looking for a Data Production Engineer to join our Data team. Data is at the core of everything we do at HRT; we excel at deriving deep insights from all types of data, allowing us to achieve consistent success in a dynamic market.  This role...
-Core Web Engineer
-↳ Apply Now
-Chicago
-Experienced
-Python
-Hudson River Trading (HRT) is looking for a Core Web Engineer to join the team. In this role, you will build UIs and backend processes to support our Algo Developers (ADs) and Traders in overseeing trading processes, executing manual trades, assessing risk, and researching improvements to our strategies. This is...
 Database SRE
 ↳ Apply Now
 Tarrytown
@@ -460,24 +454,6 @@ New York
 Experienced
 Python
 Hudson River Trading (HRT) is looking for a Software Engineer to join our Developer Experience team. The Developer Experience team creates internal tools to ensure that our developers have everything they need to do their jobs well. While we are an automated trading firm, the code we write *is* our...
-Core Web Engineer
-↳ Apply Now
-London
-Experienced
-Python
-Hudson River Trading (HRT) is looking for a Core Web Engineer to join the team. In this role, you will build UIs and backend processes to support our Algo Developers (ADs) and Traders in overseeing trading processes, executing manual trades, assessing risk, and researching improvements to our strategies. This is...
-Core Web Engineer
-↳ Apply Now
-Seattle
-Experienced
-Python
-Hudson River Trading (HRT) is looking for a Core Web Engineer to join the team. In this role, you will build UIs and backend processes to support our Algo Developers (ADs) and Traders in overseeing trading processes, executing manual trades, assessing risk, and researching improvements to our strategies. This is...
-Core Web Engineer
-↳ Apply Now
-New York
-Experienced
-Python
-Hudson River Trading (HRT) is looking for a Core Web Engineer to join the team. In this role, you will build UIs and backend processes to support our Algo Developers (ADs) and Traders in overseeing trading processes, executing manual trades, assessing risk, and researching improvements to our strategies. This is...
 Business Development Manager
 ↳ Apply Now
 Mumbai

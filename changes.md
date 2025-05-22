@@ -1,4 +1,216 @@
 
+## 2025-05-22 07:12:32
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -32,6 +32,10 @@
+ Latest Insights
+ <
+ Market structure
++Enhancing swaps liquidity through targeted reforms
++Learn more
++Americas
++Market structure
+ Two types of liquidity: The Mississippi River and market makers in agricultural derivatives
+ Learn more
+ Americas
+@@ -39,10 +43,6 @@
+ PFOF is going away, but the problem isn’t
+ Learn more
+ EMEA
+-Market structure
+-Diversity is strength in US derivatives markets
+-Learn more
+-Americas
+ >
+ CAREERS
+ Are you interested in an environment where new challenges arise by the nanosecond?
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -145,6 +145,7 @@
+ Mexico
+ Opens the multi-select filter menu
+ Tags (1)
++Bridge
+ University
+ No open roles match your search. Try removing filters or changing your search terms.
+ Clear all filters
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Austin
+ Mumbai
+@@ -140,8 +140,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -124,12 +124,6 @@
+ Experienced
+ Python
+ Hudson River Trading (HRT) is looking for a Data Production Engineer to join our Data team. Data is at the core of everything we do at HRT; we excel at deriving deep insights from all types of data, allowing us to achieve consistent success in a dynamic market.  This role...
+-Core Web Engineer
+-↳ Apply Now
+-Chicago
+-Experienced
+-Python
+-Hudson River Trading (HRT) is looking for a Core Web Engineer to join the team. In this role, you will build UIs and backend processes to support our Algo Developers (ADs) and Traders in overseeing trading processes, executing manual trades, assessing risk, and researching improvements to our strategies. This is...
+ Database SRE
+ ↳ Apply Now
+ Tarrytown
+@@ -460,24 +454,6 @@
+ Experienced
+ Python
+ Hudson River Trading (HRT) is looking for a Software Engineer to join our Developer Experience team. The Developer Experience team creates internal tools to ensure that our developers have everything they need to do their jobs well. While we are an automated trading firm, the code we write *is* our...
+-Core Web Engineer
+-↳ Apply Now
+-London
+-Experienced
+-Python
+-Hudson River Trading (HRT) is looking for a Core Web Engineer to join the team. In this role, you will build UIs and backend processes to support our Algo Developers (ADs) and Traders in overseeing trading processes, executing manual trades, assessing risk, and researching improvements to our strategies. This is...
+-Core Web Engineer
+-↳ Apply Now
+-Seattle
+-Experienced
+-Python
+-Hudson River Trading (HRT) is looking for a Core Web Engineer to join the team. In this role, you will build UIs and backend processes to support our Algo Developers (ADs) and Traders in overseeing trading processes, executing manual trades, assessing risk, and researching improvements to our strategies. This is...
+-Core Web Engineer
+-↳ Apply Now
+-New York
+-Experienced
+-Python
+-Hudson River Trading (HRT) is looking for a Core Web Engineer to join the team. In this role, you will build UIs and backend processes to support our Algo Developers (ADs) and Traders in overseeing trading processes, executing manual trades, assessing risk, and researching improvements to our strategies. This is...
+ Business Development Manager
+ ↳ Apply Now
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -110,6 +110,8 @@
+ London, Montreal, Warsaw
+ Quant Developer - High Performance Software Engineering
+ Singapore, London, New York
++Quant Developer (Python)
++TBA if opening
+ Recruitment Intern (Fall 2025)
+ Montreal
+ Senior Discretionary Trader - Credit
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (6)
++Opportunities (8)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -172,9 +172,9 @@
+ Newest
+ Oldest
+ Viewing
+-6
++8
+ of
+-6
++8
+ Quantitative Researcher – 2025 PhD Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
+@@ -184,6 +184,9 @@
+ Quantitative Researcher – 2026 PhD Intern (Europe)
+ London, Paris
+ Apply Now
++Sector Data Analyst – 2026 Intern (Europe)
++London
++Apply Now
+ Quantitative Research Analyst – 2025 Intern (Europe)
+ London, Paris
+ Apply Now
+@@ -192,6 +195,9 @@
+ Apply Now
+ International Equities – 2026 Intern (Asia)
+ Hong Kong, Singapore
++Apply Now
++International Equities Associate – 2026 Intern (Europe)
++London
+ Apply Now
+ Filtering results
+ Explore Careers
+@@ -299,6 +305,10 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
++Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
++Manage My Preferences
++Reject Non-Essential Cookies
++Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-05-21 07:12:30
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
