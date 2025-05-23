@@ -106,6 +106,12 @@ ALL
 Locations
 
 Clear All
+Senior HPC Storage Architect
+↳ Apply Now
+Remote
+Experienced
+Systems and Networking
+The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
 Linux Engineer, Trading Infrastructure
 ↳ Apply Now
 Boston
@@ -358,12 +364,6 @@ Dublin
 Experienced
 Business Development
 Hudson River Trading (HRT) is looking for an experienced Chief Compliance Officer to join the Compliance team in our Dublin office. This role requires expertise in European regulation, specifically within algorithmic trading. The ideal candidate will be proactive, collaborative, and capable of leading a team. A strong understanding of Irish...
-Middle Office Analyst – Crypto
-↳ Apply Now
-Singapore
-Experienced
-Trade Operations
-The Middle Office team at Hudson River Trading (HRT) is responsible for ensuring the smooth operation of HRT’s post-trade platform. Our global trading platform supports trading across many asset classes and geographies. Our Middle Office team designs and operates the systems and processes that reconcile the firm’s trading with our...
 TradeOps Analyst
 ↳ Apply Now
 Singapore
@@ -508,6 +508,30 @@ London
 Experienced
 Trade Operations
 Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our Trade Operations (TradeOps) team in our London office. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
+Systems Engineer – Research & Development
+↳ Apply Now
+Austin
+Experienced
+Systems and Networking
+Hudson River Trading (HRT) is looking for candidates to join our growing Research and Development team to help build and maintain an exceptionally sophisticated HPC/AI research environment. We design and operate infrastructure at a large scale, including triple-digit petabyte-scale storage, massive CPU and GPU clusters on globally distributed data centers....
+Systems Engineer – Research & Development
+↳ Apply Now
+Seattle
+Experienced
+Systems and Networking
+Hudson River Trading (HRT) is looking for candidates to join our growing Research and Development team to help build and maintain an exceptionally sophisticated HPC/AI research environment. We design and operate infrastructure at a large scale, including triple-digit petabyte-scale storage, massive CPU and GPU clusters on globally distributed data centers....
+Systems Engineer – Research & Development
+↳ Apply Now
+Chicago
+Experienced
+Systems and Networking
+Hudson River Trading (HRT) is looking for candidates to join our growing Research and Development team to help build and maintain an exceptionally sophisticated HPC/AI research environment. We design and operate infrastructure at a large scale, including triple-digit petabyte-scale storage, massive CPU and GPU clusters on globally distributed data centers....
+Systems Engineer – Research & Development
+↳ Apply Now
+London
+Experienced
+Systems and Networking
+Hudson River Trading (HRT) is looking for candidates to join our growing Research and Development team to help build and maintain an exceptionally sophisticated HPC/AI research environment. We design and operate infrastructure at a large scale, including triple-digit petabyte-scale storage, massive CPU and GPU clusters on globally distributed data centers....
 Data Production Engineer
 ↳ Apply Now
 London
@@ -568,6 +592,12 @@ Chicago
 Experienced
 Systems and Networking
 The Networks team designs, builds and maintains all the communications infrastructure that allows our high-capacity, low-latency trading and data research environments to run 24/7.  This network spans over 25 countries and 100 locations. We are looking for a Senior Network Engineer with experience designing and managing large environments to fulfill...
+Systems Engineer – Research & Development
+↳ Apply Now
+New York
+Experienced
+Systems and Networking
+Hudson River Trading (HRT) is looking for candidates to join our growing Research and Development team to help build and maintain an exceptionally sophisticated HPC/AI research environment. We design and operate infrastructure at a large scale, including triple-digit petabyte-scale storage, massive CPU and GPU clusters on globally distributed data centers....
 Senior Network Engineer – Low Latency Trading
 ↳ Apply Now
 New York
@@ -700,6 +730,7 @@ Hong Kong
 London
 Mumbai
 New York
+Remote
 Seattle
 Singapore
 Tarrytown

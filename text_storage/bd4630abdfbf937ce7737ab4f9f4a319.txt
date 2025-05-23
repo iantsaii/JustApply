@@ -59,7 +59,7 @@ Business Operations
 Control
 Events
 Technology
-Trading
+Trading, Research and Machine Learning
 All departments
 All offices
 Amsterdam
