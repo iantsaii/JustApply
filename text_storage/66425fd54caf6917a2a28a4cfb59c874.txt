@@ -62,8 +62,6 @@ Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 HR Systems Analyst - Workday
 Bangalore, London
-Intern Software Developer
-Montreal
 IT Asset Management Analyst
 Bangalore
 Junior Commodities Fundamental Analyst
@@ -168,6 +166,8 @@ Support Analyst - Desktop
 New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
+Tax Analyst
+Bangalore
 Technical Business Analyst/Project Manager
 London, Paris, Montreal, Singapore
 Technology Procurement Analyst

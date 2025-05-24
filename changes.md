@@ -1,4 +1,125 @@
 
+## 2025-05-24 07:10:58
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Austin
+@@ -139,8 +139,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Austin
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -388,6 +388,12 @@
+ Experienced
+ People Operations
+ Hudson River Trading (HRT) is looking for a Recruiting Coordinator to join our global Recruiting team. In this role, you will be a scheduling and logistics guru responsible for providing a first-class interview experience for both candidates and internal stakeholders. You will join a small team dedicated to overseeing all...
++Database SRE
++↳ Apply Now
++Seattle
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
+ Software Engineer – Treasury Infrastructure
+ ↳ Apply Now
+ London
+@@ -424,6 +430,12 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is seeking a hands-on Data Center Technician with experience in data center operations to join our Trading Infrastructure (SysTrade) team. If you enjoy solving complex infrastructure challenges, working with cutting-edge technology, and thrive in a fast-paced, global environment, we’d love to hear from you. In this...
++Database SRE
++↳ Apply Now
++Austin
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
+ Database SRE
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -223,6 +223,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In Event
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -62,8 +62,6 @@
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Analyst - Workday
+ Bangalore, London
+-Intern Software Developer
+-Montreal
+ IT Asset Management Analyst
+ Bangalore
+ Junior Commodities Fundamental Analyst
+@@ -168,6 +166,8 @@
+ New York, Bangalore, London, Montreal and Paris
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
++Tax Analyst
++Bangalore
+ Technical Business Analyst/Project Manager
+ London, Paris, Montreal, Singapore
+ Technology Procurement Analyst
+```
+
+---
+
 ## 2025-05-23 07:12:31
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
