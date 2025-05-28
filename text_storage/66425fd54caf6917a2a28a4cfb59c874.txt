@@ -137,7 +137,7 @@ Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York
 Site Management Specialist
 London
 Software Developer (C++)
-London
+London, Montreal
 Software Developer - Data Infrastructure
 London, Montreal, Singapore, Warsaw
 Software Developer - Data Pipelines (Python)
@@ -161,7 +161,9 @@ London, Montreal
 Software Developer – Reliability
 Singapore & Montreal
 Software Developer - Risk Data Pipelines
-London, Singapore, Bangalore, Montreal
+Bangalore, Montreal & Warsaw
+Software Developer - Risk Technology
+London, Montreal, Bangalore
 Support Analyst - Desktop
 New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
