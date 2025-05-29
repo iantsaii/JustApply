@@ -14,7 +14,6 @@ Corporate Application Management
 Finance
 Human Resources
 Investment
-Office Acquisition and Development
 Office Management
 Operations
 Recruiting & Talent Development
@@ -106,8 +105,6 @@ Platforms ULL - Colo
 Montreal, London, New York and Singapore
 Project Coordinator
 London, Bangalore
-Property Manager
-London
 Quant Developer
 London, Montreal, Warsaw
 Quant Developer - High Performance Software Engineering
