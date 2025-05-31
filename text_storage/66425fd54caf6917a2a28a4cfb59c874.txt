@@ -58,7 +58,7 @@ London
 Global Travel Coordinator
 Bangalore
 Graduate Software Developer
-London, Montreal, Warsaw
+London, Montreal, Warsaw, New York
 Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 HR Systems Analyst - Workday
@@ -110,7 +110,7 @@ London, Montreal, Warsaw
 Quant Developer - High Performance Software Engineering
 Singapore, London, New York
 Quant Developer (Python)
-Bangalore, Boston, Dubai, London, Montreal, New York, Warsaw
+Boston, Dubai, London, Montreal, Warsaw
 Quantitative Researcher - CTA Macro
 New York
 Quantitative Researcher – Market Structure Research

@@ -1,4 +1,127 @@
 
+## 2025-05-31 07:11:13
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -166,19 +166,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -222,3 +209,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -328,13 +328,13 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is seeking a hands-on Data Center Technician with experience in data center operations to join our Trading Infrastructure (SysTrade) team. If you enjoy solving complex infrastructure challenges, working with cutting-edge technology, and thrive in a fast-paced, global environment, we’d love to hear from you. In this...
+-Database SRE
++Systems Engineer – Data Systems & Platforms
+ ↳ Apply Now
+ Austin
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
+-Database SRE
++Systems Engineer – Data Systems & Platforms
+ ↳ Apply Now
+ Chicago
+ Experienced
+@@ -436,18 +436,6 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Senior Site Reliability Engineer to join our growing Enterprise Technology group. The SRE team sits within Enterprise Technology and is responsible for operating and optimizing corporate productivity & collaboration infrastructure for the entire firm, both on-prem and in the cloud. As one...
+-Systems Engineer – Development Tools
+-↳ Apply Now
+-Boulder
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for a talented Systems Engineer to join the Developer Tools team. DevTools builds and maintains server and software build infrastructure, as well as tooling for the same, that is used by all teams across the firm. This includes designing, building, scaling, and supporting HRT’s...
+-Systems Engineer – Development Tools
+-↳ Apply Now
+-New York
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for a talented Systems Engineer to join the Developer Tools team. DevTools builds and maintains server and software build infrastructure, as well as tooling for the same, that is used by all teams across the firm. This includes designing, building, scaling, and supporting HRT’s...
+ Risk Manager – Corporate Credit
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -58,7 +58,7 @@
+ Global Travel Coordinator
+ Bangalore
+ Graduate Software Developer
+-London, Montreal, Warsaw
++London, Montreal, Warsaw, New York
+ Graduate Support Specialist
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Analyst - Workday
+@@ -110,7 +110,7 @@
+ Quant Developer - High Performance Software Engineering
+ Singapore, London, New York
+ Quant Developer (Python)
+-Bangalore, Boston, Dubai, London, Montreal, New York, Warsaw
++Boston, Dubai, London, Montreal, Warsaw
+ Quantitative Researcher - CTA Macro
+ New York
+ Quantitative Researcher – Market Structure Research
+```
+
+---
+
 ## 2025-05-30 07:12:01
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

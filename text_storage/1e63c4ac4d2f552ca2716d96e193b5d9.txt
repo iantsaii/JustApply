@@ -328,13 +328,13 @@ Carteret
 Experienced
 Systems and Networking
 Hudson River Trading (HRT) is seeking a hands-on Data Center Technician with experience in data center operations to join our Trading Infrastructure (SysTrade) team. If you enjoy solving complex infrastructure challenges, working with cutting-edge technology, and thrive in a fast-paced, global environment, we’d love to hear from you. In this...
-Database SRE
+Systems Engineer – Data Systems & Platforms
 ↳ Apply Now
 Austin
 Experienced
 Systems and Networking
 Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
-Database SRE
+Systems Engineer – Data Systems & Platforms
 ↳ Apply Now
 Chicago
 Experienced
@@ -436,18 +436,6 @@ New York
 Experienced
 Systems and Networking
 Hudson River Trading (HRT) is looking for a Senior Site Reliability Engineer to join our growing Enterprise Technology group. The SRE team sits within Enterprise Technology and is responsible for operating and optimizing corporate productivity & collaboration infrastructure for the entire firm, both on-prem and in the cloud. As one...
-Systems Engineer – Development Tools
-↳ Apply Now
-Boulder
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for a talented Systems Engineer to join the Developer Tools team. DevTools builds and maintains server and software build infrastructure, as well as tooling for the same, that is used by all teams across the firm. This includes designing, building, scaling, and supporting HRT’s...
-Systems Engineer – Development Tools
-↳ Apply Now
-New York
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for a talented Systems Engineer to join the Developer Tools team. DevTools builds and maintains server and software build infrastructure, as well as tooling for the same, that is used by all teams across the firm. This includes designing, building, scaling, and supporting HRT’s...
 Risk Manager – Corporate Credit
 ↳ Apply Now
 New York
