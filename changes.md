@@ -1,4 +1,78 @@
 
+## 2025-06-01 07:11:37
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -166,6 +166,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -209,16 +222,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -223,13 +223,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In Event
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+
 ## 2025-05-31 07:11:13
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
