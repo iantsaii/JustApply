@@ -39,7 +39,11 @@ Zug
 Boston
 Accountant
 London, Montreal, Warsaw, Jersey
+Assistant Controller - Management Company
+London, Montreal
 Assistant Tax Manager
+London
+Business Analyst
 London
 Commercial Operator
 Netherlands (Remote)
@@ -86,21 +90,21 @@ Montreal & Singapore
 Platform Compute and Storage Specialist
 Montreal , New York & London
 Platform Specialist - Databases
-Montreal
+Montreal & Singapore
 Platform Specialist - Development Tools
-London, Montreal
+Montreal & Singapore
 Platform Specialist - HPC
 London, New York
 Platform Specialist - Middleware
-London
+Montreal
 Platform Specialist - Observability
-London
+London & Montreal
 Platform Specialist - Scheduler and Orchestrators
-London, Singapore
+Montreal & Singapore
 Platform Specialist - ULL
 London, New York
 Platform Specialist - Windows and Virtualization
-London & Montreal
+London, Montreal
 Platforms ULL - Colo
 Montreal, London, New York and Singapore
 Project Coordinator

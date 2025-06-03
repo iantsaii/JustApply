@@ -89,7 +89,6 @@ New York
 Singapore
 Austin
 Mumbai
-Chicago
 Singapore
 DEPARTMENT
 All Departments
@@ -144,7 +143,6 @@ New York
 Singapore
 Austin
 Mumbai
-Chicago
 Singapore
 DEPARTMENT
 All Departments

@@ -1,4 +1,225 @@
 
+## 2025-06-03 07:13:11
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -89,7 +89,6 @@
+ Singapore
+ Austin
+ Mumbai
+-Chicago
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -144,7 +143,6 @@
+ Singapore
+ Austin
+ Mumbai
+-Chicago
+ Singapore
+ DEPARTMENT
+ All Departments
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -136,6 +136,66 @@
+ Experienced
+ People Operations
+ Hudson River Trading is looking for an ambitious and results-oriented Quant Research Campus Recruiter to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
++Systems Engineer – Distributed Compute
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
++Systems Engineer – Distributed Compute
++↳ Apply Now
++Chicago
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
++Systems Engineer – Distributed Compute
++↳ Apply Now
++Boston
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
++Systems Engineer – Data Systems & Platforms
++↳ Apply Now
++Tarrytown
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
++Systems Engineer – Data Systems & Platforms
++↳ Apply Now
++Chicago
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
++GPU Systems Engineer
++↳ Apply Now
++London
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++Austin
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++Boston
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++Chicago
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+ Senior HPC Storage Architect
+ ↳ Apply Now
+ Remote
+@@ -330,13 +390,13 @@
+ Hudson River Trading (HRT) is seeking a hands-on Data Center Technician with experience in data center operations to join our Trading Infrastructure (SysTrade) team. If you enjoy solving complex infrastructure challenges, working with cutting-edge technology, and thrive in a fast-paced, global environment, we’d love to hear from you. In this...
+ Systems Engineer – Data Systems & Platforms
+ ↳ Apply Now
+-Austin
++Boston
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
+ Systems Engineer – Data Systems & Platforms
+ ↳ Apply Now
+-Chicago
++New York
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
+@@ -400,6 +460,12 @@
+ Experienced
+ Systems and Networking
+ The Networks team designs, builds and maintains all the communications infrastructure that allows our high-capacity, low-latency trading and data research environments to run 24/7.  This network spans over 25 countries and 100 locations. We are looking for a Senior Network Engineer with experience designing and managing large environments to fulfill...
++Systems Engineer – Distributed Compute
++↳ Apply Now
++Austin
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
+ Senior Network Engineer – Low Latency Trading
+ ↳ Apply Now
+ New York
+@@ -685,11 +751,9 @@
+ Locations
+ All
+ Austin
+-Austin
+ Boston
+ Boulder
+ Carteret
+-Chicago
+ Chicago
+ Dublin
+ Hong Kong
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -223,6 +223,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In Event
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -39,7 +39,11 @@
+ Boston
+ Accountant
+ London, Montreal, Warsaw, Jersey
++Assistant Controller - Management Company
++London, Montreal
+ Assistant Tax Manager
++London
++Business Analyst
+ London
+ Commercial Operator
+ Netherlands (Remote)
+@@ -86,21 +90,21 @@
+ Platform Compute and Storage Specialist
+ Montreal , New York & London
+ Platform Specialist - Databases
+-Montreal
++Montreal & Singapore
+ Platform Specialist - Development Tools
+-London, Montreal
++Montreal & Singapore
+ Platform Specialist - HPC
+ London, New York
+ Platform Specialist - Middleware
+-London
++Montreal
+ Platform Specialist - Observability
+-London
++London & Montreal
+ Platform Specialist - Scheduler and Orchestrators
+-London, Singapore
++Montreal & Singapore
+ Platform Specialist - ULL
+ London, New York
+ Platform Specialist - Windows and Virtualization
+-London & Montreal
++London, Montreal
+ Platforms ULL - Colo
+ Montreal, London, New York and Singapore
+ Project Coordinator
+```
+
+---
+
 ## 2025-06-02 07:13:46
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
