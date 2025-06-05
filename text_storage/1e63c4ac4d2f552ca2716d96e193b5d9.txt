@@ -490,12 +490,6 @@ Singapore
 Experienced
 Python
 Hudson River Trading (HRT) is looking for a Data Production Engineer to join our Data team. Data is at the core of everything we do at HRT; we excel at deriving deep insights from all types of data, allowing us to achieve consistent success in a dynamic market.  This role...
-Site Reliability Engineer Lead – Enterprise Technology
-↳ Apply Now
-New York
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for a Senior Site Reliability Engineer to lead a team of SREs within our growing Enterprise Technology group. The SRE team sits within Enterprise Technology and is responsible for operating and optimizing corporate productivity & collaboration infrastructure for the entire firm, both on-prem and...
 Senior Site Reliability Engineer – Enterprise Technology
 ↳ Apply Now
 New York
@@ -586,6 +580,12 @@ New York
 Experienced
 Python
 Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
+IT Operations Engineer
+↳ Apply Now
+New York
+Experienced
+Systems and Networking
+Hudson River Trading (HRT) is seeking an IT Operations Engineer to join our Information Technology team. In this role, you’ll be responsible for providing technical support to HRTers around the globe, while also driving automation and engineering solutions to improve scalability and efficiency. You’ll work closely with IT leadership to...
 Communications Specialist
 ↳ Apply Now
 New York

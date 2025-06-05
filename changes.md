@@ -1,4 +1,110 @@
 
+## 2025-06-05 07:12:45
+
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -490,12 +490,6 @@
+ Experienced
+ Python
+ Hudson River Trading (HRT) is looking for a Data Production Engineer to join our Data team. Data is at the core of everything we do at HRT; we excel at deriving deep insights from all types of data, allowing us to achieve consistent success in a dynamic market.  This role...
+-Site Reliability Engineer Lead – Enterprise Technology
+-↳ Apply Now
+-New York
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for a Senior Site Reliability Engineer to lead a team of SREs within our growing Enterprise Technology group. The SRE team sits within Enterprise Technology and is responsible for operating and optimizing corporate productivity & collaboration infrastructure for the entire firm, both on-prem and...
+ Senior Site Reliability Engineer – Enterprise Technology
+ ↳ Apply Now
+ New York
+@@ -586,6 +580,12 @@
+ Experienced
+ Python
+ Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
++IT Operations Engineer
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is seeking an IT Operations Engineer to join our Information Technology team. In this role, you’ll be responsible for providing technical support to HRTers around the globe, while also driving automation and engineering solutions to improve scalability and efficiency. You’ll work closely with IT leadership to...
+ Communications Specialist
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -57,6 +57,8 @@
+ Singapore, Dubai
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
++Financial Analyst - Physical Metal
++London, Jersey, Singapore, Hong Kong
+ Global Mobility and Immigration Specialist
+ London
+ Global Travel Coordinator
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,6 +175,18 @@
+ 8
+ of
+ 8
++Quantitative Research Analyst – 2025 Intern (Europe)
++London, Paris
++Apply Now
++Quantitative Research Analyst – 2025 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++International Equities – 2026 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++International Equities Associate – 2026 Intern (Europe)
++London
++Apply Now
+ Quantitative Researcher – 2025 PhD Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
+@@ -185,18 +197,6 @@
+ London, Paris
+ Apply Now
+ Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Europe)
+-London, Paris
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-International Equities – 2026 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-International Equities Associate – 2026 Intern (Europe)
+ London
+ Apply Now
+ Filtering results
+```
+
+---
+
 ## 2025-06-04 07:12:49
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
