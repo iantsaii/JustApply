@@ -1,4 +1,55 @@
 
+## 2025-06-06 07:12:25
+
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,6 +175,18 @@
+ 8
+ of
+ 8
++Quantitative Researcher – 2025 PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Quantitative Researcher – PhD Intern (US)
++Chicago, Miami, New York
++Apply Now
++Quantitative Researcher – 2026 PhD Intern (Europe)
++London, Paris
++Apply Now
++Sector Data Analyst – 2026 Intern (Europe)
++London
++Apply Now
+ Quantitative Research Analyst – 2025 Intern (Europe)
+ London, Paris
+ Apply Now
+@@ -185,18 +197,6 @@
+ Hong Kong, Singapore
+ Apply Now
+ International Equities Associate – 2026 Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – 2025 PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Quantitative Researcher – 2026 PhD Intern (Europe)
+-London, Paris
+-Apply Now
+-Sector Data Analyst – 2026 Intern (Europe)
+ London
+ Apply Now
+ Filtering results
+```
+
+---
+
 ## 2025-06-05 07:12:45
 
 ### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
