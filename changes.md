@@ -1,4 +1,161 @@
 
+## 2025-06-07 07:11:24
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++Hong Kong
+ New York
+-Hong Kong
+-London
+ Singapore
+ Austin
+ Mumbai
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++Hong Kong
+ New York
+-Hong Kong
+-London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -352,6 +352,12 @@
+ Experienced
+ Business Development
+ Hudson River Trading (HRT) is looking for an experienced Chief Compliance Officer to join the Compliance team in our Dublin office. This role requires expertise in European regulation, specifically within algorithmic trading. The ideal candidate will be proactive, collaborative, and capable of leading a team. A strong understanding of Irish...
++Systems Software Engineer
++↳ Apply Now
++Chicago
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Software Engineer – Treasury Infrastructure
+ ↳ Apply Now
+ London
+@@ -406,6 +412,24 @@
+ Experienced
+ Python
+ Hudson River Trading is hiring a Market Structure Optimization Engineer for our brand new Market Structure Analytics team. In joining this team, you will be responsible for employing data-driven methodologies to minimize friction in our real-time interaction with financial markets. This role is crucial to helping HRT optimize the way...
++Systems Software Engineer
++↳ Apply Now
++Boulder
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
++Systems Software Engineer
++↳ Apply Now
++Dublin
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
++Systems Software Engineer
++↳ Apply Now
++London
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Senior HPC Storage Architect
+ ↳ Apply Now
+ New York
+@@ -442,6 +466,12 @@
+ New Grad
+ C++
+ Please only apply to one job posting. In the application questions below, you’ll have the opportunity to indicate if you’re interested in multiple offices and/or roles. Please do not submit multiple applications for different positions/offices! This role is directed at graduates seeking a 2025 start date. For 2026 start dates,...
++Systems Software Engineer
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Market Structure Optimization Engineer
+ ↳ Apply Now
+ Chicago
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -161,7 +161,6 @@
+ London
+ Paris
+ Asia-Pacific
+-Gurugram
+ Hong Kong
+ Singapore
+ Sydney
+@@ -175,26 +174,26 @@
+ 8
+ of
+ 8
++Quantitative Researcher – PhD Intern (US)
++Chicago, Miami, New York
++Apply Now
++Sector Data Analyst – 2026 Intern (Europe)
++London
++Apply Now
+ Quantitative Researcher – 2025 PhD Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Chicago, Miami, New York
++Quantitative Research Analyst – 2025 Intern (Europe)
++London, Paris
++Apply Now
++Quantitative Research Analyst – 2025 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++International Equities – 2026 Intern (Asia)
++Hong Kong, Singapore
+ Apply Now
+ Quantitative Researcher – 2026 PhD Intern (Europe)
+ London, Paris
+-Apply Now
+-Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Europe)
+-London, Paris
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-International Equities – 2026 Intern (Asia)
+-Hong Kong, Singapore
+ Apply Now
+ International Equities Associate – 2026 Intern (Europe)
+ London
+```
+
+---
+
 ## 2025-06-06 07:12:25
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
