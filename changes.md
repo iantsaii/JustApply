@@ -1,4 +1,62 @@
 
+## 2025-06-08 07:10:58
+
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (8)
++Opportunities
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -171,33 +171,9 @@
+ Newest
+ Oldest
+ Viewing
+-8
++10
+ of
+-8
+-Quantitative Researcher – PhD Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – 2025 PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Europe)
+-London, Paris
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-International Equities – 2026 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Quantitative Researcher – 2026 PhD Intern (Europe)
+-London, Paris
+-Apply Now
+-International Equities Associate – 2026 Intern (Europe)
+-London
+-Apply Now
++33
+ Filtering results
+ Explore Careers
+ by Team
+```
+
+---
+
 ## 2025-06-07 07:11:24
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
