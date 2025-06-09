@@ -1,4 +1,86 @@
 
+## 2025-06-09 07:13:51
+
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -223,6 +223,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In Event
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities
++Opportunities (8)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -171,9 +171,33 @@
+ Newest
+ Oldest
+ Viewing
+-10
++8
+ of
+-33
++8
++Quantitative Researcher – PhD Intern (US)
++Chicago, Miami, New York
++Apply Now
++Sector Data Analyst – 2026 Intern (Europe)
++London
++Apply Now
++Quantitative Researcher – 2025 PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Quantitative Research Analyst – 2025 Intern (Europe)
++London, Paris
++Apply Now
++Quantitative Research Analyst – 2025 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++International Equities – 2026 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Quantitative Researcher – 2026 PhD Intern (Europe)
++London, Paris
++Apply Now
++International Equities Associate – 2026 Intern (Europe)
++London
++Apply Now
+ Filtering results
+ Explore Careers
+ by Team
+```
+
+---
+
 ## 2025-06-08 07:10:58
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
