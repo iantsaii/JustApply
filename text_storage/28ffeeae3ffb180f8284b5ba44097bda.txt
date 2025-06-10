@@ -42,7 +42,7 @@ Financing
 More from Mac
 Mac Support
 AppleCare+ for Mac
-macOS Sequoia
+macOS Tahoe 26 Preview
 Apple Intelligence
 Apps by Apple
 Continuity
@@ -68,7 +68,7 @@ Financing
 More from iPad
 iPad Support
 AppleCare+ for iPad
-iPadOS 18
+iPadOS 26 Preview
 Apple Intelligence
 Apps by Apple
 iCloud+
@@ -91,7 +91,7 @@ Financing
 More from iPhone
 iPhone Support
 AppleCare+ for iPhone
-iOS 18
+iOS 26 Preview
 Apple Intelligence
 Apps by Apple
 iPhone Privacy
@@ -118,14 +118,13 @@ Financing
 More from Watch
 Apple Watch Support
 AppleCare+
-watchOS 11
+watchOS 26 Preview
 Apple Watch For Your Kids
 Apps by Apple
 Apple Fitness+
 Vision
 Explore Vision
 Explore Apple Vision Pro
-Guided Tour
 Tech Specs
 Shop Vision
 Shop Apple Vision Pro
@@ -135,7 +134,7 @@ Financing
 More from Vision
 Apple Vision Pro Support
 AppleCare+
-visionOS 2
+visionOS 26 Preview
 AirPods
 Explore AirPods
 Explore All AirPods
@@ -223,13 +222,6 @@ Get AppleCare+
 Apple Account and Password
 Billing & Subscriptions
 Accessibility
-5 total results
-Quick Links
-Find a Store
-Apple Vision Pro
-AirPods
-Apple Intelligence
-Apple Trade In Event
 0
 +
 Please enable Javascript in your browser for best experience.

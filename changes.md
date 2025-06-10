@@ -1,4 +1,221 @@
 
+## 2025-06-10 07:11:55
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,6 +85,11 @@
+ Careers
+ Recruitment news
+ <
++Meet the team
++Coding the Path to Trading: Brent’s internship journey
++Brent joined Optiver as a Quantitative Trading Intern in the summer of 2023 and has since continued his career with the global trading firm as a full-time trader. In this interview, he reflects on his internship program experience and shares insights into how the team has supported him to build his trading career at Optiver.
++Learn more
++Singapore
+ Experienced, Technology
+ FPGA Hardware at Optiver: Making impact at speed and scale
+ At Optiver, hardware engineering isn’t an isolated function—it’s embedded in strategy, driven by collaboration, and built for speed. In this post, one of our hardware engineers shares how we design custom FPGA systems that process massive volumes of market data in real time, adapt to evolving trading demands, and go from idea to impact faster than you might expect.
+@@ -133,11 +138,6 @@
+ This summer, we welcomed a group of talented tech interns to our Amsterdam office, where they spent six weeks immersed in the fast-paced world of market making. Under the guidance of our seasoned engineers and in-house education team, they moved from intensive training sessions to getting hands-on with the cutting-edge technology that powers our operations.
+ Learn more
+ EMEA
+-Experienced, Meet the team
+-Finance meets technology: Life as a Middle Office Analyst at Optiver
+-As a leading proprietary trading firm, Optiver works to make markets more efficient, transparent and stable across the globe. While our commitment to provide liquidity is continuous and our aim is to be a stabilising force, financial markets and our operations are dynamic. For the Finance Team, this requires continuous improvements in finance processes to stay aligned with evolving market conditions and business strategies.
+-Learn more
+-Europe
+ >
+ See more
+ Newsletter
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ Hong Kong
+ New York
++London
+ Singapore
+ Austin
+ Mumbai
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ Hong Kong
+ New York
++London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -42,7 +42,7 @@
+ More from Mac
+ Mac Support
+ AppleCare+ for Mac
+-macOS Sequoia
++macOS Tahoe 26 Preview
+ Apple Intelligence
+ Apps by Apple
+ Continuity
+@@ -68,7 +68,7 @@
+ More from iPad
+ iPad Support
+ AppleCare+ for iPad
+-iPadOS 18
++iPadOS 26 Preview
+ Apple Intelligence
+ Apps by Apple
+ iCloud+
+@@ -91,7 +91,7 @@
+ More from iPhone
+ iPhone Support
+ AppleCare+ for iPhone
+-iOS 18
++iOS 26 Preview
+ Apple Intelligence
+ Apps by Apple
+ iPhone Privacy
+@@ -118,14 +118,13 @@
+ More from Watch
+ Apple Watch Support
+ AppleCare+
+-watchOS 11
++watchOS 26 Preview
+ Apple Watch For Your Kids
+ Apps by Apple
+ Apple Fitness+
+ Vision
+ Explore Vision
+ Explore Apple Vision Pro
+-Guided Tour
+ Tech Specs
+ Shop Vision
+ Shop Apple Vision Pro
+@@ -135,7 +134,7 @@
+ More from Vision
+ Apple Vision Pro Support
+ AppleCare+
+-visionOS 2
++visionOS 26 Preview
+ AirPods
+ Explore AirPods
+ Explore All AirPods
+@@ -223,13 +222,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In Event
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -59,6 +59,8 @@
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+ Financial Analyst - Physical Metal
+ London, Jersey, Singapore, Hong Kong
++Financial Reporting Manager
++London, New York
+ Global Mobility and Immigration Specialist
+ London
+ Global Travel Coordinator
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -32,6 +32,7 @@
+ Open positions
+ All departments
+ Corporate
++Internship
+ Marketing
+ Policy
+ Product Design
+@@ -44,7 +45,7 @@
+ Singapore
+ Singapore
+ Singapore
+-9 jobs
++8 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +53,7 @@
+ Singapore
+ Singapore
+ Singapore
+-9 jobs
++8 jobs
+ Share
+ Clear
+ Job title
+@@ -81,9 +82,6 @@
+ Software Engineer / Senior Software Engineer, Tooling
+ Hybrid
+ View job
+-Software Engineering Intern (Sep '25 - Apr '26)
+-Hybrid
+-View job
+ Senior / Lead Software Engineer, HR Innovation
+ Hybrid
+ View job
+@@ -108,6 +106,3 @@
+ Software Engineer / Senior Software Engineer, Tooling
+ Hybrid
+ View job
+-Software Engineering Intern (Sep '25 - Apr '26)
+-Hybrid
+-View job
+```
+
+---
+
 ## 2025-06-09 07:13:51
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)

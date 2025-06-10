@@ -85,6 +85,11 @@ Load more
 Careers
 Recruitment news
 <
+Meet the team
+Coding the Path to Trading: Brent’s internship journey
+Brent joined Optiver as a Quantitative Trading Intern in the summer of 2023 and has since continued his career with the global trading firm as a full-time trader. In this interview, he reflects on his internship program experience and shares insights into how the team has supported him to build his trading career at Optiver.
+Learn more
+Singapore
 Experienced, Technology
 FPGA Hardware at Optiver: Making impact at speed and scale
 At Optiver, hardware engineering isn’t an isolated function—it’s embedded in strategy, driven by collaboration, and built for speed. In this post, one of our hardware engineers shares how we design custom FPGA systems that process massive volumes of market data in real time, adapt to evolving trading demands, and go from idea to impact faster than you might expect.
@@ -133,11 +138,6 @@ Real projects, real impact: Amsterdam summer tech internship
 This summer, we welcomed a group of talented tech interns to our Amsterdam office, where they spent six weeks immersed in the fast-paced world of market making. Under the guidance of our seasoned engineers and in-house education team, they moved from intensive training sessions to getting hands-on with the cutting-edge technology that powers our operations.
 Learn more
 EMEA
-Experienced, Meet the team
-Finance meets technology: Life as a Middle Office Analyst at Optiver
-As a leading proprietary trading firm, Optiver works to make markets more efficient, transparent and stable across the globe. While our commitment to provide liquidity is continuous and our aim is to be a stabilising force, financial markets and our operations are dynamic. For the Finance Team, this requires continuous improvements in finance processes to stay aligned with evolving market conditions and business strategies.
-Learn more
-Europe
 >
 See more
 Newsletter
