@@ -1,4 +1,161 @@
 
+## 2025-06-11 07:12:59
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,8 +61,6 @@
+ London, Jersey, Singapore, Hong Kong
+ Financial Reporting Manager
+ London, New York
+-Global Mobility and Immigration Specialist
+-London
+ Global Travel Coordinator
+ Bangalore
+ Graduate Software Developer
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -174,23 +174,23 @@
+ 8
+ of
+ 8
++Sector Data Analyst – 2026 Intern (Europe)
++London
++Apply Now
++Quantitative Researcher – 2025 PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Quantitative Research Analyst – 2025 Intern (Europe)
++London, Paris
++Apply Now
++Quantitative Research Analyst – 2025 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++International Equities – 2026 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Chicago, Miami, New York
+-Apply Now
+-Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – 2025 PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Europe)
+-London, Paris
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-International Equities – 2026 Intern (Asia)
+-Hong Kong, Singapore
+ Apply Now
+ Quantitative Researcher – 2026 PhD Intern (Europe)
+ London, Paris
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -45,7 +45,7 @@
+ Singapore
+ Singapore
+ Singapore
+-8 jobs
++9 jobs
+ Share
+ Clear
+ Filters
+@@ -53,33 +53,12 @@
+ Singapore
+ Singapore
+ Singapore
+-8 jobs
++9 jobs
+ Share
+ Clear
+ Job title
+ Work model
+-Senior / Lead Software Engineer, HR Innovation
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, Maps
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, Spaceship
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, Traffic Enforcement
+-Hybrid
+-View job
+-Senior Software Engineer, RedeemSG
+-Hybrid
+-View job
+-Senior Software Engineer, Transport
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer, HealthTech
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer, Tooling
++Senior / Lead Software Engineer, FindX
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, HR Innovation
+@@ -106,3 +85,30 @@
+ Software Engineer / Senior Software Engineer, Tooling
+ Hybrid
+ View job
++Senior / Lead Software Engineer, FindX
++Hybrid
++View job
++Senior / Lead Software Engineer, HR Innovation
++Hybrid
++View job
++Senior / Lead Software Engineer, Maps
++Hybrid
++View job
++Senior / Lead Software Engineer, Spaceship
++Hybrid
++View job
++Senior / Lead Software Engineer, Traffic Enforcement
++Hybrid
++View job
++Senior Software Engineer, RedeemSG
++Hybrid
++View job
++Senior Software Engineer, Transport
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, HealthTech
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, Tooling
++Hybrid
++View job
+```
+
+---
+
 ## 2025-06-10 07:11:55
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
