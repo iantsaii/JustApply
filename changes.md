@@ -1,4 +1,151 @@
 
+## 2025-06-12 07:13:00
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Austin
+@@ -137,8 +137,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Austin
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -352,12 +352,6 @@
+ Experienced
+ Business Development
+ Hudson River Trading (HRT) is looking for an experienced Chief Compliance Officer to join the Compliance team in our Dublin office. This role requires expertise in European regulation, specifically within algorithmic trading. The ideal candidate will be proactive, collaborative, and capable of leading a team. A strong understanding of Irish...
+-Systems Software Engineer
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Software Engineer – Treasury Infrastructure
+ ↳ Apply Now
+ London
+@@ -412,24 +406,6 @@
+ Experienced
+ Python
+ Hudson River Trading is hiring a Market Structure Optimization Engineer for our brand new Market Structure Analytics team. In joining this team, you will be responsible for employing data-driven methodologies to minimize friction in our real-time interaction with financial markets. This role is crucial to helping HRT optimize the way...
+-Systems Software Engineer
+-↳ Apply Now
+-Boulder
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+-Systems Software Engineer
+-↳ Apply Now
+-Dublin
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+-Systems Software Engineer
+-↳ Apply Now
+-London
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Senior HPC Storage Architect
+ ↳ Apply Now
+ New York
+@@ -466,12 +442,6 @@
+ New Grad
+ C++
+ Please only apply to one job posting. In the application questions below, you’ll have the opportunity to indicate if you’re interested in multiple offices and/or roles. Please do not submit multiple applications for different positions/offices! This role is directed at graduates seeking a 2025 start date. For 2026 start dates,...
+-Systems Software Engineer
+-↳ Apply Now
+-New York
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Market Structure Optimization Engineer
+ ↳ Apply Now
+ Chicago
+@@ -670,6 +640,12 @@
+ Experienced
+ Trade Operations
+ Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our Trade Operations (TradeOps) team in our London office. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
++Python Engineer
++↳ Apply Now
++Singapore
++Experienced
++Python
++Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
+ There are no jobs that fit these filter criteria. Please change filters to view other jobs.
+ Back to Top ↑
+ Join Our Community
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -51,6 +51,8 @@
+ New York
+ Compliance Analyst - Surveillance
+ Bangalore
++Corporate Actions Analyst
++Warsaw
+ Data Center Technician
+ New York
+ Delta One and Financing Trader
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -304,6 +304,10 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
++Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
++Manage My Preferences
++Reject Non-Essential Cookies
++Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-06-11 07:12:59
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
