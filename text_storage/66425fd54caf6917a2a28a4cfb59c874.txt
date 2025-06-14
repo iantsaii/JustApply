@@ -24,9 +24,6 @@ Jersey
 London
 Montreal
 Warsaw
-Geneva
-Netherlands
-Shanghai
 New York
 Bangalore
 Dubai
@@ -34,6 +31,7 @@ Singapore
 Hong Kong
 Madrid
 Houston
+Geneva
 Paris
 Zug
 Boston
@@ -45,8 +43,6 @@ Assistant Tax Manager
 London
 Business Analyst
 London
-Commercial Operator
-Netherlands (Remote)
 Compliance Analyst - Discretionary Trading & Fundamental Research
 New York
 Compliance Analyst - Surveillance
@@ -113,6 +109,8 @@ Platforms ULL - Colo
 Montreal, London, New York and Singapore
 Project Coordinator
 London, Bangalore
+Quality Assurance Analyst
+Montreal
 Quant Developer
 London, Montreal, Warsaw
 Quant Developer - High Performance Software Engineering

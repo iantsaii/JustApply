@@ -1,4 +1,121 @@
 
+## 2025-06-14 07:11:33
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++London
+ New York
+-London
+ Singapore
+ Austin
+ Mumbai
+@@ -138,8 +138,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++London
+ New York
+-London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,11 +17,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Intern Spotlight: Software Engineering Summer Projects
++Read More ▸
+ Optimising Compiler Performance: A Case For Devirtualisation
+ Read More ▸
+ Building Robust Codebases with Python’s Type Annotations
+-Read More ▸
+-How Our Engineers Hot-Patched a Third Party Binary Library
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -54,11 +54,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Intern Spotlight: Software Engineering Summer Projects
++Read More ▸
+ Optimising Compiler Performance: A Case For Devirtualisation
+ Read More ▸
+ Building Robust Codebases with Python’s Type Annotations
+-Read More ▸
+-How Our Engineers Hot-Patched a Third Party Binary Library
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -24,9 +24,6 @@
+ London
+ Montreal
+ Warsaw
+-Geneva
+-Netherlands
+-Shanghai
+ New York
+ Bangalore
+ Dubai
+@@ -34,6 +31,7 @@
+ Hong Kong
+ Madrid
+ Houston
++Geneva
+ Paris
+ Zug
+ Boston
+@@ -45,8 +43,6 @@
+ London
+ Business Analyst
+ London
+-Commercial Operator
+-Netherlands (Remote)
+ Compliance Analyst - Discretionary Trading & Fundamental Research
+ New York
+ Compliance Analyst - Surveillance
+@@ -113,6 +109,8 @@
+ Montreal, London, New York and Singapore
+ Project Coordinator
+ London, Bangalore
++Quality Assurance Analyst
++Montreal
+ Quant Developer
+ London, Montreal, Warsaw
+ Quant Developer - High Performance Software Engineering
+```
+
+---
+
 ## 2025-06-13 07:11:55
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
