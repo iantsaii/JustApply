@@ -109,8 +109,6 @@ Platforms ULL - Colo
 Montreal, London, New York and Singapore
 Project Coordinator
 London, Bangalore
-Quality Assurance Analyst
-Montreal
 Quant Developer
 London, Montreal, Warsaw
 Quant Developer - High Performance Software Engineering

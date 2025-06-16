@@ -1,4 +1,26 @@
 
+## 2025-06-16 07:14:56
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -109,8 +109,6 @@
+ Montreal, London, New York and Singapore
+ Project Coordinator
+ London, Bangalore
+-Quality Assurance Analyst
+-Montreal
+ Quant Developer
+ London, Montreal, Warsaw
+ Quant Developer - High Performance Software Engineering
+```
+
+---
+
 ## 2025-06-15 07:11:45
 
 **No changes for today**
