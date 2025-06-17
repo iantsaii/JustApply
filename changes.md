@@ -1,4 +1,354 @@
 
+## 2025-06-17 07:12:45
+
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -136,24 +136,6 @@
+ Experienced
+ People Operations
+ Hudson River Trading is looking for an ambitious and results-oriented Quant Research Campus Recruiter to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
+-Systems Engineer – Distributed Compute
+-↳ Apply Now
+-New York
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
+-Systems Engineer – Distributed Compute
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
+-Systems Engineer – Distributed Compute
+-↳ Apply Now
+-Boston
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
+ Systems Engineer – Data Systems & Platforms
+ ↳ Apply Now
+ Tarrytown
+@@ -174,24 +156,6 @@
+ Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+ GPU Systems Engineer
+ ↳ Apply Now
+-Austin
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+-GPU Systems Engineer
+-↳ Apply Now
+-Boston
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+-GPU Systems Engineer
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+-GPU Systems Engineer
+-↳ Apply Now
+ New York
+ Experienced
+ Systems and Networking
+@@ -202,12 +166,6 @@
+ Experienced
+ Systems and Networking
+ The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
+-Linux Engineer, Trading Infrastructure
+-↳ Apply Now
+-Boston
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is seeking a Trading Systems Support Engineer to join our dynamic Systems team, which develops and maintains the fast, reliable infrastructure that powers our trading. This team is responsible for deploying and managing all servers in our trading environment, ensuring optimal performance and uptime. Your responsibilities...
+ Senior HPC Storage Architect
+ ↳ Apply Now
+ Boulder
+@@ -352,6 +310,18 @@
+ Experienced
+ Business Development
+ Hudson River Trading (HRT) is looking for an experienced Chief Compliance Officer to join the Compliance team in our Dublin office. This role requires expertise in European regulation, specifically within algorithmic trading. The ideal candidate will be proactive, collaborative, and capable of leading a team. A strong understanding of Irish...
++Systems Software Engineer
++↳ Apply Now
++Remote
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
++Systems Software Engineer
++↳ Apply Now
++Chicago
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Software Engineer – Treasury Infrastructure
+ ↳ Apply Now
+ London
+@@ -406,6 +376,24 @@
+ Experienced
+ Python
+ Hudson River Trading is hiring a Market Structure Optimization Engineer for our brand new Market Structure Analytics team. In joining this team, you will be responsible for employing data-driven methodologies to minimize friction in our real-time interaction with financial markets. This role is crucial to helping HRT optimize the way...
++Systems Software Engineer
++↳ Apply Now
++Boulder
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
++Systems Software Engineer
++↳ Apply Now
++Dublin
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
++Systems Software Engineer
++↳ Apply Now
++London
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Senior HPC Storage Architect
+ ↳ Apply Now
+ New York
+@@ -442,6 +430,12 @@
+ New Grad
+ C++
+ Please only apply to one job posting. In the application questions below, you’ll have the opportunity to indicate if you’re interested in multiple offices and/or roles. Please do not submit multiple applications for different positions/offices! This role is directed at graduates seeking a 2025 start date. For 2026 start dates,...
++Systems Software Engineer
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Market Structure Optimization Engineer
+ ↳ Apply Now
+ Chicago
+@@ -460,12 +454,6 @@
+ Experienced
+ Systems and Networking
+ The Networks team designs, builds and maintains all the communications infrastructure that allows our high-capacity, low-latency trading and data research environments to run 24/7.  This network spans over 25 countries and 100 locations. We are looking for a Senior Network Engineer with experience designing and managing large environments to fulfill...
+-Systems Engineer – Distributed Compute
+-↳ Apply Now
+-Austin
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
+ Senior Network Engineer – Low Latency Trading
+ ↳ Apply Now
+ New York
+@@ -580,6 +568,18 @@
+ Experienced
+ Python
+ Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
++Technical Project Manager – Data Center Infrastructure
++↳ Apply Now
++Chicago QTS
++Experienced
++Systems and Networking
++The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced technical data center project manager to oversee all aspects of technical projects within...
++Technical Project Manager – Data Center Infrastructure
++↳ Apply Now
++Tarrytown
++Experienced
++Systems and Networking
++The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced technical data center project manager to oversee all aspects of technical projects within...
+ IT Operations Engineer
+ ↳ Apply Now
+ New York
+@@ -760,6 +760,7 @@
+ Boston
+ Boulder
+ Carteret
++Chicago QTS
+ Chicago
+ Dublin
+ Hong Kong
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -222,6 +222,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In Event
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -67,8 +67,6 @@
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Analyst - Workday
+ Bangalore, London
+-IT Asset Management Analyst
+-Bangalore
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris
+ Junior Discretionary Trader
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -156,15 +156,14 @@
+ Houston
+ Miami
+ New York
+-Europe
+-Dublin
+-London
+-Paris
+ Asia-Pacific
+ Hong Kong
+ Singapore
+ Sydney
+ Tokyo
++Europe
++London
++Paris
+ Clear Selection
+ Save
+ Newest
+@@ -174,29 +173,29 @@
+ 8
+ of
+ 8
++Quantitative Researcher – 2025 PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Quantitative Research Analyst – 2025 Intern (Europe)
++London, Paris
++Apply Now
++Quantitative Research Analyst – 2025 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++International Equities – 2026 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++International Equities Associate – 2026 Intern (Europe)
++London
++Apply Now
++Sector Data Analyst – 2026 Intern (Europe)
++London
++Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Chicago, Miami, New York
+ Apply Now
+-Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – 2025 PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Europe)
+-London, Paris
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-International Equities – 2026 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+ Quantitative Researcher – 2026 PhD Intern (Europe)
+ London, Paris
+-Apply Now
+-International Equities Associate – 2026 Intern (Europe)
+-London
+ Apply Now
+ Filtering results
+ Explore Careers
+@@ -304,6 +303,10 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
++Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
++Manage My Preferences
++Reject Non-Essential Cookies
++Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-9 jobs
++8 jobs
+ Share
+ Clear
+ Filters
+@@ -52,15 +52,12 @@
+ Singapore
+ Singapore
+ Singapore
+-9 jobs
++8 jobs
+ Share
+ Clear
+ Job title
+ Work model
+ Senior / Lead Software Engineer, FindX
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, HR Innovation
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, Maps
+@@ -87,9 +84,6 @@
+ Senior / Lead Software Engineer, FindX
+ Hybrid
+ View job
+-Senior / Lead Software Engineer, HR Innovation
+-Hybrid
+-View job
+ Senior / Lead Software Engineer, Maps
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-06-16 07:14:56
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
