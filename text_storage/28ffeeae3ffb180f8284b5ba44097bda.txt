@@ -15,6 +15,7 @@ Order Status
 Apple Trade In
 Financing
 Personal Setup
+College Student Offer
 Shop Special Stores
 Certified Refurbished
 Education
@@ -39,6 +40,7 @@ Help Me Choose
 Mac Accessories
 Apple Trade In
 Financing
+College Student Offer
 More from Mac
 Mac Support
 AppleCare+ for Mac
@@ -65,6 +67,7 @@ Shop iPad
 iPad Accessories
 Apple Trade In
 Financing
+College Student Offer
 More from iPad
 iPad Support
 AppleCare+ for iPad
@@ -228,7 +231,7 @@ Find a Store
 Apple Vision Pro
 AirPods
 Apple Intelligence
-Apple Trade In Event
+Apple Trade In
 0
 +
 Please enable Javascript in your browser for best experience.

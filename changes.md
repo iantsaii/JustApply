@@ -1,4 +1,272 @@
 
+## 2025-06-18 07:13:12
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ Hong Kong
+-London
+ New York
+ Singapore
+ Austin
+@@ -137,8 +137,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ Hong Kong
+-London
+ New York
+ Singapore
+ Austin
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -141,13 +141,13 @@
+ Tarrytown
+ Experienced
+ Systems and Networking
+-Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
++Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
+ Systems Engineer – Data Systems & Platforms
+ ↳ Apply Now
+ Chicago
+ Experienced
+ Systems and Networking
+-Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
++Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
+ GPU Systems Engineer
+ ↳ Apply Now
+ London
+@@ -363,13 +363,13 @@
+ Boston
+ Experienced
+ Systems and Networking
+-Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
++Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
+ Systems Engineer – Data Systems & Platforms
+ ↳ Apply Now
+ New York
+ Experienced
+ Systems and Networking
+-Hudson River Trading (HRT) is looking for a Database SRE to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
++Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
+ Market Structure Optimization Engineer
+ ↳ Apply Now
+ Hong Kong
+@@ -420,12 +420,6 @@
+ Hudson River Trading is hiring a Market Structure Optimization Engineer for our brand new Market Structure Analytics team. In joining this team, you will be responsible for employing data-driven methodologies to minimize friction in our real-time interaction with financial markets. This role is crucial to helping HRT optimize the way...
+ Software Engineer (C++) – 2025 Grads
+ ↳ Apply Now
+-Singapore
+-New Grad
+-C++
+-Please only apply to one job posting. In the application questions below, you’ll have the opportunity to indicate if you’re interested in multiple offices and/or roles. Please do not submit multiple applications for different positions/offices! This role is directed at graduates seeking a 2025 start date. For 2026 start dates,...
+-Software Engineer (C++) – 2025 Grads
+-↳ Apply Now
+ New York
+ New Grad
+ C++
+@@ -466,6 +460,12 @@
+ Experienced
+ C++
+ We are looking for engineers to power Hudson River Trading's continued expansion into global markets. As an engineer based out of our Singapore office, you will play a critical role in the process of establishing HRT's presence in Asia-Pacific markets and work closely with our algo and operations teams to...
++Risk Manager – Commodities
++↳ Apply Now
++New York
++Experienced
++Risk
++Hudson River Trading is hiring a Commodities Risk Manager for our NYC office. You will be responsible for designing, improving, managing, and communicating market and liquidity risk for commodities instruments and strategies. You will have a broad mandate to own and manage all aspects of commodities trading risk faced by...
+ External Reporting Accountant
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -15,6 +15,7 @@
+ Apple Trade In
+ Financing
+ Personal Setup
++College Student Offer
+ Shop Special Stores
+ Certified Refurbished
+ Education
+@@ -39,6 +40,7 @@
+ Mac Accessories
+ Apple Trade In
+ Financing
++College Student Offer
+ More from Mac
+ Mac Support
+ AppleCare+ for Mac
+@@ -65,6 +67,7 @@
+ iPad Accessories
+ Apple Trade In
+ Financing
++College Student Offer
+ More from iPad
+ iPad Support
+ AppleCare+ for iPad
+@@ -228,7 +231,7 @@
+ Apple Vision Pro
+ AirPods
+ Apple Intelligence
+-Apple Trade In Event
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -24,11 +24,11 @@
+ London
+ Montreal
+ Warsaw
++Hong Kong
++Singapore
+ New York
+ Bangalore
+ Dubai
+-Singapore
+-Hong Kong
+ Madrid
+ Houston
+ Geneva
+@@ -37,6 +37,8 @@
+ Boston
+ Accountant
+ London, Montreal, Warsaw, Jersey
++Accountant - Physical Metal
++London, Jersey, Singapore, Hong Kong
+ Assistant Controller - Management Company
+ London, Montreal
+ Assistant Tax Manager
+@@ -55,8 +57,6 @@
+ Singapore, Dubai
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+-Financial Analyst - Physical Metal
+-London, Jersey, Singapore, Hong Kong
+ Financial Reporting Manager
+ London, New York
+ Global Travel Coordinator
+@@ -67,6 +67,8 @@
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Analyst - Workday
+ Bangalore, London
++Information Security Analyst
++London
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris
+ Junior Discretionary Trader
+@@ -83,6 +85,8 @@
+ Warsaw
+ Operations Analyst - Options
+ Montreal
++Operations Intern
++Montreal
+ Platform Applications Specialist
+ Montreal & Singapore
+ Platform Compute and Storage Specialist
+@@ -109,7 +113,7 @@
+ London, Bangalore
+ Quant Developer
+ London, Montreal, Warsaw
+-Quant Developer - High Performance Software Engineering
++Quant Developer (C++)
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -173,6 +173,9 @@
+ 8
+ of
+ 8
++Sector Data Analyst – 2026 Intern (Europe)
++London
++Apply Now
+ Quantitative Researcher – 2025 PhD Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
+@@ -185,17 +188,14 @@
+ International Equities – 2026 Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
++Quantitative Researcher – PhD Intern (US)
++Chicago, Miami, New York
++Apply Now
++Quantitative Researcher – 2026 PhD Intern (Europe)
++London, Paris
++Apply Now
+ International Equities Associate – 2026 Intern (Europe)
+ London
+-Apply Now
+-Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Quantitative Researcher – 2026 PhD Intern (Europe)
+-London, Paris
+ Apply Now
+ Filtering results
+ Explore Careers
+@@ -303,10 +303,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-06-17 07:12:45
 
 ### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
