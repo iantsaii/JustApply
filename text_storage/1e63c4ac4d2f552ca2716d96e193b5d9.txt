@@ -312,12 +312,6 @@ Business Development
 Hudson River Trading (HRT) is looking for an experienced Chief Compliance Officer to join the Compliance team in our Dublin office. This role requires expertise in European regulation, specifically within algorithmic trading. The ideal candidate will be proactive, collaborative, and capable of leading a team. A strong understanding of Irish...
 Systems Software Engineer
 ↳ Apply Now
-Remote
-Experienced
-Systems and Networking
-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
-Systems Software Engineer
-↳ Apply Now
 Chicago
 Experienced
 Systems and Networking
@@ -568,6 +562,18 @@ New York
 Experienced
 Python
 Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
+Technical Program Manager – Security Governance, Risk, and Compliance
+↳ Apply Now
+Mumbai
+Experienced
+Information Security
+Hudson River Trading (HRT) is looking for a Technical Program Manager to join our growing Security team. This role will liaise closely with our Compliance and Legal teams to research, build, and maintain security solutions for a diverse set of industry regulations and requirements. You’ll join a lean and technical...
+Technical Program Manager – Security Governance, Risk, and Compliance
+↳ Apply Now
+Singapore
+Experienced
+Information Security
+Hudson River Trading (HRT) is looking for a Technical Program Manager to join our growing Security team. This role will liaise closely with our Compliance and Legal teams to research, build, and maintain security solutions for a diverse set of industry regulations and requirements. You’ll join a lean and technical...
 Technical Project Manager – Data Center Infrastructure
 ↳ Apply Now
 Chicago QTS
@@ -790,5 +796,6 @@ C++
 Python
 Strategy Development
 Systems and Networking
+Information Security
 Trade Operations
 ↳ Apply Filter

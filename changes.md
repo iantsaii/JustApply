@@ -1,4 +1,101 @@
 
+## 2025-06-19 07:12:46
+
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -312,12 +312,6 @@
+ Hudson River Trading (HRT) is looking for an experienced Chief Compliance Officer to join the Compliance team in our Dublin office. This role requires expertise in European regulation, specifically within algorithmic trading. The ideal candidate will be proactive, collaborative, and capable of leading a team. A strong understanding of Irish...
+ Systems Software Engineer
+ ↳ Apply Now
+-Remote
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+-Systems Software Engineer
+-↳ Apply Now
+ Chicago
+ Experienced
+ Systems and Networking
+@@ -568,6 +562,18 @@
+ Experienced
+ Python
+ Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
++Technical Program Manager – Security Governance, Risk, and Compliance
++↳ Apply Now
++Mumbai
++Experienced
++Information Security
++Hudson River Trading (HRT) is looking for a Technical Program Manager to join our growing Security team. This role will liaise closely with our Compliance and Legal teams to research, build, and maintain security solutions for a diverse set of industry regulations and requirements. You’ll join a lean and technical...
++Technical Program Manager – Security Governance, Risk, and Compliance
++↳ Apply Now
++Singapore
++Experienced
++Information Security
++Hudson River Trading (HRT) is looking for a Technical Program Manager to join our growing Security team. This role will liaise closely with our Compliance and Legal teams to research, build, and maintain security solutions for a diverse set of industry regulations and requirements. You’ll join a lean and technical...
+ Technical Project Manager – Data Center Infrastructure
+ ↳ Apply Now
+ Chicago QTS
+@@ -790,5 +796,6 @@
+ Python
+ Strategy Development
+ Systems and Networking
++Information Security
+ Trade Operations
+ ↳ Apply Filter
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -225,13 +225,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -303,6 +303,10 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
++Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
++Manage My Preferences
++Reject Non-Essential Cookies
++Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-06-18 07:13:12
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
