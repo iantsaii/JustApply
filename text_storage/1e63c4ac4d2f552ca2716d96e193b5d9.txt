@@ -17,11 +17,11 @@ Access our Liquidity
 As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
 Learn More
 Tech Blog
+Intern Spotlight: HRT AI Labs Project
+Read More ▸
 Intern Spotlight: Software Engineering Summer Projects
 Read More ▸
 Optimising Compiler Performance: A Case For Devirtualisation
-Read More ▸
-Building Robust Codebases with Python’s Type Annotations
 Read More ▸
 Read Our Tech Blog
 Join Our Team
@@ -54,11 +54,11 @@ Access our Liquidity
 As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
 Learn More
 Tech Blog
+Intern Spotlight: HRT AI Labs Project
+Read More ▸
 Intern Spotlight: Software Engineering Summer Projects
 Read More ▸
 Optimising Compiler Performance: A Case For Devirtualisation
-Read More ▸
-Building Robust Codebases with Python’s Type Annotations
 Read More ▸
 Read Our Tech Blog
 Join Our Team

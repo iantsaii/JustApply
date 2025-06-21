@@ -1,4 +1,45 @@
 
+## 2025-06-21 07:11:25
+
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,11 +17,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Intern Spotlight: HRT AI Labs Project
++Read More ▸
+ Intern Spotlight: Software Engineering Summer Projects
+ Read More ▸
+ Optimising Compiler Performance: A Case For Devirtualisation
+-Read More ▸
+-Building Robust Codebases with Python’s Type Annotations
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -54,11 +54,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Intern Spotlight: HRT AI Labs Project
++Read More ▸
+ Intern Spotlight: Software Engineering Summer Projects
+ Read More ▸
+ Optimising Compiler Performance: A Case For Devirtualisation
+-Read More ▸
+-Building Robust Codebases with Python’s Type Annotations
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+```
+
+---
+
 ## 2025-06-20 07:12:21
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
