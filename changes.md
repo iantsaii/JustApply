@@ -1,4 +1,66 @@
 
+## 2025-06-23 07:17:42
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ London
+ Hong Kong
+-New York
+ Singapore
+ Austin
+ Mumbai
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ London
+ Hong Kong
+-New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -14,7 +14,6 @@
+ Finance
+ Human Resources
+ Investment
+-Office Management
+ Operations
+ Recruiting & Talent Development
+ Tax
+@@ -59,8 +58,6 @@
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+ Financial Reporting Manager
+ London, New York
+-Global Travel Coordinator
+-Bangalore
+ Graduate Software Developer
+ London, Montreal, Warsaw, New York
+ Graduate Support Specialist
+```
+
+---
+
 ## 2025-06-22 07:12:12
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
