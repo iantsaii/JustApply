@@ -1,4 +1,260 @@
 
+## 2025-06-26 07:13:34
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+-Hong Kong
+ New York
+ Singapore
+ Austin
+@@ -137,8 +137,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+-Hong Kong
+ New York
+ Singapore
+ Austin
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -136,6 +136,12 @@
+ Experienced
+ People Operations
+ Hudson River Trading is looking for an ambitious and results-oriented Quant Research Campus Recruiter to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
++Systems Engineer – Distributed Compute
++↳ Apply Now
++London
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
+ Systems Engineer – Data Systems & Platforms
+ ↳ Apply Now
+ Tarrytown
+@@ -156,6 +162,24 @@
+ Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+ GPU Systems Engineer
+ ↳ Apply Now
++Austin
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++Boston
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++Chicago
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
+ New York
+ Experienced
+ Systems and Networking
+@@ -166,6 +190,12 @@
+ Experienced
+ Systems and Networking
+ The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
++Linux Engineer, Trading Infrastructure
++↳ Apply Now
++Boston
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is seeking a Trading Systems Support Engineer to join our dynamic Systems team, which develops and maintains the fast, reliable infrastructure that powers our trading. This team is responsible for deploying and managing all servers in our trading environment, ensuring optimal performance and uptime. Your responsibilities...
+ Senior HPC Storage Architect
+ ↳ Apply Now
+ Boulder
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -16,6 +16,7 @@
+ Sales and Marketing
+ Careers Programs
+ Research
++Accelerate Eng Talent
+ Students and grads
+ Rotational Product Management
+ Working at Meta
+@@ -64,6 +65,7 @@
+ Job search
+ Career programs
+ Research
++Accelerate Eng Talent
+ Students and grads
+ Rotational Product Management
+ Teams
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -225,13 +225,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -11,6 +11,7 @@
+ Business Management
+ Compliance
+ Corporate Application Management
++Executive Assistance
+ Finance
+ Human Resources
+ Investment
+@@ -63,7 +64,7 @@
+ Graduate Support Specialist
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Analyst - Workday
+-Bangalore, London
++Bangalore, London, Singapore, Montreal
+ Information Security Analyst
+ London
+ Junior Commodities Fundamental Analyst
+@@ -99,7 +100,7 @@
+ Platform Specialist - Middleware
+ Montreal
+ Platform Specialist - Observability
+-London & Montreal
++London, Warsaw & Montreal
+ Platform Specialist - Scheduler and Orchestrators
+ Montreal & Singapore
+ Platform Specialist - Storage Developer
+@@ -118,7 +119,7 @@
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
+-Quantitative Researcher - CTA Macro
++Quantitative Researcher – FICC Modeling
+ New York
+ Quantitative Researcher – Market Structure Research
+ New York
+@@ -176,10 +177,10 @@
+ London, Montreal
+ Tax Analyst
+ Bangalore
++Team Executive Assistant
++London
+ Technical Business Analyst/Project Manager
+ London, Paris, Montreal, Singapore
+-Technology Procurement Analyst
+-Montreal, London
+ Trade Flow Support - Trading Application Support
+ London, Montreal, New York,Singapore,Bangalore,Hong Kong,Houston
+ Trade Flow Support - Trading Infrastructure Support
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (8)
++Opportunities (4)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -170,29 +170,17 @@
+ Newest
+ Oldest
+ Viewing
+-8
++4
+ of
+-8
+-Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – 2025 PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Europe)
+-London, Paris
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
++4
+ International Equities – 2026 Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+ Quantitative Researcher – 2026 PhD Intern (Europe)
+ London, Paris
++Apply Now
++Sector Data Analyst – 2026 Intern (Europe)
++London
+ Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+```
+
+---
+
 ## 2025-06-25 07:14:12
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
