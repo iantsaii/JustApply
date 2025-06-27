@@ -1,4 +1,262 @@
 
+## 2025-06-27 07:13:14
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -71,6 +71,7 @@
+ Shanghai
+ Singapore
+ Sydney
++Taipei
+ United States
+ Singapore
+ Sorry, no results available.
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -312,13 +312,13 @@
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
+ Experienced Hardware Design Engineer
+ ↳ Apply Now
+-Chicago
++Austin
+ Experienced
+ Hardware Engineering
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
+ Experienced Hardware Design Engineer
+ ↳ Apply Now
+-Austin
++Chicago
+ Experienced
+ Hardware Engineering
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
+@@ -484,18 +484,18 @@
+ Experienced
+ C++
+ We are looking for engineers to power Hudson River Trading's continued expansion into global markets. As an engineer based out of our Singapore office, you will play a critical role in the process of establishing HRT's presence in Asia-Pacific markets and work closely with our algo and operations teams to...
++Algorithm Development (Quant Research) Internship – Summer 2026
++↳ Apply Now
++Singapore
++Internship
++Strategy Development
++Hudson River Trading (HRT) is seeking exceptional full-time students to join our Algorithm Development Summer Internship Program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. As an intern, you will have the opportunity to rotate between our high-frequency trading, multi-frequency trading, and/or machine learning...
+ Risk Manager – Commodities
+ ↳ Apply Now
+ New York
+ Experienced
+ Risk
+ Hudson River Trading is hiring a Commodities Risk Manager for our NYC office. You will be responsible for designing, improving, managing, and communicating market and liquidity risk for commodities instruments and strategies. You will have a broad mandate to own and manage all aspects of commodities trading risk faced by...
+-External Reporting Accountant
+-↳ Apply Now
+-New York
+-Experienced
+-Finance
+-Hudson River Trading (HRT) is looking for a highly motivated accounting professional with a background in financial services to be a contributing member of the External Reporting team. You’ll have a unique and impactful opportunity to collaborate and learn various accounting functions within the company including external financial reporting preparation...
+ Data Production Engineer
+ ↳ Apply Now
+ Singapore
+@@ -526,12 +526,6 @@
+ Experienced
+ Trade Operations
+ Hudson River Trading (HRT) is looking for a Trading Operations Analyst to join our Trade Operations (TradeOps) team. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring, and optimizing the firm’s trading...
+-Business Development Analyst
+-↳ Apply Now
+-Singapore
+-Experienced
+-Business Development
+-Hudson River Trading is hiring a Business Development Analyst in our Singapore office. This role will support HRT’s Asia equities and derivatives business and help guide the continued development of HRT’s Asia platform. As a business development analyst, you will be exposed to the inner workings of automated trading across...
+ Risk Manager – Options
+ ↳ Apply Now
+ New York
+@@ -592,17 +586,41 @@
+ Experienced
+ Python
+ Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
++Software Engineering Internship – Summer 2026
++↳ Apply Now
++Singapore
++Internship
++Python
++Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
++Systems Engineer – Enterprise Technology
++↳ Apply Now
++London
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for a Systems Engineer to join our Enterprise Technology team. Our team is responsible for developing and maintaining the productivity tooling for all aspects of the firm. You will work directly with the team responsible for Identity and Access Management (IAM), Productivity platforms and...
++Systems Engineer – Enterprise Technology
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for a Systems Engineer to join our Enterprise Technology team. Our team is responsible for developing and maintaining the productivity tooling for all aspects of the firm. You will work directly with the team responsible for Identity and Access Management (IAM), Productivity platforms and...
++Tax Specialist
++↳ Apply Now
++New York
++Experienced
++Finance
++Hudson River Trading (HRT) is looking for a Tax Specialist to join our growing Tax team! As a Tax Specialist, you will work on US tax compliance for partnerships, including tax estimates and distributions, indirect taxes, tax research, and various planning projects. Responsibilities Preparation of tax return workpapers, M-1s, and...
+ Technical Program Manager – Security Governance, Risk, and Compliance
+ ↳ Apply Now
+ Mumbai
+ Experienced
+-Information Security
++Systems and Networking
+ Hudson River Trading (HRT) is looking for a Technical Program Manager to join our growing Security team. This role will liaise closely with our Compliance and Legal teams to research, build, and maintain security solutions for a diverse set of industry regulations and requirements. You’ll join a lean and technical...
+ Technical Program Manager – Security Governance, Risk, and Compliance
+ ↳ Apply Now
+ Singapore
+ Experienced
+-Information Security
++Systems and Networking
+ Hudson River Trading (HRT) is looking for a Technical Program Manager to join our growing Security team. This role will liaise closely with our Compliance and Legal teams to research, build, and maintain security solutions for a diverse set of industry regulations and requirements. You’ll join a lean and technical...
+ Technical Project Manager – Data Center Infrastructure
+ ↳ Apply Now
+@@ -660,13 +678,13 @@
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. These high performance designs...
+ Design Verification (DV) Engineer
+ ↳ Apply Now
+-Austin
++New York
+ Experienced
+ Hardware Engineering
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. These high performance designs...
+ Design Verification (DV) Engineer
+ ↳ Apply Now
+-New York
++Austin
+ Experienced
+ Hardware Engineering
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. These high performance designs...
+@@ -819,6 +837,7 @@
+ Business Development
+ Finance
+ Hardware Engineering
++Information Security
+ People Operations
+ Risk
+ Software Engineering
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -225,6 +225,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -15,6 +15,7 @@
+ Finance
+ Human Resources
+ Investment
++Office Acquisition and Development
+ Operations
+ Recruiting & Talent Development
+ Tax
+@@ -64,7 +65,7 @@
+ Graduate Support Specialist
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Analyst - Workday
+-Bangalore, London, Singapore, Montreal
++Bangalore, London, Singapore, Montreal, New York
+ Information Security Analyst
+ London
+ Junior Commodities Fundamental Analyst
+@@ -113,6 +114,8 @@
+ Montreal, London & New York
+ Project Coordinator
+ London, Bangalore
++Property Assistant
++New York
+ Quant Developer
+ London, Montreal, Warsaw
+ Quant Developer (C++)
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-7 jobs
++6 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +52,7 @@
+ Singapore
+ Singapore
+ Singapore
+-7 jobs
++6 jobs
+ Share
+ Clear
+ Job title
+@@ -75,9 +75,6 @@
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer, Tooling
+-Hybrid
+-View job
+ Senior / Lead Software Engineer, FindX
+ Hybrid
+ View job
+@@ -96,6 +93,3 @@
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer, Tooling
+-Hybrid
+-View job
+```
+
+---
+
 ## 2025-06-26 07:13:34
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
