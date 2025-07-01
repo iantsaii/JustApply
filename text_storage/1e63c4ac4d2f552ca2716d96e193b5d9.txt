@@ -484,6 +484,24 @@ Singapore
 Experienced
 C++
 We are looking for engineers to power Hudson River Trading's continued expansion into global markets. As an engineer based out of our Singapore office, you will play a critical role in the process of establishing HRT's presence in Asia-Pacific markets and work closely with our algo and operations teams to...
+AI Researcher
+↳ Apply Now
+New York
+Experienced
+Strategy Development
+Hudson River Trading (HRT) is hiring an AI Researcher to join the HAIL team. HAIL (HRT AI Labs) is the team at HRT responsible for developing and maintaining our most powerful models, which are used by our trading teams to drive a significant fraction of our trading. We are building...
+AI Researcher
+↳ Apply Now
+Seattle
+Experienced
+Strategy Development
+Hudson River Trading (HRT) is hiring an AI Researcher to join the HAIL team. HAIL (HRT AI Labs) is the team at HRT responsible for developing and maintaining our most powerful models, which are used by our trading teams to drive a significant fraction of our trading. We are building...
+AI Researcher
+↳ Apply Now
+London
+Experienced
+Strategy Development
+Hudson River Trading (HRT) is hiring an AI Researcher to join the HAIL team. HAIL (HRT AI Labs) is the team at HRT responsible for developing and maintaining our most powerful models, which are used by our trading teams to drive a significant fraction of our trading. We are building...
 Algorithm Development (Quant Research) Internship – Summer 2026
 ↳ Apply Now
 Singapore
@@ -586,6 +604,18 @@ New York
 Experienced
 Python
 Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
+Technical Program Manager – Data Center Infrastructure
+↳ Apply Now
+Chicago QTS
+Experienced
+Systems and Networking
+The Research and Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced Technical Program Manager to oversee all aspects of technical projects within our R&D...
+Technical Program Manager – Data Center Infrastructure
+↳ Apply Now
+New York
+Experienced
+Systems and Networking
+The Research and Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced Technical Program Manager to oversee all aspects of technical projects within our R&D...
 Corporate Development Associate
 ↳ Apply Now
 New York
@@ -820,9 +850,11 @@ Austin
 Boston
 Boulder
 Carteret
+Chicago QTS
 Chicago
 Dublin
 Hong Kong
+London
 London
 Mumbai
 New York

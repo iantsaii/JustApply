@@ -1,4 +1,222 @@
 
+## 2025-07-01 07:14:26
+
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,5 @@
+ Search Jobs — Google Careers
++Careers
+ Careers
+ Careers
+ Skip navigation links
+@@ -218,5 +219,6 @@
+ help
+ Help
+ open_in_new
++Careers
+ Main menu
+ Google apps
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -55,11 +55,13 @@
+ Our open roles are organized and presented with you in mind. Please start by selecting where you are in your career.
+ Experienced Candidates
+ Space to solve hard problems.
+-Jane Street is always looking for experienced hires to help us grow our capabilities.
++Jane Street is always looking for
++experienced hires to help us grow our capabilities.
+ View open roles
+ Students and New Grads
+ Exceptional opportunities.
+-Roles for new grads and interns are an investment in the future of Jane Street.
++Roles for new grads and interns are an
++investment in the future of Jane Street.
+ View open roles
+ Protect yourself from recruiting scams
+ Emails from Jane Street recruiters will always come from an email address ending in @janestreet.com or our
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -484,6 +484,24 @@
+ Experienced
+ C++
+ We are looking for engineers to power Hudson River Trading's continued expansion into global markets. As an engineer based out of our Singapore office, you will play a critical role in the process of establishing HRT's presence in Asia-Pacific markets and work closely with our algo and operations teams to...
++AI Researcher
++↳ Apply Now
++New York
++Experienced
++Strategy Development
++Hudson River Trading (HRT) is hiring an AI Researcher to join the HAIL team. HAIL (HRT AI Labs) is the team at HRT responsible for developing and maintaining our most powerful models, which are used by our trading teams to drive a significant fraction of our trading. We are building...
++AI Researcher
++↳ Apply Now
++Seattle
++Experienced
++Strategy Development
++Hudson River Trading (HRT) is hiring an AI Researcher to join the HAIL team. HAIL (HRT AI Labs) is the team at HRT responsible for developing and maintaining our most powerful models, which are used by our trading teams to drive a significant fraction of our trading. We are building...
++AI Researcher
++↳ Apply Now
++London
++Experienced
++Strategy Development
++Hudson River Trading (HRT) is hiring an AI Researcher to join the HAIL team. HAIL (HRT AI Labs) is the team at HRT responsible for developing and maintaining our most powerful models, which are used by our trading teams to drive a significant fraction of our trading. We are building...
+ Algorithm Development (Quant Research) Internship – Summer 2026
+ ↳ Apply Now
+ Singapore
+@@ -586,6 +604,18 @@
+ Experienced
+ Python
+ Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
++Technical Program Manager – Data Center Infrastructure
++↳ Apply Now
++Chicago QTS
++Experienced
++Systems and Networking
++The Research and Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced Technical Program Manager to oversee all aspects of technical projects within our R&D...
++Technical Program Manager – Data Center Infrastructure
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++The Research and Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced Technical Program Manager to oversee all aspects of technical projects within our R&D...
+ Corporate Development Associate
+ ↳ Apply Now
+ New York
+@@ -820,9 +850,11 @@
+ Boston
+ Boulder
+ Carteret
++Chicago QTS
+ Chicago
+ Dublin
+ Hong Kong
++London
+ London
+ Mumbai
+ New York
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -225,6 +225,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -80,6 +80,8 @@
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Junior Quant Researcher - ML Alpha Research
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
++Junior Risk Manager
++New York, London
+ Junior Shift Trader
+ Dubai, Singapore
+ Operational Risk Analyst
+@@ -91,7 +93,7 @@
+ Operations Intern
+ Montreal
+ Platform Applications Specialist
+-Montreal & Singapore
++Montreal, London & Singapore
+ Platform Compute and Storage Specialist
+ Montreal , New York & London
+ Platform Specialist - Databases
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -43,7 +43,7 @@
+ Singapore
+ Singapore
+ Singapore
+-6 jobs
++5 jobs
+ Share
+ Clear
+ Filters
+@@ -51,7 +51,7 @@
+ Singapore
+ Singapore
+ Singapore
+-6 jobs
++5 jobs
+ Share
+ Clear
+ Job title
+@@ -66,9 +66,6 @@
+ Hybrid
+ View job
+ Senior Software Engineer, RedeemSG
+-Hybrid
+-View job
+-Senior Software Engineer, Transport
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+@@ -86,9 +83,6 @@
+ Senior Software Engineer, RedeemSG
+ Hybrid
+ View job
+-Senior Software Engineer, Transport
+-Hybrid
+-View job
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-06-30 07:14:36
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
