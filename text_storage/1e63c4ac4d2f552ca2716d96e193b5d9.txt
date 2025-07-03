@@ -136,12 +136,6 @@ New York
 Experienced
 People Operations
 Hudson River Trading is looking for an ambitious and results-oriented Quant Research Campus Recruiter to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
-Systems Engineer – Distributed Compute
-↳ Apply Now
-London
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
 Systems Engineer – Data Systems & Platforms
 ↳ Apply Now
 Tarrytown
@@ -154,48 +148,12 @@ Chicago
 Experienced
 Systems and Networking
 Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
-GPU Systems Engineer
-↳ Apply Now
-London
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
-GPU Systems Engineer
-↳ Apply Now
-Austin
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
-GPU Systems Engineer
-↳ Apply Now
-Boston
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
-GPU Systems Engineer
-↳ Apply Now
-Chicago
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
-GPU Systems Engineer
-↳ Apply Now
-New York
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
 Senior HPC Storage Architect
 ↳ Apply Now
 Remote
 Experienced
 Systems and Networking
 The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
-Linux Engineer, Trading Infrastructure
-↳ Apply Now
-Boston
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is seeking a Trading Systems Support Engineer to join our dynamic Systems team, which develops and maintains the fast, reliable infrastructure that powers our trading. This team is responsible for deploying and managing all servers in our trading environment, ensuring optimal performance and uptime. Your responsibilities...
 Senior HPC Storage Architect
 ↳ Apply Now
 Boulder
@@ -328,12 +286,6 @@ New York
 Experienced
 Hardware Engineering
 The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
-Linux Engineer, Trading Infrastructure
-↳ Apply Now
-Chicago
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is seeking a Trading Systems Support Engineer to join our dynamic Systems team, which develops and maintains the fast, reliable infrastructure that powers our trading. This team is responsible for deploying and managing all servers in our trading environment, ensuring optimal performance and uptime. Your responsibilities...
 Chief Compliance Officer
 ↳ Apply Now
 Dublin
@@ -606,7 +558,7 @@ Python
 Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
 Technical Program Manager – Data Center Infrastructure
 ↳ Apply Now
-Chicago QTS
+Chicago
 Experienced
 Systems and Networking
 The Research and Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced Technical Program Manager to oversee all aspects of technical projects within our R&D...
@@ -850,7 +802,6 @@ Austin
 Boston
 Boulder
 Carteret
-Chicago QTS
 Chicago
 Dublin
 Hong Kong
