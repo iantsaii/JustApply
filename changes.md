@@ -1,4 +1,26 @@
 
+## 2025-07-05 07:11:25
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -118,6 +118,8 @@
+ London, United Kingdom, Montreal, QC, Canada, New York, NY, United States, Singapore
+ Platform ULL - Colo - Strategic
+ Montreal, London & New York
++Project Manager
++London
+ Property Assistant
+ New York
+ Quant Developer
+```
+
+---
+
 ## 2025-07-04 07:14:17
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
