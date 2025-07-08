@@ -1,4 +1,137 @@
 
+## 2025-07-08 07:13:57
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++Hong Kong
+ London
+-Hong Kong
+-New York
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++Hong Kong
+ London
+-Hong Kong
+-New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -270,13 +270,13 @@
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
+ Experienced Hardware Design Engineer
+ ↳ Apply Now
+-Chicago
++Austin
+ Experienced
+ Hardware Engineering
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
+ Experienced Hardware Design Engineer
+ ↳ Apply Now
+-Austin
++Chicago
+ Experienced
+ Hardware Engineering
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
+@@ -394,12 +394,6 @@
+ Experienced
+ Python
+ Hudson River Trading is hiring a Market Structure Optimization Engineer for our brand new Market Structure Analytics team. In joining this team, you will be responsible for employing data-driven methodologies to minimize friction in our real-time interaction with financial markets. This role is crucial to helping HRT optimize the way...
+-Software Engineer (C++) – 2025 Grads
+-↳ Apply Now
+-New York
+-New Grad
+-C++
+-Please only apply to one job posting. In the application questions below, you’ll have the opportunity to indicate if you’re interested in multiple offices and/or roles. Please do not submit multiple applications for different positions/offices! This role is directed at graduates seeking a 2025 start date. For 2026 start dates,...
+ Systems Software Engineer
+ ↳ Apply Now
+ New York
+@@ -666,13 +660,13 @@
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. These high performance designs...
+ Design Verification (DV) Engineer
+ ↳ Apply Now
+-Austin
++New York
+ Experienced
+ Hardware Engineering
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. These high performance designs...
+ Design Verification (DV) Engineer
+ ↳ Apply Now
+-New York
++Austin
+ Experienced
+ Hardware Engineering
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. These high performance designs...
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (13)
++Opportunities (12)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,10 +174,7 @@
+ Viewing
+ 10
+ of
+-13
+-Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
++12
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
+@@ -204,6 +201,9 @@
+ Apply Now
+ Launch Intern – (US)
+ Chicago, Miami, New York
++Apply Now
++Quantitative Research Analyst Intern – BS/MS (US)
++Greenwich, Miami, New York
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2025-07-07 07:15:16
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
