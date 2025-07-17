@@ -1,4 +1,106 @@
 
+## 2025-07-17 07:16:04
+
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -502,6 +502,12 @@
+ Experienced
+ Python
+ Hudson River Trading (HRT) is looking for a Data Production Engineer to join our Data team. Data is at the core of everything we do at HRT; we excel at deriving deep insights from all types of data, allowing us to achieve consistent success in a dynamic market.  This role...
++Business Operations Partner
++↳ Apply Now
++New York
++Experienced
++People Operations
++Hudson River Trading (HRT) is looking for a Business Operations Partner to join our People Partner (HRBP) team. HRT’s People Partners help maximize team potential through proactive talent development and a commitment to employee engagement. This role will work directly with our technical and engineering teams to support various projects,...
+ Senior Site Reliability Engineer – Enterprise Technology
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,7 +83,7 @@
+ New York, London
+ Junior Shift Trader
+ Dubai, Singapore
+-Legal Counsel - Employement (FTC)
++Legal Counsel - Employment (FTC)
+ London
+ Network Specialist - Core
+ Montreal, London, New York
+@@ -130,8 +130,6 @@
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
+ Quantitative Researcher – FICC Modeling
+-New York
+-Quantitative Researcher – Market Structure Research
+ New York
+ Recruitment Intern (Fall 2025)
+ Montreal
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (15)
++Opportunities (16)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,7 +174,7 @@
+ Viewing
+ 10
+ of
+-15
++16
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+ Apply Now
+@@ -193,6 +193,9 @@
+ Software Engineer – Intern (Asia)
+ Singapore
+ Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+ Apply Now
+@@ -201,9 +204,6 @@
+ Apply Now
+ Investment & Trading – Intern (US)
+ Greenwich, Miami, New York
+-Apply Now
+-Launch Intern – (US)
+-Chicago, Miami, New York
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2025-07-16 07:15:35
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
