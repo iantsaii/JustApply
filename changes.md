@@ -1,4 +1,212 @@
 
+## 2025-07-19 07:12:09
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -168,19 +168,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -224,3 +211,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -124,6 +124,36 @@
+ Experienced
+ Strategy Development
+ ​​Algo Developers are responsible for building and maintaining the models that drive our trading. A typical day involves applying rigorous statistical analysis to vast quantities of market and financial data to produce predictive trading models. You will run models live on our high-performance trading infrastructure, and analyze their daily performance to...
++Campus Recruiter
++↳ Apply Now
++London
++Experienced
++People Operations
++Hudson River Trading (HRT) is looking for a Campus Recruiter in London to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build out our campus presence in the UK and Europe. You will be joining a highly collaborative team, but also have autonomy...
++Campus Recruiter
++↳ Apply Now
++Boston
++Experienced
++People Operations
++Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
++Campus Recruiter
++↳ Apply Now
++Austin
++Experienced
++People Operations
++Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
++Campus Recruiter
++↳ Apply Now
++Chicago
++Experienced
++People Operations
++Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
++Campus Recruiter
++↳ Apply Now
++New York
++Experienced
++People Operations
++Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
+ Software Engineering Campus Recruiter
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -225,6 +225,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,26 +175,26 @@
+ 10
+ of
+ 16
++Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
++Apply Now
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Site Reliability Engineer – Intern (Asia)
++Singapore
++Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+-Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Site Reliability Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+ Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+```
+
+---
+
 ## 2025-07-18 07:16:56
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
