@@ -402,12 +402,6 @@ Systems and Networking
 Hudson River Trading (HRT) is seeking a hands-on Data Center Technician with experience in data center operations to join our Trading Infrastructure (SysTrade) team. If you enjoy solving complex infrastructure challenges, working with cutting-edge technology, and thrive in a fast-paced, global environment, we’d love to hear from you. In this...
 Systems Engineer – Data Systems & Platforms
 ↳ Apply Now
-Boston
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
-Systems Engineer – Data Systems & Platforms
-↳ Apply Now
 New York
 Experienced
 Systems and Networking
