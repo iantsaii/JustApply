@@ -166,6 +166,12 @@ New York
 Experienced
 People Operations
 Hudson River Trading is looking for an ambitious and results-oriented Quant Research Campus Recruiter to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
+Systems Engineer – Physical Security
+↳ Apply Now
+New York
+Experienced
+Systems and Networking
+Hudson River Trading (HRT) is looking for a Systems Engineer with a focus on physical security systems to join our Enterprise Technology team. This role will liaise closely with our Workplace and various Security teams to conduct research, design, and maintain physical security platforms. You’ll join a lean and technical...
 Systems Engineer – Data Systems & Platforms
 ↳ Apply Now
 Tarrytown
@@ -178,12 +184,6 @@ Chicago
 Experienced
 Systems and Networking
 Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
-Senior HPC Storage Architect
-↳ Apply Now
-Remote
-Experienced
-Systems and Networking
-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
 Senior HPC Storage Architect
 ↳ Apply Now
 Boulder
