@@ -1,4 +1,88 @@
 
+## 2025-07-25 07:17:00
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+ London
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+ London
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -640,18 +640,6 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Technical Program Manager to join our growing Security team. This role will liaise closely with our Compliance and Legal teams to research, build, and maintain security solutions for a diverse set of industry regulations and requirements. You’ll join a lean and technical...
+-Technical Project Manager – Data Center Infrastructure
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced technical data center project manager to oversee all aspects of technical projects within...
+-Technical Project Manager – Data Center Infrastructure
+-↳ Apply Now
+-Tarrytown
+-Experienced
+-Systems and Networking
+-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced technical data center project manager to oversee all aspects of technical projects within...
+ IT Operations Engineer
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -36,8 +36,8 @@
+ Houston
+ Paris
+ Geneva
++Boston
+ Zug
+-Boston
+ Accountant
+ London, Montreal, Warsaw, Jersey
+ Accountant - Physical Metal
+```
+
+---
+
 ## 2025-07-24 07:16:50
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
