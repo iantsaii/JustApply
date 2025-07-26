@@ -1,4 +1,67 @@
 
+## 2025-07-26 07:12:53
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,8 +85,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Austin
+@@ -139,8 +139,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Austin
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,6 +175,9 @@
+ 10
+ of
+ 16
++Quantitative Research Engineer – PhD Intern (US)
++Miami, New York
++Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
+ London, Paris, Zurich
+ Apply Now
+@@ -198,9 +201,6 @@
+ Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+-Apply Now
+-Quantitative Research Engineer – PhD Intern (US)
+-Miami, New York
+ Apply Now
+ Investment & Trading – Intern (US)
+ Greenwich, Miami, New York
+```
+
+---
+
 ## 2025-07-25 07:17:00
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
