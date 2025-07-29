@@ -132,8 +132,6 @@ Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
 Quantitative Researcher - Capital Efficiency
 New York
-Quantitative Researcher – FICC Modeling
-New York
 Quantitative Researcher - Intraday Trading
 New York
 Recruitment Intern (Fall 2025)
@@ -173,7 +171,7 @@ London, Montreal, Singapore, Warsaw
 Software Developer (KDB+/Q)
 London, Montreal, Singapore
 Software Developer - Order Gateway
-London , Montreal , Singapore, Bangalore & Warsaw
+London , Montreal , Singapore & Warsaw
 Software Developer - Order Gateway Integration
 Singapore
 Software Developer (Python)
@@ -189,9 +187,9 @@ New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
-London
-Tax Analyst
 Bangalore
+Tax Analyst
+London
 Tax Analyst - Funds
 London
 Tax Assistant
