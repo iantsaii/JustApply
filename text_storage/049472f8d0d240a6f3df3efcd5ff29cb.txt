@@ -44,7 +44,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-5 jobs
+4 jobs
 Share
 Clear
 Filters
@@ -52,7 +52,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-5 jobs
+4 jobs
 Share
 Clear
 Job title
@@ -69,9 +69,6 @@ View job
 Senior Software Engineer, Data.gov.sg
 Hybrid
 View job
-Senior Software Engineer, RedeemSG
-Hybrid
-View job
 Lead Software Engineer, Civic Tech (Public Safety)
 Hybrid
 View job
@@ -82,8 +79,5 @@ Senior / Lead Software Engineer, Maps
 Hybrid
 View job
 Senior Software Engineer, Data.gov.sg
-Hybrid
-View job
-Senior Software Engineer, RedeemSG
 Hybrid
 View job

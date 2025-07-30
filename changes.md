@@ -1,4 +1,259 @@
 
+## 2025-07-30 07:18:55
+
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -172,6 +172,24 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Systems Engineer with a focus on physical security systems to join our Enterprise Technology team. This role will liaise closely with our Workplace and various Security teams to conduct research, design, and maintain physical security platforms. You’ll join a lean and technical...
++Systems Engineer – Distributed Compute
++↳ Apply Now
++London
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
++Systems Engineer – Distributed Compute
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
++Systems Engineer – Distributed Compute
++↳ Apply Now
++Chicago
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
+ Systems Engineer – Data Systems & Platforms
+ ↳ Apply Now
+ Tarrytown
+@@ -184,6 +202,36 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
++GPU Systems Engineer
++↳ Apply Now
++London
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++Austin
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++Boston
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++Chicago
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+ Senior HPC Storage Architect
+ ↳ Apply Now
+ Boulder
+@@ -226,24 +274,6 @@
+ Experienced
+ C++
+ Hudson River Trading (HRT) is a leading quantitative trading and investment firm specializing in multi-asset class strategies. At the core of our success lies the power of our compute cluster, the foundation where all our trading strategies are conceived and refined. We’re looking for innovative minds to enhance the data...
+-Experienced C++ Developer, ETFs
+-↳ Apply Now
+-New York
+-Experienced
+-C++
+-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers our worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside developers across the firm who write trading algorithms, monitor...
+-Experienced C++ Developer, Fixed Income
+-↳ Apply Now
+-New York
+-Experienced
+-C++
+-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers our worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside developers across the firm who write trading algorithms, monitor...
+-Experienced C++ Developer, Fixed Income
+-↳ Apply Now
+-London
+-Experienced
+-C++
+-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers our worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside developers across the firm who write trading algorithms, monitor...
+ Experienced C++ Developer, Options
+ ↳ Apply Now
+ New York
+@@ -526,6 +556,12 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for an experienced Windows Engineer with exceptional Microsoft Azure experience and a strong service reliability mindset to join the IT team. In this role, you will directly contribute to the growth and modernization of our Windows platform as we increase our utilization of Azure...
++Middle Office Analyst
++↳ Apply Now
++Singapore
++Experienced
++Trade Operations
++The Middle Office team at Hudson River Trading (HRT) is responsible for ensuring the smooth operation of HRT’s post-trade platform. Our global trading platform supports trading across many asset classes and geographies. Our team designs and operates the systems and processes that reconcile the firm’s trading with our various brokers...
+ TradeOps Analyst
+ ↳ Apply Now
+ Singapore
+@@ -592,6 +628,18 @@
+ Experienced
+ Python
+ Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
++Junior Electronic Trading Support Engineer
++↳ Apply Now
++Austin
++Experienced
++Trade Operations
++Hudson River Trading (HRT) is looking for a Junior Electronic Trading Support Engineer to join our global Trade Operations (TradeOps) team in Austin. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
++Junior Electronic Trading Support Engineer
++↳ Apply Now
++New York
++Experienced
++Trade Operations
++Hudson River Trading (HRT) is looking for a Junior Electronic Trading Support Engineer to join our global Trade Operations (TradeOps) team in NYC. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
+ Software Engineering Internship – Summer 2026
+ ↳ Apply Now
+ New York
+@@ -669,19 +717,19 @@
+ Chicago
+ Experienced
+ Trade Operations
+-Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our Trade Operations (TradeOps) team in our global team. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
++Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our global Trade Operations (TradeOps) team in Chicago. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring, and...
+ Electronic Trading Support Engineer
+ ↳ Apply Now
+ Austin
+ Experienced
+ Trade Operations
+-Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our Trade Operations (TradeOps) team in our global team. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
++Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our global Trade Operations (TradeOps) team in Austin. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring, and...
+ Electronic Trading Support Engineer
+ ↳ Apply Now
+ New York
+ Experienced
+ Trade Operations
+-Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our Trade Operations (TradeOps) team in our global team. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
++Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our global Trade Operations (TradeOps) team in NYC. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring, and...
+ Design Verification (DV) Engineer
+ ↳ Apply Now
+ London
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,13 +226,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,6 +90,8 @@
+ Montreal & New York
+ Network Specialist - Security
+ Montreal, New York & Singapore
++Office Administrator
++Warsaw
+ Office Administrator
+ Houston
+ Operational Risk Analyst
+@@ -187,9 +189,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
++London
++Tax Analyst
+ Bangalore
+-Tax Analyst
+-London
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-5 jobs
++4 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +52,7 @@
+ Singapore
+ Singapore
+ Singapore
+-5 jobs
++4 jobs
+ Share
+ Clear
+ Job title
+@@ -69,9 +69,6 @@
+ Senior Software Engineer, Data.gov.sg
+ Hybrid
+ View job
+-Senior Software Engineer, RedeemSG
+-Hybrid
+-View job
+ Lead Software Engineer, Civic Tech (Public Safety)
+ Hybrid
+ View job
+@@ -84,6 +81,3 @@
+ Senior Software Engineer, Data.gov.sg
+ Hybrid
+ View job
+-Senior Software Engineer, RedeemSG
+-Hybrid
+-View job
+```
+
+---
+
 ## 2025-07-29 07:18:07
 
 ### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
