@@ -136,6 +136,10 @@ Manage cookies
 help
 Help
 open_in_new
+language
+English
+English
+Français (Canada)
 Jobs search results
 0
 jobs matched
@@ -183,6 +187,10 @@ Manage cookies
 help
 Help
 open_in_new
+language
+English
+English
+Français (Canada)
 Follow Life at Google on
 More about us
 About us
@@ -222,6 +230,10 @@ Manage cookies
 help
 Help
 open_in_new
+language
+English
+English
+Français (Canada)
 Careers
 Main menu
 Google apps

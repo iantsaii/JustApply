@@ -60,6 +60,8 @@ Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
 Financial Reporting Manager
 London, New York
+FP&A Manager
+London,  Montreal, Bangalore, Warsaw
 Graduate Software Developer
 London, Montreal, Warsaw, New York, Singapore
 Graduate Support Specialist
@@ -90,10 +92,12 @@ Network Specialist - Reliability
 Montreal & New York
 Network Specialist - Security
 Montreal, New York & Singapore
-Office Administrator
-Warsaw
+Network Specialist - ULL
+Montreal, London,  New York
 Office Administrator
 Houston
+Office Administrator
+Warsaw
 Operational Risk Analyst
 London
 Operations Intern

@@ -1,4 +1,152 @@
 
+## 2025-07-31 07:17:51
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,7 +61,6 @@
+ Amsterdam
+ Austin
+ Chicago
+-Frankfurt
+ London
+ Mumbai
+ New York
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -136,6 +136,10 @@
+ help
+ Help
+ open_in_new
++language
++English
++English
++Français (Canada)
+ Jobs search results
+ 0
+ jobs matched
+@@ -183,6 +187,10 @@
+ help
+ Help
+ open_in_new
++language
++English
++English
++Français (Canada)
+ Follow Life at Google on
+ More about us
+ About us
+@@ -222,6 +230,10 @@
+ help
+ Help
+ open_in_new
++language
++English
++English
++Français (Canada)
+ Careers
+ Main menu
+ Google apps
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -550,12 +550,12 @@
+ Experienced
+ Risk
+ Hudson River Trading is hiring a Corporate Credit Risk Manager for our NYC office. You will be responsible for designing, improving, managing, and communicating market and liquidity risk for corporate credit-related instruments and strategies. You will own and manage all aspects of credit trading risk faced by the firm, while...
+-Windows Engineer
+-↳ Apply Now
+-Singapore
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for an experienced Windows Engineer with exceptional Microsoft Azure experience and a strong service reliability mindset to join the IT team. In this role, you will directly contribute to the growth and modernization of our Windows platform as we increase our utilization of Azure...
++Senior Windows Platform and Cloud Infrastructure Engineer
++↳ Apply Now
++Singapore
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for a Senior Windows Platform and Cloud Infrastructure Engineer with exceptional Microsoft Azure experience and a strong service reliability mindset to join the IT team. In this role, you will directly contribute to the growth and modernization of our Windows platform as we increase...
+ Middle Office Analyst
+ ↳ Apply Now
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -60,6 +60,8 @@
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+ Financial Reporting Manager
+ London, New York
++FP&A Manager
++London,  Montreal, Bangalore, Warsaw
+ Graduate Software Developer
+ London, Montreal, Warsaw, New York, Singapore
+ Graduate Support Specialist
+@@ -90,10 +92,12 @@
+ Montreal & New York
+ Network Specialist - Security
+ Montreal, New York & Singapore
++Network Specialist - ULL
++Montreal, London,  New York
++Office Administrator
++Houston
+ Office Administrator
+ Warsaw
+-Office Administrator
+-Houston
+ Operational Risk Analyst
+ London
+ Operations Intern
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -317,10 +317,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-07-30 07:18:55
 
 ### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
