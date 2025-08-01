@@ -1,4 +1,178 @@
 
+## 2025-08-01 07:19:59
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -168,19 +168,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -224,3 +211,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -706,12 +706,6 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is seeking an IT Operations Engineer to join our Information Technology team. In this role, you’ll be responsible for providing technical support to HRTers around the globe, while also driving automation and engineering solutions to improve scalability and efficiency. You’ll work closely with IT leadership to...
+-Communications Specialist
+-↳ Apply Now
+-New York
+-Experienced
+-People Operations
+-Hudson River Trading (HRT) is seeking a Communications Specialist to join our Communications & Creative Team. In this role, you’ll collaborate across teams to develop and execute messaging that enhances the employee experience and elevates our external brand. You’ll manage the full project lifecycle for communications initiatives but also apply...
+ Electronic Trading Support Engineer
+ ↳ Apply Now
+ Chicago
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -19,7 +19,6 @@
+ Office Acquisition and Development
+ Office Management
+ Operations
+-Recruiting & Talent Development
+ Tax
+ Technology
+ Offices
+@@ -95,9 +94,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
++Warsaw
++Office Administrator
+ Houston
+-Office Administrator
+-Warsaw
+ Operational Risk Analyst
+ London
+ Operations Intern
+@@ -140,8 +139,6 @@
+ New York
+ Quantitative Researcher - Intraday Trading
+ New York
+-Recruitment Intern (Fall 2025)
+-Montreal
+ Senior Discretionary Trader - Credit
+ London, New York
+ Senior Discretionary Trader - Equities
+@@ -163,7 +160,7 @@
+ Software Developer (C++)
+ London, Montreal, Singapore
+ Software Developer - Data Infrastructure
+-London, Montreal, Singapore, Warsaw
++London, Montreal, Singapore
+ Software Developer - Data Pipelines (Python)
+ London, Montreal, Madrid, Bangalore
+ Software Developer – Data Products and Services
+@@ -177,7 +174,7 @@
+ Software Developer (KDB+/Q)
+ London, Montreal, Singapore
+ Software Developer - Order Gateway
+-London , Montreal , Singapore & Warsaw
++Montreal , Singapore & Warsaw
+ Software Developer - Order Gateway Integration
+ Singapore
+ Software Developer (Python)
+@@ -193,9 +190,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
+-London
++Bangalore
+ Tax Analyst
+-Bangalore
++London
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+
 ## 2025-07-31 07:17:51
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
