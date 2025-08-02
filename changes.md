@@ -1,4 +1,174 @@
 
+## 2025-08-02 07:12:38
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -168,6 +168,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -211,16 +224,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -16,6 +16,7 @@
+ Close mobile navigation
+ Expand economic access across the globe
+ Bridge open roles
++Privy open roles
+ Opens the multi-select filter menu
+ Teams
+ Administrative
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++London
+ Hong Kong
+-London
+-New York
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++London
+ Hong Kong
+-London
+-New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (16)
++Opportunities (18)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,36 +174,36 @@
+ Viewing
+ 10
+ of
+-16
++18
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
++Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
+ London, Paris, Zurich
+ Apply Now
+ Software Engineer – Intern (US)
+ Chicago, Miami, New York
+ Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
+ Quantitative Researcher – PhD Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
+ Site Reliability Engineer – Intern (Asia)
+ Singapore
+ Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Greenwich, Miami, New York
++Operations Analyst – Intern (US)
++New York
+ Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+-Apply Now
+-Investment & Trading – Intern (US)
+-Greenwich, Miami, New York
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2025-08-01 07:19:59
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
