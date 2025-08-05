@@ -1,4 +1,218 @@
 
+## 2025-08-05 07:19:58
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -68,6 +68,7 @@
+ Singapore
+ Sydney
+ Taipei
++United States
+ Singapore
+ Sorry, no results available.
+ Internship
+@@ -168,6 +169,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -211,16 +225,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -302,8 +302,6 @@
+ Solutions
+ Startups
+ Enterprises
+-Retail
+-Nonprofits
+ SaaS
+ Platforms
+ Ecommerce
+@@ -314,6 +312,10 @@
+ Embedded finance
+ Global businesses
+ Finance automation
++Insurance
++Media and Entertainment
++Nonprofits
++Retail
+ Integrations & custom solutions
+ Stripe App Marketplace
+ Partner ecosystem
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,13 +226,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -93,9 +93,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
++Houston
++Office Administrator
+ Warsaw
+-Office Administrator
+-Houston
+ Operational Risk Analyst
+ London
+ Operations Intern
+@@ -103,7 +103,7 @@
+ Platform Applications Specialist
+ Montreal, London & Singapore
+ Platform Compute and Storage Specialist
+-Montreal , New York & London
++Montreal , New York , London & Singapore
+ Platform Specialist - Databases
+ Montreal, New York, Houston , Boston , Singapore Hong Kong
+ Platform Specialist - Development Tools
+@@ -116,8 +116,6 @@
+ London, Warsaw , Montreal, New York, Houston & Boston
+ Platform Specialist - Scheduler and Orchestrators
+ Montreal, New York, Houston , Boston , Singapore & Hong Kong
+-Platform Specialist - Storage Developer
+-London, New York
+ Platform Specialist - ULL
+ London, New York
+ Platform Specialist - Windows and Virtualization
+@@ -189,9 +187,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
++London
++Tax Analyst
+ Bangalore
+-Tax Analyst
+-London
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -35,7 +35,6 @@
+ Internship
+ Policy
+ Product Design
+-Product Operations
+ Software Engineering
+ Show filters
+ (2)
+```
+
+---
+
 ## 2025-08-04 07:22:30
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
