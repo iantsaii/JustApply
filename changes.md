@@ -1,4 +1,152 @@
 
+## 2025-08-06 07:19:15
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++London
+ Hong Kong
+-London
+-New York
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++London
+ Hong Kong
+-London
+-New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -652,18 +652,6 @@
+ Experienced
+ Business Development
+ Hudson River Trading is hiring a Business Development Analyst in our Singapore office. This role will support HRT’s Asia equities and derivatives business and help guide the continued development of HRT’s Asia platform. As a business development analyst, you will be exposed to the inner workings of automated trading across...
+-Technical Program Manager – Data Center Infrastructure
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-The Research and Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced Technical Program Manager to oversee all aspects of technical projects within our R&D...
+-Technical Program Manager – Data Center Infrastructure
+-↳ Apply Now
+-New York
+-Experienced
+-Systems and Networking
+-The Research and Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, data storage, operating systems, and software that allows our trading strategies to run worldwide 24/7. We are looking for an experienced Technical Program Manager to oversee all aspects of technical projects within our R&D...
+ Software Engineering Internship – Summer 2026
+ ↳ Apply Now
+ Singapore
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,6 +226,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -43,7 +43,7 @@
+ Accounts Payable Manager
+ London, New York, Montreal
+ Assistant Controller - Management Company
+-London, Montreal
++Montreal, Warsaw
+ Assistant Tax Manager
+ London
+ Compliance Analyst - Discretionary Trading & Fundamental Research
+@@ -66,6 +66,8 @@
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Associate - Workday
+ Bangalore, London, Singapore, Montreal, New York
++Indirect Tax Analyst
++Bangalore
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
+ Junior Commodities Fundamental Analyst
+@@ -187,9 +189,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
+-London
++Bangalore
+ Tax Analyst
+-Bangalore
++London
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -33,7 +33,6 @@
+ All departments
+ Corporate
+ Internship
+-Policy
+ Product Design
+ Software Engineering
+ Show filters
+```
+
+---
+
 ## 2025-08-05 07:19:58
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
