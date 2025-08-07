@@ -1,4 +1,114 @@
 
+## 2025-08-07 07:19:55
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,6 +61,7 @@
+ Amsterdam
+ Austin
+ Chicago
++Durham
+ London
+ Mumbai
+ New York
+@@ -68,7 +69,6 @@
+ Singapore
+ Sydney
+ Taipei
+-United States
+ Singapore
+ Sorry, no results available.
+ Internship
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -580,12 +580,6 @@
+ Experienced
+ People Operations
+ Hudson River Trading (HRT) is looking for a Recruiting Coordinator to join our global Recruiting team. In this role, you will be a scheduling and logistics guru responsible for providing a first-class interview experience for both candidates and internal stakeholders. You will join a small team dedicated to overseeing all...
+-Business Development Manager
+-↳ Apply Now
+-Mumbai
+-Experienced
+-Business Development
+-Hudson River Trading is hiring a Business Development Manager in our Mumbai office. This role will support HRT’s India equities and derivatives business and help guide the continued development of our India platform. The right candidate is an enthusiastic learner with a keen interest in both trading and technology.  In...
+ Data Production Engineer
+ ↳ Apply Now
+ London
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -70,6 +70,8 @@
+ Bangalore
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
++Intern Software Developer - Winter 2026
++Montreal, Singapore
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris
+ Junior Discretionary Trader
+@@ -95,9 +97,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
++Warsaw
++Office Administrator
+ Houston
+-Office Administrator
+-Warsaw
+ Operational Risk Analyst
+ London
+ Operations Intern
+@@ -127,7 +129,7 @@
+ Platform ULL - Colo - Strategic
+ Montreal, London & New York
+ Property Assistant
+-New York
++Montreal
+ Quant Developer
+ London, Montreal, Warsaw, Singapore
+ Quant Developer (C++)
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -34,6 +34,7 @@
+ Corporate
+ Internship
+ Product Design
++Product Management
+ Software Engineering
+ Show filters
+ (2)
+```
+
+---
+
 ## 2025-08-06 07:19:15
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
