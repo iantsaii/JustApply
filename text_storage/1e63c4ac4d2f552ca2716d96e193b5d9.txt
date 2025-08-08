@@ -166,6 +166,18 @@ New York
 Experienced
 People Operations
 Hudson River Trading is looking for an ambitious and results-oriented Quant Research Campus Recruiter to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
+Software Engineer (C++ or Python) – 2026 Grads
+↳ Apply Now
+Singapore
+New Grad
+C++
+As a Software Engineer at Hudson River Trading (HRT), the code you write is our business. Our engineers create and maintain critical technology and infrastructure that is integral to the success of our trading. In this role, you will work closely with other engineers across the firm who design trading...
+Software Engineer (C++ or Python) – 2026 Grads
+↳ Apply Now
+New York
+New Grad
+C++
+As a Software Engineer at Hudson River Trading (HRT), the code you write is our business. Our engineers create and maintain critical technology and infrastructure that is integral to the success of our trading. In this role, you will work closely with other engineers across the firm who design trading...
 Systems Engineer – Physical Security
 ↳ Apply Now
 New York
@@ -490,6 +502,36 @@ Singapore
 Experienced
 C++
 We are looking for engineers to power Hudson River Trading's continued expansion into global markets. As an engineer based out of our Singapore office, you will play a critical role in the process of establishing HRT's presence in Asia-Pacific markets and work closely with our algo and operations teams to...
+Algorithm Trader (Quantitative Trader) Internship – Summer 2026
+↳ Apply Now
+New York
+Internship
+Strategy Development
+Hudson River Trading (HRT) is introducing a new internship program designed to drive our expanding set of trading strategies. We've evolved from a fully automated, high frequency trading firm into a diverse market participant that blends discretionary and systematic strategies across various frequencies, and with that evolution has come a...
+Algorithm Development (Quant Research) PhD Internship – Summer 2026
+↳ Apply Now
+Singapore
+Internship
+Strategy Development
+Hudson River Trading (HRT) is seeking exceptional full-time PhD students to join our Algorithm Development summer internship program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. Trading in 200+ markets around the world in a variety of time horizons ensures there are always innovative...
+Algorithm Development (Quant Research) PhD Internship – Summer 2026
+↳ Apply Now
+New York
+Internship
+Strategy Development
+Hudson River Trading (HRT) is seeking exceptional full-time PhD students to join our Algorithm Development summer internship program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. Trading in 200+ markets around the world in a variety of time horizons ensures there are always innovative...
+Algorithm Developer (Quant Researcher) – 2026 PhDs
+↳ Apply Now
+New York
+New Grad
+Strategy Development
+Algorithm Developers are responsible for building and maintaining the models that drive our trading. A typical day involves applying rigorous statistical analysis to vast quantities of market and financial data to produce predictive trading models.  In this role, you will work alongside fellow Algorithm Developers and Software Engineers to research,...
+Algorithm Developer (Quant Researcher) – 2026 Grads
+↳ Apply Now
+New York
+New Grad
+Strategy Development
+Algorithm Developers are responsible for building and maintaining the models that drive our trading. A typical day involves applying rigorous statistical analysis to vast quantities of market and financial data to produce predictive trading models.  In this role, you will work alongside fellow Algorithm Developers and Software Engineers to research,...
 Algorithm Development (Quant Research) Internship – Summer 2026
 ↳ Apply Now
 New York

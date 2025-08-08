@@ -237,21 +237,26 @@ Apple Trade In
 +
 Please enable Javascript in your browser for best experience.
 Careers at Apple
-Open Menu
-Close Menu
+Search Roles
+Overview
 Work at Apple
+Explore Work at Apple
+Locations
+Teams
+Apple Retail
+Students
 Life at Apple
-Profile
+Explore Life at Apple
+Diversity Network Associations
+Shared Values
+Benefits
+My Profile
 Sign In
-Search
 Find your perfect role.
 To reveal list of choices, type
 Most corporate roles require English-language skills.
 Filters
 Clear all
-Saved Searches
-Favorites
-Recently viewed roles
 Refine by
 Location
 1
@@ -270,8 +275,7 @@ Teams
 Clear Team(s)
 To reveal list of choices, type
 View all teams
-Students
-:
+Students:
 Internships
 Products and Services
 0
@@ -287,11 +291,13 @@ Language Skills
 0 Filter(s) Applied
 Clear Language(s)
 To reveal list of choices, type
+Saved Searches
+Favorites
+Recently viewed roles
 2 Filter(s) Applied
 Save Search
 Singapore
-Students
-:
+Students:
 Internships
 text
 More

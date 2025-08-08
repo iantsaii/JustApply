@@ -97,9 +97,9 @@ Montreal, New York & Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-Warsaw
-Office Administrator
 Houston
+Office Administrator
+Warsaw
 Operational Risk Analyst
 London
 Operations Intern
@@ -136,6 +136,8 @@ Quant Developer (C++)
 Singapore, London, New York
 Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
+Quantitative Developer, Volatility - Market Making
+New York
 Quantitative Researcher - Capital Efficiency
 New York
 Quantitative Researcher - Intraday Trading
@@ -191,9 +193,9 @@ New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
-Bangalore
-Tax Analyst
 London
+Tax Analyst
+Bangalore
 Tax Analyst - Funds
 London
 Tax Assistant
