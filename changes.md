@@ -1,4 +1,110 @@
 
+## 2025-08-10 07:11:33
+
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,13 +226,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -97,9 +97,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
++Warsaw
++Office Administrator
+ Houston
+-Office Administrator
+-Warsaw
+ Operational Risk Analyst
+ London
+ Operations Intern
+@@ -193,9 +193,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
+-London
++Bangalore
+ Tax Analyst
+-Bangalore
++London
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -43,7 +43,7 @@
+ Singapore
+ Singapore
+ Singapore
+-4 jobs
++5 jobs
+ Share
+ Clear
+ Filters
+@@ -51,7 +51,7 @@
+ Singapore
+ Singapore
+ Singapore
+-4 jobs
++5 jobs
+ Share
+ Clear
+ Job title
+@@ -68,6 +68,9 @@
+ Senior Software Engineer, Data.gov.sg
+ Hybrid
+ View job
++Software Engineer, Pair
++Hybrid
++View job
+ Lead Software Engineer, Civic Tech (Public Safety)
+ Hybrid
+ View job
+@@ -80,3 +83,6 @@
+ Senior Software Engineer, Data.gov.sg
+ Hybrid
+ View job
++Software Engineer, Pair
++Hybrid
++View job
+```
+
+---
+
 ## 2025-08-09 07:12:03
 
 ### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
