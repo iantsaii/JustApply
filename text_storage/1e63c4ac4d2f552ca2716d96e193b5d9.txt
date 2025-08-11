@@ -496,6 +496,12 @@ Singapore
 Experienced
 C++
 We are looking for engineers to power Hudson River Trading's continued expansion into global markets. As an engineer based out of our Singapore office, you will play a critical role in the process of establishing HRT's presence in Asia-Pacific markets and work closely with our algo and operations teams to...
+Algo Developer – Campus New Grad – 2026 (SNG) – External
+↳ Apply Now
+Singapore
+New Grad
+Strategy Development
+​​Algorithm Developers are responsible for building and maintaining the models that drive our trading. A typical day involves applying rigorous statistical analysis to vast quantities of market and financial data to produce provably predictive trading models. You will run models live on our high-performance trading infrastructure, and analyze their daily...
 Algorithm Trader (Quantitative Trader) Internship – Summer 2026
 ↳ Apply Now
 New York
