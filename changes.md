@@ -1,4 +1,275 @@
 
+## 2025-08-12 07:14:13
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -169,19 +169,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -225,3 +212,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -222,12 +222,6 @@
+ Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+ GPU Systems Engineer
+ ↳ Apply Now
+-Austin
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+-GPU Systems Engineer
+-↳ Apply Now
+ Boston
+ Experienced
+ Systems and Networking
+@@ -370,30 +364,18 @@
+ Experienced
+ Systems and Networking
+ The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+-Software Engineer – Treasury Infrastructure
+-↳ Apply Now
+-London
+-Experienced
+-C++
+-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
+-Software Engineer – Treasury Infrastructure
+-↳ Apply Now
+-Austin
+-Experienced
+-C++
+-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
+-Software Engineer – Treasury Infrastructure
+-↳ Apply Now
+-Chicago
+-Experienced
+-C++
+-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
+-Software Engineer – Treasury Infrastructure
+-↳ Apply Now
+-New York
+-Experienced
+-C++
+-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
++Senior Software Engineer – Treasury Infrastructure
++↳ Apply Now
++Chicago
++Experienced
++C++
++Hudson River Trading (HRT) is looking for a Senior Software Engineer to focus on our Treasury Infrastructure. Coders at HRT work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll...
++Senior Software Engineer – Treasury Infrastructure
++↳ Apply Now
++New York
++Experienced
++C++
++Hudson River Trading (HRT) is looking for a Senior Software Engineer to focus on our Treasury Infrastructure. Coders at HRT work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll...
+ Low Level Software Engineer (C++)
+ ↳ Apply Now
+ Hong Kong
+@@ -496,12 +478,24 @@
+ Experienced
+ C++
+ We are looking for engineers to power Hudson River Trading's continued expansion into global markets. As an engineer based out of our Singapore office, you will play a critical role in the process of establishing HRT's presence in Asia-Pacific markets and work closely with our algo and operations teams to...
+-Algo Developer – Campus New Grad – 2026 (SNG) – External
++Algorithm Developer (Quant Researcher) – 2026 PhDs
+ ↳ Apply Now
+ Singapore
+ New Grad
+ Strategy Development
+-​​Algorithm Developers are responsible for building and maintaining the models that drive our trading. A typical day involves applying rigorous statistical analysis to vast quantities of market and financial data to produce provably predictive trading models. You will run models live on our high-performance trading infrastructure, and analyze their daily...
++Hudson River Trading (HRT) is seeking exceptional full-time PhD students to join our Algorithm Development team. Algorithm Developers are responsible for building and maintaining the models that drive our trading. A typical day involves applying rigorous statistical analysis to vast quantities of market and financial data to produce predictive trading...
++Algorithm Developer (Quant Researcher) – 2026 Grads
++↳ Apply Now
++Singapore
++New Grad
++Strategy Development
++Hudson River Trading (HRT) is seeking exceptional full-time students to join our Algorithm Development team. Algorithm Developers are responsible for building and maintaining the models that drive our trading. A typical day involves applying rigorous statistical analysis to vast quantities of market and financial data to produce predictive trading models. ...
++Business Development Analyst
++↳ Apply Now
++New York
++Experienced
++Business Development
++Hudson River Trading (HRT) is looking for a Business Development Analyst to join our Business Development team in New York City. This role will support HRT's Americas Equities business and help manage relationships with stock exchanges, ATSs, clearing firms, and brokers. The ideal candidate will apply their subject matter expertise...
+ Algorithm Trader (Quantitative Trader) Internship – Summer 2026
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -100,8 +100,6 @@
+ Montreal, London,  New York
+ Office Administrator
+ Warsaw
+-Office Administrator
+-Houston
+ Operational Risk Analyst
+ London
+ Operations Intern
+@@ -125,7 +123,7 @@
+ Platform Specialist - ULL
+ London, New York
+ Platform Specialist - Windows and Virtualization
+-London, Montreal
++Bangalore
+ Platform ULL - Colo - Reliability
+ London, Montreal, New York & Singapore
+ Platform ULL - Colo - Strategic
+@@ -195,9 +193,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
+-Bangalore
++London
+ Tax Analyst
+-London
++Bangalore
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (18)
++Opportunities (20)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,36 +174,36 @@
+ Viewing
+ 10
+ of
+-18
++20
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
++Software Engineer – Intern (Europe)
++London
++Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+ Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
++Site Reliability Engineer – Intern (Asia)
++Singapore
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
+ London, Paris, Zurich
+ Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Site Reliability Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Operations Analyst – Intern (US)
+-New York
+-Apply Now
+-International Equities Associate – Intern (Europe)
+-London
++Quantitative Research Analyst Intern – BS/MS (Europe)
++London, Paris, Zurich
+ Apply Now
+ 1
+ 2
+@@ -317,10 +317,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-08-11 07:19:11
 
 ### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
