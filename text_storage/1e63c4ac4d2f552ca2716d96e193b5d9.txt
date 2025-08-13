@@ -368,13 +368,13 @@ Senior Software Engineer – Treasury Infrastructure
 ↳ Apply Now
 Chicago
 Experienced
-C++
+Python
 Hudson River Trading (HRT) is looking for a Senior Software Engineer to focus on our Treasury Infrastructure. Coders at HRT work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll...
 Senior Software Engineer – Treasury Infrastructure
 ↳ Apply Now
 New York
 Experienced
-C++
+Python
 Hudson River Trading (HRT) is looking for a Senior Software Engineer to focus on our Treasury Infrastructure. Coders at HRT work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll...
 Low Level Software Engineer (C++)
 ↳ Apply Now
@@ -772,12 +772,6 @@ New York
 Experienced
 Hardware Engineering
 The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. These high performance designs...
-Electronic Trading Support Engineer
-↳ Apply Now
-London
-Experienced
-Trade Operations
-Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our Trade Operations (TradeOps) team in our London office. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
 Python Engineer
 ↳ Apply Now
 Singapore

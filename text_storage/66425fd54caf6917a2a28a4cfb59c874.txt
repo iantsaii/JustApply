@@ -40,8 +40,6 @@ Accountant
 London, Montreal, Warsaw, Jersey
 Accountant - Physical Metal
 London, Jersey, Singapore, Hong Kong
-Accounts Payable Manager
-London, New York, Montreal
 Assistant Controller - Management Company
 Montreal, Warsaw
 Assistant Tax Manager
@@ -193,9 +191,9 @@ New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
-London
-Tax Analyst
 Bangalore
+Tax Analyst
+London
 Tax Analyst - Funds
 London
 Tax Assistant

@@ -1,4 +1,204 @@
 
+## 2025-08-13 07:14:45
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -169,6 +169,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -212,16 +225,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -368,13 +368,13 @@
+ ↳ Apply Now
+ Chicago
+ Experienced
+-C++
++Python
+ Hudson River Trading (HRT) is looking for a Senior Software Engineer to focus on our Treasury Infrastructure. Coders at HRT work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll...
+ Senior Software Engineer – Treasury Infrastructure
+ ↳ Apply Now
+ New York
+ Experienced
+-C++
++Python
+ Hudson River Trading (HRT) is looking for a Senior Software Engineer to focus on our Treasury Infrastructure. Coders at HRT work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll...
+ Low Level Software Engineer (C++)
+ ↳ Apply Now
+@@ -772,12 +772,6 @@
+ Experienced
+ Hardware Engineering
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. These high performance designs...
+-Electronic Trading Support Engineer
+-↳ Apply Now
+-London
+-Experienced
+-Trade Operations
+-Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our Trade Operations (TradeOps) team in our London office. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
+ Python Engineer
+ ↳ Apply Now
+ Singapore
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,6 +226,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -40,8 +40,6 @@
+ London, Montreal, Warsaw, Jersey
+ Accountant - Physical Metal
+ London, Jersey, Singapore, Hong Kong
+-Accounts Payable Manager
+-London, New York, Montreal
+ Assistant Controller - Management Company
+ Montreal, Warsaw
+ Assistant Tax Manager
+@@ -193,9 +191,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
+-London
++Bangalore
+ Tax Analyst
+-Bangalore
++London
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -178,8 +178,8 @@
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
+-Software Engineer – Intern (Europe)
+-London
++Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
+ Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+@@ -187,23 +187,23 @@
+ Sector Data Analyst – Intern (Europe)
+ London
+ Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
+ Software Engineer – Intern (Asia)
+ Singapore
+ Apply Now
+ Site Reliability Engineer – Intern (Asia)
+ Singapore
+ Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+-Apply Now
+-Quantitative Research Analyst Intern – BS/MS (Europe)
+-London, Paris, Zurich
++Operations – Intern (Asia)
++Singapore
++Apply Now
++Investment & Trading – Intern (Europe)
++London, Paris
++Apply Now
++Operations Analyst – Intern (US)
++New York
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2025-08-12 07:14:13
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
