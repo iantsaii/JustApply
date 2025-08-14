@@ -85,9 +85,9 @@ Industrial Placement Year
 Internship
 LOCATION
 All Locations
+Hong Kong
 New York
 London
-Hong Kong
 Singapore
 Austin
 Mumbai
@@ -110,6 +110,7 @@ All Teams
 Team
 SEASON/DURATION
 All Durations
+Permanent
 Season/duration
 Clear Filters
 This criteria yielded no results
@@ -139,9 +140,9 @@ Industrial Placement Year
 Internship
 LOCATION
 All Locations
+Hong Kong
 New York
 London
-Hong Kong
 Singapore
 Austin
 Mumbai
@@ -164,6 +165,7 @@ All Teams
 Team
 SEASON/DURATION
 All Durations
+Permanent
 Season/duration
 Clear Filters
 This criteria yielded no results

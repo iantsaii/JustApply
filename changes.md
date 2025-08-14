@@ -1,4 +1,256 @@
 
+## 2025-08-14 07:14:53
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -82,6 +82,11 @@
+ Careers
+ Recruitment news
+ <
++Life at Optiver, Meet the team
++Day in the life: Quant trader intern
++Meet Jashun When I was deciding where to spend my summer, Optiver stood out as the best place to explore quant trading and develop my skills. I was drawn to the firm’s strong culture of internal support and how they focus on long-term development. I also can’t complain about the amazing location and food in […]
++Learn more
++Americas
+ Meet the team
+ Coding the Path to Trading: Brent’s internship journey
+ Brent joined Optiver as a Quantitative Trading Intern in the summer of 2023 and has since continued his career with the global trading firm as a full-time trader. In this interview, he reflects on his internship program experience and shares insights into how the team has supported him to build his trading career at Optiver.
+@@ -127,12 +132,6 @@
+ Diverse perspectives, one challenge: How three trading interns tackled the S&P straddle project
+ In the summer of 2024, three talented students joined Optiver Amsterdam as trading interns. Alongside 16 of their peers, they embarked on a significant group project aimed at predicting one-day-out realised volatility. While united by a common goal, each intern brought a unique perspective, skill set and approach to the challenge.
+ We spoke with them during the project phase of their eight-week internship. They shared insights into their training, simulated trading experiences, and how these shaped their contributions to the collective project.
+-Learn more
+-EMEA
+-Series
+-Life at Optiver
+-Real projects, real impact: Amsterdam summer tech internship
+-This summer, we welcomed a group of talented tech interns to our Amsterdam office, where they spent six weeks immersed in the fast-paced world of market making. Under the guidance of our seasoned engineers and in-house education team, they moved from intensive training sessions to getting hands-on with the cutting-edge technology that powers our operations.
+ Learn more
+ EMEA
+ >
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+ London
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -110,6 +110,7 @@
+ Team
+ SEASON/DURATION
+ All Durations
++Permanent
+ Season/duration
+ Clear Filters
+ This criteria yielded no results
+@@ -139,9 +140,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+ London
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -164,6 +165,7 @@
+ Team
+ SEASON/DURATION
+ All Durations
++Permanent
+ Season/duration
+ Clear Filters
+ This criteria yielded no results
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -556,6 +556,12 @@
+ Internship
+ Strategy Development
+ Hudson River Trading (HRT) is seeking exceptional full-time students to join our Algorithm Development Summer Internship Program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. As an intern, you will have the opportunity to rotate between our high-frequency trading, multi-frequency trading, and/or machine learning...
++Tax Specialist
++↳ Apply Now
++New York
++Experienced
++Finance
++Hudson River Trading (HRT) is looking for a Tax Specialist to join our growing Tax team! As a Tax Specialist, you will work on US tax compliance for partnerships, including tax estimates and distributions, indirect taxes, tax research, and various planning projects. Responsibilities Preparation of tax return workpapers, M-1s, and...
+ Risk Manager – Commodities
+ ↳ Apply Now
+ New York
+@@ -706,12 +712,6 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Systems Engineer to join our Enterprise Technology team. Our team is responsible for developing and maintaining the productivity tooling for all aspects of the firm. You will work directly with the team responsible for Identity and Access Management (IAM), Productivity platforms and...
+-Tax Specialist
+-↳ Apply Now
+-New York
+-Experienced
+-Finance
+-Hudson River Trading (HRT) is looking for a Tax Specialist to join our growing Tax team! As a Tax Specialist, you will work on US tax compliance for partnerships, including tax estimates and distributions, indirect taxes, tax research, and various planning projects. Responsibilities Preparation of tax return workpapers, M-1s, and...
+ Technical Program Manager – Security Governance, Risk, and Compliance
+ ↳ Apply Now
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,13 +226,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -64,6 +64,8 @@
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Associate - Workday
+ Bangalore, London, Singapore, Montreal, New York
++Human Resources Specialist
++London
+ Indirect Tax Analyst
+ Bangalore
+ Information Security Analyst
+@@ -156,8 +158,6 @@
+ Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+ Senior Quant Researcher - Volatility
+ Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+-Site Management Specialist
+-London
+ Software Developer (C++)
+ London, Montreal, Singapore
+ Software Developer - Data Infrastructure
+@@ -191,9 +191,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
+-Bangalore
++London
+ Tax Analyst
+-London
++Bangalore
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -178,32 +178,32 @@
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
++Software Engineer – Intern (Europe)
++London
++Apply Now
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
++Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
++Site Reliability Engineer – Intern (Asia)
++Singapore
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
+ London, Paris, Zurich
+ Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Greenwich, Miami, New York
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Site Reliability Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Operations – Intern (Asia)
+-Singapore
+-Apply Now
+-Investment & Trading – Intern (Europe)
+-London, Paris
+-Apply Now
+-Operations Analyst – Intern (US)
+-New York
++Quantitative Research Analyst Intern – BS/MS (Europe)
++London, Paris, Zurich
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2025-08-13 07:14:45
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
