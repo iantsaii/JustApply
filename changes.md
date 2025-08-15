@@ -1,4 +1,175 @@
 
+## 2025-08-15 07:13:46
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -101,6 +101,7 @@
+ Warsaw
+ Bucharest
+ Madrid
++Barcelona
+ Stockholm
+ Latin America
+ São Paulo
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Austin
+ Mumbai
+@@ -140,9 +140,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -574,12 +574,6 @@
+ Experienced
+ Python
+ Hudson River Trading (HRT) is looking for a Data Production Engineer to join our Data team. Data is at the core of everything we do at HRT; we excel at deriving deep insights from all types of data, allowing us to achieve consistent success in a dynamic market.  This role...
+-Business Operations Partner
+-↳ Apply Now
+-New York
+-Experienced
+-People Operations
+-Hudson River Trading (HRT) is looking for a Business Operations Partner to join our People Partner (HRBP) team. HRT’s People Partners help maximize team potential through proactive talent development and a commitment to employee engagement. This role will work directly with our technical and engineering teams to support various projects,...
+ Senior Site Reliability Engineer – Enterprise Technology
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -295,8 +295,29 @@
+ text
+ More
+ Search Results
+-There are no results that match your search.
+-Please try different search criteria.
++1 Result(s)
++Sort by:
++Newest
++2026 Apple Internship - Information Systems and Technology
++Students
++Aug 15, 2025
++Singapore
++See full role description
++Share
++2026 Apple Internship - Information Systems and Technology 200616576-3278
++Role Number:
++200616576-3278
++Weekly Hours:
++40 Hours
++As part of the Information Systems & Technology (IS&T) organization, you’ll join the teams that produce key business and technical infrastructure for our employees and customers. Our technology processes every transaction on Apple.com, delivers network bandwidth for our global services, and provides every Apple employee with the tools and platforms to do their life’s best work.
++From Apple ID authentication to infrastructure in our stores that power products like the Vision Pro, IS&T manages the massive systems and services that our employees and customers rely on. We power Apple.
++Submit Resume
++Previous Page
++Page Number
++Page 1
++Of
++1
++Next Page
+ Apple Footer
+ Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.
+ Learn more about your EEO rights as an applicant
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (20)
++Opportunities (21)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,10 +174,13 @@
+ Viewing
+ 10
+ of
+-20
++21
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
++Sector Data Associate – Intern (US)
++New York
++Apply Now
+ Software Engineer – Intern (Europe)
+ London
+ Apply Now
+@@ -202,14 +205,13 @@
+ Quantitative Researcher – PhD Intern (Europe)
+ London, Paris, Zurich
+ Apply Now
+-Quantitative Research Analyst Intern – BS/MS (Europe)
+-London, Paris, Zurich
+-Apply Now
+ 1
+ 2
++3
+ Next
+ 1
+ 2
++3
+ Next
+ Filtering results
+ Explore Careers
+```
+
+---
+
 ## 2025-08-14 07:14:53
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
