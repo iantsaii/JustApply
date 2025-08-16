@@ -1,4 +1,137 @@
 
+## 2025-08-16 07:11:09
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -82,6 +82,11 @@
+ Careers
+ Recruitment news
+ <
++Technology
++Real-Time Trading Dashboards with Databricks Apps and Dash
++Learn how Optiver built real-time trading dashboards using Databricks Apps and Dash. Discover the architecture behind low-latency, scalable insights for fast decision-making.
++Learn more
++Global
+ Life at Optiver, Meet the team
+ Day in the life: Quant trader intern
+ Meet Jashun When I was deciding where to spend my summer, Optiver stood out as the best place to explore quant trading and develop my skills. I was drawn to the firm’s strong culture of internal support and how they focus on long-term development. I also can’t complain about the amazing location and food in […]
+@@ -127,13 +132,6 @@
+ Curious about the unique opportunities Optiver has to offer in the US but unsure where to start? Whether you are exploring trading, considering a future in finance, or eager to learn about our culture, we have got you covered. Check out our Program FAQs below for everything you need to know about Optiver’s Future Focus […]
+ Learn more
+ Americas
+-Series
+-Life at Optiver
+-Diverse perspectives, one challenge: How three trading interns tackled the S&P straddle project
+-In the summer of 2024, three talented students joined Optiver Amsterdam as trading interns. Alongside 16 of their peers, they embarked on a significant group project aimed at predicting one-day-out realised volatility. While united by a common goal, each intern brought a unique perspective, skill set and approach to the challenge.
+-We spoke with them during the project phase of their eight-week internship. They shared insights into their training, simulated trading experiences, and how these shaped their contributions to the collective project.
+-Learn more
+-EMEA
+ >
+ See more
+ Newsletter
+@@ -168,19 +166,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -224,3 +209,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -86,8 +86,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -141,8 +141,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -10,7 +10,6 @@
+ Departments
+ Business Management
+ Compliance
+-Executive Assistance
+ Finance
+ Human Resources
+ Investment
+@@ -198,8 +197,6 @@
+ London
+ Tax Assistant
+ Bangalore
+-Team Executive Assistant
+-London
+ Technical Business Analyst/Project Manager
+ London, Paris, Montreal, Singapore
+ Trade Flow Support - Trading Application Support
+```
+
+---
+
 ## 2025-08-15 07:13:46
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
