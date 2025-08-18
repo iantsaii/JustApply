@@ -1,4 +1,73 @@
 
+## 2025-08-18 07:16:53
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -53,7 +53,6 @@
+ All departments
+ Business Operations
+ Control
+-Events
+ Technology
+ Trading, Research and Machine Learning
+ All departments
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -42,7 +42,7 @@
+ Singapore
+ Singapore
+ Singapore
+-5 jobs
++4 jobs
+ Share
+ Clear
+ Filters
+@@ -50,7 +50,7 @@
+ Singapore
+ Singapore
+ Singapore
+-5 jobs
++4 jobs
+ Share
+ Clear
+ Job title
+@@ -59,9 +59,6 @@
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, HealthTech
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, Maps
+ Hybrid
+ View job
+ Senior Software Engineer, Data.gov.sg
+@@ -76,9 +73,6 @@
+ Senior / Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+-Senior / Lead Software Engineer, Maps
+-Hybrid
+-View job
+ Senior Software Engineer, Data.gov.sg
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-08-17 07:11:40
 
 **No changes for today**
