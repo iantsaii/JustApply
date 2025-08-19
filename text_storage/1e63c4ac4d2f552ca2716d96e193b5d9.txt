@@ -184,36 +184,6 @@ New York
 Experienced
 Systems and Networking
 Hudson River Trading (HRT) is looking for a Systems Engineer with a focus on physical security systems to join our Enterprise Technology team. This role will liaise closely with our Workplace and various Security teams to conduct research, design, and maintain physical security platforms. You’ll join a lean and technical...
-Systems Engineer – Distributed Compute
-↳ Apply Now
-London
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
-Systems Engineer – Distributed Compute
-↳ Apply Now
-New York
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
-Systems Engineer – Distributed Compute
-↳ Apply Now
-Chicago
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for Systems Engineers to join our growing Research & Development team. This team builds and maintains exceptionally large and growing distributed compute clusters, multi petabyte-scale storage layers, operating systems, automation software, and development tools. We have incredibly large GPU and CPU compute clusters, larger...
-Systems Engineer – Data Systems & Platforms
-↳ Apply Now
-Tarrytown
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
-Systems Engineer – Data Systems & Platforms
-↳ Apply Now
-Chicago
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
 GPU Systems Engineer
 ↳ Apply Now
 London
@@ -376,7 +346,7 @@ New York
 Experienced
 Python
 Hudson River Trading (HRT) is looking for a Senior Software Engineer to focus on our Treasury Infrastructure. Coders at HRT work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll...
-Low Level Software Engineer (C++)
+Experienced Low Level Software Engineer (C++)
 ↳ Apply Now
 Hong Kong
 Experienced
@@ -388,12 +358,6 @@ Carteret
 Experienced
 Systems and Networking
 Hudson River Trading (HRT) is seeking a hands-on Data Center Technician with experience in data center operations to join our Trading Infrastructure (SysTrade) team. If you enjoy solving complex infrastructure challenges, working with cutting-edge technology, and thrive in a fast-paced, global environment, we’d love to hear from you. In this...
-Systems Engineer – Data Systems & Platforms
-↳ Apply Now
-New York
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
 Market Structure Optimization Engineer
 ↳ Apply Now
 Hong Kong
@@ -472,7 +436,7 @@ New York
 Experienced
 Systems and Networking
 The Networks team designs, builds and maintains all the communications infrastructure that allows our high-capacity, low-latency trading and data research environments to run 24/7.  This network spans over 25 countries and 100 locations. We are looking for a Senior Network Engineer with experience designing and managing large environments to fulfill...
-Low Level Software Engineer (C++)
+Experienced Low Level Software Engineer (C++)
 ↳ Apply Now
 Singapore
 Experienced
