@@ -6,7 +6,7 @@ About
 Built by coders, led by coders. At HRT we are mathematicians, computer scientists, statisticians, physicists, and engineers.
 
 Offices
-We trade on more than 200 markets worldwide, with offices and teams in 6 countries.
+A community of colleagues spanning 14 offices worldwide.
 
 Diversity & Inclusion
 Building the future of trading together.
@@ -17,11 +17,11 @@ Access our Liquidity
 As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
 Learn More
 Tech Blog
+Building a Distributed Filesystem for Scalable Research
+Read More ▸
 Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
 Read More ▸
 Intern Spotlight: HRT AI Labs Project
-Read More ▸
-Intern Spotlight: Software Engineering Summer Projects
 Read More ▸
 Read Our Tech Blog
 Join Our Team
@@ -43,7 +43,7 @@ About
 Built by coders, led by coders. At HRT we are mathematicians, computer scientists, statisticians, physicists, and engineers.
 
 Offices
-We trade on more than 200 markets worldwide, with offices and teams in 6 countries.
+A community of colleagues spanning 14 offices worldwide.
 
 Diversity & Inclusion
 Building the future of trading together.
@@ -54,11 +54,11 @@ Access our Liquidity
 As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
 Learn More
 Tech Blog
+Building a Distributed Filesystem for Scalable Research
+Read More ▸
 Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
 Read More ▸
 Intern Spotlight: HRT AI Labs Project
-Read More ▸
-Intern Spotlight: Software Engineering Summer Projects
 Read More ▸
 Read Our Tech Blog
 Join Our Team

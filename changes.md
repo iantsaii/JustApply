@@ -1,4 +1,175 @@
 
+## 2025-08-20 07:12:53
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -140,9 +140,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -6,7 +6,7 @@
+ Built by coders, led by coders. At HRT we are mathematicians, computer scientists, statisticians, physicists, and engineers.
+ 
+ Offices
+-We trade on more than 200 markets worldwide, with offices and teams in 6 countries.
++A community of colleagues spanning 14 offices worldwide.
+ 
+ Diversity & Inclusion
+ Building the future of trading together.
+@@ -17,11 +17,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Building a Distributed Filesystem for Scalable Research
++Read More ▸
+ Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
+ Read More ▸
+ Intern Spotlight: HRT AI Labs Project
+-Read More ▸
+-Intern Spotlight: Software Engineering Summer Projects
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -43,7 +43,7 @@
+ Built by coders, led by coders. At HRT we are mathematicians, computer scientists, statisticians, physicists, and engineers.
+ 
+ Offices
+-We trade on more than 200 markets worldwide, with offices and teams in 6 countries.
++A community of colleagues spanning 14 offices worldwide.
+ 
+ Diversity & Inclusion
+ Building the future of trading together.
+@@ -54,11 +54,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Building a Distributed Filesystem for Scalable Research
++Read More ▸
+ Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
+ Read More ▸
+ Intern Spotlight: HRT AI Labs Project
+-Read More ▸
+-Intern Spotlight: Software Engineering Summer Projects
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -227,6 +227,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -24,11 +24,11 @@
+ London
+ Montreal
+ Warsaw
++New York
++Dubai
++Singapore
++Bangalore
+ Hong Kong
+-Singapore
+-New York
+-Dubai
+-Bangalore
+ Madrid
+ Houston
+ Paris
+@@ -37,8 +37,6 @@
+ Zug
+ Accountant
+ London, Montreal, Warsaw, Jersey
+-Accountant - Physical Metal
+-London, Jersey, Singapore, Hong Kong
+ Assistant Controller - Management Company
+ Montreal, Warsaw
+ Assistant Tax Manager
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -319,10 +319,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-08-19 07:11:58
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

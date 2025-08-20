@@ -24,11 +24,11 @@ Jersey
 London
 Montreal
 Warsaw
-Hong Kong
-Singapore
 New York
 Dubai
+Singapore
 Bangalore
+Hong Kong
 Madrid
 Houston
 Paris
@@ -37,8 +37,6 @@ Boston
 Zug
 Accountant
 London, Montreal, Warsaw, Jersey
-Accountant - Physical Metal
-London, Jersey, Singapore, Hong Kong
 Assistant Controller - Management Company
 Montreal, Warsaw
 Assistant Tax Manager
