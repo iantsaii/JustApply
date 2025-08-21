@@ -8,7 +8,6 @@ Locations
 Apply for open opportunities
 Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
 Departments
-Business Management
 Compliance
 Finance
 Human Resources
@@ -97,10 +96,6 @@ Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
 Warsaw
-Operational Risk Analyst
-London
-Operations Intern
-Montreal
 Platform Applications Specialist
 Montreal, London & Singapore
 Platform Compute and Storage Specialist
@@ -134,10 +129,6 @@ Singapore, London, New York
 Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
 Quantitative Developer, Volatility - Market Making
-New York
-Quantitative Researcher - Capital Efficiency
-New York
-Quantitative Researcher - Intraday Trading
 New York
 Senior Discretionary Trader - Credit
 London, New York

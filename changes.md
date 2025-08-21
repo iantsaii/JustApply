@@ -1,4 +1,153 @@
 
+## 2025-08-21 07:16:20
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -140,9 +140,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -227,13 +227,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -8,7 +8,6 @@
+ Apply for open opportunities
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
+-Business Management
+ Compliance
+ Finance
+ Human Resources
+@@ -97,10 +96,6 @@
+ Montreal, London,  New York
+ Office Administrator
+ Warsaw
+-Operational Risk Analyst
+-London
+-Operations Intern
+-Montreal
+ Platform Applications Specialist
+ Montreal, London & Singapore
+ Platform Compute and Storage Specialist
+@@ -134,10 +129,6 @@
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
+ Quantitative Developer, Volatility - Market Making
+-New York
+-Quantitative Researcher - Capital Efficiency
+-New York
+-Quantitative Researcher - Intraday Trading
+ New York
+ Senior Discretionary Trader - Credit
+ London, New York
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -43,7 +43,7 @@
+ Singapore
+ Singapore
+ Singapore
+-4 jobs
++5 jobs
+ Share
+ Clear
+ Filters
+@@ -51,7 +51,7 @@
+ Singapore
+ Singapore
+ Singapore
+-4 jobs
++5 jobs
+ Share
+ Clear
+ Job title
+@@ -63,6 +63,9 @@
+ Hybrid
+ View job
+ Senior Software Engineer, Data.gov.sg
++Hybrid
++View job
++Software Engineer, ActiveSG
+ Hybrid
+ View job
+ Software Engineer, Pair
+@@ -77,6 +80,9 @@
+ Senior Software Engineer, Data.gov.sg
+ Hybrid
+ View job
++Software Engineer, ActiveSG
++Hybrid
++View job
+ Software Engineer, Pair
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-08-20 07:12:53
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
