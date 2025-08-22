@@ -622,6 +622,18 @@ New York
 Experienced
 Python
 Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
+Hardware Design Engineer – 2026 Grads
+↳ Apply Now
+Chicago
+New Grad
+Hardware Engineering
+The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
+Hardware Design Engineer – 2026 Grads
+↳ Apply Now
+New York
+New Grad
+Hardware Engineering
+The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
 Margin & Collateral Specialist
 ↳ Apply Now
 New York
@@ -730,7 +742,7 @@ New York
 Experienced
 Hardware Engineering
 The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. These high performance designs...
-Python Engineer
+Senior Python Engineer
 ↳ Apply Now
 Singapore
 Experienced

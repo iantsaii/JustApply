@@ -130,6 +130,8 @@ Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
 Quantitative Developer, Volatility - Market Making
 New York
+Quantitative Researcher, Intraday Trading
+New York
 Senior Discretionary Trader - Credit
 London, New York
 Senior Discretionary Trader - Equities
