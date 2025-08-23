@@ -1,4 +1,78 @@
 
+## 2025-08-23 07:10:37
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Austin
+ Mumbai
+@@ -140,9 +140,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -96,6 +96,8 @@
+ Montreal, London,  New York
+ Office Administrator
+ Warsaw
++Operations Manager
++Bangalore
+ Platform Applications Specialist
+ Montreal, London & Singapore
+ Platform Compute and Storage Specialist
+@@ -115,7 +117,7 @@
+ Platform Specialist - ULL
+ London, New York
+ Platform Specialist - Windows and Virtualization
+-Bangalore
++Bangalore, London, Montreal, New York
+ Platform ULL - Colo - Reliability
+ London, Montreal, New York & Singapore
+ Platform ULL - Colo - Strategic
+@@ -198,6 +200,8 @@
+ London, Singapore, Houston, New York
+ Trading Infrastructure Specialist
+ London ,Montreal & Hong Kong
++Treasury Analyst
++Montreal
+ Squarepoint logo
+ About us
+ Philosophy
+```
+
+---
+
 ## 2025-08-22 07:11:47
 
 ### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)

@@ -96,6 +96,8 @@ Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
 Warsaw
+Operations Manager
+Bangalore
 Platform Applications Specialist
 Montreal, London & Singapore
 Platform Compute and Storage Specialist
@@ -115,7 +117,7 @@ Montreal, New York, Houston , Boston , Singapore & Hong Kong
 Platform Specialist - ULL
 London, New York
 Platform Specialist - Windows and Virtualization
-Bangalore
+Bangalore, London, Montreal, New York
 Platform ULL - Colo - Reliability
 London, Montreal, New York & Singapore
 Platform ULL - Colo - Strategic
@@ -198,6 +200,8 @@ Trading Applications Specialist
 London, Singapore, Houston, New York
 Trading Infrastructure Specialist
 London ,Montreal & Hong Kong
+Treasury Analyst
+Montreal
 Squarepoint logo
 About us
 Philosophy
