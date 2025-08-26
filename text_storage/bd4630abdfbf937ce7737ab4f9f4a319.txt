@@ -96,7 +96,7 @@ At Optiver, hardware engineering isn’t an isolated function—it’s embedded 
 Learn more
 Global
 Technology
-Low Latency Cpp Systems for Trading with David Gross at CppCon
+Low Latency C++ Systems for Trading with David Gross at CppCon
 Watch David Gross at CppCon 2024 as he shares how to design low latency trading systems in Cpp using high performance and concurrency techniques.
 Learn more
 Global

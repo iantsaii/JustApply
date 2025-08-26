@@ -150,6 +150,8 @@ Investing
 Quantitative Research
 Office Locations
 Select All
+Austin
+Sydney
 Americas
 Chicago
 Greenwich
@@ -164,7 +166,6 @@ Zurich
 Asia-Pacific
 Hong Kong
 Singapore
-Sydney
 Tokyo
 Clear Selection
 Save
