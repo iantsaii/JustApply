@@ -1,4 +1,117 @@
 
+## 2025-08-27 07:12:05
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -28,6 +28,10 @@
+ Latest Insights
+ <
+ Market structure
++Lend, borrow, grow: Improving Brazil’s SBL market
++Learn more
++Americas, Global
++Market structure
+ Enhancing swaps liquidity through targeted reforms
+ Learn more
+ Americas
+@@ -35,10 +39,6 @@
+ Two types of liquidity: The Mississippi River and market makers in agricultural derivatives
+ Learn more
+ Americas
+-Market structure
+-PFOF is going away, but the problem isn’t
+-Learn more
+-EMEA
+ >
+ CAREERS
+ Are you interested in an environment where new challenges arise by the nanosecond?
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -140,9 +140,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -42,8 +42,6 @@
+ London
+ Compliance Analyst - Discretionary Trading & Fundamental Research
+ New York
+-Corporate Actions Analyst
+-Warsaw
+ Data Center Technician
+ New York
+ Delta One and Financing Trader
+@@ -60,8 +58,6 @@
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Associate - Workday
+ Bangalore, London, Singapore, Montreal, New York
+-Human Resources Specialist
+-London
+ Indirect Tax Analyst
+ Bangalore
+ Information Security Analyst
+@@ -99,7 +95,7 @@
+ Operations Manager
+ Bangalore
+ Platform Applications Specialist
+-Montreal, London & Singapore
++Montreal, London , Singapore , Hong Kong ,Warsaw , Houston
+ Platform Compute and Storage Specialist
+ Montreal , New York , London & Singapore
+ Platform Specialist - Databases
+@@ -179,7 +175,7 @@
+ Software Developer - Risk Technology
+ London, Montreal, Bangalore
+ Support Analyst - Desktop
+-New York, Bangalore, London, Montreal and Paris
++New York, London, Montreal and Paris
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
+```
+
+---
+
 ## 2025-08-26 07:13:01
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

@@ -42,8 +42,6 @@ Assistant Tax Manager
 London
 Compliance Analyst - Discretionary Trading & Fundamental Research
 New York
-Corporate Actions Analyst
-Warsaw
 Data Center Technician
 New York
 Delta One and Financing Trader
@@ -60,8 +58,6 @@ Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
-Human Resources Specialist
-London
 Indirect Tax Analyst
 Bangalore
 Information Security Analyst
@@ -99,7 +95,7 @@ Warsaw
 Operations Manager
 Bangalore
 Platform Applications Specialist
-Montreal, London & Singapore
+Montreal, London , Singapore , Hong Kong ,Warsaw , Houston
 Platform Compute and Storage Specialist
 Montreal , New York , London & Singapore
 Platform Specialist - Databases
@@ -179,7 +175,7 @@ Bangalore, Montreal & Warsaw
 Software Developer - Risk Technology
 London, Montreal, Bangalore
 Support Analyst - Desktop
-New York, Bangalore, London, Montreal and Paris
+New York, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
