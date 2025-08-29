@@ -75,6 +75,30 @@ Load more
 Careers
 Recruitment news
 <
+Series
+Life at Optiver, Meet the team
+From intern to new grad: Joining the team full-time
+Over the last few years, Jason has shared what he was looking for in an internship, what he found, and what he learned. Now, as a full-time trader, he reflects on how it all comes together—and what’s next. What experiences from your internships influence your day-to-day work? So much of what I do today is […]
+Learn more
+Americas
+Series
+Life at Optiver, Meet the team
+Continuing education: Interning abroad
+By his second internship, Jason built a strong foundation with options theory and simulated trading. With real trading experience, his time in Amsterdam feels less like an internship and more like a preview of a full-time career. During your second internship, how did your experience change? My second internship was a truly unique experience. I […]
+Learn more
+Americas
+Series
+Life at Optiver, Meet the team
+Sharpening your skills: From CS class to trading floor
+During his first internship, Jason is immersed in Optiver’s culture of collaboration and gets a clearer view of how trading actually works. Was there a defining lesson from your first internship? A few lessons stood out to me—both personal and professional. On a personal level, I realized how important it is to genuinely enjoy your […]
+Learn more
+Americas
+Series
+Life at Optiver, Meet the team
+Becoming a quant trader: Jason’s career journey
+This blog series follows four years of Jason’s path into quantitative trading. While studying Computer Science and Electrical Engineering at the University of Michigan, he began exploring internship opportunities that offered more than just textbook learning. A search that led to two summer internships—one in Chicago, one in Amsterdam—and ultimately shaped his decision to join […]
+Learn more
+Americas
 Technology
 Real-Time Trading Dashboards with Databricks Apps and Dash
 Learn how Optiver built real-time trading dashboards using Databricks Apps and Dash. Discover the architecture behind low-latency, scalable insights for fast decision-making.
@@ -105,26 +129,6 @@ Optiver interview tips for Software Engineers
 Most interviews test what you know. At Optiver, we’re interested in how you think. As a technology-driven trading firm, we take a distinctive approach to our technical interviews. The Optiver interview process is designed to reflect the kind of work you’ll do as part of our team: collaborative, creative and rooted in solving real-world challenges.  […]
 Learn more
 Global
-Meet the team
-Bharath’s Story: Engineering a career in the trading industry
-Bharath joined Optiver as a Software Engineer Intern in 2023 and has since continued his career with the global trading firm. In this interview, he reflects on his internship experience and shares insights into how the team has supported him to build his tech career at Optiver.
-Learn more
-Singapore
-Experienced, Life at Optiver, Technology
-Finding your career path: Insights from a Trading Production Engineer
-Optiver’s global trading network is a marvel of engineering, ensuring rapid and reliable data transmission essential for electronic trading. Network Engineer Ryan Bennett reveals how dedicated fibre optic cables and meticulous route planning maintain Optiver’s competitive edge. Despite challenges like geographical hurdles and fibre cuts, the network’s resilience and continuous improvement keep Optiver at the forefront of trading innovation.
-Learn more
-Europe, Global
-Recruitment at Optiver
-Optiver Sydney Campus recruiting FAQs
-Optiver Sydney Campus recruiting FAQs​​ | Get answers to frequently asked questions about Optiver’s FutureFocus, internship and graduate programs.
-Learn more
-Australia
-Recruitment at Optiver
-US programs FAQs
-Curious about the unique opportunities Optiver has to offer in the US but unsure where to start? Whether you are exploring trading, considering a future in finance, or eager to learn about our culture, we have got you covered. Check out our Program FAQs below for everything you need to know about Optiver’s Future Focus […]
-Learn more
-Americas
 >
 See more
 Newsletter

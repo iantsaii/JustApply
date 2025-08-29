@@ -126,12 +126,6 @@ Strategy Development
 ​​Algo Developers are responsible for building and maintaining the models that drive our trading. A typical day involves applying rigorous statistical analysis to vast quantities of market and financial data to produce predictive trading models. You will run models live on our high-performance trading infrastructure, and analyze their daily performance to...
 Campus Recruiter
 ↳ Apply Now
-London
-Experienced
-People Operations
-Hudson River Trading (HRT) is looking for a Campus Recruiter in London to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build out our campus presence in the UK and Europe. You will be joining a highly collaborative team, but also have autonomy...
-Campus Recruiter
-↳ Apply Now
 Boston
 Experienced
 People Operations
