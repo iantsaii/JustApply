@@ -9,6 +9,7 @@ Apply for open opportunities
 Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
 Departments
 Compliance
+Data Acquisition
 Finance
 Human Resources
 Investment
@@ -42,6 +43,8 @@ Assistant Tax Manager
 London
 Compliance Analyst - Discretionary Trading & Fundamental Research
 New York
+Data Associate
+London
 Data Center Technician
 New York
 Delta One and Financing Trader

@@ -1,4 +1,141 @@
 
+## 2025-08-30 07:10:09
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -300,6 +300,7 @@
+ Tax
+ Terminal
+ Treasury
++Verified
+ Solutions
+ Startups
+ Enterprises
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -132,34 +132,28 @@
+ Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
+ Campus Recruiter
+ ↳ Apply Now
+-Austin
++Chicago
+ Experienced
+ People Operations
+ Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
+ Campus Recruiter
+ ↳ Apply Now
+-Chicago
++New York
+ Experienced
+ People Operations
+ Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
+-Campus Recruiter
++Campus Pipeline Manager – Software Engineering
+ ↳ Apply Now
+ New York
+ Experienced
+ People Operations
+-Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
+-Software Engineering Campus Recruiter
++Hudson River Trading is looking for an ambitious and results-oriented SWE Pipeline Manager to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll bring...
++Campus Pipeline Manager – Quant Research
+ ↳ Apply Now
+ New York
+ Experienced
+ People Operations
+-Hudson River Trading is looking for an ambitious and results-oriented SWE Campus Recruiter to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll bring...
+-Quant Research Campus Recruiter
+-↳ Apply Now
+-New York
+-Experienced
+-People Operations
+-Hudson River Trading is looking for an ambitious and results-oriented Quant Research Campus Recruiter to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
++Hudson River Trading is looking for an ambitious and results-oriented Quant Research Pipeline Manager to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
+ Software Engineer (C++ or Python) – 2026 Grads
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -9,6 +9,7 @@
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
+ Compliance
++Data Acquisition
+ Finance
+ Human Resources
+ Investment
+@@ -42,6 +43,8 @@
+ London
+ Compliance Analyst - Discretionary Trading & Fundamental Research
+ New York
++Data Associate
++London
+ Data Center Technician
+ New York
+ Delta One and Financing Trader
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -150,8 +150,6 @@
+ Quantitative Research
+ Office Locations
+ Select All
+-Austin
+-Sydney
+ Americas
+ Chicago
+ Greenwich
+@@ -166,6 +164,7 @@
+ Asia-Pacific
+ Hong Kong
+ Singapore
++Sydney
+ Tokyo
+ Clear Selection
+ Save
+@@ -320,10 +319,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-08-29 07:12:00
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
