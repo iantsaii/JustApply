@@ -20,10 +20,9 @@ Operations
 Tax
 Technology
 Offices
-Jersey
-London
 Montreal
 Warsaw
+London
 New York
 Dubai
 Singapore
@@ -35,8 +34,6 @@ Paris
 Geneva
 Boston
 Zug
-Accountant
-London, Montreal, Warsaw, Jersey
 Assistant Controller - Management Company
 Montreal, Warsaw
 Assistant Tax Manager
