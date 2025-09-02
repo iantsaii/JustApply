@@ -13,7 +13,6 @@ Data Acquisition
 Finance
 Human Resources
 Investment
-Legal
 Office Acquisition and Development
 Office Management
 Operations
@@ -80,8 +79,6 @@ Junior Risk Manager
 New York, London
 Junior Shift Trader
 Dubai, Singapore
-Legal Counsel - Employment (FTC)
-London
 Network Specialist - Core
 Montreal, London, New York
 Network Specialist - Reliability
