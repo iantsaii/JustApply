@@ -35,6 +35,7 @@ Corporate
 Internship
 Product Design
 Product Management
+Product Operations
 Software Engineering
 Show filters
 (2)
@@ -43,7 +44,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-5 jobs
+4 jobs
 Share
 Clear
 Filters
@@ -51,7 +52,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-5 jobs
+4 jobs
 Share
 Clear
 Job title
@@ -68,9 +69,6 @@ View job
 Software Engineer, ActiveSG
 Hybrid
 View job
-Software Engineer, Pair
-Hybrid
-View job
 Lead Software Engineer, Civic Tech (Public Safety)
 Hybrid
 View job
@@ -81,8 +79,5 @@ Senior Software Engineer, Data.gov.sg
 Hybrid
 View job
 Software Engineer, ActiveSG
-Hybrid
-View job
-Software Engineer, Pair
 Hybrid
 View job
