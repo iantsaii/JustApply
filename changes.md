@@ -1,4 +1,100 @@
 
+## 2025-09-04 07:11:42
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -75,6 +75,11 @@
+ Careers
+ Recruitment news
+ <
++Life at Optiver
++Breaking down the trading industry: Which role is right for you?
++If you’re curious about a career in STEM, you’ve probably thought about big tech or academia–but have you thought about trading? There are many types of roles you might see, including quantitative trader, quantitative researcher, and institutional trader. While these might seem similar–all require strong analytical skills and mathematical thinking—the day-to-day work can look quite […]
++Learn more
++Global
+ Series
+ Life at Optiver, Meet the team
+ From intern to new grad: Joining the team full-time
+@@ -122,11 +127,6 @@
+ Technology
+ Low Latency C++ Systems for Trading with David Gross at CppCon
+ Watch David Gross at CppCon 2024 as he shares how to design low latency trading systems in Cpp using high performance and concurrency techniques.
+-Learn more
+-Global
+-Recruitment at Optiver
+-Optiver interview tips for Software Engineers
+-Most interviews test what you know. At Optiver, we’re interested in how you think. As a technology-driven trading firm, we take a distinctive approach to our technical interviews. The Optiver interview process is designed to reflect the kind of work you’ll do as part of our team: collaborative, creative and rooted in solving real-world challenges.  […]
+ Learn more
+ Global
+ >
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -86,8 +86,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -141,8 +141,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -706,18 +706,6 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Systems Engineer to join our Enterprise Technology team. Our team is responsible for developing and maintaining the productivity tooling for all aspects of the firm. You will work directly with the team responsible for Identity and Access Management (IAM), Productivity platforms and...
+-Technical Program Manager – Security Governance, Risk, and Compliance
+-↳ Apply Now
+-Mumbai
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for a Technical Program Manager to join our growing Security team. This role will liaise closely with our Compliance and Legal teams to research, build, and maintain security solutions for a diverse set of industry regulations and requirements. You’ll join a lean and technical...
+-Technical Program Manager – Security Governance, Risk, and Compliance
+-↳ Apply Now
+-Singapore
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for a Technical Program Manager to join our growing Security team. This role will liaise closely with our Compliance and Legal teams to research, build, and maintain security solutions for a diverse set of industry regulations and requirements. You’ll join a lean and technical...
+ IT Operations Engineer
+ ↳ Apply Now
+ New York
+```
+
+---
+
 ## 2025-09-03 07:12:02
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)

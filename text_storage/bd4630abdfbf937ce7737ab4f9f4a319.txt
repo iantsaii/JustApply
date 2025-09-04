@@ -75,6 +75,11 @@ Load more
 Careers
 Recruitment news
 <
+Life at Optiver
+Breaking down the trading industry: Which role is right for you?
+If you’re curious about a career in STEM, you’ve probably thought about big tech or academia–but have you thought about trading? There are many types of roles you might see, including quantitative trader, quantitative researcher, and institutional trader. While these might seem similar–all require strong analytical skills and mathematical thinking—the day-to-day work can look quite […]
+Learn more
+Global
 Series
 Life at Optiver, Meet the team
 From intern to new grad: Joining the team full-time
@@ -122,11 +127,6 @@ Global
 Technology
 Low Latency C++ Systems for Trading with David Gross at CppCon
 Watch David Gross at CppCon 2024 as he shares how to design low latency trading systems in Cpp using high performance and concurrency techniques.
-Learn more
-Global
-Recruitment at Optiver
-Optiver interview tips for Software Engineers
-Most interviews test what you know. At Optiver, we’re interested in how you think. As a technology-driven trading firm, we take a distinctive approach to our technical interviews. The Optiver interview process is designed to reflect the kind of work you’ll do as part of our team: collaborative, creative and rooted in solving real-world challenges.  […]
 Learn more
 Global
 >
