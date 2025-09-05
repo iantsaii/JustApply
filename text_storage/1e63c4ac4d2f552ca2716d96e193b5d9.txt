@@ -33,7 +33,7 @@ Life at HRT
 A place where kindness and excellence converge across six countries and nearly all the world’s electronic markets.
 
 Student Opportunities
-Full-time & internship opportunities for current undergraduates, graduating seniors, Masters, or PhD students.
+Full-time & internship opportunities for current undergraduates, graduating seniors, masters, or PhD students.
 
 Talent Community
 See Open Roles
@@ -70,7 +70,7 @@ Life at HRT
 A place where kindness and excellence converge across six countries and nearly all the world’s electronic markets.
 
 Student Opportunities
-Full-time & internship opportunities for current undergraduates, graduating seniors, Masters, or PhD students.
+Full-time & internship opportunities for current undergraduates, graduating seniors, masters, or PhD students.
 
 Talent Community
 See Open Roles
@@ -106,6 +106,12 @@ ALL
 Locations
 
 Clear All
+HPC Network Engineer
+↳ Apply Now
+New York
+Experienced
+Systems and Networking
+Hudson River Trading’s High Performance Computing (HPC) Network Engineering team designs and engineers the low-latency communications infrastructure that underpins our incredibly large GPU and CPU compute clusters. Our mandate is to architect, optimize, and scale the high-performance LAN and WAN infrastructure that interconnects globally distributed, large-scale on-prem data centers, enabling...
 Sophomore Internship – Summer 2026
 ↳ Apply Now
 New York

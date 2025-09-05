@@ -23,16 +23,16 @@ Montreal
 Warsaw
 London
 New York
-Dubai
-Singapore
 Bangalore
 Hong Kong
 Madrid
+Singapore
 Houston
 Paris
 Geneva
 Boston
 Zug
+Dubai
 Assistant Controller - Management Company
 Montreal, Warsaw
 Assistant Tax Manager
@@ -43,8 +43,6 @@ Data Associate
 London
 Data Center Technician
 New York
-Delta One and Financing Trader
-Singapore, Dubai
 Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
 FP&A Manager
@@ -69,6 +67,8 @@ Junior Commodities Fundamental Analyst
 Geneva, Houston, London, New York, Paris
 Junior Discretionary Trader
 New York, London
+Junior Execution Trader
+London
 Junior Platform Compute and Storage Specialist
 London, Montreal and New York
 Junior Quant Researcher
