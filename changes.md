@@ -1,4 +1,47 @@
 
+## 2025-09-06 07:10:04
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -362,3 +362,10 @@
+ +1 888 926 2289
+ Sign in
+ © 2025 Stripe, Inc.
++We use cookies to improve your experience and for marketing. Read our
++cookie policy
++or
++manage cookies
++.
++Accept all
++Reject all
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,6 +61,8 @@
+ London
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
++Intern Software Developer - Summer 2026
++Montreal, Singapore, London, Warsaw
+ Intern Software Developer - Winter 2026
+ Montreal, Singapore
+ Junior Commodities Fundamental Analyst
+```
+
+---
+
 ## 2025-09-05 07:11:56
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
