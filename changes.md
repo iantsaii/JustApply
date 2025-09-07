@@ -1,4 +1,28 @@
 
+## 2025-09-07 07:10:29
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -362,10 +362,3 @@
+ +1 888 926 2289
+ Sign in
+ © 2025 Stripe, Inc.
+-We use cookies to improve your experience and for marketing. Read our
+-cookie policy
+-or
+-manage cookies
+-.
+-Accept all
+-Reject all
+```
+
+---
+
 ## 2025-09-06 07:10:04
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
