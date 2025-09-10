@@ -57,7 +57,7 @@ Share
 Clear
 Job title
 Work model
-Lead Software Engineer, Civic Tech (Public Safety)
+Senior / Lead Software Engineer, Civic Tech (Public Safety)
 Hybrid
 View job
 Senior / Lead Software Engineer, HealthTech
@@ -69,7 +69,7 @@ View job
 Software Engineer, ActiveSG
 Hybrid
 View job
-Lead Software Engineer, Civic Tech (Public Safety)
+Senior / Lead Software Engineer, Civic Tech (Public Safety)
 Hybrid
 View job
 Senior / Lead Software Engineer, HealthTech

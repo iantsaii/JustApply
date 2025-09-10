@@ -75,6 +75,11 @@ Load more
 Careers
 Recruitment news
 <
+Experienced, Technology
+Why DevEx matters to Optiver
+Optiver’s Global Head of Developer Experience, Cian Lane, shares how DevEx boosts productivity firm-wide: 30% faster CI builds and onboarding cut to minutes.
+Learn more
+Global, London
 Life at Optiver
 Breaking down the trading industry: Which role is right for you?
 If you’re curious about a career in STEM, you’ve probably thought about big tech or academia–but have you thought about trading? There are many types of roles you might see, including quantitative trader, quantitative researcher, and institutional trader. While these might seem similar–all require strong analytical skills and mathematical thinking—the day-to-day work can look quite […]
@@ -122,11 +127,6 @@ Singapore
 Experienced, Technology
 FPGA Hardware at Optiver: Making impact at speed and scale
 At Optiver, hardware engineering isn’t an isolated function—it’s embedded in strategy, driven by collaboration, and built for speed. In this post, one of our hardware engineers shares how we design custom FPGA systems that process massive volumes of market data in real time, adapt to evolving trading demands, and go from idea to impact faster than you might expect.
-Learn more
-Global
-Technology
-Low Latency C++ Systems for Trading with David Gross at CppCon
-Watch David Gross at CppCon 2024 as he shares how to design low latency trading systems in Cpp using high performance and concurrency techniques.
 Learn more
 Global
 >

@@ -1,4 +1,262 @@
 
+## 2025-09-10 07:11:56
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -75,6 +75,11 @@
+ Careers
+ Recruitment news
+ <
++Experienced, Technology
++Why DevEx matters to Optiver
++Optiver’s Global Head of Developer Experience, Cian Lane, shares how DevEx boosts productivity firm-wide: 30% faster CI builds and onboarding cut to minutes.
++Learn more
++Global, London
+ Life at Optiver
+ Breaking down the trading industry: Which role is right for you?
+ If you’re curious about a career in STEM, you’ve probably thought about big tech or academia–but have you thought about trading? There are many types of roles you might see, including quantitative trader, quantitative researcher, and institutional trader. While these might seem similar–all require strong analytical skills and mathematical thinking—the day-to-day work can look quite […]
+@@ -122,11 +127,6 @@
+ Experienced, Technology
+ FPGA Hardware at Optiver: Making impact at speed and scale
+ At Optiver, hardware engineering isn’t an isolated function—it’s embedded in strategy, driven by collaboration, and built for speed. In this post, one of our hardware engineers shares how we design custom FPGA systems that process massive volumes of market data in real time, adapt to evolving trading demands, and go from idea to impact faster than you might expect.
+-Learn more
+-Global
+-Technology
+-Low Latency C++ Systems for Trading with David Gross at CppCon
+-Watch David Gross at CppCon 2024 as he shares how to design low latency trading systems in Cpp using high performance and concurrency techniques.
+ Learn more
+ Global
+ >
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++Hong Kong
+ London
+-Hong Kong
+-New York
+ Singapore
+ Austin
+ Mumbai
+@@ -140,9 +140,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++Hong Kong
+ London
+-Hong Kong
+-New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -8,6 +8,7 @@
+ iPhone
+ Apple Watch
+ Apple Vision Pro
++AirPods
+ Accessories
+ Quick Links
+ Find a Store
+@@ -44,13 +45,14 @@
+ More from Mac
+ Mac Support
+ AppleCare
+-macOS Tahoe 26 Preview
++macOS Tahoe
+ Apple Intelligence
+ Apps by Apple
+ Continuity
+ iCloud+
+ Mac for Business
+ Education
++Accessibility
+ iPad
+ Explore iPad
+ Explore All iPad
+@@ -71,18 +73,20 @@
+ More from iPad
+ iPad Support
+ AppleCare
+-iPadOS 26 Preview
++iPadOS 26
+ Apple Intelligence
+ Apps by Apple
+ iCloud+
+ Education
++Accessibility
+ iPhone
+ Explore iPhone
+ Explore All iPhone
+-iPhone 16 Pro
++iPhone 17 Pro
++iPhone Air
++iPhone 17
+ iPhone 16
+ iPhone 16e
+-iPhone 15
+ Compare iPhone
+ Switch from Android
+ Shop iPhone
+@@ -94,26 +98,26 @@
+ More from iPhone
+ iPhone Support
+ AppleCare
+-iOS 26 Preview
++iOS 26
+ Apple Intelligence
+ Apps by Apple
+ iPhone Privacy
+ iCloud+
+ Wallet, Pay, Card
+ Siri
++Accessibility
+ Watch
+ Explore Watch
+ Explore All Apple Watch
+-Apple Watch Series 10
+-Apple Watch Ultra 2
+-Apple Watch SE
++Apple Watch Series 11
++Apple Watch SE 3
++Apple Watch Ultra 3
+ Apple Watch Nike
+ Apple Watch Hermès
+ Compare Watch
+ Why Apple Watch
+ Shop Watch
+ Shop Apple Watch
+-Apple Watch Studio
+ Apple Watch Bands
+ Apple Watch Accessories
+ Apple Trade In
+@@ -121,10 +125,11 @@
+ More from Watch
+ Apple Watch Support
+ AppleCare
+-watchOS 26 Preview
++watchOS 26
+ Apple Watch For Your Kids
+ Apps by Apple
+ Apple Fitness+
++Accessibility
+ Vision
+ Explore Vision
+ Explore Apple Vision Pro
+@@ -137,12 +142,12 @@
+ More from Vision
+ Apple Vision Pro Support
+ AppleCare
+-visionOS 26 Preview
++visionOS 26
+ AirPods
+ Explore AirPods
+ Explore All AirPods
+ AirPods 4
+-AirPods Pro 2
++AirPods Pro 3
+ AirPods Max
+ Compare AirPods
+ Shop AirPods
+@@ -153,6 +158,7 @@
+ AppleCare
+ Hearing Health
+ Apple Music
++Apple Fitness+
+ TV & Home
+ Explore TV & Home
+ Explore TV & Home
+@@ -227,13 +233,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -125,8 +125,6 @@
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
+-Quantitative Developer, Volatility - Market Making
+-New York
+ Quantitative Researcher, Intraday Trading
+ New York
+ Senior Discretionary Trader - Credit
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -57,7 +57,7 @@
+ Clear
+ Job title
+ Work model
+-Lead Software Engineer, Civic Tech (Public Safety)
++Senior / Lead Software Engineer, Civic Tech (Public Safety)
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, HealthTech
+@@ -69,7 +69,7 @@
+ Software Engineer, ActiveSG
+ Hybrid
+ View job
+-Lead Software Engineer, Civic Tech (Public Safety)
++Senior / Lead Software Engineer, Civic Tech (Public Safety)
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, HealthTech
+```
+
+---
+
 ## 2025-09-09 07:12:06
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
