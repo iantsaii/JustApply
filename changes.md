@@ -1,4 +1,60 @@
 
+## 2025-09-12 07:11:34
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -86,8 +86,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++London
+ New York
+-London
+ Singapore
+ Austin
+ Mumbai
+@@ -141,8 +141,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++London
+ New York
+-London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -238,6 +238,12 @@
+ Experienced
+ People Operations
+ Hudson River Trading is looking for an ambitious and results-oriented Quant Research Pipeline Manager to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
++Market Data Administrator
++↳ Apply Now
++New York
++Experienced
++Business Development
++Hudson River Trading (HRT) is looking for a Market Data Admin to enable the growing operational demands of our data platform. You’ll work across contracts, exchange reporting, billing, audits, and internal coordination - making sure key processes run smoothly and nothing falls through the cracks. Responsibilities Contracts & Exchange Reporting...
+ Business Development Analyst
+ ↳ Apply Now
+ New York
+```
+
+---
+
 ## 2025-09-11 07:12:09
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
