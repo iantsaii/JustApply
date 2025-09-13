@@ -1,4 +1,143 @@
 
+## 2025-09-13 07:09:53
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -86,8 +86,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Austin
+ Mumbai
+@@ -141,8 +141,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -108,6 +108,30 @@
+ Clear All
+ HPC Network Engineer
+ ↳ Apply Now
++Austin
++Experienced
++Systems and Networking
++Hudson River Trading’s High Performance Computing (HPC) Network Engineering team designs and engineers the low-latency communications infrastructure that underpins our incredibly large GPU and CPU compute clusters. Our mandate is to architect, optimize, and scale the high-performance LAN and WAN infrastructure that interconnects globally distributed, large-scale on-prem data centers, enabling...
++HPC Network Engineer
++↳ Apply Now
++Seattle
++Experienced
++Systems and Networking
++Hudson River Trading’s High Performance Computing (HPC) Network Engineering team designs and engineers the low-latency communications infrastructure that underpins our incredibly large GPU and CPU compute clusters. Our mandate is to architect, optimize, and scale the high-performance LAN and WAN infrastructure that interconnects globally distributed, large-scale on-prem data centers, enabling...
++HPC Network Engineer
++↳ Apply Now
++Chicago
++Experienced
++Systems and Networking
++Hudson River Trading’s High Performance Computing (HPC) Network Engineering team designs and engineers the low-latency communications infrastructure that underpins our incredibly large GPU and CPU compute clusters. Our mandate is to architect, optimize, and scale the high-performance LAN and WAN infrastructure that interconnects globally distributed, large-scale on-prem data centers, enabling...
++HPC Network Engineer
++↳ Apply Now
++London
++Experienced
++Systems and Networking
++Hudson River Trading’s High Performance Computing (HPC) Network Engineering team designs and engineers the low-latency communications infrastructure that underpins our incredibly large GPU and CPU compute clusters. Our mandate is to architect, optimize, and scale the high-performance LAN and WAN infrastructure that interconnects globally distributed, large-scale on-prem data centers, enabling...
++HPC Network Engineer
++↳ Apply Now
+ New York
+ Experienced
+ Systems and Networking
+@@ -310,30 +334,6 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
+-GPU Systems Engineer
+-↳ Apply Now
+-London
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+-GPU Systems Engineer
+-↳ Apply Now
+-Boston
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+-GPU Systems Engineer
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+-GPU Systems Engineer
+-↳ Apply Now
+-New York
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+ Data Production Engineer
+ ↳ Apply Now
+ Singapore
+@@ -466,12 +466,6 @@
+ Experienced
+ Risk
+ Hudson River Trading is hiring a Corporate Credit Risk Manager for our NYC office. You will be responsible for designing, improving, managing, and communicating market and liquidity risk for corporate credit-related instruments and strategies. You will own and manage all aspects of credit trading risk faced by the firm, while...
+-Linux Engineer, Trading Infrastructure
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-Hudson River Trading (HRT) is seeking a Trading Systems Support Engineer to join our dynamic Systems team, which develops and maintains the fast, reliable infrastructure that powers our trading. This team is responsible for deploying and managing all servers in our trading environment, ensuring optimal performance and uptime. Your responsibilities...
+ Senior Windows Platform and Cloud Infrastructure Engineer
+ ↳ Apply Now
+ Singapore
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -319,10 +319,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-09-12 07:11:34
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
