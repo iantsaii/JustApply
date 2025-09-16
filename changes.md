@@ -1,4 +1,26 @@
 
+## 2025-09-16 07:12:29
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,6 +91,8 @@
+ Montreal, London,  New York
+ Office Administrator
+ Warsaw
++Operations Analyst
++Bangalore
+ Operations Manager
+ Bangalore
+ Platform Applications Specialist
+```
+
+---
+
 ## 2025-09-15 07:12:47
 
 **No changes for today**
