@@ -1,4 +1,185 @@
 
+## 2025-09-18 07:11:56
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -74,6 +74,11 @@
+ Careers
+ Recruitment news
+ <
++Life at Optiver, Technology
++Interning on Optiver’s Austin HFT Team
++Former software engineer intern Ethan shares what it was like to build production systems on Optiver’s Austin high-frequency trading team.
++Learn more
++Americas
+ Experienced, Technology
+ Why DevEx matters to Optiver
+ Optiver’s Global Head of Developer Experience, Cian Lane, shares how DevEx boosts productivity firm-wide: 30% faster CI builds and onboarding cut to minutes.
+@@ -123,11 +128,6 @@
+ Brent joined Optiver as a Quantitative Trading Intern in the summer of 2023 and has since continued his career with the global trading firm as a full-time trader. In this interview, he reflects on his internship program experience and shares insights into how the team has supported him to build his trading career at Optiver.
+ Learn more
+ Singapore
+-Experienced, Technology
+-FPGA Hardware at Optiver: Making impact at speed and scale
+-At Optiver, hardware engineering isn’t an isolated function—it’s embedded in strategy, driven by collaboration, and built for speed. In this post, one of our hardware engineers shares how we design custom FPGA systems that process massive volumes of market data in real time, adapt to evolving trading demands, and go from idea to impact faster than you might expect.
+-Learn more
+-Global
+ >
+ See more
+ Newsletter
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -340,30 +340,6 @@
+ Experienced
+ Python
+ Hudson River Trading (HRT) is looking for a Data Production Engineer to join our Data team. Data is at the core of everything we do at HRT; we excel at deriving deep insights from all types of data, allowing us to achieve consistent success in a dynamic market.  This role...
+-Senior HPC Storage Architect
+-↳ Apply Now
+-Boulder
+-Experienced
+-Systems and Networking
+-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
+-Senior HPC Storage Architect
+-↳ Apply Now
+-Austin
+-Experienced
+-Systems and Networking
+-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
+-Senior HPC Storage Architect
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
+-Senior HPC Storage Architect
+-↳ Apply Now
+-London
+-Experienced
+-Systems and Networking
+-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
+ Experienced C++ Developer, Distributed Compute
+ ↳ Apply Now
+ New York
+@@ -556,12 +532,6 @@
+ Experienced
+ Systems and Networking
+ The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+-Senior HPC Storage Architect
+-↳ Apply Now
+-New York
+-Experienced
+-Systems and Networking
+-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
+ Market Structure Optimization Engineer
+ ↳ Apply Now
+ London
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -209,7 +209,7 @@
+ TV & Home
+ Explore Accessories
+ Made by Apple
+-Beats by Dr. Dre
++Beats
+ AirTag
+ Assistive Technologies
+ Support
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -8,7 +8,6 @@
+ Apply for open opportunities
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
+-Compliance
+ Data Acquisition
+ Finance
+ Human Resources
+@@ -37,8 +36,6 @@
+ Montreal, Warsaw
+ Assistant Tax Manager
+ London
+-Compliance Analyst - Discretionary Trading & Fundamental Research
+-New York
+ Data Associate
+ London
+ Data Center Technician
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++2 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +52,7 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++2 jobs
+ Share
+ Clear
+ Job title
+@@ -63,15 +63,9 @@
+ Senior / Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+-Senior Software Engineer, Data.gov.sg
+-Hybrid
+-View job
+ Senior / Lead Software Engineer, Civic Tech (Public Safety)
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+-Senior Software Engineer, Data.gov.sg
+-Hybrid
+-View job
+```
+
+---
+
 ## 2025-09-17 07:11:33
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

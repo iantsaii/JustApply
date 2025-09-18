@@ -74,6 +74,11 @@ Load more
 Careers
 Recruitment news
 <
+Life at Optiver, Technology
+Interning on Optiver’s Austin HFT Team
+Former software engineer intern Ethan shares what it was like to build production systems on Optiver’s Austin high-frequency trading team.
+Learn more
+Americas
 Experienced, Technology
 Why DevEx matters to Optiver
 Optiver’s Global Head of Developer Experience, Cian Lane, shares how DevEx boosts productivity firm-wide: 30% faster CI builds and onboarding cut to minutes.
@@ -123,11 +128,6 @@ Coding the Path to Trading: Brent’s internship journey
 Brent joined Optiver as a Quantitative Trading Intern in the summer of 2023 and has since continued his career with the global trading firm as a full-time trader. In this interview, he reflects on his internship program experience and shares insights into how the team has supported him to build his trading career at Optiver.
 Learn more
 Singapore
-Experienced, Technology
-FPGA Hardware at Optiver: Making impact at speed and scale
-At Optiver, hardware engineering isn’t an isolated function—it’s embedded in strategy, driven by collaboration, and built for speed. In this post, one of our hardware engineers shares how we design custom FPGA systems that process massive volumes of market data in real time, adapt to evolving trading demands, and go from idea to impact faster than you might expect.
-Learn more
-Global
 >
 See more
 Newsletter

@@ -340,30 +340,6 @@ Singapore
 Experienced
 Python
 Hudson River Trading (HRT) is looking for a Data Production Engineer to join our Data team. Data is at the core of everything we do at HRT; we excel at deriving deep insights from all types of data, allowing us to achieve consistent success in a dynamic market.  This role...
-Senior HPC Storage Architect
-↳ Apply Now
-Boulder
-Experienced
-Systems and Networking
-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
-Senior HPC Storage Architect
-↳ Apply Now
-Austin
-Experienced
-Systems and Networking
-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
-Senior HPC Storage Architect
-↳ Apply Now
-Chicago
-Experienced
-Systems and Networking
-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
-Senior HPC Storage Architect
-↳ Apply Now
-London
-Experienced
-Systems and Networking
-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
 Experienced C++ Developer, Distributed Compute
 ↳ Apply Now
 New York
@@ -556,12 +532,6 @@ London
 Experienced
 Systems and Networking
 The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
-Senior HPC Storage Architect
-↳ Apply Now
-New York
-Experienced
-Systems and Networking
-The Research & Development team at Hudson River Trading (HRT) builds and maintains the computers, networks, storage, operating systems, and software that allow our trading strategies and research environment to operate worldwide 24/7. HRT operates incredibly large GPU and CPU compute clusters, larger than most national labs. We have built...
 Market Structure Optimization Engineer
 ↳ Apply Now
 London
