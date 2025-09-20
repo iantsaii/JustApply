@@ -328,12 +328,6 @@ New York
 Experienced
 Risk
 Hudson River Trading is hiring a Commodities Risk Manager for our NYC office. You will be responsible for designing, improving, managing, and communicating market and liquidity risk for commodities instruments and strategies. You will have a broad mandate to own and manage all aspects of commodities trading risk faced by...
-Systems Engineer – Data Systems & Platforms
-↳ Apply Now
-Chicago
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
 Data Production Engineer
 ↳ Apply Now
 Singapore
@@ -502,12 +496,6 @@ Carteret
 Experienced
 Systems and Networking
 Hudson River Trading (HRT) is seeking a hands-on Data Center Technician with experience in data center operations to join our Trading Infrastructure (SysTrade) team. If you enjoy solving complex infrastructure challenges, working with cutting-edge technology, and thrive in a fast-paced, global environment, we’d love to hear from you. In this...
-Systems Engineer – Data Systems & Platforms
-↳ Apply Now
-New York
-Experienced
-Systems and Networking
-Hudson River Trading (HRT) is looking for a Systems Engineer to join our growing Research & Development team. This team builds and maintains an exceptionally large and growing distributed compute cluster, a petabyte-scale storage layer, operating systems, automation software, and development tools. Much of our hardware layer and operating system...
 Market Structure Optimization Engineer
 ↳ Apply Now
 Hong Kong
@@ -634,12 +622,18 @@ New York
 Experienced
 Python
 Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
+Treasury Associate
+↳ Apply Now
+New York
+Experienced
+Finance
+Hudson River Trading (HRT) is looking for a Treasury Associate to assist with firm-wide capital and liquidity management operations. The role will involve collaborating with other teams to manage firm-wide capital planning/forecasting, FX exposure and hedging, and counterparty risks. In addition, you will coordinate treasury operational movements to ensure adequate...
 PhD Winter Internship – 2026
 ↳ Apply Now
 New York
 Internship
 Strategy Development
-​The application deadline for this position is Nov 14, 2025 HRT is seeking qualified PhD candidates for our Winter Internship Program. Our PhD Winter Internship program is a 2 week introduction to quantitative research for graduate students who are curious but unfamiliar with the quantitative finance industry. Over the course...
+​The application deadline for this position is Nov 14, 2025 HRT is seeking qualified PhD candidates for our Winter Internship Program. Our PhD Winter Internship program is a 3 week introduction to quantitative research for graduate students who are curious but unfamiliar with the quantitative finance industry. Over the course...
 Hardware Design Engineer – 2026 Grads
 ↳ Apply Now
 Chicago
