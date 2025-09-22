@@ -1,4 +1,61 @@
 
+## 2025-09-22 07:13:20
+
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -233,13 +233,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -18,9 +18,9 @@
+ Tax
+ Technology
+ Offices
++London
+ Montreal
+ Warsaw
+-London
+ New York
+ Bangalore
+ Hong Kong
+@@ -32,6 +32,8 @@
+ Boston
+ Zug
+ Dubai
++Accounts Payable Financial Analyst
++Montreal, Warsaw, London
+ Assistant Controller - Management Company
+ Montreal, Warsaw
+ Assistant Tax Manager
+```
+
+---
+
 ## 2025-09-21 07:10:20
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)

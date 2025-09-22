@@ -18,9 +18,9 @@ Operations
 Tax
 Technology
 Offices
+London
 Montreal
 Warsaw
-London
 New York
 Bangalore
 Hong Kong
@@ -32,6 +32,8 @@ Geneva
 Boston
 Zug
 Dubai
+Accounts Payable Financial Analyst
+Montreal, Warsaw, London
 Assistant Controller - Management Company
 Montreal, Warsaw
 Assistant Tax Manager
