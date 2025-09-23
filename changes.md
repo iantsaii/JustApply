@@ -1,4 +1,117 @@
 
+## 2025-09-23 07:12:41
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -74,6 +74,10 @@
+ Careers
+ Recruitment news
+ <
++Recruitment at Optiver
++Optiver EU campus recruiting Q&A
++Learn more
++EMEA
+ Life at Optiver, Technology
+ Interning on Optiver’s Austin HFT Team
+ Former software engineer intern Ethan shares what it was like to build production systems on Optiver’s Austin high-frequency trading team.
+@@ -123,11 +127,6 @@
+ Meet Jashun When I was deciding where to spend my summer, Optiver stood out as the best place to explore quant trading and develop my skills. I was drawn to the firm’s strong culture of internal support and how they focus on long-term development. I also can’t complain about the amazing location and food in […]
+ Learn more
+ Americas
+-Meet the team
+-Coding the Path to Trading: Brent’s internship journey
+-Brent joined Optiver as a Quantitative Trading Intern in the summer of 2023 and has since continued his career with the global trading firm as a full-time trader. In this interview, he reflects on his internship program experience and shares insights into how the team has supported him to build his trading career at Optiver.
+-Learn more
+-Singapore
+ >
+ See more
+ Newsletter
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -89,7 +89,6 @@
+ New York
+ Hong Kong
+ Singapore
+-Austin
+ Mumbai
+ Singapore
+ DEPARTMENT
+@@ -144,7 +143,6 @@
+ New York
+ Hong Kong
+ Singapore
+-Austin
+ Mumbai
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -8,6 +8,7 @@
+ Apply for open opportunities
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
++Compliance
+ Data Acquisition
+ Finance
+ Human Resources
+@@ -54,10 +55,14 @@
+ London, New York
+ HR Systems Associate - Workday
+ Bangalore, London, Singapore, Montreal, New York
++Human Resources Specialist
++Montreal
+ Indirect Tax Analyst
+ Bangalore
+ Information Security Analyst
+ London
++Intern Compliance Analyst - Winter 2026
++London, New York
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
+ Intern Software Developer - Summer 2026
+@@ -126,8 +131,6 @@
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
+-Quantitative Researcher, Intraday Trading
+-New York
+ Senior Discretionary Trader - Credit
+ London, New York
+ Senior Discretionary Trader - Equities
+@@ -175,7 +178,7 @@
+ Support Analyst - Desktop
+ New York, London, Montreal and Paris
+ Support Analyst - Integration & Deployment Management
+-London, Montreal
++London, Montreal, Bangalore
+ Tax Analyst
+ London
+ Tax Analyst - Funds
+```
+
+---
+
 ## 2025-09-22 07:13:20
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)

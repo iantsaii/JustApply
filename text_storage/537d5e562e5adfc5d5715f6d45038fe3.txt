@@ -89,7 +89,6 @@ London
 New York
 Hong Kong
 Singapore
-Austin
 Mumbai
 Singapore
 DEPARTMENT
@@ -144,7 +143,6 @@ London
 New York
 Hong Kong
 Singapore
-Austin
 Mumbai
 Singapore
 DEPARTMENT

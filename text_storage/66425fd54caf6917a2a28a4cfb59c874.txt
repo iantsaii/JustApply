@@ -8,6 +8,7 @@ Locations
 Apply for open opportunities
 Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
 Departments
+Compliance
 Data Acquisition
 Finance
 Human Resources
@@ -54,10 +55,14 @@ Head of Financial Reporting
 London, New York
 HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
+Human Resources Specialist
+Montreal
 Indirect Tax Analyst
 Bangalore
 Information Security Analyst
 London
+Intern Compliance Analyst - Winter 2026
+London, New York
 Intern Quant Researcher
 London, Paris, New York, Singapore, Hong Kong
 Intern Software Developer - Summer 2026
@@ -126,8 +131,6 @@ Quant Developer (C++)
 Singapore, London, New York
 Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
-Quantitative Researcher, Intraday Trading
-New York
 Senior Discretionary Trader - Credit
 London, New York
 Senior Discretionary Trader - Equities
@@ -175,7 +178,7 @@ London, Montreal, Bangalore
 Support Analyst - Desktop
 New York, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
-London, Montreal
+London, Montreal, Bangalore
 Tax Analyst
 London
 Tax Analyst - Funds
