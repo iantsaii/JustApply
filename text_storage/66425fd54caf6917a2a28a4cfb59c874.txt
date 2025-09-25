@@ -88,9 +88,9 @@ Dubai, Singapore
 Network Specialist - Core
 Montreal, London, New York
 Network Specialist - Reliability
-Montreal & New York
+Montreal, New York
 Network Specialist - Security
-Montreal, New York & Singapore
+Montreal, New York, Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
