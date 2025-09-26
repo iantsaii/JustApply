@@ -1,4 +1,129 @@
 
+## 2025-09-26 07:12:37
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -327,6 +327,7 @@
+ Media and Entertainment
+ Nonprofits
+ Retail
++Hospitality, travel and leisure
+ Integrations & custom solutions
+ Stripe App Marketplace
+ Partner ecosystem
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Mumbai
+ Singapore
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -262,6 +262,18 @@
+ Experienced
+ People Operations
+ Hudson River Trading is looking for an ambitious and results-oriented Quant Research Pipeline Manager to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
++GPU Systems Engineer
++↳ Apply Now
++Seattle
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
++GPU Systems Engineer
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+ Middle Office Analyst
+ ↳ Apply Now
+ London
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -233,6 +233,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -168,7 +168,7 @@
+ Software Developer - Order Gateway
+ Montreal , Singapore & Warsaw
+ Software Developer - Order Gateway Integration
+-Singapore
++Bangalore, Montreal
+ Software Developer (Python)
+ London, Montreal, Singapore
+ Software Developer – Reliability
+```
+
+---
+
 ## 2025-09-25 07:12:29
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
