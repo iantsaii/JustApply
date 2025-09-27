@@ -640,6 +640,12 @@ New York
 Experienced
 Python
 Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
+Enterprise Security Engineer
+↳ Apply Now
+New York
+Experienced
+Information Security
+Hudson River Trading (HRT) is looking for a curious and innovative cybersecurity engineer who is excited about modern cloud, infrastructure, and AI security practices.  Our Enterprise Security team is responsible for safeguarding the infrastructure behind one of the most technically demanding trading environments in the world. From securing cloud and...
 Treasury Associate
 ↳ Apply Now
 New York
@@ -898,5 +904,6 @@ C++
 Python
 Strategy Development
 Systems and Networking
+Information Security
 Trade Operations
 ↳ Apply Filter
