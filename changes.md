@@ -1,4 +1,138 @@
 
+## 2025-09-30 07:12:36
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -311,23 +311,23 @@
+ Treasury
+ Verified
+ Solutions
++Enterprises
+ Startups
+-Enterprises
++Crypto
++Ecommerce
++Embedded finance
++Finance automation
++Global businesses
++Marketplaces
++Platforms
+ SaaS
+-Platforms
+-Ecommerce
+-Marketplaces
+-Crypto
++AI companies
+ Creator economy
+-AI companies
+-Embedded finance
+-Global businesses
+-Finance automation
++Hospitality, travel, and leisure
+ Insurance
+-Media and Entertainment
++Media and entertainment
+ Nonprofits
+ Retail
+-Hospitality, travel and leisure
+ Integrations & custom solutions
+ Stripe App Marketplace
+ Partner ecosystem
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -600,6 +600,12 @@
+ We are looking for engineers to power Hudson River Trading's continued expansion into global markets. As an engineer based out of our Singapore office, you will play a critical role in the process of establishing HRT's presence in Asia-Pacific markets and work closely with our algo and operations teams to...
+ Experienced Software Engineer – AI Tools
+ ↳ Apply Now
++Chicago
++Experienced
++Python
++Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
++Experienced Software Engineer – AI Tools
++↳ Apply Now
+ New York
+ Experienced
+ Python
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -192,7 +192,7 @@
+ Technical Business Analyst/Project Manager
+ London, Paris, Montreal, Singapore
+ Trade Flow Support - Trading Application Support
+-London, Montreal, New York,Singapore,Bangalore,Hong Kong,Houston
++London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
+ Trade Flow Support - Trading Infrastructure Support
+ Singapore
+ Trading Applications Specialist
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-2 jobs
++3 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +52,7 @@
+ Singapore
+ Singapore
+ Singapore
+-2 jobs
++3 jobs
+ Share
+ Clear
+ Job title
+@@ -63,9 +63,15 @@
+ Senior / Lead Software Engineer, HealthTech
+ Hybrid
+ View job
++Tech Lead Manager
++Hybrid
++View job
+ Senior / Lead Software Engineer, Civic Tech (Public Safety)
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, HealthTech
+ Hybrid
+ View job
++Tech Lead Manager
++Hybrid
++View job
+```
+
+---
+
 ## 2025-09-29 07:13:15
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)

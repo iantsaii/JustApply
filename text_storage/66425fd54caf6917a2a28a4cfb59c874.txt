@@ -192,7 +192,7 @@ Bangalore
 Technical Business Analyst/Project Manager
 London, Paris, Montreal, Singapore
 Trade Flow Support - Trading Application Support
-London, Montreal, New York,Singapore,Bangalore,Hong Kong,Houston
+London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
 Trade Flow Support - Trading Infrastructure Support
 Singapore
 Trading Applications Specialist
