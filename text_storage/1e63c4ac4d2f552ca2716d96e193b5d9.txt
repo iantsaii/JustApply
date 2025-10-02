@@ -262,6 +262,12 @@ New York
 Experienced
 People Operations
 Hudson River Trading is looking for an ambitious and results-oriented Quant Research Pipeline Manager to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
+Experienced Software Engineer – Low Level (C++)
+↳ Apply Now
+Austin
+Experienced
+C++
+At Hudson River Trading (HRT), C++ is at the center of our live trading systems and research infrastructure. Our C++ engineers build the highly performant, fault-tolerant systems that power trading across global markets. HRT’s distributed system is on the Pareto frontier of latency and throughput, giving you limitless opportunity to...
 GPU Systems Engineer
 ↳ Apply Now
 Seattle
@@ -370,54 +376,6 @@ New York
 Experienced
 C++
 Hudson River Trading (HRT) is a leading quantitative trading and investment firm specializing in multi-asset class strategies. At the core of our success lies the power of our compute cluster, the foundation where all our trading strategies are conceived and refined. We’re looking for innovative minds to enhance the data...
-Experienced C++ Developer, Options
-↳ Apply Now
-New York
-Experienced
-C++
-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers our worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside developers across the firm who write trading algorithms, monitor...
-Experienced C++ Developer, Options
-↳ Apply Now
-Chicago
-Experienced
-C++
-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers our worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside developers across the firm who write trading algorithms, monitor...
-FPGA Software Engineer
-↳ Apply Now
-New York
-Experienced
-C++
-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
-Experienced Low Level Software Engineer (C++)
-↳ Apply Now
-Dublin
-Experienced
-C++
-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
-Experienced Low Level Software Engineer (C++)
-↳ Apply Now
-London
-Experienced
-C++
-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
-Experienced Low Level Software Engineer (C++)
-↳ Apply Now
-Austin
-Experienced
-C++
-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
-Experienced Low Level Software Engineer (C++)
-↳ Apply Now
-Chicago
-Experienced
-C++
-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
-Experienced Low Level Software Engineer (C++)
-↳ Apply Now
-New York
-Experienced
-C++
-Hudson River Trading’s coders work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading —  at HRT, the code you write is our business. You’ll have an opportunity to work alongside a range of developers across the firm who write trading...
 Senior Site Reliability Engineer – Enterprise Technology
 ↳ Apply Now
 New York
@@ -876,6 +834,7 @@ HRT® and Hudson River Trading® are registered trademarks of Hudson River Tradi
 © 2002-2025 Hudson River Trading LLC. All rights reserved. HRT® and Hudson River Trading® are registered trademarks of Hudson River Trading LLC.
 Locations
 All
+Austin
 Austin
 Boston
 Boulder

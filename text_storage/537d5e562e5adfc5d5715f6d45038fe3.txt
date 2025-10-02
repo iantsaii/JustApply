@@ -81,13 +81,12 @@ All Types
 Full-Time: New Grad
 Internship
 Co-Op
-Industrial Placement Year
 Internship
 LOCATION
 All Locations
 London
-Hong Kong
 New York
+Hong Kong
 Singapore
 Mumbai
 Singapore
@@ -135,13 +134,12 @@ All Types
 Full-Time: New Grad
 Internship
 Co-Op
-Industrial Placement Year
 Internship
 LOCATION
 All Locations
 London
-Hong Kong
 New York
+Hong Kong
 Singapore
 Mumbai
 Singapore
