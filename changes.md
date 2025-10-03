@@ -1,4 +1,285 @@
 
+## 2025-10-03 07:11:41
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Mumbai
+ Singapore
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,11 +17,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Answers to Questions I Often Get: Engineering and Interviewing at HRT
++Read More ▸
+ Building a Distributed Filesystem for Scalable Research
+ Read More ▸
+ Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
+-Read More ▸
+-Intern Spotlight: HRT AI Labs Project
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -54,11 +54,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Answers to Questions I Often Get: Engineering and Interviewing at HRT
++Read More ▸
+ Building a Distributed Filesystem for Scalable Research
+ Read More ▸
+ Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
+-Read More ▸
+-Intern Spotlight: HRT AI Labs Project
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -262,6 +262,36 @@
+ Experienced
+ People Operations
+ Hudson River Trading is looking for an ambitious and results-oriented Quant Research Pipeline Manager to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
++Experienced Research Engineer
++↳ Apply Now
++London
++Experienced
++C++ | Python | Strategy Development
++Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our non-siloed, collaborative coding environment empowers talented engineers to make significant contributions and see...
++Experienced Research Engineer
++↳ Apply Now
++New York
++Experienced
++C++ | Python | Strategy Development
++Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our non-siloed, collaborative coding environment empowers talented engineers to make significant contributions and see...
++Experienced Software Engineer
++↳ Apply Now
++London
++Experienced
++C++ | Python | Strategy Development
++Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our bottom-up approach to projects and collaborative coding environment empower talented engineers to make...
++Experienced Software Engineer
++↳ Apply Now
++New York
++Experienced
++C++ | Python | Strategy Development
++Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our bottom-up approach to projects and collaborative coding environment empower talented engineers to make...
++Workplace Manager
++↳ Apply Now
++London
++Experienced
++People Operations
++Hudson River Trading (HRT) is looking for a Workplace Manager to join our Employee Experience Team in our London office. This role requires you to work in person in our office five days a week.  In this role, you will oversee day-to-day operational and administrative tasks. This includes big-picture projects...
+ Experienced Software Engineer – Low Level (C++)
+ ↳ Apply Now
+ Austin
+@@ -418,12 +448,12 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Senior Windows Platform and Cloud Infrastructure Engineer with exceptional Microsoft Azure experience and a strong service reliability mindset to join the IT team. In this role, you will directly contribute to the growth and modernization of our Windows platform as we increase...
+-Systems Software Engineer
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
++Experienced Software Engineer – Systems
++↳ Apply Now
++Chicago
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Middle Office Analyst
+ ↳ Apply Now
+ Singapore
+@@ -478,24 +508,24 @@
+ Experienced
+ Python
+ Hudson River Trading is hiring a Market Structure Optimization Engineer for our brand new Market Structure Analytics team. In joining this team, you will be responsible for employing data-driven methodologies to minimize friction in our real-time interaction with financial markets. This role is crucial to helping HRT optimize the way...
+-Systems Software Engineer
++Experienced Software Engineer – Systems
+ ↳ Apply Now
+ Boulder
+ Experienced
+ Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+-Systems Software Engineer
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
++Experienced Software Engineer – Systems
+ ↳ Apply Now
+ Dublin
+ Experienced
+ Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+-Systems Software Engineer
+-↳ Apply Now
+-London
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
++Experienced Software Engineer – Systems
++↳ Apply Now
++London
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Market Structure Optimization Engineer
+ ↳ Apply Now
+ London
+@@ -514,12 +544,12 @@
+ Experienced
+ Python
+ Hudson River Trading is hiring a Market Structure Optimization Engineer for our brand new Market Structure Analytics team. In joining this team, you will be responsible for employing data-driven methodologies to minimize friction in our real-time interaction with financial markets. This role is crucial to helping HRT optimize the way...
+-Systems Software Engineer
+-↳ Apply Now
+-New York
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As a Systems Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
++Experienced Software Engineer – Systems
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Data Production Engineer
+ ↳ Apply Now
+ London
+@@ -568,24 +598,24 @@
+ Experienced
+ Python
+ Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
+-Senior Software Engineer – Development Tools
+-↳ Apply Now
+-Austin
+-Experienced
+-Python
+-Hudson River Trading (HRT) is looking for a Software Engineer to join our Developer Experience team. The Developer Experience team creates internal tools to ensure that our developers have everything they need to do their jobs well. While we are an automated trading firm, the code we write *is* our...
+-Senior Software Engineer – Development Tools
+-↳ Apply Now
+-Chicago
+-Experienced
+-Python
+-Hudson River Trading (HRT) is looking for a Software Engineer to join our Developer Experience team. The Developer Experience team creates internal tools to ensure that our developers have everything they need to do their jobs well. While we are an automated trading firm, the code we write *is* our...
+-Senior Software Engineer – Development Tools
+-↳ Apply Now
+-New York
+-Experienced
+-Python
+-Hudson River Trading (HRT) is looking for a Software Engineer to join our Developer Experience team. The Developer Experience team creates internal tools to ensure that our developers have everything they need to do their jobs well. While we are an automated trading firm, the code we write *is* our...
++Experienced Software Engineer – Development Tools
++↳ Apply Now
++Austin
++Experienced
++Python
++Hudson River Trading (HRT) is looking for an Experienced Software Engineer to join our Developer Experience team. The Developer Experience team creates internal tools to ensure that our developers have everything they need to do their jobs well. While we are an automated trading firm, the code we write *is*...
++Experienced Software Engineer – Development Tools
++↳ Apply Now
++Chicago
++Experienced
++Python
++Hudson River Trading (HRT) is looking for an Experienced Software Engineer to join our Developer Experience team. The Developer Experience team creates internal tools to ensure that our developers have everything they need to do their jobs well. While we are an automated trading firm, the code we write *is*...
++Experienced Software Engineer – Development Tools
++↳ Apply Now
++New York
++Experienced
++Python
++Hudson River Trading (HRT) is looking for an Experienced Software Engineer to join our Developer Experience team. The Developer Experience team creates internal tools to ensure that our developers have everything they need to do their jobs well. While we are an automated trading firm, the code we write *is*...
+ Senior Python Engineer
+ ↳ Apply Now
+ Chicago
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (22)
++Opportunities (23)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,7 +174,7 @@
+ Viewing
+ 10
+ of
+-22
++23
+ Software Engineer – Intern (Europe)
+ London
+ Apply Now
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -63,7 +63,7 @@
+ Senior / Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+-Tech Lead Manager
++Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, Civic Tech (Public Safety)
+@@ -72,6 +72,6 @@
+ Senior / Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+-Tech Lead Manager
++Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-10-02 07:11:25
 
 ### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
