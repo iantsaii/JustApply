@@ -240,12 +240,6 @@ People Operations
 Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
 Campus Recruiter
 ↳ Apply Now
-Chicago
-Experienced
-People Operations
-Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
-Campus Recruiter
-↳ Apply Now
 New York
 Experienced
 People Operations
@@ -322,12 +316,6 @@ New York
 Experienced
 Business Development
 Hudson River Trading (HRT) is looking for a Market Data Admin to enable the growing operational demands of our data platform. You’ll work across contracts, exchange reporting, billing, audits, and internal coordination - making sure key processes run smoothly and nothing falls through the cracks. Responsibilities Contracts & Exchange Reporting...
-Business Development Analyst
-↳ Apply Now
-New York
-Experienced
-Business Development
-Hudson River Trading (HRT) is looking for a Business Development Analyst to join our Business Development team in New York City. This role will support HRT's Americas Equities business and help manage relationships with stock exchanges, ATSs, clearing firms, and brokers. The ideal candidate will apply their subject matter expertise...
 Women in Trading and Technology Internship (WiTTI) – Winter 2026
 ↳ Apply Now
 New York
@@ -478,13 +466,13 @@ New York
 Experienced
 People Operations
 Hudson River Trading (HRT) is looking for a Recruiting Coordinator to join our global Recruiting team. In this role, you will be a scheduling and logistics guru responsible for providing a first-class interview experience for both candidates and internal stakeholders. You will join a small team dedicated to overseeing all...
-Senior Software Engineer – Treasury Infrastructure
+Experienced Software Engineer – Treasury Infrastructure
 ↳ Apply Now
 Chicago
 Experienced
 Python
 Hudson River Trading (HRT) is looking for a Senior Software Engineer to focus on our Treasury Infrastructure. Coders at HRT work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll...
-Senior Software Engineer – Treasury Infrastructure
+Experienced Software Engineer – Treasury Infrastructure
 ↳ Apply Now
 New York
 Experienced

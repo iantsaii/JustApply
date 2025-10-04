@@ -1,4 +1,185 @@
 
+## 2025-10-04 07:10:56
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -162,6 +162,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -205,16 +218,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+-Hong Kong
+ London
+ Singapore
+ Mumbai
+@@ -137,8 +137,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+-Hong Kong
+ London
+ Singapore
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -240,12 +240,6 @@
+ Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
+ Campus Recruiter
+ ↳ Apply Now
+-Chicago
+-Experienced
+-People Operations
+-Hudson River Trading (HRT) is looking for a Campus Recruiter to join our Recruiting team. We are looking for an ambitious and results-oriented Campus Recruiter to build and foster relationships with top universities and students. You will focus on sourcing, marketing, and hosting on-campus events to bring exceptional talent to...
+-Campus Recruiter
+-↳ Apply Now
+ New York
+ Experienced
+ People Operations
+@@ -322,12 +316,6 @@
+ Experienced
+ Business Development
+ Hudson River Trading (HRT) is looking for a Market Data Admin to enable the growing operational demands of our data platform. You’ll work across contracts, exchange reporting, billing, audits, and internal coordination - making sure key processes run smoothly and nothing falls through the cracks. Responsibilities Contracts & Exchange Reporting...
+-Business Development Analyst
+-↳ Apply Now
+-New York
+-Experienced
+-Business Development
+-Hudson River Trading (HRT) is looking for a Business Development Analyst to join our Business Development team in New York City. This role will support HRT's Americas Equities business and help manage relationships with stock exchanges, ATSs, clearing firms, and brokers. The ideal candidate will apply their subject matter expertise...
+ Women in Trading and Technology Internship (WiTTI) – Winter 2026
+ ↳ Apply Now
+ New York
+@@ -478,13 +466,13 @@
+ Experienced
+ People Operations
+ Hudson River Trading (HRT) is looking for a Recruiting Coordinator to join our global Recruiting team. In this role, you will be a scheduling and logistics guru responsible for providing a first-class interview experience for both candidates and internal stakeholders. You will join a small team dedicated to overseeing all...
+-Senior Software Engineer – Treasury Infrastructure
++Experienced Software Engineer – Treasury Infrastructure
+ ↳ Apply Now
+ Chicago
+ Experienced
+ Python
+ Hudson River Trading (HRT) is looking for a Senior Software Engineer to focus on our Treasury Infrastructure. Coders at HRT work on small, highly productive, and efficient teams that design, improve, and maintain the technology that powers worldwide trading — at HRT, the code you write is our business. You’ll...
+-Senior Software Engineer – Treasury Infrastructure
++Experienced Software Engineer – Treasury Infrastructure
+ ↳ Apply Now
+ New York
+ Experienced
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -157,13 +157,13 @@
+ London, Montreal, Singapore
+ Software Developer - Data Pipelines (Python)
+ London, Montreal, Madrid, Bangalore
+-Software Developer – Data Products and Services
++Software Developer - Data Products and Services
+ Montreal, London, Singapore, Bangalore
+-Software Developer – Data Services (KDB+/Q)
++Software Developer - Data Services (KDB+/Q)
+ Singapore, Montreal, London, Hong Kong, New York, Warsaw
+-Software Developer – Internal Compute Frameworks (Python)
++Software Developer - Internal Compute Frameworks (Python)
+ London, Montreal, Singapore, Warsaw
+-Software Developer – Internal Compute Frameworks (Rust)
++Software Developer - Internal Compute Frameworks (Rust)
+ London, Montreal, Singapore, Warsaw
+ Software Developer (KDB+/Q)
+ London, Montreal, Singapore
+@@ -173,7 +173,7 @@
+ Bangalore, Montreal
+ Software Developer (Python)
+ London, Montreal, Singapore
+-Software Developer – Reliability
++Software Developer - Reliability
+ Singapore, Montreal
+ Software Developer - Risk Data Pipelines
+ Bangalore, Montreal, Warsaw
+@@ -211,10 +211,7 @@
+ Locations
+ Disclosures
+ Cookie Preferences
+-©
+-2025
+-Squarepoint
+-. All Rights Reserved.
++© 2025 Squarepoint. All Rights Reserved.
+ We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content, and to analyze our website traffic. By browsing our website, you consent to our use of cookies and other tracking technologies.
+ Close cookie preferences banner
+ I agree to all cookie use
+```
+
+---
+
 ## 2025-10-03 07:11:41
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

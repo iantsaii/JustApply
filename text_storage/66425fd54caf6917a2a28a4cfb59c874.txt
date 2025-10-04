@@ -157,13 +157,13 @@ Software Developer - Data Infrastructure
 London, Montreal, Singapore
 Software Developer - Data Pipelines (Python)
 London, Montreal, Madrid, Bangalore
-Software Developer – Data Products and Services
+Software Developer - Data Products and Services
 Montreal, London, Singapore, Bangalore
-Software Developer – Data Services (KDB+/Q)
+Software Developer - Data Services (KDB+/Q)
 Singapore, Montreal, London, Hong Kong, New York, Warsaw
-Software Developer – Internal Compute Frameworks (Python)
+Software Developer - Internal Compute Frameworks (Python)
 London, Montreal, Singapore, Warsaw
-Software Developer – Internal Compute Frameworks (Rust)
+Software Developer - Internal Compute Frameworks (Rust)
 London, Montreal, Singapore, Warsaw
 Software Developer (KDB+/Q)
 London, Montreal, Singapore
@@ -173,7 +173,7 @@ Software Developer - Order Gateway Integration
 Bangalore, Montreal
 Software Developer (Python)
 London, Montreal, Singapore
-Software Developer – Reliability
+Software Developer - Reliability
 Singapore, Montreal
 Software Developer - Risk Data Pipelines
 Bangalore, Montreal, Warsaw
@@ -211,10 +211,7 @@ Careers
 Locations
 Disclosures
 Cookie Preferences
-©
-2025
-Squarepoint
-. All Rights Reserved.
+© 2025 Squarepoint. All Rights Reserved.
 We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content, and to analyze our website traffic. By browsing our website, you consent to our use of cookies and other tracking technologies.
 Close cookie preferences banner
 I agree to all cookie use
