@@ -1,4 +1,120 @@
 
+## 2025-10-07 07:12:22
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Mumbai
+@@ -137,8 +137,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -424,12 +424,6 @@
+ Experienced
+ Hardware Engineering
+ The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
+-Risk Manager – Corporate Credit
+-↳ Apply Now
+-New York
+-Experienced
+-Risk
+-Hudson River Trading is hiring a Corporate Credit Risk Manager for our NYC office. You will be responsible for designing, improving, managing, and communicating market and liquidity risk for corporate credit-related instruments and strategies. You will own and manage all aspects of credit trading risk faced by the firm, while...
+ Senior Windows Platform and Cloud Infrastructure Engineer
+ ↳ Apply Now
+ Singapore
+@@ -622,6 +616,12 @@
+ Experienced
+ Python
+ Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
++Security Operations Engineer
++↳ Apply Now
++New York
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. HRT is seeking an experienced Security Engineer to join our growing Security Operations team....
+ Enterprise Security Engineer
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -180,7 +180,7 @@
+ Software Developer - Risk Technology
+ London, Montreal, Bangalore
+ Software Developer (Rust)
+-New York, Boston, Houston, Montreal, London, Geneva, Warsaw, Zug, Singapore, Hong Kong,
++Boston, Geneva, Houston, Hong Kong, London, New York, Montreal, Singapore, Warsaw, Zug
+ Support Analyst - Desktop
+ New York, London, Montreal, Paris
+ Support Analyst - Integration & Deployment Management
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -60,7 +60,7 @@
+ Senior / Lead Software Engineer, Civic Tech (Public Safety)
+ Hybrid
+ View job
+-Senior / Lead Software Engineer, HealthTech
++Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+ Technical Lead / Software Engineering Manager
+@@ -69,7 +69,7 @@
+ Senior / Lead Software Engineer, Civic Tech (Public Safety)
+ Hybrid
+ View job
+-Senior / Lead Software Engineer, HealthTech
++Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+ Technical Lead / Software Engineering Manager
+```
+
+---
+
 ## 2025-10-06 07:13:12
 
 **No changes for today**

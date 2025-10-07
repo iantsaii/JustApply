@@ -424,12 +424,6 @@ New York
 Experienced
 Hardware Engineering
 The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technology to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine learning accelerators. FPGAs and ASICs are...
-Risk Manager – Corporate Credit
-↳ Apply Now
-New York
-Experienced
-Risk
-Hudson River Trading is hiring a Corporate Credit Risk Manager for our NYC office. You will be responsible for designing, improving, managing, and communicating market and liquidity risk for corporate credit-related instruments and strategies. You will own and manage all aspects of credit trading risk faced by the firm, while...
 Senior Windows Platform and Cloud Infrastructure Engineer
 ↳ Apply Now
 Singapore
@@ -622,6 +616,12 @@ New York
 Experienced
 Python
 Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
+Security Operations Engineer
+↳ Apply Now
+New York
+Experienced
+Systems and Networking
+Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. HRT is seeking an experienced Security Engineer to join our growing Security Operations team....
 Enterprise Security Engineer
 ↳ Apply Now
 New York

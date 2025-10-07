@@ -180,7 +180,7 @@ Bangalore, Montreal, Warsaw
 Software Developer - Risk Technology
 London, Montreal, Bangalore
 Software Developer (Rust)
-New York, Boston, Houston, Montreal, London, Geneva, Warsaw, Zug, Singapore, Hong Kong,
+Boston, Geneva, Houston, Hong Kong, London, New York, Montreal, Singapore, Warsaw, Zug
 Support Analyst - Desktop
 New York, London, Montreal, Paris
 Support Analyst - Integration & Deployment Management
