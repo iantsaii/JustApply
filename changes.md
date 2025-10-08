@@ -1,4 +1,158 @@
 
+## 2025-10-08 07:11:36
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+-Hong Kong
+ London
+ Singapore
+ Mumbai
+@@ -137,8 +137,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+-Hong Kong
+ London
+ Singapore
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -106,6 +106,42 @@
+ Locations
+ 
+ Clear All
++Algorithm Development (Quant Research) PhD Internship – Summer 2026
++↳ Apply Now
++London
++Internship
++Strategy Development
++Hudson River Trading (HRT) is seeking exceptional full-time PhD students to join our Algorithm Development summer internship program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. Trading in 200+ markets around the world in a variety of time horizons ensures there are always innovative...
++Algorithm Development (Quant Research) Internship – Summer 2026
++↳ Apply Now
++London
++Internship
++Strategy Development
++Hudson River Trading (HRT) is seeking exceptional full-time students to join our Algorithm Development Summer Internship Program. Algorithm Developers at HRT focus on the research and implementation of automated trading strategies. As an intern, you will have the opportunity to rotate between our high-frequency trading, multi-frequency trading, and/or machine learning...
++Software Engineering Internship – Summer 2026
++↳ Apply Now
++London
++Internship
++C++ | Python
++Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
++Software Engineer (C++ or Python) – 2026 Grads
++↳ Apply Now
++London
++New Grad
++C++ | Python
++As a Software Engineer at Hudson River Trading (HRT), the code you write is our business. Our engineers create and maintain critical technology and infrastructure that is integral to the success of our trading. In this role, you will work closely with other engineers across the firm who design trading...
++Algorithm Developer (Quant Researcher) – 2026 PhDs
++↳ Apply Now
++London
++New Grad
++Strategy Development
++Hudson River Trading (HRT) is seeking exceptional full-time PhD students to join our Algorithm Development team. Algorithm Developers are responsible for building and maintaining the models that drive our trading. A typical day involves applying rigorous statistical analysis to vast quantities of market and financial data to produce predictive trading...
++Algorithm Developer (Quant Researcher) – 2026 Grads
++↳ Apply Now
++London
++New Grad
++Strategy Development
++Algorithm Developers are responsible for building and maintaining the models that drive our trading. A typical day involves applying rigorous statistical analysis to vast quantities of market and financial data to produce predictive trading models.  In this role, you will work alongside fellow Algorithm Developers and Software Engineers to research,...
+ HPC Network Engineer
+ ↳ Apply Now
+ Austin
+@@ -694,24 +730,6 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is seeking an IT Operations Engineer to join our Information Technology team. In this role, you’ll be responsible for providing technical support to HRTers around the globe, while also driving automation and engineering solutions to improve scalability and efficiency. You’ll work closely with IT leadership to...
+-Electronic Trading Support Engineer
+-↳ Apply Now
+-Chicago
+-Experienced
+-Trade Operations
+-Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our global Trade Operations (TradeOps) team in Chicago. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring, and...
+-Electronic Trading Support Engineer
+-↳ Apply Now
+-Austin
+-Experienced
+-Trade Operations
+-Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our global Trade Operations (TradeOps) team in Austin. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring, and...
+-Electronic Trading Support Engineer
+-↳ Apply Now
+-New York
+-Experienced
+-Trade Operations
+-Hudson River Trading (HRT) is looking for an Electronic Trading Support Engineer to join our global Trade Operations (TradeOps) team in NYC. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring, and...
+ Design Verification (DV) Engineer
+ ↳ Apply Now
+ London
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -230,6 +230,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -179,8 +179,6 @@
+ Bangalore, Montreal, Warsaw
+ Software Developer - Risk Technology
+ London, Montreal, Bangalore
+-Software Developer (Rust)
+-Boston, Geneva, Houston, Hong Kong, London, New York, Montreal, Singapore, Warsaw, Zug
+ Support Analyst - Desktop
+ New York, London, Montreal, Paris
+ Support Analyst - Integration & Deployment Management
+```
+
+---
+
 ## 2025-10-07 07:12:22
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

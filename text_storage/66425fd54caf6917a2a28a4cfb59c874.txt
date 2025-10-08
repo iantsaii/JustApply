@@ -179,8 +179,6 @@ Software Developer - Risk Data Pipelines
 Bangalore, Montreal, Warsaw
 Software Developer - Risk Technology
 London, Montreal, Bangalore
-Software Developer (Rust)
-Boston, Geneva, Houston, Hong Kong, London, New York, Montreal, Singapore, Warsaw, Zug
 Support Analyst - Desktop
 New York, London, Montreal, Paris
 Support Analyst - Integration & Deployment Management
