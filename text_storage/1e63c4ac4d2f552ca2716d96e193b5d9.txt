@@ -296,25 +296,25 @@ Experienced Research Engineer
 ↳ Apply Now
 London
 Experienced
-C++ | Python | Strategy Development
+Python
 Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our non-siloed, collaborative coding environment empowers talented engineers to make significant contributions and see...
 Experienced Research Engineer
 ↳ Apply Now
 New York
 Experienced
-C++ | Python | Strategy Development
+Python
 Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our non-siloed, collaborative coding environment empowers talented engineers to make significant contributions and see...
 Experienced Software Engineer
 ↳ Apply Now
 London
 Experienced
-C++ | Python | Strategy Development
+Python
 Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our bottom-up approach to projects and collaborative coding environment empower talented engineers to make...
 Experienced Software Engineer
 ↳ Apply Now
 New York
 Experienced
-C++ | Python | Strategy Development
+Python
 Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our bottom-up approach to projects and collaborative coding environment empower talented engineers to make...
 Workplace Manager
 ↳ Apply Now
@@ -472,12 +472,6 @@ Chicago
 Experienced
 Systems and Networking
 The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
-Middle Office Analyst
-↳ Apply Now
-Singapore
-Experienced
-Trade Operations
-The Middle Office team at Hudson River Trading (HRT) is responsible for ensuring the smooth operation of HRT’s post-trade platform. Our global trading platform supports trading across many asset classes and geographies. Our team designs and operates the systems and processes that reconcile the firm’s trading with our various brokers...
 TradeOps Analyst
 ↳ Apply Now
 Singapore
@@ -706,12 +700,6 @@ New York
 Experienced
 Trade Operations
 Hudson River Trading (HRT) is looking for a Junior Electronic Trading Support Engineer to join our global Trade Operations (TradeOps) team in NYC. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
-Business Development Analyst
-↳ Apply Now
-Singapore
-Experienced
-Business Development
-Hudson River Trading is hiring a Business Development Analyst in our Singapore office. This role will support HRT’s Asia equities and derivatives business and help guide the continued development of HRT’s Asia platform. As a business development analyst, you will be exposed to the inner workings of automated trading across...
 Systems Engineer – Enterprise Technology
 ↳ Apply Now
 London

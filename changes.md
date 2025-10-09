@@ -1,4 +1,489 @@
 
+## 2025-10-09 07:12:09
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ New York
+ London
++Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ New York
+ London
++Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -296,25 +296,25 @@
+ ↳ Apply Now
+ London
+ Experienced
+-C++ | Python | Strategy Development
++Python
+ Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our non-siloed, collaborative coding environment empowers talented engineers to make significant contributions and see...
+ Experienced Research Engineer
+ ↳ Apply Now
+ New York
+ Experienced
+-C++ | Python | Strategy Development
++Python
+ Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our non-siloed, collaborative coding environment empowers talented engineers to make significant contributions and see...
+ Experienced Software Engineer
+ ↳ Apply Now
+ London
+ Experienced
+-C++ | Python | Strategy Development
++Python
+ Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our bottom-up approach to projects and collaborative coding environment empower talented engineers to make...
+ Experienced Software Engineer
+ ↳ Apply Now
+ New York
+ Experienced
+-C++ | Python | Strategy Development
++Python
+ Hudson River Trading (HRT) is a quantitative trading firm at the forefront of technological innovation. We build and deploy cutting-edge systems within one of the world’s most advanced computing environments to power our global trading operations. Our bottom-up approach to projects and collaborative coding environment empower talented engineers to make...
+ Workplace Manager
+ ↳ Apply Now
+@@ -472,12 +472,6 @@
+ Experienced
+ Systems and Networking
+ The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+-Middle Office Analyst
+-↳ Apply Now
+-Singapore
+-Experienced
+-Trade Operations
+-The Middle Office team at Hudson River Trading (HRT) is responsible for ensuring the smooth operation of HRT’s post-trade platform. Our global trading platform supports trading across many asset classes and geographies. Our team designs and operates the systems and processes that reconcile the firm’s trading with our various brokers...
+ TradeOps Analyst
+ ↳ Apply Now
+ Singapore
+@@ -706,12 +700,6 @@
+ Experienced
+ Trade Operations
+ Hudson River Trading (HRT) is looking for a Junior Electronic Trading Support Engineer to join our global Trade Operations (TradeOps) team in NYC. This team is responsible for managing HRT’s live trading environment, one of the most robust and efficient electronic trading platforms in the world. This includes configuring, monitoring,...
+-Business Development Analyst
+-↳ Apply Now
+-Singapore
+-Experienced
+-Business Development
+-Hudson River Trading is hiring a Business Development Analyst in our Singapore office. This role will support HRT’s Asia equities and derivatives business and help guide the continued development of HRT’s Asia platform. As a business development analyst, you will be exposed to the inner workings of automated trading across...
+ Systems Engineer – Enterprise Technology
+ ↳ Apply Now
+ London
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -27,6 +27,7 @@
+ Blog
+ Log in/Create profile
+ Search Meta Careers
++Search
+ Hide filters
+ 0 Items
+ Save this search
+@@ -46,18 +47,14 @@
+ Business Development & Partnerships
+ Communications & Public Policy
+ Show more
+-Employment Type
++Employment type
+ Full time employment
+ Internship
+ Short term employment
+ Location
+-Singapore
+-Menlo Park, CA
+-London, UK
+-Seattle, WA
+-New York, NY
+-Apply Filters
+-Clear Filters
++Location
++Apply filters
++Clear filters
+ There are currently no open roles matching your search.
+ Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+ Careers
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -230,13 +230,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,219 +1,68 @@
+-Open opportunities :: Squarepoint
+-Squarepoint logo
+-About us
+-Philosophy
+-Culture
+-Careers
+-Locations
+-Apply for open opportunities
+-Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+-Departments
+-Compliance
+-Data Acquisition
+-Finance
+-Human Resources
+-Investment
+-Office Acquisition and Development
+-Office Management
+-Operations
+-Tax
+-Technology
+-Offices
+-London
+-Montreal
+-Warsaw
+-New York
+-Bangalore
+-Hong Kong
+-Madrid
+-Singapore
+-Houston
+-Paris
+-Geneva
+-Boston
+-Zug
+-Dubai
+-Accounts Payable Financial Analyst
+-Montreal, Warsaw, London
+-Assistant Controller - Management Company
+-Montreal, Warsaw
+-Assistant Tax Manager
+-London
+-Data Associate
+-London
+-Data Center Technician
+-New York
+-Desk Quant Analyst
+-London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+-FP&A Manager
+-London,  Montreal, Bangalore, Warsaw
+-Graduate Software Developer
+-London, Montreal, Warsaw, New York, Singapore
+-Graduate Support Specialist
+-London, Montreal, New York, Houston, Hong Kong
+-Head of Financial Reporting
+-London, New York
+-HR Systems Associate - Workday
+-Bangalore, London, Singapore, Montreal, New York
+-Human Resources Specialist
+-Montreal
+-Indirect Tax Analyst
+-Bangalore
+-Information Security Analyst
+-London
+-Intern Compliance Analyst - Winter 2026
+-London, New York
+-Intern Quant Researcher
+-London, Paris, New York, Singapore, Hong Kong
+-Intern Software Developer - Summer 2026
+-Montreal, Singapore, London, Warsaw
+-Intern Software Developer - Winter 2026
+-Montreal, Singapore
+-Junior Commodities Fundamental Analyst
+-Geneva, Houston, London, New York, Paris
+-Junior Discretionary Trader
+-New York, London
+-Junior Execution Trader
+-London
+-Junior Platform Compute and Storage Specialist
+-London, Montreal, New York
+-Junior Quant Researcher
+-London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+-Junior Quant Researcher - ML Alpha Research
+-London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+-Junior Risk Manager
+-New York, London
+-Junior Shift Trader
+-Dubai, Singapore
+-Network Specialist - Core
+-Montreal, London, New York
+-Network Specialist - Reliability
+-Montreal, New York
+-Network Specialist - Security
+-Montreal, New York, Singapore
+-Network Specialist - ULL
+-Montreal, London,  New York
+-Office Administrator
+-Warsaw
+-Operations Analyst
+-Bangalore
+-Operations Analyst - Metals
+-New York
+-Operations Manager
+-Bangalore
+-Platform Applications Specialist
+-Montreal, London, Singapore, Hong Kong, Warsaw, Houston
+-Platform Compute and Storage Specialist
+-Montreal, New York, London, Singapore
+-Platform Specialist - Databases
+-Montreal, New York, Houston, Boston, Singapore, Hong Kong
+-Platform Specialist - Development Tools
+-Montreal, New York, Houston, Boston, Singapore, Hong Kong
+-Platform Specialist - HPC
+-London, New York
+-Platform Specialist - Middleware
+-Montreal, New York, Houston, Boston
+-Platform Specialist - Observability
+-London, Warsaw, Montreal, New York, Houston, Boston
+-Platform Specialist - Scheduler and Orchestrators
+-Montreal, New York, Houston, Boston, Singapore, Hong Kong
+-Platform Specialist - ULL
+-London, New York
+-Platform Specialist - Windows and Virtualization
+-Bangalore, London, Montreal, New York
+-Platform ULL - Colo - Reliability
+-London, Montreal, New York, Singapore
+-Platform ULL - Colo - Strategic
+-Montreal, London, New York
+-Property Assistant
+-Montreal
+-Quant Developer
+-London, Montreal, Warsaw, Singapore
+-Quant Developer (C++)
+-Singapore, London, New York
+-Quant Developer (Python)
+-Boston, Dubai, London, Montreal, Warsaw
+-Senior Discretionary Trader - Credit
+-London, New York
+-Senior Discretionary Trader - Equities
+-London, New York
+-Senior Discretionary Trader - Macro
+-London, New York
+-Senior Execution Trader - FICC
+-Singapore
+-Senior Quant Researcher - CTA/Short-Term
+-Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+-Senior Quant Researcher - Equity Mid/Low Frequency
+-Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+-Senior Quant Researcher - Fixed Income
+-Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+-Senior Quant Researcher - Intraday Statistical Arbitrage
+-Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+-Senior Quant Researcher - Volatility
+-Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+-Software Developer (C++)
+-London, Montreal, Singapore
+-Software Developer - Data Infrastructure
+-London, Montreal, Singapore
+-Software Developer - Data Pipelines (Python)
+-London, Montreal, Madrid, Bangalore
+-Software Developer - Data Products and Services
+-Montreal, London, Singapore, Bangalore
+-Software Developer - Data Services (KDB+/Q)
+-Singapore, Montreal, London, Hong Kong, New York, Warsaw
+-Software Developer - Internal Compute Frameworks (Python)
+-London, Montreal, Singapore, Warsaw
+-Software Developer - Internal Compute Frameworks (Rust)
+-London, Montreal, Singapore, Warsaw
+-Software Developer (KDB+/Q)
+-London, Montreal, Singapore
+-Software Developer - Order Gateway
+-Montreal , Singapore, Warsaw
+-Software Developer - Order Gateway Integration
+-Bangalore, Montreal
+-Software Developer (Python)
+-London, Montreal, Singapore
+-Software Developer - Reliability
+-Singapore, Montreal
+-Software Developer - Risk Data Pipelines
+-Bangalore, Montreal, Warsaw
+-Software Developer - Risk Technology
+-London, Montreal, Bangalore
+-Support Analyst - Desktop
+-New York, London, Montreal, Paris
+-Support Analyst - Integration & Deployment Management
+-London, Montreal, Bangalore
+-Tax Analyst
+-London
+-Tax Analyst
+-Bangalore
+-Tax Analyst - Funds
+-London
+-Technical Business Analyst/Project Manager
+-London, Paris, Montreal, Singapore
+-Trade Flow Support - Trading Application Support
+-London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
+-Trade Flow Support - Trading Infrastructure Support
+-Singapore
+-Trading Applications Specialist
+-London, Singapore, Houston, New York
+-Trading Infrastructure Specialist
+-London, Montreal, Hong Kong
+-Treasury Analyst
+-Montreal
+-Squarepoint logo
+-About us
+-Philosophy
+-Culture
+-Careers
+-Locations
+-Disclosures
+-Cookie Preferences
+-©
+-2025
+-Squarepoint
+-. All Rights Reserved.
+-We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content, and to analyze our website traffic. By browsing our website, you consent to our use of cookies and other tracking technologies.
+-Close cookie preferences banner
+-I agree to all cookie use
+-Cookie Preferences
++Privacy error
++Your connection is not private
++Attackers might be trying to steal your information from
++www.squarepoint-capital.com
++(for example, passwords, messages, or credit cards).
++Learn more about this warning
++net::ERR_CERT_AUTHORITY_INVALID
++Subject:
++squarepoint-capital.com
++Issuer:
++DigiCert Global G2 TLS RSA SHA256 2020 CA1
++Expires on:
++Jun 2, 2026
++Current date:
++Oct 9, 2025
++PEM encoded chain:
++-----BEGIN CERTIFICATE-----
++MIIHBjCCBe6gAwIBAgIQDl9qVpZhs8AJ8dLsRdrK2jANBgkqhkiG9w0BAQsFADBZ
++MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
++aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjUw
++NTAyMDAwMDAwWhcNMjYwNjAyMjM1OTU5WjBzMQswCQYDVQQGEwJVUzERMA8GA1UE
++CBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMRwwGgYDVQQKExNTcXVhcmVw
++b2ludCBPcHMgTExDMSAwHgYDVQQDExdzcXVhcmVwb2ludC1jYXBpdGFsLmNvbTCC
++ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALpWTcS0+iehC7SvC027LpaZ
++b92f8iP915ugP/XGIUUJNtsVz0XFw01vVWaJ48ASeA319kNW7Cm/38NPcLRa7X6n
++QqVuZgncIo2MQE1RCvN08Y++2xtUH+dpD4gGkwTOdM++2euZ9dmsPrfwbIJEXwvC
++db20r4jZuJaT8TwzWQbxXUzCBD0aO0bm9XGLRd70kzfSc/PcXu+iZEReMHxiz4bO
++9wIDVcM7JSfpldKQLdy5yrYCa9yeGFlZEU60FLXb3sYYXPduawsfHS+zZlKnFQwS
++e8LOGbyaZWMK898eRL0049vsY70XOtRAEKtiAZwV4Z5eBt/98DnBhjGFK71ZqU0C
++AwEAAaOCA64wggOqMB8GA1UdIwQYMBaAFHSFgMBmx9833s+9KTeqAx2+7c0XMB0G
++A1UdDgQWBBTKRTv2qnQc8KczmbMp9Rc4/AVrHTA/BgNVHREEODA2ghdzcXVhcmVw
++b2ludC1jYXBpdGFsLmNvbYIbd3d3LnNxdWFyZXBvaW50LWNhcGl0YWwuY29tMD4G
++A1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGln
++aWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
++AwEGCCsGAQUFBwMCMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRp
++Z2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0x
++LmNybDBIoEagRIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xv
++YmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcBAQR7MHkw
++JAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcw
++AoZFaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJU
++TFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggF8BgorBgEE
++AdZ5AgQCBIIBbASCAWgBZgB1AJaXZL9VWJet90OHaDcIQnfp8DrV9qTzNm5GpD8P
++yqnGAAABlo7cfC0AAAQDAEYwRAIgaSvkpYF0xnf3X/Eh8Eh1kWe1snwLzhoSp6Dp
++2k3fFHoCICWLeEbU09swz8jmE7WW0mth7/CPpJeS9V23qok/3kckAHYAZBHEbKQS
++7KeJHKICLgC8q08oB9QeNSer6v7VA8l9zfAAAAGWjtx8HAAABAMARzBFAiAF5X4S
++54UqLrPUx08h8JgfTsURw55RQPjlm+smve8J+wIhAOJb7caAS8OZ0SjUAPIj/u6h
++VeDCY5WnGMqIQ5wUn6krAHUASZybad4dfOz8Nt7Nh2SmuFuvCoeAGdFVUvvp6ynd
+++MMAAAGWjtx8MgAABAMARjBEAiArZxYgPGxrWXsEVdAM04wVjDDPFSPdxIU0a9B1
+++3TZ9QIgdEmop9YUnohKYl+lsb2II1CZ2WPf9LCwzbYuFFue77owDQYJKoZIhvcN
++AQELBQADggEBAI9mWj0dLKBuKU9Bz1BkDnz3Gi0mADupTX8b9FdNzUwhZa1EVY7P
++bHsG+SPu+0xwpUsvHjCabiB+huWKf/rggrjcOu3Cd1UTkoV8QENFk2eOSlVCd+jF
++jnkTlJNpIpSbZRioR22M3H0PrP9eioqJDmyAj8HESQeS+oBLHM58hzB3HksbqA4Q
++ry2+gPoaigzmMgy3txv0NrUTWwdRj0ganiclXG+hRJRlSojt2ejXu1YpiMeZM7Zj
++zNaNcWqMxVJaeKC5q/spy+kt3lHCYeEr6rRB8TRwTHsrhUEoHzPGb4uj4kBcCFlz
++tpROWT009BXjKrxAjB4cJYgUG7BXanSSLy8=
++-----END CERTIFICATE-----
++Help improve security on the web for everyone by sending
++URLs of some pages you visit, limited system information, and some page content
++to Google.
++Privacy policy
++Turn on enhanced protection
++to get Chrome's highest level of security
++Back to safety
++Advanced
++This server could not prove that it is
++www.squarepoint-capital.com
++; its security certificate is not trusted by your computer's operating system. This may be caused by a misconfiguration or an attacker intercepting your connection.
++Proceed to www.squarepoint-capital.com (unsafe)
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -319,6 +319,10 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
++Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
++Manage My Preferences
++Reject Non-Essential Cookies
++Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-10-08 07:11:36
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
