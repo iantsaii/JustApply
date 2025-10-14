@@ -1,4 +1,171 @@
 
+## 2025-10-14 07:13:15
+
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -292,6 +292,12 @@
+ Experienced
+ People Operations
+ Hudson River Trading is looking for an ambitious and results-oriented Quant Research Pipeline Manager to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
++Benefits Specialist
++↳ Apply Now
++New York
++Experienced
++People Operations
++Hudson River Trading (HRT) is seeking a Benefits Specialist to join our People team. The People team is responsible for supporting the well-being and performance of all HRTers across our global offices. From recruiting to onboarding to the continued engagement and development of our employees, our People team is dedicated...
+ Experienced Research Engineer
+ ↳ Apply Now
+ London
+@@ -346,18 +352,6 @@
+ Experienced
+ Trade Operations
+ The Middle Office team at Hudson River Trading (HRT) is responsible for ensuring the smooth operation of HRT’s post-trade platform. Our global trading platform supports trading across many asset classes and geographies. Our team designs and operates the systems and processes that reconcile the firm’s trading with our various brokers...
+-Market Data Administrator
+-↳ Apply Now
+-New York
+-Experienced
+-Business Development
+-Hudson River Trading (HRT) is looking for a Market Data Admin to enable the growing operational demands of our data platform. You’ll work across contracts, exchange reporting, billing, audits, and internal coordination - making sure key processes run smoothly and nothing falls through the cracks. Responsibilities Contracts & Exchange Reporting...
+-Women in Trading and Technology Internship (WiTTI) – Winter 2026
+-↳ Apply Now
+-New York
+-Internship
+-C++ | Python
+-The application deadline for this position is October 12, 2025. At HRT, we believe that by celebrating our differences and fostering a sense of belonging, we will drive innovation, enhance decision-making, and build the future of trading — together. To do so, HRT is committed to creating a space where...
+ Middle Office Analyst
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -230,13 +230,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-5 total results
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -64,6 +64,8 @@
+ London
+ Intern Compliance Analyst - Winter 2026
+ London, New York
++Intern Fundamental Researcher - Summer 2026
++New York, London
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
+ Intern Software Developer - Summer 2026
+@@ -78,6 +80,8 @@
+ London
+ Junior Platform Compute and Storage Specialist
+ London, Montreal, New York
++Junior Platform Specialist
++Montreal, London, Singapore, Hong Kong, Warsaw, Houston
+ Junior Quant Researcher
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Junior Quant Researcher - ML Alpha Research
+@@ -102,8 +106,6 @@
+ New York
+ Operations Manager
+ Bangalore
+-Platform Applications Specialist
+-Montreal, London, Singapore, Hong Kong, Warsaw, Houston
+ Platform Compute and Storage Specialist
+ Montreal, New York, London, Singapore
+ Platform Specialist - Databases
+@@ -180,12 +182,12 @@
+ London, Montreal, Bangalore
+ Support Analyst - Desktop
+ New York, London, Montreal, Paris
+-Support Analyst - Integration & Deployment Management
+-London, Montreal, Bangalore
+ Tax Analyst
+ Bangalore
+ Technical Business Analyst/Project Manager
+ London, Paris, Montreal, Singapore
++Technology Integration Specialist
++London, Montreal, Bangalore
+ Trade Flow Support - Trading Application Support
+ London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
+ Trade Flow Support - Trading Infrastructure Support
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++4 jobs
+ Share
+ Clear
+ Filters
+@@ -52,12 +52,15 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++4 jobs
+ Share
+ Clear
+ Job title
+ Work model
+ Senior / Lead Software Engineer, Civic Tech (Public Safety)
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, Armoury
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+@@ -69,6 +72,9 @@
+ Senior / Lead Software Engineer, Civic Tech (Public Safety)
+ Hybrid
+ View job
++Software Engineer / Senior Software Engineer, Armoury
++Hybrid
++View job
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-10-13 07:13:58
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)

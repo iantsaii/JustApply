@@ -64,6 +64,8 @@ Information Security Analyst
 London
 Intern Compliance Analyst - Winter 2026
 London, New York
+Intern Fundamental Researcher - Summer 2026
+New York, London
 Intern Quant Researcher
 London, Paris, New York, Singapore, Hong Kong
 Intern Software Developer - Summer 2026
@@ -78,6 +80,8 @@ Junior Execution Trader
 London
 Junior Platform Compute and Storage Specialist
 London, Montreal, New York
+Junior Platform Specialist
+Montreal, London, Singapore, Hong Kong, Warsaw, Houston
 Junior Quant Researcher
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
 Junior Quant Researcher - ML Alpha Research
@@ -102,8 +106,6 @@ Operations Analyst - Metals
 New York
 Operations Manager
 Bangalore
-Platform Applications Specialist
-Montreal, London, Singapore, Hong Kong, Warsaw, Houston
 Platform Compute and Storage Specialist
 Montreal, New York, London, Singapore
 Platform Specialist - Databases
@@ -180,12 +182,12 @@ Software Developer - Risk Technology
 London, Montreal, Bangalore
 Support Analyst - Desktop
 New York, London, Montreal, Paris
-Support Analyst - Integration & Deployment Management
-London, Montreal, Bangalore
 Tax Analyst
 Bangalore
 Technical Business Analyst/Project Manager
 London, Paris, Montreal, Singapore
+Technology Integration Specialist
+London, Montreal, Bangalore
 Trade Flow Support - Trading Application Support
 London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
 Trade Flow Support - Trading Infrastructure Support
