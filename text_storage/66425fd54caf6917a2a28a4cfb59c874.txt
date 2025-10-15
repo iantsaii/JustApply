@@ -88,8 +88,6 @@ Junior Quant Researcher - ML Alpha Research
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
 Junior Risk Manager
 New York, London
-Junior Shift Trader
-Dubai, Singapore
 Network Specialist - Core
 Montreal, London, New York
 Network Specialist - Reliability
@@ -174,10 +172,10 @@ Software Developer - Order Gateway
 Montreal , Singapore, Warsaw
 Software Developer (Python)
 London, Montreal, Singapore
-Software Developer - Reliability
-Singapore, Montreal
 Software Developer - Risk Data Pipelines
 Bangalore, Montreal, Warsaw
+Software Developer - Risk Reliability
+Singapore, Montreal , London
 Software Developer - Risk Technology
 London, Montreal, Bangalore
 Support Analyst - Desktop
