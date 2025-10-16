@@ -1,4 +1,195 @@
 
+## 2025-10-16 07:12:52
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,8 +85,8 @@
+ LOCATION
+ All Locations
+ New York
++Hong Kong
+ London
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -102,6 +102,7 @@
+ Hospitality and Building Operations
+ HR and Recruiting
+ Legal and Compliance
++Summer Enrichment Program
+ Department
+ TEAM
+ All Teams
+@@ -138,8 +139,8 @@
+ LOCATION
+ All Locations
+ New York
++Hong Kong
+ London
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -155,6 +156,7 @@
+ Hospitality and Building Operations
+ HR and Recruiting
+ Legal and Compliance
++Summer Enrichment Program
+ Department
+ TEAM
+ All Teams
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -460,12 +460,6 @@
+ Experienced
+ Systems and Networking
+ Hudson River Trading (HRT) is looking for a Senior Windows Platform and Cloud Infrastructure Engineer with exceptional Microsoft Azure experience and a strong service reliability mindset to join the IT team. In this role, you will directly contribute to the growth and modernization of our Windows platform as we increase...
+-Experienced Software Engineer – Systems
+-↳ Apply Now
+-Chicago
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ TradeOps Analyst
+ ↳ Apply Now
+ Singapore
+@@ -514,24 +508,6 @@
+ Experienced
+ Python
+ Hudson River Trading is hiring a Market Structure Optimization Engineer for our brand new Market Structure Analytics team. In joining this team, you will be responsible for employing data-driven methodologies to minimize friction in our real-time interaction with financial markets. This role is crucial to helping HRT optimize the way...
+-Experienced Software Engineer – Systems
+-↳ Apply Now
+-Boulder
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+-Experienced Software Engineer – Systems
+-↳ Apply Now
+-Dublin
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+-Experienced Software Engineer – Systems
+-↳ Apply Now
+-London
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Market Structure Optimization Engineer
+ ↳ Apply Now
+ London
+@@ -550,12 +526,6 @@
+ Experienced
+ Python
+ Hudson River Trading is hiring a Market Structure Optimization Engineer for our brand new Market Structure Analytics team. In joining this team, you will be responsible for employing data-driven methodologies to minimize friction in our real-time interaction with financial markets. This role is crucial to helping HRT optimize the way...
+-Experienced Software Engineer – Systems
+-↳ Apply Now
+-New York
+-Experienced
+-Systems and Networking
+-The Systems Development team builds and maintains the platform that is shared by all Systems teams to provision, monitor, and manage our server and network infrastructure. As an Experienced Software Engineer, your main focus will be tool development in Python. You’ll improve and integrate our existing tools and libraries across...
+ Data Production Engineer
+ ↳ Apply Now
+ London
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -46,7 +46,7 @@
+ macOS Tahoe
+ Apple Intelligence
+ Apps by Apple
+-Continuity
++Even better with iPhone
+ iCloud+
+ Mac for Business
+ Education
+@@ -61,7 +61,6 @@
+ Apple Pencil
+ Keyboards
+ Compare iPad
+-Why iPad
+ Shop iPad
+ Shop iPad
+ iPad Accessories
+@@ -99,6 +98,7 @@
+ Apple Intelligence
+ Apps by Apple
+ iPhone Privacy
++Even better with Mac
+ iCloud+
+ Wallet, Pay, Card
+ Siri
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -101,7 +101,7 @@
+ Operations Analyst
+ Bangalore
+ Operations Analyst - Metals
+-New York
++New York, Montreal
+ Operations Manager
+ Bangalore
+ Platform Compute and Storage Specialist
+@@ -130,6 +130,8 @@
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
++Quantitative Researcher, Market Structure Research
++New York
+ Recruitment Specialist - Fixed Income/ Macro
+ London, New York
+ Senior Discretionary Trader - Credit
+@@ -150,6 +152,8 @@
+ Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+ Senior Quant Researcher - Volatility
+ Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
++Shift Trader
++Singapore, London
+ Software Developer (C++)
+ London, Montreal, Singapore
+ Software Developer - Data Infrastructure
+@@ -194,8 +198,6 @@
+ London, Singapore, Houston, New York
+ Trading Infrastructure Specialist
+ London, Montreal, Hong Kong
+-Treasury Analyst
+-Montreal
+ Squarepoint logo
+ About us
+ Philosophy
+```
+
+---
+
 ## 2025-10-15 07:17:40
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)

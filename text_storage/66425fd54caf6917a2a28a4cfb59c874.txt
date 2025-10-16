@@ -101,7 +101,7 @@ Warsaw
 Operations Analyst
 Bangalore
 Operations Analyst - Metals
-New York
+New York, Montreal
 Operations Manager
 Bangalore
 Platform Compute and Storage Specialist
@@ -130,6 +130,8 @@ Quant Developer (C++)
 Singapore, London, New York
 Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
+Quantitative Researcher, Market Structure Research
+New York
 Recruitment Specialist - Fixed Income/ Macro
 London, New York
 Senior Discretionary Trader - Credit
@@ -150,6 +152,8 @@ Senior Quant Researcher - Intraday Statistical Arbitrage
 Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
 Senior Quant Researcher - Volatility
 Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+Shift Trader
+Singapore, London
 Software Developer (C++)
 London, Montreal, Singapore
 Software Developer - Data Infrastructure
@@ -194,8 +198,6 @@ Trading Applications Specialist
 London, Singapore, Houston, New York
 Trading Infrastructure Specialist
 London, Montreal, Hong Kong
-Treasury Analyst
-Montreal
 Squarepoint logo
 About us
 Philosophy

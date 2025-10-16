@@ -46,7 +46,7 @@ AppleCare
 macOS Tahoe
 Apple Intelligence
 Apps by Apple
-Continuity
+Even better with iPhone
 iCloud+
 Mac for Business
 Education
@@ -61,7 +61,6 @@ iPad mini
 Apple Pencil
 Keyboards
 Compare iPad
-Why iPad
 Shop iPad
 Shop iPad
 iPad Accessories
@@ -99,6 +98,7 @@ iOS 26
 Apple Intelligence
 Apps by Apple
 iPhone Privacy
+Even better with Mac
 iCloud+
 Wallet, Pay, Card
 Siri
