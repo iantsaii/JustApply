@@ -162,8 +162,8 @@ Software Developer - Data Pipelines (Python)
 London, Montreal, Madrid, Bangalore
 Software Developer - Data Products and Services
 Montreal, London, Singapore, Bangalore
-Software Developer - Data Services (KDB+/Q)
-Singapore, Montreal, London, Hong Kong, New York, Warsaw
+Software Developer - Front-end
+London, Montreal
 Software Developer - High Performance Computing (Rust)
 Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
 Software Developer - Internal Compute Frameworks (Python)

@@ -1,4 +1,82 @@
 
+## 2025-10-17 07:12:22
+
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -292,6 +292,12 @@
+ Experienced
+ People Operations
+ Hudson River Trading is looking for an ambitious and results-oriented Quant Research Pipeline Manager to join our Campus Recruiting team.  In this role, you will collaborate closely with Campus Recruiters who focus on Talent Attraction (sourcing, marketing, events), while you focus on Talent Evaluation (interviews and offers) and together, we’ll...
++GPU Systems Engineer
++↳ Apply Now
++London
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is looking for GPU Systems Engineers to help scale and evolve our exceptionally sophisticated HPC/AI research environment.  Joining our Research and Development team, you will collaborate with experts responsible for the compute, storage, operating systems, and automation tools that enable our trading and research to run...
+ Benefits Specialist
+ ↳ Apply Now
+ New York
+@@ -610,6 +616,12 @@
+ Experienced
+ Python
+ Working as a coder at Hudson River Trading (HRT) means working on a small, highly productive, and efficient team. You may see "trading" in our name and assume you'll be relegated to some dark corner to code for the "business," but that could not be further from the truth!  At...
++Junior Portfolio Finance Trader
++↳ Apply Now
++London
++Experienced
++Trade Operations
++Hudson River Trading (HRT) is seeking a Junior Portfolio Finance Trader to join our PostTrade team with a focus on European markets. In this role, you’ll have the opportunity to learn the inner workings of our highly successful automated trading strategies, tackle complex problems, and make an immediate, tangible impact...
+ Security Operations Engineer
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -162,8 +162,8 @@
+ London, Montreal, Madrid, Bangalore
+ Software Developer - Data Products and Services
+ Montreal, London, Singapore, Bangalore
+-Software Developer - Data Services (KDB+/Q)
+-Singapore, Montreal, London, Hong Kong, New York, Warsaw
++Software Developer - Front-end
++London, Montreal
+ Software Developer - High Performance Computing (Rust)
+ Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
+ Software Developer - Internal Compute Frameworks (Python)
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -35,7 +35,6 @@
+ Internship
+ Product Design
+ Product Management
+-Product Operations
+ Software Engineering
+ Show filters
+ (2)
+```
+
+---
+
 ## 2025-10-16 07:12:52
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
