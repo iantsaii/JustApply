@@ -20,6 +20,27 @@ A smart tool for monitoring job listings websites for changes by periodically sc
 
 ### Prerequisites
 - Python 3.11 or higher
+```bash
+# For mac
+# install pyenv for python version management
+brew install pyenv
+
+# Edit the zsh (shell) configuration file to make every new shell / zsh session initialize the package manager.
+# Then, every time a python command is run, the package manager will parse it to 
+# determine which version of python to use
+echo 'eval "$(pyenv init -)"' >> ~/.zshrc
+
+# Reload the shell to initialize the package manager
+source ~/.zshrc
+
+# Install python 3.11
+pyenv install 3.11.9
+
+# Pin a python version for the project
+cd /Users/iantsai/projects/JustApply
+pyenv local 3.11.9 # writes a .python-version file
+
+```
 - Google Chrome browser
 - Git
 
