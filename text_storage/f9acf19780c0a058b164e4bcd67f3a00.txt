@@ -341,6 +341,9 @@ Amani Albertsen
 Life at Wise
 Engineering
 View all
+Join us
+For everyone, everywhere. We’re people building money without borders.
+View open roles
 Our business
 Back
 Our story
@@ -402,5 +405,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Des Moines
+City: San Jose
 GeoOptions: 339
