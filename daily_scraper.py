@@ -235,7 +235,8 @@ def process_urls(urls: list[str]) -> None:
 
 def main():
     urls = [
-        "https://wise.jobs/wise-women-code"
+        "https://wise.jobs/wise-women-code",
+        "https://www.metacareers.com/rpm",
         # "https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University",
         # "https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK",
         # "https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA",
