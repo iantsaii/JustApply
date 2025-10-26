@@ -92,6 +92,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+KYC Operations Team Lead - Consumer
+Salary
+1050000 INR + RSUs
+Location
+Hyderabad
+Team
+Operations
+Locations
+Hyderabad
+Description
+Salary: 10.5 Lakhs INR annually + RSUsAs a KYC Operations Team Lead you will oversee the daily operations of a team of KYC Analysts. Your team is responsible for conducting thorough customer due dilig
+Reference
+2730072a-ca57-48fa-9ec8-043c1fcb204b
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 FinCrime Investigator - AML Investigations
 Salary
 31.00 USD Hourly
@@ -124,25 +143,6 @@ Description
 About the role The online platforms team aims to build the world's best embedded finance platform for our partners. We work closely with multiple functions within our vertical from solutions engineeri
 Reference
 4d0026cf-70aa-4e93-9b89-2dc1b5ed6886
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Compliance Assurance Manager
-Salary
-16000 - 30000 BRL Monthly
-Location
-São Paulo
-Team
-Risk and Compliance
-Locations
-São Paulo
-Description
-Compliance Assurance Manager - BrazilWe’re looking for a Compliance Assurance - Manager to join our growing LATAM Compliance Oversight team. In this role, you’ll be a key partner in managing our regul
-Reference
-5aa6ed39-e162-4b50-9cf0-3e677bd2d069
 Expiry Date
 01/01/0001
 Read more
@@ -341,6 +341,9 @@ Amani Albertsen
 Life at Wise
 Engineering
 View all
+Join us
+For everyone, everywhere. We’re people building money without borders.
+View open roles
 Our business
 Back
 Our story
