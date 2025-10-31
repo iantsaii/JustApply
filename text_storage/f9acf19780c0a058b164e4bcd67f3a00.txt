@@ -92,57 +92,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-IT Support Specialist L1
+Banking Operations Manager
 Salary
-4667 - 6000 SGD Monthly
+16100 - 22000 BRL Monthly
 Location
-Singapore
+São Paulo
 Team
-Technology
+Operations
 Locations
-Singapore
+São Paulo
 Description
-Here at Wise, we're working to create a seamless IT experience by offering all the tools and permissions people need to do the best work they can, and simultaneously avoid being a speed hump. We have
+We are looking for a Banking Operations Manager to help us build Banking Operations Function across our LatAM region at our São Paulo office.As a Banking Operations Manager, you will be a pivotal indi
 Reference
-6659f5cc-b3d8-4a23-85e0-922b3d833dfb
+d16a6bb9-89c1-4add-a8c4-c14ff6feccee
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Partner Risk Assessment Specialist - APAC
+Regulatory Product Compliance Manager
 Salary
-6450 - 8500 SGD Monthly + RSUs
+107000 - 134000 USD Annual
 Location
-Singapore
+Austin
 Team
-Operations
+Product
 Locations
-Singapore
+Austin
 Description
-As a Partner Risk Assessment Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for onboarding and risk assessin
+Your mission: Wise has already pioneered new ways for people to transfer money across borders and currencies. Your mission is to shape the Product Risk and Compliance Program, for Wise to offer its se
 Reference
-fe0a76e8-2634-4fb6-ad4a-187774789d90
+94388db8-54a6-4fb6-9e84-12fba532afb1
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Partner Risk Monitoring Specialist - APAC
+Senior Data Analyst - FinCrime Risk
 Salary
-6450 - 8500 SGD Monthly + RSUs
+60000 - 75000 GBP Annual
 Location
-Singapore
+London
 Team
-Operations
+Analytics
 Locations
-Singapore
+London
 Description
-As a Partner Risk Monitoring Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for  monitoring our banks and on
+About this role: We are looking for a Senior Data Analyst to lead risk analytics for financial crime risk management at Wise.This is a dedicated risk function embedded in the analytics teams to suppor
 Reference
-8ddf3d43-e01d-4d95-bc83-460087612976
+42541774-433c-4103-93e5-4f108bfcf560
 Expiry Date
 01/01/0001
 Read more
@@ -1120,5 +1120,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Boydton
+City: Washington
 GeoOptions: 339
