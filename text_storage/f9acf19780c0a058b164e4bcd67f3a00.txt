@@ -92,57 +92,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Banking Operations Manager
+FinCrime Operations Senior Analyst - PEP/AM
 Salary
-16100 - 22000 BRL Monthly
+29.80 USD Hourly
 Location
-São Paulo
+Austin
 Team
 Operations
 Locations
-São Paulo
+Austin
 Description
-We are looking for a Banking Operations Manager to help us build Banking Operations Function across our LatAM region at our São Paulo office.As a Banking Operations Manager, you will be a pivotal indi
+As a FinCrime Operations Senior Analyst, you will play a vital role in safeguarding Wise and its customers by identifying and mitigating financial crime risks. You will be responsible for conducting t
 Reference
-d16a6bb9-89c1-4add-a8c4-c14ff6feccee
+c967dad4-fb1d-46c7-a69e-60e04810b708
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Regulatory Product Compliance Manager
+Internal Audit Senior Specialist
 Salary
-107000 - 134000 USD Annual
+19,170-25,000/monthly
 Location
-Austin
+São Paulo
+Team
+Finance
+Locations
+São Paulo
+Description
+A bit about the role: We are looking for an Internal Audit Senior Specialist to join our new and growing IA team in São Paulo, Brazil. Your main task will be to plan and execute the internal audits at
+Reference
+eab3e53f-0c1f-4736-93dd-996d7aa4c6d6
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Product Manager - Treasury
+Salary
+88000 - 118000 GBP Annual
+Location
+London
 Team
 Product
 Locations
-Austin
-Description
-Your mission: Wise has already pioneered new ways for people to transfer money across borders and currencies. Your mission is to shape the Product Risk and Compliance Program, for Wise to offer its se
-Reference
-94388db8-54a6-4fb6-9e84-12fba532afb1
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Data Analyst - FinCrime Risk
-Salary
-60000 - 75000 GBP Annual
-Location
-London
-Team
-Analytics
-Locations
 London
 Description
-About this role: We are looking for a Senior Data Analyst to lead risk analytics for financial crime risk management at Wise.This is a dedicated risk function embedded in the analytics teams to suppor
+Your Mission: Data Integrity, Real timeliness, and ControlsYour mandate is to build and maintain the foundational Treasury Ledger platform that guarantees the real time integrity and compliance of eve
 Reference
-42541774-433c-4103-93e5-4f108bfcf560
+39da91ef-0ff7-4c3c-8c2d-932e0eedf0cb
 Expiry Date
 01/01/0001
 Read more
