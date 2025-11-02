@@ -1120,5 +1120,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Washington
+City: Cheyenne
 GeoOptions: 339
