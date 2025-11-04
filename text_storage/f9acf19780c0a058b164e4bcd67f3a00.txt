@@ -92,57 +92,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Operations Senior Analyst - PEP/AM
+Complaints Officer
 Salary
-29.80 USD Hourly
+7300 - 11000 BRL Monthly
 Location
-Austin
+São Paulo
 Team
-Operations
+Customer Support
 Locations
-Austin
+São Paulo
 Description
-As a FinCrime Operations Senior Analyst, you will play a vital role in safeguarding Wise and its customers by identifying and mitigating financial crime risks. You will be responsible for conducting t
+As a Complaints Officer, you’ll investigate customer complaints, ensure timely and fair resolutions, and maintain a strong understanding of our regulatory obligations across multiple jurisdictions. Th
 Reference
-c967dad4-fb1d-46c7-a69e-60e04810b708
+49a6069e-991d-4830-a2c9-8ac3838a629d
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Internal Audit Senior Specialist
+Owner Relations - Corporate Access
 Salary
-19,170-25,000/monthly
+50000 - 60000 GBP Annual
 Location
-São Paulo
+London
 Team
-Finance
+People
 Locations
-São Paulo
+London
 Description
-A bit about the role: We are looking for an Internal Audit Senior Specialist to join our new and growing IA team in São Paulo, Brazil. Your main task will be to plan and execute the internal audits at
+In your role as Assistant Corporate Access, you will be responsible for supporting in the planning and implementation of a first class program of engagement with current and prospective owners of Wise
 Reference
-eab3e53f-0c1f-4736-93dd-996d7aa4c6d6
+4c491b59-0863-4891-82c7-b0caf6a89e39
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Product Manager - Treasury
+Senior iOS Engineer II
 Salary
-88000 - 118000 GBP Annual
+105000 - 130000 GBP Annual
 Location
 London
 Team
-Product
+Technology
 Locations
 London
 Description
-Your Mission: Data Integrity, Real timeliness, and ControlsYour mandate is to build and maintain the foundational Treasury Ledger platform that guarantees the real time integrity and compliance of eve
+About the role We're looking for a skilled iOS engineer to become part of our Account Mobile team,  where you will play a key role in crafting a cohesive, polished, and responsive experience for all W
 Reference
-39da91ef-0ff7-4c3c-8c2d-932e0eedf0cb
+fe3061ae-638e-4218-a6d6-5a3a8141a869
 Expiry Date
 01/01/0001
 Read more
@@ -152,6 +152,45 @@ Shortlist
 View all
 List #1
 Latest blogs
+Starting your career in the age of AI
+Teaser
+Early careers
+Content Type
+Blog
+Publish date
+11/03/2025
+Summary
+In a recent article, Pete Yeomans, Lead for Early Careers in Design at Wise, shares his insights on how to thrive as a designer in the age of AI. He explains that we are heavily invested in ou
+Teaser
+Pete Yeomans, Lead for Early Careers in Design at Wise shares his thoughts on starting your career in the age of AI. He shares practical tips that can help students thrive at interview.
+Read more
+by
+Holly Sellers
+by
+Holly Sellers
+Early Careers
+Life at Wise
+Our work
+Succeeding as an Engineering Lead at Wise Platform
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+10/28/2025
+Summary
+Kostas Stamatoukos, Senior Director of Engineering for Wise Platform in Singapore, shares the key qualities that define effective engineering leadership 🚀
+“The best engineers stay
+Teaser
+Kostas Stamatoukos, Senior Director of Engineering for Wise Platform in Singapore, shares the key qualities that define effective engineering leadership 🚀
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Engineering
+Wise Platform
 WiseStart Apprenticeships: road to success
 Teaser
 Early careers
@@ -227,25 +266,6 @@ by
 Verona Hasani
 Life at Wise
 Hyderabad
-Starting your career in the age of AI
-Teaser
-Early careers
-Content Type
-Blog
-Publish date
-09/24/2025
-Summary
-In a recent article, Pete Yeomans, Lead for Early Careers in Design at Wise, shares his insights on how to thrive as a designer in the age of AI. He explains that we are heavily invested in ou
-Teaser
-Pete Yeomans, Lead for Early Careers in Design at Wise shares his thoughts on starting your career in the age of AI. He shares practical tips that can help students thrive at interview.
-Read more
-by
-Holly Sellers
-by
-Holly Sellers
-Early Careers
-Life at Wise
-Our work
 Driving decisions through data: Wise Platform
 Teaser
 People profile
@@ -340,6 +360,253 @@ by
 Amani Albertsen
 Life at Wise
 Engineering
+Local Expertise, Global Impact: Scaling Wise in India
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+08/28/2025
+Summary
+Smrithi Ravi, APAC Head of Engineering, shares her journey of leading Wise’s expansion across the Asia Pacific, from building innovative teams to launching our new hub in Hyderabad 🇮🇳
+Teaser
+Smrithi Ravi, APAC Head of Engineering, shares her journey of leading Wise’s expansion across the Asia Pacific, from building innovative teams to launching our new hub in Hyderabad 🇮🇳
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Hyderabad
+Leadership: Insights from Emmanuel Thomassin, Chief Finance Officer
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+08/20/2025
+Summary
+Emmanuel Thomassin, Chief Finance Officer, reflects on his career journey and what drew him to Wise's customer-first culture 🌍
+“What continues to excite me about Wise is our custom
+Teaser
+Emmanuel Thomassin, Chief Finance Officer, reflects on his career journey and what drew him to Wise's customer-first culture 🌍
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Our work
+Investment Banking to Fintech: Insights from Ritika, Solutions Engineering Lead
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+08/04/2025
+Summary
+🔍 Wondering what a Solutions Engineer at Wise does? Ritika Sehijpal, Solutions Engineering Lead, gives us the inside scoop.
+“If you’re looking for a place to grow, learn from tale
+Teaser
+🔍 Wondering what a Solutions Engineer at Wise does? Ritika Sehijpal, Solutions Engineering Lead, gives us the inside scoop.
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Wise Platform
+Reflections from Wise's Parents and Carers Community
+Teaser
+Diversity Equity & Inclusion
+Content Type
+Blog
+Publish date
+07/29/2025
+Summary
+Our Wise Parents and Carers Community recently brought everyone together for a 'Connecting Our Wise Parents on Leave' event 🎉 Check out their insights from the event ⬇️
+Annika Teede, o
+Teaser
+Our Wise Parents and Carers Community recently brought everyone together for a 'Connecting Our Wise Parents on Leave' event 🎉 Hear their insights from the event ⬇️
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+DEI
+Life at Wise
+Driving ESG Impact: Insights from Our ESG Manager
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+07/28/2025
+Summary
+Caroline Corbett-Thompson, ESG Manager, dives into the meaningful work happening behind the scenes at Wise ⬇️
+“Collaboration and patience are vital if you're looking to make a real
+Teaser
+Caroline Corbett-Thompson, ESG Manager, dives into the meaningful work happening behind the scenes at Wise ⬇️
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+ESG
+Engineering at Wise: Turning creativity into impact
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+07/22/2025
+Summary
+Amani, Engineer in our Budapest office, has transformed her passion for problem-solving into a vital role supporting our FinCrime teams 🚀Learn how Amani's journey at Wise is making a meaningf
+Teaser
+Amani, Engineer in our Budapest office, has transformed her passion for problem-solving into a vital role supporting our FinCrime teams 🚀
+Learn how Amani's journey at Wise is making a meaningful impact ⬇️
+Read more
+by
+Amani Albertsen
+by
+Amani Albertsen
+Life at Wise
+Engineering
+From customer of 11 years to Engineering Lead
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+07/03/2025
+Summary
+From being a customer of 11 years to making a real impact as an Engineering Lead, Emanuele Blanco shares his journey to joining Wise, what keeps him motivated, and his advice for anyone lookin
+Teaser
+From being a customer of 11 years to making a real impact as an Engineering Lead, Emanuele Blanco shares his journey to joining Wise, what keeps him motivated, and his advice for anyone looking to apply for a role here 🚀
+Discover more about Emanuele’s journey below ⬇️
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Engineering
+Expanding in Hyderabad
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+06/27/2025
+Summary
+We sat down with SK Saraogi, Head of Expansion APAC, to discuss our strategic expansion into Hyderabad, India 🇮🇳Read more to discover why Hyderabad is the perfect location for our second glo
+Teaser
+We sat down with SK Saraogi, Head of Expansion APAC, to discuss our strategic expansion into Hyderabad, India 🇮🇳
+Read more to discover why Hyderabad is the perfect location for our second global hub in APAC, offering unique opportunities for innovation, growth, and an incredible talent pool 🚀
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Operations
+Hyderabad
+From Agent to Team Lead: A Journey in Fraud Prevention
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+06/06/2025
+Summary
+Driven by a passion for growth and team development, discover how Anna Pavlics advanced from Agent to Team Lead in Wise's Fraud Prevention team 🚀
+"We put tremendous effort into bui
+Teaser
+Driven by a passion for growth and team development, discover how Anna Pavlics advanced from Agent to Team Lead in Wise's Fraud Prevention team 🚀
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Operations
+Championing Mental Health
+Teaser
+Our culture
+Content Type
+Blog
+Publish date
+05/21/2025
+Summary
+At Wise, we’re committed to supporting each other—through the wins, the tough days, and everything in between. That’s why we have a network of Mental Wellbeing Champions who are crucial in fos
+Teaser
+We have recently launched a new cohort of fully trained Mental Wellbeing champions. Hear from a few of them about what the role means to them.
+Read more
+by
+Amani Albertsen
+by
+Amani Albertsen
+DEI
+Life at Wise
+Our offering
+Improving customer experience through our product
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+05/21/2025
+Summary
+Ilya Leyrikh, Senior Product Director at Wise, shares how he transforms customer experiences with innovative financial solutions 💰🔍
+“Wise genuinely prioritises solving customer pr
+Teaser
+JIlya Leyrikh, Senior Product Director at Wise, shares how he transforms customer experiences with innovative financial solutions 💰🔍
+Read more
+by
+Sapphire Birmingham
+by
+Sapphire Birmingham
+Life at Wise
+Product
+Switching gears: balancing creativity and strategy in content marketing
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+05/07/2025
+Summary
+Discover how Jessica Laporte, Organic Growth Lead Manager, navigates the dynamic world of content marketing at Wise 📸
+“Every day is a lottery - you have to push creative boundaries
+Teaser
+Discover how Jessica Laporte, Organic Growth Lead Manager, navigates the dynamic world of content marketing at Wise 📸
+Read more
+by
+Sapphire Birmingham
+by
+Sapphire Birmingham
+Life at Wise
+Marketing
+My journey to Wise Platform
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+05/07/2025
+Summary
+From studying Law to transforming global payments, discover how Ollie Conetta, Senior Business Development Manager, joined Wise Platform 🚀
+“At Wise, you’re not locked into a single
+Teaser
+From studying Law to transforming global payments, discover how Ollie Conetta, Senior Business Development Manager, joined Wise Platform 🚀
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Wise Platform
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -405,5 +672,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Phoenix
+City: San Jose
 GeoOptions: 339
