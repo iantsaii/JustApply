@@ -236,23 +236,23 @@ Select a function and the country where you're eligible to work to see remote-el
 We can hire people in any country where we have a legal entity, assuming you have eligible working rights and a sufficient timezone overlap with your team. All Atlassians can choose to work remotely or return to an office (unless it's necessary for the role to be performed in the office).
 WHAT FUNCTION MATCHES YOU?
 Atlassian Corporate Engineering (ACE) (5)
-Data, Analytics & Research (16)
+Data, Analytics & Research (17)
 Design (23)
-Engineering (106)
-Finance & Accounting (14)
+Engineering (105)
+Finance & Accounting (13)
 Graduates (5)
 Interns (15)
-Legal (1)
-Marketing (20)
-Other (10)
+Legal (2)
+Marketing (18)
+Other (9)
 People (10)
 Product Management (23)
 Program Management (8)
 Risk & Compliance (0)
-Sales (172)
+Sales (173)
 Security (9)
 Site Reliability Engineering (0)
-Support (28)
+Support (26)
 WHERE ARE YOU ELIGIBLE TO WORK?
 Australia (3)
 Canada (0)
@@ -290,7 +290,7 @@ Português
 русский
 中文
 Privacy Policy
-Your California Privacy Choices
+Your Privacy Choices
 Limit the Use of My Sensitive Personal Information
 Terms
 Impressum
@@ -301,14 +301,13 @@ Privacy Policy
 Global Privacy Control
 .
 Manage preferences
-Reject all
-Accept all
+I understand
 Manage Preferences
 Where applicable under local laws, you may have the right to opt out of certain disclosures of personal information to third parties for targeted advertising, which may be considered a “sale” or “share” of personal information, even if no money is exchanged for that information.
 When you visit our site, we place cookies on your browser that collect information. The information collected might relate to you, your preferences, browsing activity, and your device, and this information is used to make the site work as you expect it to and to provide a more personalized web experience. We may also disclose personal information (including through the use of third-party cookies) to third parties for targeting advertising purposes, including to measure, target, and serve advertisements, and for other purposes described in our
 Privacy Policy
 .
-You can choose not to allow certain types of cookies, including opting out of “sales”, “sharing”, and “targeted advertising” by turning off the “Sales, Sharing and Targeted Advertising Cookies” button below. If you have enabled the Global Privacy Control (“GPC”) on your browser, we will treat that signal as a valid request to opt out of “sales”, “sharing”, and “targeted advertising”. Please note that you cannot opt out of Strictly Necessary, Performance, or Functional cookies, as they are deployed to ensure the proper functioning of our website.
+You can choose not to allow certain types of cookies, including opting out of “sales”, “sharing”, and “targeted advertising” by turning off the “Sales, Sharing and Targeted Advertising Cookies” button below. If you have enabled the Global Privacy Control (“GPC”) on your browser, we will treat that signal as a valid request to opt-out of “sales”, “sharing”, and “targeted advertising”. Please note that you cannot opt out of Strictly Necessary, Performance, or Functional cookies, as they are deployed to ensure the proper functioning of our website.
 Allow all
 Strictly Necessary Cookies
 Always active
