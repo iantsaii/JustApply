@@ -92,28 +92,47 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Financial Crime Product Compliance & Risk Senior Manager - AU/NZ
+Card Disputes Strategic Automation Lead
 Salary
-166,000 - 220,000 AUD per annum + RSUs + Super
+11800 - 15250 SGD Monthly
 Location
-Sydney
+Singapore
 Team
-Product
+Operations
 Locations
-Sydney
+Singapore
 Description
-Salary range: 166,000 - 220,000 AUD per annum + RSUs + SuperFinancial Crime Product Compliance & Risk Senior Manager - AU/NZWe’re seeking a Financial Crime Product Compliance & Risk Senior Manager to
+Salary Ranges: 11,800 SGD Monthly + RSUsYour mission: Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned mo
 Reference
-07fb96ea-c554-467c-b40f-c56e7e7e1ffb
+196dfe42-70fe-404a-bbab-40a1275f9fdd
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Senior Lead - Sanctions
+Customer Support Team Lead
 Salary
-MYR 14,000 Monthly + RSUs
+7350000 - 8100000 JPY Annual
+Location
+Tokyo
+Team
+Customer Support
+Locations
+Tokyo
+Description
+We’re looking for a Customer Support Team Lead to add some additional leadership power and experience to our Customer Support teams in our Tokyo office. This role is a unique opportunity to build a st
+Reference
+9e69a270-9ecc-48f8-b9ae-14402d82a28f
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+FinCrime Reporting Specialist (SAR Reporting)
+Salary
+MYR 6,350 Monthly + RSUs
 Location
 Kuala Lumpur
 Team
@@ -121,29 +140,9 @@ Operations
 Locations
 Kuala Lumpur
 Description
-Your mission:
-Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world’s first platform t
+We’re looking for a FinCrime Reporting Specialist (SAR Reporting) to join our Kuala Lumpur team and help protect millions of customers around the world.At Wise, you’ll work closely with global teams a
 Reference
-fe23e4ce-0b96-48d2-a0c5-1cab9167b4ab
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Banking Partnerships Manager- North America
-Salary
-175000 - 200000 USD Annual
-Location
-New York
-Team
-Banking
-Locations
-New York
-Description
-Please Note: This is a full-time physical position based in our NYC office. We are on a hybrid working model and located in the Flatiron District. Unfortunately, we cannot support remote work at this
-Reference
-885b6e9d-f4a3-44a5-81d5-ddbc84b8fcfe
+550f0e02-a674-4915-a4d3-5afce18cbae0
 Expiry Date
 01/01/0001
 Read more
@@ -406,5 +405,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Washington
+City: Boydton
 GeoOptions: 339
