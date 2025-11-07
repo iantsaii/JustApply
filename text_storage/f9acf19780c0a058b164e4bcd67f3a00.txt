@@ -33,12 +33,13 @@ Offer
 Diversity, equity and inclusion
 Early careers
 Back
-Early careers overview
+WiseStart Overview
 Programs and
 applications
 Scholarships
-Wise Women Code
+WiseWomenCode
 Product Academy
+Apprenticeships
 Blogs
 In the news
 Search roles
@@ -92,44 +93,6 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Card Disputes Strategic Automation Lead
-Salary
-11800 - 15250 SGD Monthly
-Location
-Singapore
-Team
-Operations
-Locations
-Singapore
-Description
-Salary Ranges: 11,800 SGD Monthly + RSUsYour mission: Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned mo
-Reference
-196dfe42-70fe-404a-bbab-40a1275f9fdd
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Customer Support Team Lead
-Salary
-7350000 - 8100000 JPY Annual
-Location
-Tokyo
-Team
-Customer Support
-Locations
-Tokyo
-Description
-We’re looking for a Customer Support Team Lead to add some additional leadership power and experience to our Customer Support teams in our Tokyo office. This role is a unique opportunity to build a st
-Reference
-9e69a270-9ecc-48f8-b9ae-14402d82a28f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
 FinCrime Reporting Specialist (SAR Reporting)
 Salary
 MYR 6,350 Monthly + RSUs
@@ -149,9 +112,66 @@ Read more
 Shortlist
 Read more
 Shortlist
+Customer Support Team Lead - Japanese Speaker
+Salary
+10000 - 12000 BRL Monthly
+Location
+São Paulo
+Team
+Customer Support
+Locations
+São Paulo
+Description
+Your mission is to provide leadership to the Customer Support Team establishing and maintaining high levels of quality, efficiency and other processes required for an exceptional level of customer sup
+Reference
+0b5bcd3a-9df2-41f3-aba9-18bb05abae05
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Compliance Senior Specialist - Sanctions
+Salary
+77000 - 105000 USD Annual
+Location
+Austin
+Team
+Risk and Compliance
+Locations
+Austin
+Description
+Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world's first platform to offer true mult
+Reference
+c891e934-570a-417a-ac50-754ba4335da4
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 View all
 List #1
 Latest blogs
+Inside our People team with Gabriela Rubin, People Operations Specialist
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+11/03/2025
+Summary
+Gabriela Rubino, People Operations Specialist based in São Paulo shares her move from Customer Support to People Operations 🚀
+“Seven and a half years later, I’m still here and I th
+Teaser
+Gabriela Rubino, People Operations Specialist based in São Paulo shares her move from Customer Support to People Operations 🚀
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+People
 Starting your career in the age of AI
 Teaser
 Early careers
@@ -321,25 +341,6 @@ by
 Verona Hasani
 Life at Wise
 Wise Platform
-Making Real Impact: Data Analyst Intern
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-08/29/2025
-Summary
-From complex data to global teamwork – our interns tackle real challenges that shape our product. Read more 🚀
-"Your actions as an intern do not live in an 'intern-only' sandbox, rath
-Teaser
-From complex data to global teamwork – our interns tackle real challenges that shape our product. Read more 🚀
-Read more
-by
-Sapphire Birmingham
-by
-Sapphire Birmingham
-Early Careers
-Life at Wise
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -405,5 +406,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Boydton
+City: Phoenix
 GeoOptions: 339
