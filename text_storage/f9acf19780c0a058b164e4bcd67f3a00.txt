@@ -93,57 +93,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Reporting Specialist (SAR Reporting)
+KYC Operations Associate Analyst - Business
 Salary
-MYR 6,350 Monthly + RSUs
+6680 - 7100 BRL Monthly
 Location
-Kuala Lumpur
+São Paulo
 Team
 Operations
 Locations
-Kuala Lumpur
+São Paulo
 Description
-We’re looking for a FinCrime Reporting Specialist (SAR Reporting) to join our Kuala Lumpur team and help protect millions of customers around the world.At Wise, you’ll work closely with global teams a
+A KYC Operations Associate Analyst is responsible for performing timely customer due diligence to complete the KYC process. The Agent will be engaged in research and analysis. They will use informatio
 Reference
-550f0e02-a674-4915-a4d3-5afce18cbae0
+cab26a5b-e076-4828-a76c-207a1247079c
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Customer Support Team Lead - Japanese Speaker
+Staff Content Designer, FinCrime
 Salary
-10000 - 12000 BRL Monthly
+101000 - 131000 GBP Annual
 Location
-São Paulo
+London
 Team
-Customer Support
+Design
 Locations
-São Paulo
+London
 Description
-Your mission is to provide leadership to the Customer Support Team establishing and maintaining high levels of quality, efficiency and other processes required for an exceptional level of customer sup
+How do you move money globally while not breaking the law? How do you take a complex, stressful experience and make it simple — calming, even? How do you challenge the way it’s always been done? These
 Reference
-0b5bcd3a-9df2-41f3-aba9-18bb05abae05
+5bd1fa2e-2526-4447-98eb-64572107057d
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Compliance Senior Specialist - Sanctions
+Senior Data Science Manager - Financial Planning and Analysis
 Salary
-77000 - 105000 USD Annual
+115000 - 150000 GBP Annual
 Location
-Austin
+London
 Team
-Risk and Compliance
+Analytics
 Locations
-Austin
+London
 Description
-Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world's first platform to offer true mult
+Senior Data Science Manager — Financial Planning and AnalysisWe’re looking for a Senior Data Science Manager to join our growing Financial Planning and Analysis Team in London. This role is a unique o
 Reference
-c891e934-570a-417a-ac50-754ba4335da4
+256ce02b-33a6-4479-8738-830fb28eb6c3
 Expiry Date
 01/01/0001
 Read more
@@ -406,5 +406,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Phoenix
+City: San Jose
 GeoOptions: 339
