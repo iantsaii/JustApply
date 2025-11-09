@@ -93,6 +93,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Senior Analyst, APAC Go to Market
+Salary
+SGD 8,500 - 10,900 per month + RSUs
+Location
+Singapore
+Team
+Analytics
+Locations
+Singapore
+Description
+Salary: SGD 8,500 - 10,900 per month + RSUsWe are looking for a Senior Analyst to support our Commercial and Delivery teams across APAC. Your analysis and sales intelligence will enable us to optimise
+Reference
+d972db1c-d086-4e69-bb22-39a3520b48e1
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 KYC Operations Associate Analyst - Business
 Salary
 6680 - 7100 BRL Monthly
@@ -125,25 +144,6 @@ Description
 How do you move money globally while not breaking the law? How do you take a complex, stressful experience and make it simple — calming, even? How do you challenge the way it’s always been done? These
 Reference
 5bd1fa2e-2526-4447-98eb-64572107057d
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Data Science Manager - Financial Planning and Analysis
-Salary
-115000 - 150000 GBP Annual
-Location
-London
-Team
-Analytics
-Locations
-London
-Description
-Senior Data Science Manager — Financial Planning and AnalysisWe’re looking for a Senior Data Science Manager to join our growing Financial Planning and Analysis Team in London. This role is a unique o
-Reference
-256ce02b-33a6-4479-8738-830fb28eb6c3
 Expiry Date
 01/01/0001
 Read more
@@ -406,5 +406,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: San Jose
+City: Chicago
 GeoOptions: 339
