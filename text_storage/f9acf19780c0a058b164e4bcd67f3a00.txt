@@ -93,57 +93,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Analyst, APAC Go to Market
+Card Disputes Strategic Automation Lead
 Salary
-SGD 8,500 - 10,900 per month + RSUs
+11800 - 11800 SGD Monthly
 Location
 Singapore
-Team
-Analytics
-Locations
-Singapore
-Description
-Salary: SGD 8,500 - 10,900 per month + RSUsWe are looking for a Senior Analyst to support our Commercial and Delivery teams across APAC. Your analysis and sales intelligence will enable us to optimise
-Reference
-d972db1c-d086-4e69-bb22-39a3520b48e1
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-KYC Operations Associate Analyst - Business
-Salary
-6680 - 7100 BRL Monthly
-Location
-São Paulo
 Team
 Operations
 Locations
-São Paulo
+Singapore
 Description
-A KYC Operations Associate Analyst is responsible for performing timely customer due diligence to complete the KYC process. The Agent will be engaged in research and analysis. They will use informatio
+Salary Ranges: 11,800 SGD Monthly + RSUsYour mission: Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned mo
 Reference
-cab26a5b-e076-4828-a76c-207a1247079c
+196dfe42-70fe-404a-bbab-40a1275f9fdd
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Staff Content Designer, FinCrime
+Customer Support Site Lead
 Salary
-101000 - 131000 GBP Annual
+-
 Location
-London
+Bangkok
 Team
-Design
+Customer Support
 Locations
-London
+Bangkok
 Description
-How do you move money globally while not breaking the law? How do you take a complex, stressful experience and make it simple — calming, even? How do you challenge the way it’s always been done? These
+A Customer Support Site Lead role is one-of-a-kind, as you will have dual responsibility as CS Senior Team Lead and CS Thailand site lead in collaboration with Wise Support Functions, implements polic
 Reference
-5bd1fa2e-2526-4447-98eb-64572107057d
+af094e6e-7182-49d6-adf1-386f31b29e54
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+FinCrime Operations Team Lead - AML Investigations
+Salary
+MYR 10,500 Monthly + RSUs
+Location
+Kuala Lumpur
+Team
+Operations
+Locations
+Kuala Lumpur
+Description
+If you're interested in the position, please apply by submitting your CV and cover letter in English. In your cover letter please explain why you want to join the Anti-Money Laundering Investigations
+Reference
+fbb38d1d-9af2-4a04-bef8-21d2ef09e49b
 Expiry Date
 01/01/0001
 Read more
@@ -406,5 +406,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Chicago
+City: Washington
 GeoOptions: 339
