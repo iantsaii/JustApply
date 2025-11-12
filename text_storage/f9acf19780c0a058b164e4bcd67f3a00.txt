@@ -93,57 +93,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Product Analyst, APAC
+Senior Solutions Engineer - APAC
 Salary
-8,400 - 10,000 SGD monthly + RSUs
+SGD 148,800 - 184,800 Annually + RSUs
 Location
 Singapore
-Team
-Analytics
-Locations
-Singapore
-Description
-Salary Range: 8,400 - 10,000 SGD monthly + RSUsYour mission will be to deeply understand the needs of APAC customers and help your team to focus on solving their most critical problems.The focus of th
-Reference
-4738e9e1-2cc9-408c-8c3f-2f524a3b807e
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-KYC Operations Associate Analyst
-Salary
-SGD 4450 Monthly + RSUs
-Location
-Singapore
-Team
-Operations
-Locations
-Singapore
-Description
-What to expect from our hiring process;Application - our team will review your application within 5 daysA short Skills Assessment via Maki People to give you a sense of the types of skills and tasks r
-Reference
-e11e6eb0-5d4b-4e83-92ea-51a738c0ee11
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Engineering Lead - Platform Integrations
-Salary
-125000 - 153000 GBP Annual
-Location
-London
 Team
 Technology
 Locations
+Singapore
+Description
+We’re looking for a Senior Solutions Engineer to join our team in Singapore.The Wise Platform team works with financial institutions and major tech companies at a global level to offer Wise products a
+Reference
+0a9edf62-ef16-466d-98ed-383dd4fa3fd0
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Compliance Operations Manager
+Salary
+2900000 - 4550000 INR Annual
+Location
+Hyderabad
+Team
+Risk and Compliance
+Locations
+Hyderabad
+Description
+This role is based in Hyderabad.Since 2011, Wise has had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money acro
+Reference
+9269a81a-a5f1-4959-acb9-6ff13b23b2a3
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Lead Analytics Engineer
+Salary
+£85-110,000
+Location
+London
+Team
+Analytics
+Locations
 London
 Description
-What are we looking for? We are looking for an Engineering Lead to join the Platform Product Integrations team to expand and maintain direct integrations with payments systems and partners all over th
+We're looking for a Lead Analytics Engineer to join our Analytics Experience team in London.Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customer
 Reference
-51962dd0-411c-41b6-954a-70a7bf899a0c
+d7bf2e77-ff52-4d3e-8be6-e84686851908
 Expiry Date
 01/01/0001
 Read more
@@ -153,7 +153,26 @@ Shortlist
 View all
 List #1
 Latest blogs
-Inside our People team with Gabriela Rubin, People Operations Specialist
+Starting your career in the age of AI
+Teaser
+Early careers
+Content Type
+Blog
+Publish date
+11/11/2025
+Summary
+In a recent article, Pete Yeomans, Lead for Early Careers in Design at Wise, shares his insights on how to thrive as a designer in the age of AI. He explains that we are heavily invested in ou
+Teaser
+Pete Yeomans, Lead for Early Careers in Design at Wise shares his thoughts on starting your career in the age of AI. He shares practical tips that can help students thrive at interview.
+Read more
+by
+Holly Sellers
+by
+Holly Sellers
+Early Careers
+Life at Wise
+Our work
+Inside our People team with Gabriela Rubino, People Operations Specialist
 Teaser
 People profile
 Content Type
@@ -172,25 +191,6 @@ by
 Verona Hasani
 Life at Wise
 People
-Starting your career in the age of AI
-Teaser
-Early careers
-Content Type
-Blog
-Publish date
-11/03/2025
-Summary
-In a recent article, Pete Yeomans, Lead for Early Careers in Design at Wise, shares his insights on how to thrive as a designer in the age of AI. He explains that we are heavily invested in ou
-Teaser
-Pete Yeomans, Lead for Early Careers in Design at Wise shares his thoughts on starting your career in the age of AI. He shares practical tips that can help students thrive at interview.
-Read more
-by
-Holly Sellers
-by
-Holly Sellers
-Early Careers
-Life at Wise
-Our work
 Succeeding as an Engineering Lead at Wise Platform
 Teaser
 People profile
