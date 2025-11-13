@@ -93,57 +93,58 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Solutions Engineer - APAC
+KYC Operations Senior Analyst - Deactivations
 Salary
-SGD 148,800 - 184,800 Annually + RSUs
+31 - 38.45 USD Hourly
 Location
-Singapore
+Austin
+Team
+Operations
+Locations
+Austin
+Description
+As a KYC Operations Senior Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting enhanced due diligence
+Reference
+c9fef885-c1ea-4bb3-896d-ea05db77b9bb
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Software Engineer II - Spend Settlements & Reconciliation
+Salary
+105000 - 130000 GBP Annual
+Location
+London
 Team
 Technology
 Locations
-Singapore
+London
 Description
-We’re looking for a Senior Solutions Engineer to join our team in Singapore.The Wise Platform team works with financial institutions and major tech companies at a global level to offer Wise products a
+About the role:
+Senior software engineer at Wise is a specialist who has an experience in backend development and is skilled in Java, microservices, and database management. This role involves design
 Reference
-0a9edf62-ef16-466d-98ed-383dd4fa3fd0
+dff6102a-d134-4307-9ef2-1b39f5d6d279
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Compliance Operations Manager
+FinCrime Compliance Lead / AMLCO & MLRO
 Salary
-2900000 - 4550000 INR Annual
+11110 - 14010 EUR Monthly
 Location
-Hyderabad
+Brussels
 Team
 Risk and Compliance
 Locations
-Hyderabad
+Brussels
 Description
-This role is based in Hyderabad.Since 2011, Wise has had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money acro
+Wise Europe is looking for a Head of Financial Crime / AMLCO to join its 2LOD Compliance team in Brussels. This role will be working alongside Wise Europe’s Head of Compliance and will lead the Financ
 Reference
-9269a81a-a5f1-4959-acb9-6ff13b23b2a3
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Lead Analytics Engineer
-Salary
-£85-110,000
-Location
-London
-Team
-Analytics
-Locations
-London
-Description
-We're looking for a Lead Analytics Engineer to join our Analytics Experience team in London.Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customer
-Reference
-d7bf2e77-ff52-4d3e-8be6-e84686851908
+1458ca07-f6cb-4043-a628-368a19966b2e
 Expiry Date
 01/01/0001
 Read more
@@ -153,13 +154,50 @@ Shortlist
 View all
 List #1
 Latest blogs
+Inside our employee onboarding journey
+Teaser
+Our work
+Content Type
+Blog
+Publish date
+11/12/2025
+Summary
+Go behind the scenes with Jessica Rivera, our Talent Development Senior Specialist in Austin, as she shares how we set every new Wiser up for success from their very first day 🚀
+"Our
+Teaser
+Go behind the scenes with Jessica Rivera, our Talent Development Senior Specialist in Austin, as she shares how we set every new Wiser up for success from their very first day 🚀
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+People
+Beyond the bottleneck: redefining Legal Counsel
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+11/12/2025
+Summary
+Andrea Macchiavello, Legal Counsel in our Austin office, is challenging the stereotype. She shares her journey from tech sales to being part of a scaling legal department, and how soft skills, t
+Teaser
+Andrea Macchiavello, Legal Counsel helps teams to accelerate the company's global growth 🚀
+Read more
+by
+Amani Albertsen
+by
+Amani Albertsen
+Life at Wise
+Legal
 Starting your career in the age of AI
 Teaser
 Early careers
 Content Type
 Blog
 Publish date
-11/11/2025
+11/09/2025
 Summary
 In a recent article, Pete Yeomans, Lead for Early Careers in Design at Wise, shares his insights on how to thrive as a designer in the age of AI. He explains that we are heavily invested in ou
 Teaser
@@ -305,42 +343,6 @@ by
 Verona Hasani
 Life at Wise
 Wise Platform
-Fighting Hidden Fees and IBAN Discrimination
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-09/17/2025
-Summary
-Magali Van Bulck, Head of Policy & Government Relations (EMEA), joined Wise driven by a strong personal connection to our mission. Find out more on what inspired her join the team ⬇️
-Teaser
-Magali Van Bulck, Head of Policy & Government Relations (EMEA), joined Wise driven by a strong personal connection to our mission. Find out more on what inspired her join the team ⬇️
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Shaping Global Solutions: Insights from Nikita, Presales Consulting Lead, Americas
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-09/01/2025
-Summary
-Nikita Pentchoukov, Presales Consulting Lead at Wise Platform, shares his journey and insights into the world of Solutions Consulting 🌍
-“The best part is the genuine empowerment you'
-Teaser
-Nikita Pentchoukov, Presales Consulting Lead at Wise Platform, shares his journey and insights into the world of Solutions Consulting 🌍
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Wise Platform
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -406,5 +408,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: San Jose
+City: Boydton
 GeoOptions: 339
