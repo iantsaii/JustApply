@@ -93,58 +93,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-KYC Operations Senior Analyst - Deactivations
+CS Social Media Associate
 Salary
-31 - 38.45 USD Hourly
+26 - 26 USD Hourly
 Location
 Austin
 Team
-Operations
+Customer Support
 Locations
 Austin
 Description
-As a KYC Operations Senior Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting enhanced due diligence
+We’re looking for a passionate Social Media Customer Support Associate to join our team in Austin.We work differently and we’re proud of it! This is not your average customer service job. There’s no h
 Reference
-c9fef885-c1ea-4bb3-896d-ea05db77b9bb
+edcfb6aa-7d8f-411d-ab53-cd551cf373ca
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer II - Spend Settlements & Reconciliation
+Customer Support Senior Team Lead
 Salary
-105000 - 130000 GBP Annual
+14000 - 16800 BRL Monthly
 Location
-London
+São Paulo
+Team
+Customer Support
+Locations
+São Paulo
+Description
+Your mission is to provide leadership to the Consumer Customer Support Team establishing and maintaining high levels of quality, efficiency and other processes required for an exceptional level of cus
+Reference
+ed0f59ee-2d4b-402d-b8d1-068f1d03fae0
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Software Engineer - Treasury Money Movements
+Salary
+4250 - 5550 - EUR Monthly
+Location
+Tallinn
 Team
 Technology
 Locations
-London
+Tallinn
 Description
-About the role:
-Senior software engineer at Wise is a specialist who has an experience in backend development and is skilled in Java, microservices, and database management. This role involves design
+We're looking for a talented Software Engineer to join Wise's Treasury Money Movement team and take on a truly global challenge. In this high-impact role, you will contribute to the full-stack design,
 Reference
-dff6102a-d134-4307-9ef2-1b39f5d6d279
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-FinCrime Compliance Lead / AMLCO & MLRO
-Salary
-11110 - 14010 EUR Monthly
-Location
-Brussels
-Team
-Risk and Compliance
-Locations
-Brussels
-Description
-Wise Europe is looking for a Head of Financial Crime / AMLCO to join its 2LOD Compliance team in Brussels. This role will be working alongside Wise Europe’s Head of Compliance and will lead the Financ
-Reference
-1458ca07-f6cb-4043-a628-368a19966b2e
+7586e664-112c-4941-832f-419d5af4db46
 Expiry Date
 01/01/0001
 Read more
@@ -154,25 +153,6 @@ Shortlist
 View all
 List #1
 Latest blogs
-Inside our employee onboarding journey
-Teaser
-Our work
-Content Type
-Blog
-Publish date
-11/12/2025
-Summary
-Go behind the scenes with Jessica Rivera, our Talent Development Senior Specialist in Austin, as she shares how we set every new Wiser up for success from their very first day 🚀
-"Our
-Teaser
-Go behind the scenes with Jessica Rivera, our Talent Development Senior Specialist in Austin, as she shares how we set every new Wiser up for success from their very first day 🚀
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-People
 Beyond the bottleneck: redefining Legal Counsel
 Teaser
 People profile
@@ -343,6 +323,23 @@ by
 Verona Hasani
 Life at Wise
 Wise Platform
+Fighting Hidden Fees and IBAN Discrimination
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+09/17/2025
+Summary
+Magali Van Bulck, Head of Policy & Government Relations (EMEA), joined Wise driven by a strong personal connection to our mission. Find out more on what inspired her join the team ⬇️
+Teaser
+Magali Van Bulck, Head of Policy & Government Relations (EMEA), joined Wise driven by a strong personal connection to our mission. Find out more on what inspired her join the team ⬇️
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -408,5 +405,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Boydton
+City: Chicago
 GeoOptions: 339
