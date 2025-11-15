@@ -48,7 +48,7 @@ Focus • Talent • Align
 Deliver service at high-velocity
 Jira Service Management • Customer Service Management • Assets • Rovo
 Ship high-quality software fast
-Rovo Dev • DX (pending acquisition) • Pipelines • Bitbucket • Compass
+Rovo Dev • DX • Pipelines • Bitbucket • Compass
 POWERED BY
 Rovo
 AI-powered apps – driven by your team's knowledge.
@@ -62,12 +62,11 @@ Scalable CI/CD automation
 Bitbucket
 Source code and CI/CD
 DX
-(Pending acquisition)
 Measure productivity and AI impact
 Rovo Dev
 Agentic AI for developers
 Ship high-quality software fast
-Rovo Dev • DX (pending acquisition) • Pipelines • Bitbucket • Compass
+Rovo Dev • DX • Pipelines • Bitbucket • Compass
 Rovo
 AI-powered apps – driven by your team's knowledge.
 Product Managers
@@ -236,25 +235,25 @@ Select a function and the country where you're eligible to work to see remote-el
 We can hire people in any country where we have a legal entity, assuming you have eligible working rights and a sufficient timezone overlap with your team. All Atlassians can choose to work remotely or return to an office (unless it's necessary for the role to be performed in the office).
 WHAT FUNCTION MATCHES YOU?
 Atlassian Corporate Engineering (ACE) (5)
-Data, Analytics & Research (14)
-Design (23)
-Engineering (110)
+Data, Analytics & Research (13)
+Design (24)
+Engineering (108)
 Finance & Accounting (14)
 Graduates (5)
 Interns (15)
 Legal (2)
-Marketing (16)
-Other (7)
-People (6)
-Product Management (24)
-Program Management (7)
+Marketing (17)
+Other (8)
+People (7)
+Product Management (25)
+Program Management (8)
 Risk & Compliance (0)
-Sales (142)
-Security (9)
+Sales (151)
+Security (8)
 Site Reliability Engineering (0)
-Support (26)
+Support (30)
 WHERE ARE YOU ELIGIBLE TO WORK?
-Australia (3)
+Australia (4)
 Canada (0)
 France (0)
 Germany (0)
@@ -264,7 +263,6 @@ Netherlands (0)
 New Zealand (0)
 Philippines (0)
 Poland (0)
-Singapore (0)
 South Korea (0)
 Turkey (0)
 United Kingdom (0)
