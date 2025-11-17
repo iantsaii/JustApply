@@ -93,6 +93,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Senior Software Engineer I - Send (Java, Backend) - High Volume Team
+Salary
+85000 - 105000 GBP Annual
+Location
+London
+Team
+Technology
+Locations
+London
+Description
+Job DescriptionAbout the role:At Wise, we believe exceptional products are built by exceptional people, not just processes or leadership. We're a customer-obsessed company where every line of code, ev
+Reference
+0aadc2e0-843c-4f8e-8507-43ac72b9eeaa
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Payment Operations Global Processing Specialist
 Salary
 7300 - 11000 BRL Monthly
@@ -125,25 +144,6 @@ Description
 We’re looking for a senior Executive Assistant to support our Global Head of Operations, who leads a function of 4,500+ Wisers worldwide. You’ll run the day-to-day executive rhythm - calendars, travel
 Reference
 8f9aa8d2-d162-439c-9ce8-dfbb1d32ffc7
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Commercial Partnerships Senior Manager
-Salary
-62000 - 88000 GBP Annual
-Location
-London
-Team
-Marketing
-Locations
-London
-Description
-We are looking for an experienced, commercially driven Partnerships Manager to join our Strategic Partnerships team in London. You will be part of a tribe that is passionate about thinking differently
-Reference
-68f83289-c935-409a-ad9a-19dfd05d7bbe
 Expiry Date
 01/01/0001
 Read more
@@ -407,5 +407,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Boydton
+City: Chicago
 GeoOptions: 339
