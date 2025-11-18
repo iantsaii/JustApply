@@ -93,7 +93,26 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Software Engineer I - Send (Java, Backend) - High Volume Team
+Regional Health, Safety & Security Specialist (Americas)
+Salary
+8700 - 12800 BRL Monthly
+Location
+São Paulo
+Team
+People
+Locations
+São Paulo
+Description
+Are you passionate about creating a safe and secure environment where people can thrive? Do you have a knack for turning complex regulations into practical, effective solutions? We're looking for a He
+Reference
+92e75e7f-c9c0-4ce3-97c3-68b53e61367c
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Software Engineer - Regional Payment Integration (JAVA)
 Salary
 85000 - 105000 GBP Annual
 Location
@@ -103,47 +122,28 @@ Technology
 Locations
 London
 Description
-Job DescriptionAbout the role:At Wise, we believe exceptional products are built by exceptional people, not just processes or leadership. We're a customer-obsessed company where every line of code, ev
+The team you’ll be joining the Payment Integrations Platform here our goal is to provide a reliable and scalable platform integrating payment schemes of the world into Wise. The platform is used by al
 Reference
-0aadc2e0-843c-4f8e-8507-43ac72b9eeaa
+7e56a958-c4c4-462c-b402-3561ae3848d1
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Payment Operations Global Processing Specialist
+Software Engineer - Treasury Money Movements
 Salary
-7300 - 11000 BRL Monthly
+4250 - 5550 - EUR Monthly
 Location
-São Paulo
+Tallinn
 Team
-Operations
+Technology
 Locations
-São Paulo
+Tallinn
 Description
-We are looking for a Payment Operations Specialist  to pioneer a Global Processing team in São Paulo, Brazil to help our customers receive their funds faster globally.  The role is a unique opportunit
+We're looking for a talented Full-Stack Engineer to join Wise's Treasury Money Movement team and take on a truly global challenge. In this high-impact role, you will contribute to the full-stack desig
 Reference
-8ad84bdb-7e4f-41e7-846c-cbda47a51c28
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Executive Assistant
-Salary
-60000 - 75000 GBP Annual
-Location
-London
-Team
-People
-Locations
-London
-Description
-We’re looking for a senior Executive Assistant to support our Global Head of Operations, who leads a function of 4,500+ Wisers worldwide. You’ll run the day-to-day executive rhythm - calendars, travel
-Reference
-8f9aa8d2-d162-439c-9ce8-dfbb1d32ffc7
+7586e664-112c-4941-832f-419d5af4db46
 Expiry Date
 01/01/0001
 Read more
@@ -198,9 +198,9 @@ Blog
 Publish date
 11/09/2025
 Summary
-In a recent article, Pete Yeomans, Lead for Early Careers in Design at Wise, shares his insights on how to thrive as a designer in the age of AI. He explains that we are heavily invested in ou
+In a recent article, Peter Yeomans, Lead for Early Careers in Design at Wise, shares his insights on how to thrive as a designer in the age of AI. He explains that we are heavily invested in o
 Teaser
-Pete Yeomans, Lead for Early Careers in Design at Wise shares his thoughts on starting your career in the age of AI. He shares practical tips that can help students thrive at interview.
+Peter Yeomans, Lead for Early Careers in Design at Wise shares his thoughts on starting your career in the age of AI. He shares practical tips that can help students thrive at interview.
 Read more
 by
 Holly Sellers
@@ -407,5 +407,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Chicago
+City: Boydton
 GeoOptions: 339
