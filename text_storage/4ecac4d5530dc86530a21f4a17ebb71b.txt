@@ -234,7 +234,7 @@ Browse jobs
 Select a function and the country where you're eligible to work to see remote-eligible roles in your area.
 We can hire people in any country where we have a legal entity, assuming you have eligible working rights and a sufficient timezone overlap with your team. All Atlassians can choose to work remotely or return to an office (unless it's necessary for the role to be performed in the office).
 WHAT FUNCTION MATCHES YOU?
-Atlassian Corporate Engineering (ACE) (6)
+Atlassian Corporate Engineering (ACE) (7)
 Data, Analytics & Research (12)
 Design (24)
 Engineering (108)
@@ -242,18 +242,18 @@ Finance & Accounting (13)
 Graduates (5)
 Interns (15)
 Legal (2)
-Marketing (16)
+Marketing (18)
 Other (7)
 People (7)
-Product Management (21)
+Product Management (23)
 Program Management (9)
 Risk & Compliance (0)
-Sales (149)
+Sales (143)
 Security (8)
 Site Reliability Engineering (0)
-Support (28)
+Support (25)
 WHERE ARE YOU ELIGIBLE TO WORK?
-Australia (2)
+Australia (3)
 Canada (0)
 France (0)
 Germany (0)
@@ -267,7 +267,7 @@ Singapore (0)
 South Korea (0)
 Turkey (0)
 United Kingdom (0)
-United States (17)
+United States (18)
 0 results
 We don't have any available openings right now, join our
 Talent Community
@@ -289,7 +289,7 @@ Português
 русский
 中文
 Privacy Policy
-Your Privacy Choices
+Your California Privacy Choices
 Limit the Use of My Sensitive Personal Information
 Terms
 Impressum
@@ -300,13 +300,14 @@ Privacy Policy
 Global Privacy Control
 .
 Manage preferences
-I understand
+Reject all
+Accept all
 Manage Preferences
 Where applicable under local laws, you may have the right to opt out of certain disclosures of personal information to third parties for targeted advertising, which may be considered a “sale” or “share” of personal information, even if no money is exchanged for that information.
 When you visit our site, we place cookies on your browser that collect information. The information collected might relate to you, your preferences, browsing activity, and your device, and this information is used to make the site work as you expect it to and to provide a more personalized web experience. We may also disclose personal information (including through the use of third-party cookies) to third parties for targeting advertising purposes, including to measure, target, and serve advertisements, and for other purposes described in our
 Privacy Policy
 .
-You can choose not to allow certain types of cookies, including opting out of “sales”, “sharing”, and “targeted advertising” by turning off the “Sales, Sharing and Targeted Advertising Cookies” button below. If you have enabled the Global Privacy Control (“GPC”) on your browser, we will treat that signal as a valid request to opt-out of “sales”, “sharing”, and “targeted advertising”. Please note that you cannot opt out of Strictly Necessary, Performance, or Functional cookies, as they are deployed to ensure the proper functioning of our website.
+You can choose not to allow certain types of cookies, including opting out of “sales”, “sharing”, and “targeted advertising” by turning off the “Sales, Sharing and Targeted Advertising Cookies” button below. If you have enabled the Global Privacy Control (“GPC”) on your browser, we will treat that signal as a valid request to opt out of “sales”, “sharing”, and “targeted advertising”. Please note that you cannot opt out of Strictly Necessary, Performance, or Functional cookies, as they are deployed to ensure the proper functioning of our website.
 Allow all
 Strictly Necessary Cookies
 Always active

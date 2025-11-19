@@ -47,7 +47,7 @@ Shortlist
 0
 Wise women code
 Search for jobs
-Looking to break into the world of tech?  Our WiseWomenCode program is an opportunity to be part of the next generation of women and non-binary tech stars.
+Looking to break into the world of tech?  Our award winning WiseWomenCode program is an opportunity to be part of the next generation of women and non-binary tech stars.
 Watch Video
 Program Overview
 WiseWomenCode is a unique experience launched by Wise. It’s designed to bridge the gender gap in technology by providing support, guidance and opportunities to women and non-binary individuals who are eager to kickstart their careers in the tech world.
@@ -82,68 +82,77 @@ Understand the diverse career paths available in the tech field.
 De-mystify the world of technology and engineering.
 At Wise, we believe that diversity and inclusion are essential for innovation and progress. We are committed to supporting women and non-binary individuals on their journey to succeed in the tech world.
 How to apply
-We've now closed applications for the 2025 intake.
+Applications now open for 2026:
+-
+Apply here for Tallinn
+18th - 20th February
+-
+Apply here for Budapest
+18th - 20th February
+Apply before the 31st December.
 Stay tuned for updates on
 LinkedIn
 and
 Instagram
-of our next openings.
+of our
+next openings in Singapore and London
+.
 If you have any questions or need more information, feel free to reach out to
 wisestart@wise.com
 .
 List #1
 Latest jobs
-Regional Health, Safety & Security Specialist (Americas)
+FinCrime Investigator - AML Investigations
 Salary
-8700 - 12800 BRL Monthly
+RM 6,350 Monthly + RSUs
 Location
-São Paulo
+Kuala Lumpur
 Team
-People
+Operations
 Locations
-São Paulo
+Kuala Lumpur
 Description
-Are you passionate about creating a safe and secure environment where people can thrive? Do you have a knack for turning complex regulations into practical, effective solutions? We're looking for a He
+If you're interested in the position, please apply by submitting your CV and cover letter in English. In your cover letter please explain why you want to join the Anti-Money Laundering Investigations
 Reference
-92e75e7f-c9c0-4ce3-97c3-68b53e61367c
+43b1ef78-865d-40fb-8a30-0537987e8913
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer - Regional Payment Integration (JAVA)
+Treasury - Operational Risk Controller
 Salary
-85000 - 105000 GBP Annual
+68000 - 100000 GBP Annual
 Location
 London
 Team
-Technology
+Finance
 Locations
 London
 Description
-The team you’ll be joining the Payment Integrations Platform here our goal is to provide a reliable and scalable platform integrating payment schemes of the world into Wise. The platform is used by al
+As our Treasury Controller for Operational Risk, you’ll be at the heart of our mission—building a safer, more resilient financial network for millions of global customers. This newly created role offe
 Reference
-7e56a958-c4c4-462c-b402-3561ae3848d1
+d0d1d316-cf9e-4891-bee0-8a5e26869274
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Software Engineer - Treasury Money Movements
+Complaints Officer
 Salary
-4250 - 5550 - EUR Monthly
+7300 - 11000 BRL Monthly
 Location
-Tallinn
+São Paulo
 Team
-Technology
+Customer Support
 Locations
-Tallinn
+São Paulo
 Description
-We're looking for a talented Full-Stack Engineer to join Wise's Treasury Money Movement team and take on a truly global challenge. In this high-impact role, you will contribute to the full-stack desig
+As a Complaints Officer, you’ll investigate customer complaints, ensure timely and fair resolutions, and maintain a strong understanding of our regulatory obligations across multiple jurisdictions. Th
 Reference
-7586e664-112c-4941-832f-419d5af4db46
+49a6069e-991d-4830-a2c9-8ac3838a629d
 Expiry Date
 01/01/0001
 Read more
@@ -407,5 +416,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Boydton
+City: San Jose
 GeoOptions: 339
