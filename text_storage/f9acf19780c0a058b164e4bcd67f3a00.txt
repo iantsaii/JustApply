@@ -52,7 +52,7 @@ Watch Video
 Program Overview
 WiseWomenCode is a unique experience launched by Wise. It’s designed to bridge the gender gap in technology by providing support, guidance and opportunities to women and non-binary individuals who are eager to kickstart their careers in the tech world.
 This 3-day immersive experience is packed with valuable insights, hands-on workshops and networking opportunities, all aimed at boosting your confidence and helping you to explore different engineering paths within the fintech industry.
-In 2025, we will be hosting this program in Singapore, London, Tallinn and Budapest.
+In 2026, we will be hosting this program in Singapore, London, Tallinn and Budapest.
 Day 2
 SHADOWING
 Spend a full day shadowing a seasoned engineer and gain a firsthand experience of their daily work. Learn about the practical aspects of the tech world and get a glimpse into the exciting projects taking place within our organisation.
@@ -102,57 +102,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Investigator - AML Investigations
+Finance Manager - Pacific
 Salary
-RM 6,350 Monthly + RSUs
+115000 - 150000 AUD Annual
 Location
-Kuala Lumpur
-Team
-Operations
-Locations
-Kuala Lumpur
-Description
-If you're interested in the position, please apply by submitting your CV and cover letter in English. In your cover letter please explain why you want to join the Anti-Money Laundering Investigations
-Reference
-43b1ef78-865d-40fb-8a30-0537987e8913
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Treasury - Operational Risk Controller
-Salary
-68000 - 100000 GBP Annual
-Location
-London
+Sydney
 Team
 Finance
 Locations
-London
+Sydney
 Description
-As our Treasury Controller for Operational Risk, you’ll be at the heart of our mission—building a safer, more resilient financial network for millions of global customers. This newly created role offe
+We’re looking for a Finance Manager, Pacific to join our finance team in Sydney, Australia! If you’ve got Finance experience in Statutory Reporting (GAAP), Management Reporting (IFRS/US GAAP), Financi
 Reference
-d0d1d316-cf9e-4891-bee0-8a5e26869274
+bc664ab2-f3e2-418d-a998-5fdeeed38198
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Complaints Officer
+Head of Regional Payment Operations - Latam Region
 Salary
-7300 - 11000 BRL Monthly
+26800 - 35200 BRL Monthly
 Location
 São Paulo
 Team
-Customer Support
+Operations
 Locations
 São Paulo
 Description
-As a Complaints Officer, you’ll investigate customer complaints, ensure timely and fair resolutions, and maintain a strong understanding of our regulatory obligations across multiple jurisdictions. Th
+Are you ready to shape the future of payments in Latin America and beyond?We’re seeking a strategic and experienced Head of Regional Payment Operations to lead our teams across Latin American corridor
 Reference
-49a6069e-991d-4830-a2c9-8ac3838a629d
+3215c399-88f2-41a9-943c-b567836b5ce4
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Procurement Lead - Outsourcing
+Salary
+83000 - 118000 GBP Annual
+Location
+London
+Team
+Customer Support
+Locations
+London
+Description
+We’re looking for a Senior Procurement Lead to join our Third Party Management and Procurement Team in London. This role will focus on leading the Outsourcing category comprising major servicing subca
+Reference
+a2deb5e2-70b2-4b0e-b578-a9f8bd3ed538
 Expiry Date
 01/01/0001
 Read more
@@ -162,6 +162,26 @@ Shortlist
 View all
 List #1
 Latest blogs
+Product Compliance: balancing regulation and customer impact
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+11/13/2025
+Summary
+Yann De Rudder, Group Product Compliance Lead in our Brussels office shares his insights in working in Product Compliance at Wise.
+"In Product Compliance, you’re not just interpreti
+Teaser
+Yann De Rudder, Group Product Compliance Lead in our Brussels office shares his insights in working in Product Compliance
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Product
+Compliance
 Inside our employee onboarding journey
 Teaser
 Our work
@@ -332,25 +352,6 @@ by
 Verona Hasani
 Life at Wise
 Hyderabad
-Driving decisions through data: Wise Platform
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-09/22/2025
-Summary
-“Data is central to decision-making in Wise Platform. This allows analysts to truly influence and drive the strategic direction of our teams, products and partnerships.”
-Zac Feighery (He
-Teaser
-Zac Feighery, Analytics Lead at Wise Platform in London shares his insights on what it’s really like to be an Analyst, driving strategic decisions that impact millions of customers worldwide 🚀
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Wise Platform
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
