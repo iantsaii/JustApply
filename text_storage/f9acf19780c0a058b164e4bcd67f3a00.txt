@@ -102,57 +102,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Finance Manager - Pacific
+FinCrime Operations Senior Analyst - RFI
 Salary
-115000 - 150000 AUD Annual
+6000 - 7500 MYR Monthly
 Location
-Sydney
-Team
-Finance
-Locations
-Sydney
-Description
-We’re looking for a Finance Manager, Pacific to join our finance team in Sydney, Australia! If you’ve got Finance experience in Statutory Reporting (GAAP), Management Reporting (IFRS/US GAAP), Financi
-Reference
-bc664ab2-f3e2-418d-a998-5fdeeed38198
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Head of Regional Payment Operations - Latam Region
-Salary
-26800 - 35200 BRL Monthly
-Location
-São Paulo
+Kuala Lumpur
 Team
 Operations
 Locations
-São Paulo
+Kuala Lumpur
 Description
-Are you ready to shape the future of payments in Latin America and beyond?We’re seeking a strategic and experienced Head of Regional Payment Operations to lead our teams across Latin American corridor
+If you're interested in the position, please apply by submitting your CV and cover letter in English. In your cover letter please explain why you want to join the RFI team and what makes you a good ca
 Reference
-3215c399-88f2-41a9-943c-b567836b5ce4
+56b2fb08-8191-47aa-bee5-d89cb5a70cc3
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Procurement Lead - Outsourcing
+Workplace Operations Manager
 Salary
-83000 - 118000 GBP Annual
+13700 - 19800 BRL Monthly
+Location
+São Paulo
+Team
+People
+Locations
+São Paulo
+Description
+Are you a people-first, experience-driven wizard ready to craft magical moments and build vibrant communities? Do you thrive on making every day at work feel less like a chore and more like a joy? The
+Reference
+1b35d464-fa74-4835-9633-b4111e3b0a18
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Software Engineer - Account Squad
+Salary
+105000 - 130000 GBP Annual
 Location
 London
 Team
-Customer Support
+Technology
 Locations
 London
 Description
-We’re looking for a Senior Procurement Lead to join our Third Party Management and Procurement Team in London. This role will focus on leading the Outsourcing category comprising major servicing subca
+About the role:We are looking for a Senior Backend Engineer to join the Account Experience team. The team is the primary gateway into Wise, responsible for the dashboard users see when they first log
 Reference
-a2deb5e2-70b2-4b0e-b578-a9f8bd3ed538
+9d7294b9-7304-4487-8bb5-16becf331ab5
 Expiry Date
 01/01/0001
 Read more
@@ -162,6 +162,26 @@ Shortlist
 View all
 List #1
 Latest blogs
+From Wisestart scholarship to Software Engineer: Eliise's Journey
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+11/18/2025
+Summary
+We believe in building lasting relationships with talented students, supporting them from their academic years and helping them transition into meaningful careers. Our scholarship program isn’
+Teaser
+From WiseWomenCode to Graduate Engineer 🚀
+Eliise shares her journey and explains how our long-term investment in talent gives students a clear path to meaningful careers at Wise.
+Read more
+by
+Sapphire Birmingham
+by
+Sapphire Birmingham
+Early Careers
+Life at Wise
+Engineering
 Product Compliance: balancing regulation and customer impact
 Teaser
 People profile
@@ -334,24 +354,6 @@ by
 Holly Sellers
 Early Careers
 Life at Wise
-Scaling Customer Support in Hyderabad
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-09/24/2025
-Summary
-"What excites me most is the incredible opportunity to build something from the ground up. Leading and building a team from scratch is something very few people get to experience in their care
-Teaser
-Meet Prashanth Sampath, Customer Support (CS) Lead, who went from being a Wise customer to now building our CS team from the ground up 🚀
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Hyderabad
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -417,5 +419,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: San Jose
+City: Chicago
 GeoOptions: 339
