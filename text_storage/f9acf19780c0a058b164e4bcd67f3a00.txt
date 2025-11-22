@@ -102,57 +102,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Operations Senior Analyst - RFI
+Principal Product Manager - Brazil PIX
 Salary
-6000 - 7500 MYR Monthly
+-
 Location
-Kuala Lumpur
+São Paulo
 Team
-Operations
+Product
 Locations
-Kuala Lumpur
+São Paulo
 Description
-If you're interested in the position, please apply by submitting your CV and cover letter in English. In your cover letter please explain why you want to join the RFI team and what makes you a good ca
+As our Principal Product Manager, you will be responsible for defining the vision for PIX, enhancing our infrastructure to make international transfers feel as seamless as local payments, and driving
 Reference
-56b2fb08-8191-47aa-bee5-d89cb5a70cc3
+c5e8ddab-3f7a-4210-b327-6bf034227348
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Workplace Operations Manager
+Product Manager - Treasury
 Salary
-13700 - 19800 BRL Monthly
+88000 - 135000 GBP Annual
 Location
-São Paulo
+London
 Team
-People
+Product
 Locations
-São Paulo
+London
 Description
-Are you a people-first, experience-driven wizard ready to craft magical moments and build vibrant communities? Do you thrive on making every day at work feel less like a chore and more like a joy? The
+We’re looking for a Product Manager in London to lead the Safeguarding team within our Treasury.Safeguarding our customer funds is mission-critical, meaning this role is high-impact and high-visibilit
 Reference
-1b35d464-fa74-4835-9633-b4111e3b0a18
+c38bc250-76f8-49a1-b335-8b59875a3b88
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer - Account Squad
+Product Design Lead - Receive
 Salary
-105000 - 130000 GBP Annual
+101000 - 131000 GBP Annual
 Location
 London
 Team
-Technology
+Design
 Locations
 London
 Description
-About the role:We are looking for a Senior Backend Engineer to join the Account Experience team. The team is the primary gateway into Wise, responsible for the dashboard users see when they first log
+How should global money work? How do you take a complex, stressful experience and make it simple, calming even? How do you challenge the way it’s always been done? How do you help businesses and custo
 Reference
-9d7294b9-7304-4487-8bb5-16becf331ab5
+d6ad4f1b-d190-401d-ae02-637ee744998e
 Expiry Date
 01/01/0001
 Read more
@@ -419,5 +419,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Chicago
+City: Des Moines
 GeoOptions: 339
