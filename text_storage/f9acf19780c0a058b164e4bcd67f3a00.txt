@@ -102,6 +102,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Knowledge Management Senior Lead  (Maternity Cover)
+Salary
+4450 - 5600 EUR Monthly
+Location
+Tallinn
+Team
+Customer Support
+Locations
+Tallinn
+Description
+The Knowledge Management team’s mission is to help Wise achieve Mission 0 through enabling its operational teams to scale and provide excellent service to our customers by building and maintaining a c
+Reference
+1cba709a-3065-4a81-bf41-0ddfe521a06b
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Principal Product Manager - Brazil PIX
 Salary
 -
@@ -134,25 +153,6 @@ Description
 We’re looking for a Product Manager in London to lead the Safeguarding team within our Treasury.Safeguarding our customer funds is mission-critical, meaning this role is high-impact and high-visibilit
 Reference
 c38bc250-76f8-49a1-b335-8b59875a3b88
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Product Design Lead - Receive
-Salary
-101000 - 131000 GBP Annual
-Location
-London
-Team
-Design
-Locations
-London
-Description
-How should global money work? How do you take a complex, stressful experience and make it simple, calming even? How do you challenge the way it’s always been done? How do you help businesses and custo
-Reference
-d6ad4f1b-d190-401d-ae02-637ee744998e
 Expiry Date
 01/01/0001
 Read more
@@ -419,5 +419,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Des Moines
+City: Washington
 GeoOptions: 339
