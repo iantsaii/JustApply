@@ -140,19 +140,19 @@ Read more
 Shortlist
 Read more
 Shortlist
-Payment Operations Regional Service Delivery Lead
+Senior Software Engineer I - Send (Java, Backend) - High Volume Team
 Salary
-15400 - 20100 BRL Monthly
+85000 - 105000 GBP Annual
 Location
-São Paulo
+London
 Team
-Operations
+Technology
 Locations
-São Paulo
+London
 Description
-We’re looking for a Payment Operations Regional Team Lead - Service Delivery to join our team in our São Paulo, Brazil office. This role is a unique opportunity to have an impact on Wise’s mission, gr
+Job DescriptionAbout the role:At Wise, we believe exceptional products are built by exceptional people, not just processes or leadership. We're a customer-obsessed company where every line of code, ev
 Reference
-75734e89-9125-4407-b4e6-a16c2f12348c
+0aadc2e0-843c-4f8e-8507-43ac72b9eeaa
 Expiry Date
 01/01/0001
 Read more
@@ -234,9 +234,9 @@ Teaser
 Andrea Macchiavello, Legal Counsel helps teams to accelerate the company's global growth 🚀
 Read more
 by
-Amani Albertsen
+DNU-Amani Albertsen
 by
-Amani Albertsen
+DNU-Amani Albertsen
 Life at Wise
 Legal
 Starting your career in the age of AI
@@ -330,9 +330,9 @@ Teaser
 Yara Burvin, Analytics Engineer in London, shares how she built a game-changing data hub that transformed FinCrime operations at Wise. Read more below 🚀
 Read more
 by
-Amani Albertsen
+DNU-Amani Albertsen
 by
-Amani Albertsen
+DNU-Amani Albertsen
 Life at Wise
 Analytics
 Why hiring early talent fuels growth
@@ -419,5 +419,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Boydton
+City: Cheyenne
 GeoOptions: 339
