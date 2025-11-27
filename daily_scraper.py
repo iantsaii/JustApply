@@ -13,12 +13,16 @@ from bs4 import BeautifulSoup
 
 # URLs to scrape; edit this list as needed
 URLS: list[str] = [
-    "https://wise.jobs/wise-women-code",
-    "https://www.metacareers.com/rpm",
-    "https://www.uber.com/qa/en/careers/apm/",
-    "https://www.revolut.com/en-SG/careers/?team=Product+%26+Design",
-    "https://www.coinbase.com/en-gb/careers/positions?department=Product&location=all",
-    "https://www.atlassian.com/company/careers/all-jobs?team=Product%20Management&location=Singapore&search="
+    "https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.",
+    "https://careers.smartrecruiters.com/Visa/university-recruiting",
+    # "https://wise.jobs/wise-women-code",
+    # "https://www.metacareers.com/rpm",
+    # "https://www.uber.com/qa/en/careers/apm/",
+    # "https://www.revolut.com/en-SG/careers/?team=Product+%26+Design",
+    # "https://www.coinbase.com/en-gb/careers/positions?department=Product&location=all",
+    # "https://www.atlassian.com/company/careers/all-jobs?team=Product%20Management&location=Singapore&search="
+
+    # non-pm urls
     # "https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University",
     # "https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK",
     # "https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA",
@@ -30,6 +34,7 @@ URLS: list[str] = [
     # "https://www.quantedge.com/careers",
     # "https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&",
     # "https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney",
+    
 ]
 
 
