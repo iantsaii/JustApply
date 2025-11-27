@@ -102,45 +102,26 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Sr Software Engineer II - Golang - Platform - Cloud Foundations
+Product Director - Brazil
 Salary
-105000 - 130000 GBP Annual
+-
 Location
-London
+São Paulo
 Team
-Technology
+Product
 Locations
-London
+São Paulo
 Description
-About the role The Cloud Foundations team is responsible for building and maintaining the services that help ensure Wise’s cloud infrastructure meets all the necessary requirements for a growing FinTe
+As our Product Director for Brazil, you'll own the mission to revolutionize international payments for consumers and businesses. Your vision will guide how we build, enhance, and scale our infrastruct
 Reference
-1cbae4d0-0289-4155-b439-e07a877e4ef1
+b72b4ccc-33f8-4c7c-bc94-cd9ad4d7e688
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Lead - Platform Integrations
-Salary
-125000 - 153000 GBP Annual
-Location
-London
-Team
-Technology
-Locations
-London
-Description
-What are we looking for? We are looking for an Engineering Lead to join the Platform Product Integrations team to expand and maintain direct integrations with payments systems and partners all over th
-Reference
-51962dd0-411c-41b6-954a-70a7bf899a0c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Software Engineer I - Send (Java, Backend) - High Volume Team
+Senior Software Engineer I - Servicing Platform
 Salary
 85000 - 105000 GBP Annual
 Location
@@ -150,9 +131,28 @@ Technology
 Locations
 London
 Description
-Job DescriptionAbout the role:At Wise, we believe exceptional products are built by exceptional people, not just processes or leadership. We're a customer-obsessed company where every line of code, ev
+About the role: Join us as a Platform Engineer in the Risk Domain, where you'll build the systems that make safe, global products possible. As part of our Platform Engineering team, you'll be at the i
 Reference
-0aadc2e0-843c-4f8e-8507-43ac72b9eeaa
+c964bb65-6fa9-4097-966e-83d65692f44a
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Fincrime Operations Investigator
+Salary
+8000 - 11300 BRL Monthly
+Location
+São Paulo
+Team
+Operations
+Locations
+São Paulo
+Description
+Conduct in-depth investigations of potentially suspicious activity, utilizing both internal and external data sources.Analyze complex financial transactions and customer behavior to identify patterns
+Reference
+53b9cf5c-4848-4a69-9147-b55b599551cd
 Expiry Date
 01/01/0001
 Read more
@@ -419,5 +419,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Cheyenne
+City: Washington
 GeoOptions: 339
