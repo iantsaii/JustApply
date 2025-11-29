@@ -102,47 +102,28 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Customer Support Associate
+Product Lead - Investments
 Salary
-6015 - 6015 BRL Monthly
+120000 - 145000 GBP Annual
 Location
-São Paulo
+London
 Team
-Customer Support
+Product
 Locations
-São Paulo
+London
 Description
-As a Business Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership
+We’re looking for a Product Lead to join our Grow (Wise Assets) squad in London. The role is a unique opportunity to join one of the largest fintech companies in the world. You'll be leading and growi
 Reference
-a12f4c77-7680-4c6b-a183-56d2cff5b7b2
+96cb08dd-5ac5-4eac-b4d6-3225f58cd558
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer - Alpine Money Movement
+Senior Manager - Treasury Risk & Controls
 Salary
-1700000 - 2100000 HUF Monthly + RSUs
-Location
-Budapest
-Team
-Technology
-Locations
-Budapest
-Description
-The team you will join: Alpine Money MovementThe Alpine Money Movement team is a brand new, high-impact crew focused on delivering the quickest, most convenient, and cheapest money transfers across Sw
-Reference
-34ad42ef-cfa7-4d4f-8039-326b3c36ce2d
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Internal Audit Technology Lead
-Salary
-120000 - 160000 GBP Annual
+88000 - 130000 GBP Annual
 Location
 London
 Team
@@ -150,9 +131,28 @@ Finance
 Locations
 London
 Description
-Wise is looking for an Internal Audit Technology Lead to join our new and growing Internal Audit (IA) team. You will be primarily supporting the Global Head of IT Audit in overseeing technology risk p
+Senior Manager - Treasury Risk & ControlsLondon (hybrid, 3+ days a week)£88,000 - £130,000 per annumAt Wise our mission is Money Without Borders – instant, convenient, transparent and eventually free.
 Reference
-984e4906-4c3f-4b2f-88a5-b59182253ff2
+4ad61135-e7e1-4897-a75c-3679018eccd0
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Treasury Controller - Operational Risk
+Salary
+68000 - 100000 GBP Annual
+Location
+London
+Team
+Finance
+Locations
+London
+Description
+Treasury Controller - Operational RiskLondon (hybrid, 3 days a week)£68,000 - £100,000 per annumAs our Treasury Controller for Operational Risk, you’ll be at the heart of our mission—building a safer,
+Reference
+d0d1d316-cf9e-4891-bee0-8a5e26869274
 Expiry Date
 01/01/0001
 Read more
@@ -419,5 +419,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: San Jose
+City: Boydton
 GeoOptions: 339
