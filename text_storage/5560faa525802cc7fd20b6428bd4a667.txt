@@ -102,6 +102,44 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Customer Support Associate - Cantonese Speaker
+Salary
+4100 - 4100 SGD Monthly
+Location
+Singapore
+Team
+Customer Support
+Locations
+Singapore
+Description
+As a Customer Support Associate - Cantonese Speaker at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with
+Reference
+768e6bdf-21c3-45cd-9625-beb71f0e980f
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Lead Product Analyst - Wise Business
+Salary
+75000 - 100000 GBP Annual
+Location
+London
+Team
+Analytics
+Locations
+London
+Description
+We’re looking for several Lead Product Analysts to join Wise Business, our international business account. The Wise Business account helps small and medium-sized businesses across the world focus on w
+Reference
+6a71d1cc-107d-427f-b8e0-023ed0aa4a80
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Product Lead - Investments
 Salary
 120000 - 145000 GBP Annual
@@ -115,44 +153,6 @@ Description
 We’re looking for a Product Lead to join our Grow (Wise Assets) squad in London. The role is a unique opportunity to join one of the largest fintech companies in the world. You'll be leading and growi
 Reference
 96cb08dd-5ac5-4eac-b4d6-3225f58cd558
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Manager - Treasury Risk & Controls
-Salary
-88000 - 130000 GBP Annual
-Location
-London
-Team
-Finance
-Locations
-London
-Description
-Senior Manager - Treasury Risk & ControlsLondon (hybrid, 3+ days a week)£88,000 - £130,000 per annumAt Wise our mission is Money Without Borders – instant, convenient, transparent and eventually free.
-Reference
-4ad61135-e7e1-4897-a75c-3679018eccd0
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Treasury Controller - Operational Risk
-Salary
-68000 - 100000 GBP Annual
-Location
-London
-Team
-Finance
-Locations
-London
-Description
-Treasury Controller - Operational RiskLondon (hybrid, 3 days a week)£68,000 - £100,000 per annumAs our Treasury Controller for Operational Risk, you’ll be at the heart of our mission—building a safer,
-Reference
-d0d1d316-cf9e-4891-bee0-8a5e26869274
 Expiry Date
 01/01/0001
 Read more
@@ -419,5 +419,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: San Jose
+City: Boydton
 GeoOptions: 339
