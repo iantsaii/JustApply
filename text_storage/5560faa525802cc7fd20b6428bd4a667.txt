@@ -102,57 +102,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Customer Support Associate - Cantonese Speaker
+Regulatory Product Compliance Senior Manager - APAC Assets
 Salary
-4100 - 4100 SGD Monthly
+160,000 - 195,500 SGD per annum + RSUs
 Location
 Singapore
-Team
-Customer Support
-Locations
-Singapore
-Description
-As a Customer Support Associate - Cantonese Speaker at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with
-Reference
-768e6bdf-21c3-45cd-9625-beb71f0e980f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Lead Product Analyst - Wise Business
-Salary
-75000 - 100000 GBP Annual
-Location
-London
-Team
-Analytics
-Locations
-London
-Description
-We’re looking for several Lead Product Analysts to join Wise Business, our international business account. The Wise Business account helps small and medium-sized businesses across the world focus on w
-Reference
-6a71d1cc-107d-427f-b8e0-023ed0aa4a80
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Product Lead - Investments
-Salary
-120000 - 145000 GBP Annual
-Location
-London
 Team
 Product
 Locations
+Singapore
+Description
+Salary Range: 160,000 - 195,500 SGD per annum + RSUsWe’re looking for a Regulatory Product Compliance Senior Manager to join our growing Product Compliance team to support the Assets Product Complianc
+Reference
+109bd945-c2da-46b8-9e32-8322b4dd44aa
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+FinCrime Investigator - AML Investigations
+Salary
+31 - 38.45 USD Hourly
+Location
+Austin
+Team
+Operations
+Locations
+Austin
+Description
+As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
+Reference
+bc68de62-e405-4dd0-8781-221296bf699e
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Head of Finance - Risk and Controls
+Salary
+110000 - 150000 GBP Annual
+Location
+London
+Team
+Finance
+Locations
 London
 Description
-We’re looking for a Product Lead to join our Grow (Wise Assets) squad in London. The role is a unique opportunity to join one of the largest fintech companies in the world. You'll be leading and growi
+Head of Finance - Risk & ControlsLondon (3+ days per week)£110,000 - £150,000 per annumAt Wise our mission is Money Without Borders – instant, convenient, transparent and eventually free. As we contin
 Reference
-96cb08dd-5ac5-4eac-b4d6-3225f58cd558
+40120d57-de96-459e-b503-86c4a0938239
 Expiry Date
 01/01/0001
 Read more
@@ -419,5 +419,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Boydton
+City: Washington
 GeoOptions: 339
