@@ -102,57 +102,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Regulatory Product Compliance Senior Manager - APAC Assets
-Salary
-160,000 - 195,500 SGD per annum + RSUs
-Location
-Singapore
-Team
-Product
-Locations
-Singapore
-Description
-Salary Range: 160,000 - 195,500 SGD per annum + RSUsWe’re looking for a Regulatory Product Compliance Senior Manager to join our growing Product Compliance team to support the Assets Product Complianc
-Reference
-109bd945-c2da-46b8-9e32-8322b4dd44aa
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
 FinCrime Investigator - AML Investigations
 Salary
-31 - 38.45 USD Hourly
+6350 - 7925 MYR Monthly
 Location
-Austin
+Kuala Lumpur
 Team
 Operations
 Locations
-Austin
+Kuala Lumpur
 Description
-As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
+If you're interested in the position, please apply by submitting your CV and cover letter in English. In your cover letter please explain why you want to join the Anti-Money Laundering Investigations
 Reference
-bc68de62-e405-4dd0-8781-221296bf699e
+43b1ef78-865d-40fb-8a30-0537987e8913
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Head of Finance - Risk and Controls
+Engineering Director
 Salary
-110000 - 150000 GBP Annual
+153000 - 195000 GBP Annual
 Location
 London
 Team
-Finance
+Technology
 Locations
 London
 Description
-Head of Finance - Risk & ControlsLondon (3+ days per week)£110,000 - £150,000 per annumAt Wise our mission is Money Without Borders – instant, convenient, transparent and eventually free. As we contin
+The Global Product tribe at Wise owns nearly all aspects of the customer experience and core infrastructure powering the Wise Account, Wise Business, and Remittances (Transfer) products. We’re on a mi
 Reference
-40120d57-de96-459e-b503-86c4a0938239
+db4da32b-64f2-412f-955c-cb0468e60405
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Media Planning & Buying Lead - NorthAm & LatAm
+Salary
+177500 - 216000 USD Annual
+Location
+Austin
+Team
+Marketing
+Locations
+Austin
+Description
+We’re looking for a data-driven individual with a strong media buying track record, particularly focused on TV/CTV, OOH/DOOH and Radio (Terrestrial and Digital), ideally matured across the US, Canada,
+Reference
+6f405973-30b7-4247-8632-c02ac3287f40
 Expiry Date
 01/01/0001
 Read more
@@ -419,5 +419,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Washington
+City: Des Moines
 GeoOptions: 339
