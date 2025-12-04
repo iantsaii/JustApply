@@ -102,57 +102,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Investigator - AML Investigations
+Customer Support Associate
 Salary
-6350 - 7925 MYR Monthly
+6015 - 6015 BRL Monthly
 Location
-Kuala Lumpur
+São Paulo
 Team
-Operations
+Customer Support
 Locations
-Kuala Lumpur
+São Paulo
 Description
-If you're interested in the position, please apply by submitting your CV and cover letter in English. In your cover letter please explain why you want to join the Anti-Money Laundering Investigations
+Your mission is to help customers have an excellent experience with Wise mainly via phone, emails and chat contacts. This isn't your normal call center - we do things differently - and our Customer Su
 Reference
-43b1ef78-865d-40fb-8a30-0537987e8913
+a42028cb-b56a-4ff9-aadc-a4ef4752e889
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Director
+Paralegal - Brazilian Customer Litigation
 Salary
-153000 - 195000 GBP Annual
+70000 - 90000 USD Annual
 Location
-London
+Austin
 Team
-Technology
+Legal
 Locations
-London
+Austin
 Description
-The Global Product tribe at Wise owns nearly all aspects of the customer experience and core infrastructure powering the Wise Account, Wise Business, and Remittances (Transfer) products. We’re on a mi
+YOUR MISSION: Wise continues to pioneer new ways for people to send, spend and manage their money across borders and currencies. Your mission is to enable, protect and empower the business and people
 Reference
-db4da32b-64f2-412f-955c-cb0468e60405
+62a82241-bd10-4483-8e9a-42350d2324f8
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Media Planning & Buying Lead - NorthAm & LatAm
+Finance Manager, Risk and Controls
 Salary
-177500 - 216000 USD Annual
+68000 - 88000 GBP Annual
 Location
-Austin
+London
 Team
-Marketing
+Finance
 Locations
-Austin
+London
 Description
-We’re looking for a data-driven individual with a strong media buying track record, particularly focused on TV/CTV, OOH/DOOH and Radio (Terrestrial and Digital), ideally matured across the US, Canada,
+Finance Manager - Risk and ControlsLondon, 3 days per week in office£68,000 - £88,000 At Wise our mission is Money Without Borders – instant, convenient, transparent and eventually free. As we continu
 Reference
-6f405973-30b7-4247-8632-c02ac3287f40
+c0adae5d-15a5-42dc-844c-179c62b2f3da
 Expiry Date
 01/01/0001
 Read more
@@ -419,5 +419,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Des Moines
+City: Boydton
 GeoOptions: 339
