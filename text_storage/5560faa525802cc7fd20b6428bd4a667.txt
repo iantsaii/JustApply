@@ -102,19 +102,19 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Customer Support Associate
+Senior Director of Analytics - Servicing
 Salary
-6015 - 6015 BRL Monthly
+150000 - 180000 GBP Annual
 Location
-São Paulo
+London
 Team
-Customer Support
+Analytics
 Locations
-São Paulo
+London
 Description
-Your mission is to help customers have an excellent experience with Wise mainly via phone, emails and chat contacts. This isn't your normal call center - we do things differently - and our Customer Su
+We’re looking for a Senior Analytics Director to accelerate Operations Analytics from a primarily reactive partner to a strategic, outcome-driving function.You’ll shape the “big rock” agenda for our O
 Reference
-a42028cb-b56a-4ff9-aadc-a4ef4752e889
+0a59cf6c-8a9a-4ac1-b070-2488115f9f67
 Expiry Date
 01/01/0001
 Read more
@@ -123,7 +123,7 @@ Read more
 Shortlist
 Paralegal - Brazilian Customer Litigation
 Salary
-70000 - 90000 USD Annual
+70000 - 80000 USD Annual
 Location
 Austin
 Team
@@ -140,19 +140,19 @@ Read more
 Shortlist
 Read more
 Shortlist
-Finance Manager, Risk and Controls
+Senior Software Engineer - Wise for Enterprise - Java
 Salary
-68000 - 88000 GBP Annual
+65000 - 85000 GBP Annual
 Location
 London
 Team
-Finance
+Technology
 Locations
 London
 Description
-Finance Manager - Risk and ControlsLondon, 3 days per week in office£68,000 - £88,000 At Wise our mission is Money Without Borders – instant, convenient, transparent and eventually free. As we continu
+Job DescriptionAbout the roleWe at Wise Platform (aka Wise for Enterprise) aim to be the infrastructure that powers the world’s money by connecting banks, financial institutions, and enterprises to ou
 Reference
-c0adae5d-15a5-42dc-844c-179c62b2f3da
+81bb48d8-2640-480c-83d8-ba3790776f72
 Expiry Date
 01/01/0001
 Read more
@@ -162,6 +162,26 @@ Shortlist
 View all
 List #1
 Latest blogs
+My crutches don’t slow my ambition
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+12/03/2025
+Summary
+"Living with a disability requires you to be constantly adaptable and creative in navigating the world."
+Paulo Faustino (He/Him)
+Customer Support Associate
+Teaser
+Meet Paulo Faustino, Customer Support Associate in our São Paulo office who shares his insights on resilience, leadership, and why International Day of Persons with Disabilities is a celebration of capability.
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+DEI
+Life at Wise
 From Wisestart scholarship to Software Engineer: Eliise's Journey
 Teaser
 People profile
@@ -335,25 +355,6 @@ by
 DNU-Amani Albertsen
 Life at Wise
 Analytics
-Why hiring early talent fuels growth
-Teaser
-Early careers
-Content Type
-Blog
-Publish date
-09/25/2025
-Summary
-Apurv, an Analytics lead in Singapore, shares why he thinks hiring early career talent is essential to his team’s growth and success.
-"Be prepared to guide them as they move from wor
-Teaser
-Apurv, an Analytics lead in Singapore, shares why he thinks hiring early career talent is essential to his team’s growth and success.
-Read more
-by
-Holly Sellers
-by
-Holly Sellers
-Early Careers
-Life at Wise
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -419,5 +420,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Boydton
+City: Des Moines
 GeoOptions: 339
