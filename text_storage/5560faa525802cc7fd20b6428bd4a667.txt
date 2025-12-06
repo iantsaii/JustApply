@@ -102,57 +102,58 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Director of Analytics - Servicing
+Software Engineer - AML Handling
 Salary
-150000 - 180000 GBP Annual
+4250 - 5550 EUR Monthly
 Location
-London
-Team
-Analytics
-Locations
-London
-Description
-We’re looking for a Senior Analytics Director to accelerate Operations Analytics from a primarily reactive partner to a strategic, outcome-driving function.You’ll shape the “big rock” agenda for our O
-Reference
-0a59cf6c-8a9a-4ac1-b070-2488115f9f67
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Paralegal - Brazilian Customer Litigation
-Salary
-70000 - 80000 USD Annual
-Location
-Austin
-Team
-Legal
-Locations
-Austin
-Description
-YOUR MISSION: Wise continues to pioneer new ways for people to send, spend and manage their money across borders and currencies. Your mission is to enable, protect and empower the business and people
-Reference
-62a82241-bd10-4483-8e9a-42350d2324f8
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Software Engineer - Wise for Enterprise - Java
-Salary
-65000 - 85000 GBP Annual
-Location
-London
+Tallinn
 Team
 Technology
 Locations
-London
+Tallinn
 Description
-Job DescriptionAbout the roleWe at Wise Platform (aka Wise for Enterprise) aim to be the infrastructure that powers the world’s money by connecting banks, financial institutions, and enterprises to ou
+As an engineer in AML Risk team, you'll help Wise detect and prevent money laundering, and help in our team mission of Clean Money without Borders.You'll work closely with our cross-functional team co
 Reference
-81bb48d8-2640-480c-83d8-ba3790776f72
+0f46291b-ff8b-4192-9747-97916f089b20
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Software Engineer - AML Handling
+Salary
+5550 - 6900 EUR Monthly
+Location
+Tallinn
+Team
+Technology
+Locations
+Tallinn
+Description
+About the Role
+We're looking for a Senior Full-Stack Engineer (IC3) with strong backend expertise to join our team at Wise. You'll be a technical expert who contributes significantly to large-scale i
+Reference
+52d70eba-f2a7-42f3-8139-201b7af63fd4
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Solutions Engineer Manager - Austin
+Salary
+210000 - 260000 USD Annual
+Location
+Austin
+Team
+Technology
+Locations
+Austin
+Description
+We’re looking for a Solutions Engineering Manager to lead a team of technical Solutions Engineers who help partners and enterprise customers integrate with our global money movement platform.You’ll ma
+Reference
+1b0a60a5-94f5-4f30-b7e6-359028854a7a
 Expiry Date
 01/01/0001
 Read more
@@ -420,5 +421,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Des Moines
+City: San Jose
 GeoOptions: 339
