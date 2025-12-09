@@ -102,58 +102,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Operations Team Lead - PEP Focus
+KYC Operations Associate Analyst - Business
 Salary
-3150 EUR gross/monthly + RSUs
+27 - 27.88 USD Hourly
 Location
-Tallinn
+Austin
 Team
 Operations
 Locations
-Tallinn
+Austin
 Description
-We're looking for a FinCrime Operations Team Lead (focused on PEP Screening) to join our team in Tallinn, Estonia.As a FinCrime Operations Team Lead, you will develop and oversee the daily operations
+Role & Job purposeAs a KYC Operations Associate Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting t
 Reference
-4e8dcb63-a438-4866-8299-37862a6b9f0e
+9abbe9ea-d352-4571-9136-0d0f7ce2a364
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Software Engineer - AML Handling
+Workforce Management Team Lead
 Salary
-4250 - 5550 EUR Monthly
+16100 - 22000 BRL Monthly
 Location
-Tallinn
+São Paulo
 Team
-Technology
+Customer Support
 Locations
-Tallinn
+São Paulo
 Description
-As an engineer in AML Risk team, you'll help Wise detect and prevent money laundering, and help in our team mission of Clean Money without Borders.You'll work closely with our cross-functional team co
+You will lead a mix of Senior and Junior specialists based in Sao Paulo, acting as the anchor for our West time zone (Americas) coverage. While your direct reports are local, you will be part of a tru
 Reference
-0f46291b-ff8b-4192-9747-97916f089b20
+8e2f6321-6208-4519-a927-eea4ba992ab4
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer - AML Handling
+Workforce Management Senior Specialist
 Salary
-5550 - 6900 EUR Monthly
+11500 - 16100 BRL Monthly
 Location
-Tallinn
+São Paulo
 Team
-Technology
+Customer Support
 Locations
-Tallinn
+São Paulo
 Description
-About the Role
-We're looking for a Senior Full-Stack Engineer (IC3) with strong backend expertise to join our team at Wise. You'll be a technical expert who contributes significantly to large-scale i
+You will be joining a dynamic Operational team that is currently a mix of Senior and Junior specialists led by a Team Lead. While the core of the team is based in Austin, TX, we are expanding our foot
 Reference
-52d70eba-f2a7-42f3-8139-201b7af63fd4
+f232d8cc-e84f-4938-996e-6e9533f426ee
 Expiry Date
 01/01/0001
 Read more
@@ -421,5 +420,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Chicago
+City: Phoenix
 GeoOptions: 339
