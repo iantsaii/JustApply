@@ -102,57 +102,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-KYC Operations Associate Analyst - Business
+Finance Manager - Pacific
 Salary
-27 - 27.88 USD Hourly
+115,000 - 130,000 AUD Annual
 Location
-Austin
+Sydney
 Team
-Operations
+Finance
 Locations
-Austin
+Sydney
 Description
-Role & Job purposeAs a KYC Operations Associate Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting t
+We’re looking for a Finance Manager, Pacific to join our finance team in Sydney, Australia! If you’ve got Finance experience in Statutory Reporting (GAAP), Management Reporting (IFRS/US GAAP), Financi
 Reference
-9abbe9ea-d352-4571-9136-0d0f7ce2a364
+bc664ab2-f3e2-418d-a998-5fdeeed38198
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Workforce Management Team Lead
+Senior Data Analyst - Fraud Risk
 Salary
-16100 - 22000 BRL Monthly
+60000 - 75000 GBP Annual
 Location
-São Paulo
+London
 Team
-Customer Support
+Analytics
 Locations
-São Paulo
+London
 Description
-You will lead a mix of Senior and Junior specialists based in Sao Paulo, acting as the anchor for our West time zone (Americas) coverage. While your direct reports are local, you will be part of a tru
+About this role: We are looking for a Senior Data Analyst to lead risk analytics for financial crime risk management at Wise.This is a dedicated risk function embedded in the analytics teams to suppor
 Reference
-8e2f6321-6208-4519-a927-eea4ba992ab4
+e8ce2b4d-8269-47a8-9c00-12fa9c07ef4a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Workforce Management Senior Specialist
+Database Reliability Engineer
 Salary
-11500 - 16100 BRL Monthly
+65000 - 85000 GBP Annual
 Location
-São Paulo
+London
 Team
-Customer Support
+Technology
 Locations
-São Paulo
+London
 Description
-You will be joining a dynamic Operational team that is currently a mix of Senior and Junior specialists led by a Team Lead. While the core of the team is based in Austin, TX, we are expanding our foot
+About the role:We are looking for a Database Reliability Engineer with a passion for PostgreSQL and a drive to maintain business-critical systems at scale. As part of the Database Reliability Engineer
 Reference
-f232d8cc-e84f-4938-996e-6e9533f426ee
+0b51ec25-91e8-4132-b7ce-8d7896db59a6
 Expiry Date
 01/01/0001
 Read more
@@ -420,5 +420,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Phoenix
+City: Chicago
 GeoOptions: 339
