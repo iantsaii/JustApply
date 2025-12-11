@@ -1,65 +1,42 @@
 # Latest Scraper Results
 
-## 2025-12-10 03:55:00
+## 2025-12-11 03:56:33
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-+ 0b51ec25-91e8-4132-b7ce-8d7896db59a6
-+ 115,000 - 130,000 AUD Annual
-- 11500 - 16100 BRL Monthly
-- 16100 - 22000 BRL Monthly
-- 27 - 27.88 USD Hourly
-+ 60000 - 75000 GBP Annual
-+ 65000 - 85000 GBP Annual
-- 8e2f6321-6208-4519-a927-eea4ba992ab4
-- 9abbe9ea-d352-4571-9136-0d0f7ce2a364
-+ About the role:We are looking for a Database Reliability Engineer with a passion for PostgreSQL and a drive to maintain business-critical systems at scale. As part of the Database Reliability Engineer
-+ About this role: We are looking for a Senior Data Analyst to lead risk analytics for financial crime risk management at Wise.This is a dedicated risk function embedded in the analytics teams to suppor
-+ Analytics
-- Austin x2
-+ City: Chicago
-- City: Phoenix
-- Customer Support x2
-+ Database Reliability Engineer
-+ Finance
-+ Finance Manager - Pacific
-- KYC Operations Associate Analyst - Business
-+ London x4
-- Operations
-- Role & Job purposeAs a KYC Operations Associate Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting t
-+ Senior Data Analyst - Fraud Risk
-+ Sydney x2
-- São Paulo x4
-+ Technology
-+ We’re looking for a Finance Manager, Pacific to join our finance team in Sydney, Australia! If you’ve got Finance experience in Statutory Reporting (GAAP), Management Reporting (IFRS/US GAAP), Financi
-- Workforce Management Senior Specialist
-- Workforce Management Team Lead
-- You will be joining a dynamic Operational team that is currently a mix of Senior and Junior specialists led by a Team Lead. While the core of the team is based in Austin, TX, we are expanding our foot
-- You will lead a mix of Senior and Junior specialists based in Sao Paulo, acting as the anchor for our West time zone (Americas) coverage. While your direct reports are local, you will be part of a tru
-+ bc664ab2-f3e2-418d-a998-5fdeeed38198
-+ e8ce2b4d-8269-47a8-9c00-12fa9c07ef4a
-- f232d8cc-e84f-4938-996e-6e9533f426ee
-```
-
----
-### [https://careers.smartrecruiters.com/Visa/university-recruiting](https://careers.smartrecruiters.com/Visa/university-recruiting)
-
-**Line changes detected!**
-
-```diff
-+ Administrative x2
-- Ashburn, VA
-+ Bratislava, Slovakia (Slovak Republic)
-+ Budapest, Hungary
-- Cambridge, United Kingdom
-+ Consulting & Analytics Intern x2
-- Graduate Software Engineer
-- Information Technology
-- Software Development/Engineering
-- Systems Engineer Intern - Summer 2026, Ashburn
+- 0b51ec25-91e8-4132-b7ce-8d7896db59a6
+- 115,000 - 130,000 AUD Annual
++ 118000 - 135000 GBP Annual
++ 130000 - 185000 GBP Annual
++ 3711e4cd-5a18-42bb-86e2-d34278d185b3
+- 60000 - 75000 GBP Annual
+- 65000 - 85000 GBP Annual
++ 75000 - 100000 GBP Annual
++ 78ef1bd4-d390-4b1e-8bd2-7d9c5c5f01b3
+- About the role:We are looking for a Database Reliability Engineer with a passion for PostgreSQL and a drive to maintain business-critical systems at scale. As part of the Database Reliability Engineer
+- About this role: We are looking for a Senior Data Analyst to lead risk analytics for financial crime risk management at Wise.This is a dedicated risk function embedded in the analytics teams to suppor
++ Customer Support
+- Database Reliability Engineer
+- Finance
+- Finance Manager - Pacific
++ Head of Quality & Customer Experience
++ Lead Data Analyst - Risk and Controls
++ London x2
++ Our Service Experience team helps diagnose the gaps in our servicing that harm customer outcomes while building the processes, knowledge and training that our servicing team needs to drive the best po
++ Principal Product Manager - Wise Platform Payment Processing
++ Product
+- Senior Data Analyst - Fraud Risk
+- Sydney x2
+- Technology
+- We’re looking for a Finance Manager, Pacific to join our finance team in Sydney, Australia! If you’ve got Finance experience in Statutory Reporting (GAAP), Management Reporting (IFRS/US GAAP), Financi
++ We’re looking for a Lead Analyst who is passionate about our mission of Money Without Borders to partner with our product, engineering, risk and compliance teams to help drive data-driven decisions th
++ Wise Platform helps banks, software companies and large enterprises leverage Wise’s infrastructure to offer their customers world class payments products through their own channels. Our partners make
+- bc664ab2-f3e2-418d-a998-5fdeeed38198
++ c9050c44-1232-4c4e-b611-476fab08a864
+- e8ce2b4d-8269-47a8-9c00-12fa9c07ef4a
 ```
 
 ---
