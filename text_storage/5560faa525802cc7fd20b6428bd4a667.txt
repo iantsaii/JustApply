@@ -102,47 +102,28 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Principal Product Manager - Wise Platform Payment Processing
+Spend Expansions Project Manager
 Salary
-118000 - 135000 GBP Annual
+8500 - 10000 SGD Monthly + RSUs
 Location
-London
+Singapore
 Team
-Product
+Operations
 Locations
-London
+Singapore
 Description
-Wise Platform helps banks, software companies and large enterprises leverage Wise’s infrastructure to offer their customers world class payments products through their own channels. Our partners make
+Salary Ranges: 8,500~10,000 SGD per month + RSUsWe’re looking for a dynamic and detail-oriented Project Manager to join our Spend (Cards) Operations team. You'll be the driving force behind developing
 Reference
-c9050c44-1232-4c4e-b611-476fab08a864
+287e1f26-1c34-4916-95e4-c5fbc2306098
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Head of Quality & Customer Experience
+Lead Data Scientist - Fraud Prevention
 Salary
-130000 - 185000 GBP Annual
-Location
-London
-Team
-Customer Support
-Locations
-London
-Description
-Our Service Experience team helps diagnose the gaps in our servicing that harm customer outcomes while building the processes, knowledge and training that our servicing team needs to drive the best po
-Reference
-78ef1bd4-d390-4b1e-8bd2-7d9c5c5f01b3
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Lead Data Analyst - Risk and Controls
-Salary
-75000 - 100000 GBP Annual
+85000 - 115000 GBP Annual
 Location
 London
 Team
@@ -150,9 +131,28 @@ Analytics
 Locations
 London
 Description
-We’re looking for a Lead Analyst who is passionate about our mission of Money Without Borders to partner with our product, engineering, risk and compliance teams to help drive data-driven decisions th
+The Fraud team at Wise is dedicated to safeguarding our platform against financial crime and ensuring the protection of our legitimate customers. Leveraging cutting-edge machine learning, real-time tr
 Reference
-3711e4cd-5a18-42bb-86e2-d34278d185b3
+b43567ef-31c4-45e8-8dea-970e9c91dfde
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Software Engineer - Wise for Enterprise - Java
+Salary
+65000 - 85000 GBP Annual
+Location
+London
+Team
+Technology
+Locations
+London
+Description
+Job DescriptionAbout the roleWe at Wise Platform (aka Wise for Enterprise) aim to be the infrastructure that powers the world’s money by connecting banks, financial institutions, and enterprises to ou
+Reference
+81bb48d8-2640-480c-83d8-ba3790776f72
 Expiry Date
 01/01/0001
 Read more
@@ -419,6 +419,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: US
-City: Chicago
-GeoOptions: 339
+Location:
+City:
+GeoOptions: No options
