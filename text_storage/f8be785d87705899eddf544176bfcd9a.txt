@@ -43,7 +43,6 @@ Search job openings, e.g. "manager"
 Search job openings, e.g. "manager"
 Clear search results
 Job Opportunities
-Employees can work remotely
 Browse by:
 Location
 Abidjan, Cote dIvoire
