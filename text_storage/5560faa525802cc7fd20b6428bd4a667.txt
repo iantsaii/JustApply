@@ -102,6 +102,44 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Software Engineering Manager - Austin
+Salary
+210000 - 260000 USD Annual
+Location
+Austin
+Team
+Technology
+Locations
+Austin
+Description
+We’re looking for a high-impact SWE Manager to lead one of our core product engineering teams. This is an ideal role for a strong engineer who’s already spent a few years leading or managing teams and
+Reference
+05fc4954-76a4-4bb4-850b-2bf6490c7833
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Product Manager - APAC Onboarding & KYC
+Salary
+-
+Location
+Hyderabad
+Team
+Product
+Locations
+Hyderabad
+Description
+As a Regional Onboarding & KYC Product Manager at Wise, you’ll drive the development and implementation of seamless KYC solutions for the APAC region. You will work cross-functionally with compliance,
+Reference
+a3b7a252-a50c-4389-85e0-58bf4612b438
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Recruitment Lead, Servicing Operations
 Salary
 12900 - 15000 SGD Monthly
@@ -115,44 +153,6 @@ Description
 Reporting to the Head of Recruitment, APAC, you will be responsible for overseeing recruitment efforts across our key locations: Singapore, Kuala Lumpur, Tokyo and more. Your primary focus will be on
 Reference
 c62fdd46-5b4e-4afa-a852-7fc4a518f20f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-FinCrime Operations Senior Lead - AML Investigations
-Salary
-22000 BRL Monthly
-Location
-São Paulo
-Team
-Operations
-Locations
-São Paulo
-Description
-As a Financial Crime Operations Senior Lead, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key object
-Reference
-85993212-83ce-482c-9644-7ff8edd2c28a
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-CRM Manager - Japan
-Salary
-7944000 - 11100000 JPY Annual
-Location
-Tokyo
-Team
-Marketing
-Locations
-Tokyo
-Description
-The CRM team at Wise is expanding to consolidate our efforts to develop our Japan region communications. We’re all about bringing value to our customers who deserve first-class communications so they
-Reference
-36f61b8b-f708-41cd-9aa3-e662035064dc
 Expiry Date
 01/01/0001
 Read more
