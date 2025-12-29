@@ -102,6 +102,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Senior Analyst - Go To Market
+Salary
+8416.67 - 10916.67 SGD Monthly
+Location
+Singapore
+Team
+Analytics
+Locations
+Singapore
+Description
+Salary: SGD 8,500 - 10,900 per month + RSUsWe are looking for a Senior Analyst to support our Commercial and Delivery teams across APAC. Your analysis and sales intelligence will enable us to optimise
+Reference
+d972db1c-d086-4e69-bb22-39a3520b48e1
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Software Engineering Manager - Austin
 Salary
 210000 - 260000 USD Annual
@@ -134,25 +153,6 @@ Description
 As a Regional Onboarding & KYC Product Manager at Wise, you’ll drive the development and implementation of seamless KYC solutions for the APAC region. You will work cross-functionally with compliance,
 Reference
 a3b7a252-a50c-4389-85e0-58bf4612b438
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Recruitment Lead, Servicing Operations
-Salary
-12900 - 15000 SGD Monthly
-Location
-Singapore
-Team
-People
-Locations
-Singapore
-Description
-Reporting to the Head of Recruitment, APAC, you will be responsible for overseeing recruitment efforts across our key locations: Singapore, Kuala Lumpur, Tokyo and more. Your primary focus will be on
-Reference
-c62fdd46-5b4e-4afa-a852-7fc4a518f20f
 Expiry Date
 01/01/0001
 Read more
