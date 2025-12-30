@@ -102,57 +102,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Analyst - Go To Market
+Payment Operations Regional Product Specialist
 Salary
-8416.67 - 10916.67 SGD Monthly
+$86,320 USD Annual
 Location
-Singapore
+Austin
 Team
-Analytics
+Operations
 Locations
-Singapore
+Austin
 Description
-Salary: SGD 8,500 - 10,900 per month + RSUsWe are looking for a Senior Analyst to support our Commercial and Delivery teams across APAC. Your analysis and sales intelligence will enable us to optimise
+As a Payment Operations Regional Product Specialist, your role will revolve around project management, with an emphasis on operationalizing new products or features and improving existing operational
 Reference
-d972db1c-d086-4e69-bb22-39a3520b48e1
+112942cc-43c0-4c46-b2b9-04427a529ec7
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Software Engineering Manager - Austin
+Product Compliance and Risk Senior Manager - Operational Resilience
 Salary
-210000 - 260000 USD Annual
+8080 - 11670 EUR Monthly
 Location
-Austin
-Team
-Technology
-Locations
-Austin
-Description
-We’re looking for a high-impact SWE Manager to lead one of our core product engineering teams. This is an ideal role for a strong engineer who’s already spent a few years leading or managing teams and
-Reference
-05fc4954-76a4-4bb4-850b-2bf6490c7833
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Product Manager - APAC Onboarding & KYC
-Salary
--
-Location
-Hyderabad
+Brussels
 Team
 Product
 Locations
-Hyderabad
+Brussels
 Description
-As a Regional Onboarding & KYC Product Manager at Wise, you’ll drive the development and implementation of seamless KYC solutions for the APAC region. You will work cross-functionally with compliance,
+We are seeking a highly driven candidate ready to leverage their EU regulatory experience on Operational Resilience in a dynamic fintech environment.This is an opportunity to work directly with produc
 Reference
-a3b7a252-a50c-4389-85e0-58bf4612b438
+b86cdde2-7669-4456-ab5e-8657aea0fba4
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Product Compliance and Risk Manager - Fraud EU
+Salary
+83000 - 118000 GBP Annual
+Location
+London
+Team
+Product
+Locations
+London
+Description
+Join Wise’s regional EU Product Compliance and Risk team (First Line of Defence) as a Senior Manager. This is a high-impact role where you will actively shape Wise’ EU Fraud strategy and market covera
+Reference
+ebf48df5-2110-4fe3-8346-8d8d41f519b2
 Expiry Date
 01/01/0001
 Read more
@@ -419,6 +419,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location:
-City:
-GeoOptions: No options
+Location: US
+City: Phoenix
+GeoOptions: 339
