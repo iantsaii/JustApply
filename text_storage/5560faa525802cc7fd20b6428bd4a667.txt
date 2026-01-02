@@ -102,6 +102,44 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Lead Analytics Engineer
+Salary
+£85-110,000
+Location
+London
+Team
+Analytics
+Locations
+London
+Description
+We're looking for a Lead Analytics Engineer to join our Analytics Experience team in London.Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customer
+Reference
+d7bf2e77-ff52-4d3e-8be6-e84686851908
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Lead Data Engineer - Marketing
+Salary
+85000 - 110000 GBP Annual
+Location
+London
+Team
+Analytics
+Locations
+London
+Description
+We're looking for a Lead Data Engineer [IC3] - Marketing (Individual Contributor) to join our Data & Analytics Engineering team in London.Wise has already pioneered new ways for people to transfer mon
+Reference
+2e37fd35-d46e-40a4-9425-e5906ac5e763
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 FinCrime Operations Senior Lead - AML Investigations
 Salary
 22000 BRL Monthly
@@ -115,44 +153,6 @@ Description
 As a Financial Crime Operations Senior Lead, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key object
 Reference
 85993212-83ce-482c-9644-7ff8edd2c28a
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Marketing Experimentation Analytics Manager
-Salary
-75000 - 100000 GBP Annual
-Location
-London
-Team
-Analytics
-Locations
-London
-Description
-We are looking for an exceptional Marketing Experimentation Analytics Manager to own the strategy, execution and evolution of marketing’s experimentation roadmap at Wise. Experimentation is a key pill
-Reference
-81599e9d-8eef-470e-804a-dfd14b158649
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Lead Marketing Experimentation Analyst
-Salary
-75000 - 100000 GBP Annual
-Location
-London
-Team
-Analytics
-Locations
-London
-Description
-We are looking for an exceptional Lead Marketing Experimentation Analyst to define and lead marketing’s experimentation roadmap at Wise. Experimentation is a key pillar for exploring marketing growth
-Reference
-582c3bdf-eb66-42c3-8353-9049673d2603
 Expiry Date
 01/01/0001
 Read more
@@ -420,5 +420,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Long Hill Twp
-GeoOptions: 339
+City: New York
+GeoOptions: 342
