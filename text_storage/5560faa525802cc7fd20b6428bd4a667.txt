@@ -102,47 +102,47 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Lead Analytics Engineer
+Customer Support Associate
 Salary
-£85-110,000
+26 - 26 USD Hourly
 Location
-London
+Austin
 Team
-Analytics
+Customer Support
 Locations
-London
+Austin
 Description
-We're looking for a Lead Analytics Engineer to join our Analytics Experience team in London.Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customer
+As a Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empat
 Reference
-d7bf2e77-ff52-4d3e-8be6-e84686851908
+7ce2364e-bc1f-440d-8748-b6cef90d31b0
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Lead Data Engineer - Marketing
+Senior Software Engineer I - Send (Java, Backend)
 Salary
-85000 - 110000 GBP Annual
+85000 - 105000 GBP Annual
 Location
 London
 Team
-Analytics
+Technology
 Locations
 London
 Description
-We're looking for a Lead Data Engineer [IC3] - Marketing (Individual Contributor) to join our Data & Analytics Engineering team in London.Wise has already pioneered new ways for people to transfer mon
+About the role:At Wise, we believe exceptional products are built by exceptional people, not just processes or leadership. We're a customer-obsessed company where every line of code, every design deci
 Reference
-2e37fd35-d46e-40a4-9425-e5906ac5e763
+85fa004e-44e2-4d0b-afbe-a421b82858e9
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Senior Lead - AML Investigations
+FinCrime Operations Team Lead - Reporting
 Salary
-22000 BRL Monthly
+16800 - 22000 BRL Monthly
 Location
 São Paulo
 Team
@@ -150,9 +150,9 @@ Operations
 Locations
 São Paulo
 Description
-As a Financial Crime Operations Senior Lead, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key object
+Are you a decisive, hands-on leader ready to make a real impact?Wise is seeking a dynamic and experienced Team Lead to lead our Financial Crime Operations team (focused on suspicious activity reportin
 Reference
-85993212-83ce-482c-9644-7ff8edd2c28a
+af04cb2b-3406-47f4-97f9-b3b1bfc0123f
 Expiry Date
 01/01/0001
 Read more
@@ -420,5 +420,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: New York
-GeoOptions: 342
+City: Chicago
+GeoOptions: 339
