@@ -102,25 +102,6 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Customer Support Associate
-Salary
-26 - 26 USD Hourly
-Location
-Austin
-Team
-Customer Support
-Locations
-Austin
-Description
-As a Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empat
-Reference
-7ce2364e-bc1f-440d-8748-b6cef90d31b0
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
 Senior Software Engineer I - Send (Java, Backend)
 Salary
 85000 - 105000 GBP Annual
@@ -153,6 +134,25 @@ Description
 Are you a decisive, hands-on leader ready to make a real impact?Wise is seeking a dynamic and experienced Team Lead to lead our Financial Crime Operations team (focused on suspicious activity reportin
 Reference
 af04cb2b-3406-47f4-97f9-b3b1bfc0123f
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+General Accounting Project Manager
+Salary
+3300 - 4400 EUR Monthly
+Location
+Tallinn
+Team
+Finance
+Locations
+Tallinn
+Description
+Your mission: Ownership of complex accounting areas: You will be responsible for a variety of accounting challenges (including Share Based Payments (IFRS2)) requiring both strong data processing skill
+Reference
+e9befa6b-e5ef-44d1-bc97-1da3c4ec02a7
 Expiry Date
 01/01/0001
 Read more
@@ -420,5 +420,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Newark
+City: Olympia
 GeoOptions: 339
