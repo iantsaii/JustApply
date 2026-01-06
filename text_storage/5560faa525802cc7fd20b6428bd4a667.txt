@@ -40,6 +40,8 @@ Scholarships
 WiseWomenCode
 Product Academy
 Apprenticeships
+Back
+Programa de Aprendizagem WiseStart
 Blogs
 In the news
 Search roles
@@ -102,57 +104,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Software Engineer I - Send (Java, Backend)
+Business Customer Support Senior Team Lead
 Salary
-85000 - 105000 GBP Annual
+14000 - 16800 BRL Monthly
 Location
-London
+São Paulo
+Team
+Customer Support
+Locations
+São Paulo
+Description
+Please apply by submitting your CV (resume) in English. Applications in Portuguese will not be considered.The Business Support Senior Team Lead is a strong leader with a mindset that allows them to bu
+Reference
+b3a6060b-efc8-4ede-b67c-6f9a9c846cd3
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+UT Technician
+Salary
+490000 - 805000 INR Annual
+Location
+Hyderabad
 Team
 Technology
 Locations
-London
+Hyderabad
 Description
-About the role:At Wise, we believe exceptional products are built by exceptional people, not just processes or leadership. We're a customer-obsessed company where every line of code, every design deci
+Here at Wise we're working to create a seamless IT experience by offering all the tools and permissions people need to do the best work they can, and simultaneously avoid being a speed hump. We have a
 Reference
-85fa004e-44e2-4d0b-afbe-a421b82858e9
+a531008a-ec5c-48b2-9e8b-387f8e32c4ad
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Team Lead - Reporting
+Technical Senior Recruiter
 Salary
-16800 - 22000 BRL Monthly
+INR
 Location
-São Paulo
+Hyderabad
 Team
-Operations
+People
 Locations
-São Paulo
+Hyderabad
 Description
-Are you a decisive, hands-on leader ready to make a real impact?Wise is seeking a dynamic and experienced Team Lead to lead our Financial Crime Operations team (focused on suspicious activity reportin
+As a Recruiter at Wise you’ll be responsible for hiring the best talent for Wise in Hyderabad. You’ll own talent management, helping Business/Product Engineering to scale to enable Wise to achieve our
 Reference
-af04cb2b-3406-47f4-97f9-b3b1bfc0123f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-General Accounting Project Manager
-Salary
-3300 - 4400 EUR Monthly
-Location
-Tallinn
-Team
-Finance
-Locations
-Tallinn
-Description
-Your mission: Ownership of complex accounting areas: You will be responsible for a variety of accounting challenges (including Share Based Payments (IFRS2)) requiring both strong data processing skill
-Reference
-e9befa6b-e5ef-44d1-bc97-1da3c4ec02a7
+006a2a4f-eb00-4a3b-a962-08e8800e7f49
 Expiry Date
 01/01/0001
 Read more
@@ -419,6 +421,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: US
-City: Olympia
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
