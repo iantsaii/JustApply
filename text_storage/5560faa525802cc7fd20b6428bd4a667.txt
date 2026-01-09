@@ -104,28 +104,47 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Indonesia Expansion Manager
+Global Consumer Product Marketing manager
 Salary
-79,000,000 - 102,000,000 IDR Monthly + RSUs
+80000 - 110000 GBP Annual
 Location
-DKI Jakarta
+London
 Team
-Banking
+Marketing
 Locations
-Jakarta
+London
 Description
-We’re looking for an Expansion Manager to accelerate our expansion plans in Indonesia. This is a unique and exciting opportunity to grow Wise in the region, allowing millions more potential customers
+At Wise we’re building money without borders, for people without borders. Our mission is to make moving money around the world instant, transparent, convenient, and eventually free. Wise now has milli
 Reference
-92ae6054-bb9e-457d-950a-37b13cdf7bc7
+3d1157ba-21ec-4c0f-bc11-e2e2ea2c3ff1
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Product Manager - Data Productivity & Governance
+Global Business Product Marketing manager
 Salary
-70000 - 88000 GBP Annual
+80000 - 110000 GBP Annual
+Location
+London
+Team
+Marketing
+Locations
+London
+Description
+At Wise, we’re building money without borders, for people - and businesses - without borders. Our mission is to make moving money around the world instant, transparent, convenient, and eventually free
+Reference
+e89734f7-2c6a-4742-ba0c-2c9f230a19d1
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Associate Product Manager - Developer Enablement
+Salary
+55000 - 70000 GBP Annual
 Location
 London
 Team
@@ -133,28 +152,9 @@ Product
 Locations
 London
 Description
-What this role is aboutWe’re looking for a Product Manager to shape how Wise builds and uses data at scale. You’ll build platform capabilities that make data feel like a great product: easy to find, e
+The Platform Tribe creates the technology that enables Wise to move the world's money internationally. Spanning many disciplines, we work to make the business work; creating the frameworks, capabiliti
 Reference
-09dca53d-659a-45df-9323-faef17af3f13
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Manager, Product Compliance - Fincrime Correspondent Services
-Salary
-83000 - 118000 GBP Annual
-Location
-London
-Team
-Product
-Locations
-London
-Description
-At Wise we believe that people who are closest to risks are the best placed to identify and address these. We’re looking for a FinCrime Product Compliance Senior Manager to support our Wise Platform P
-Reference
-b61a78a5-5a05-429e-b03f-2b5bfa982eb2
+6101fb42-fa28-4d74-a302-865db2763572
 Expiry Date
 01/01/0001
 Read more
@@ -421,6 +421,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: US
-City: San Jose
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
