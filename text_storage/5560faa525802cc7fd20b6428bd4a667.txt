@@ -104,6 +104,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Knowledge Management Senior Lead  (Maternity Cover)
+Salary
+4450 - 5600 EUR Monthly
+Location
+Tallinn
+Team
+Customer Support
+Locations
+Tallinn
+Description
+The Knowledge Management team’s mission is to help Wise achieve Mission 0 through enabling its operational teams to scale and provide excellent service to our customers by building and maintaining a c
+Reference
+1cba709a-3065-4a81-bf41-0ddfe521a06b
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 FinCrime Operations Team Lead - AML Investigations
 Salary
 15400 - 20100 BRL Monthly
@@ -136,25 +155,6 @@ Description
 We’re looking for a Senior Product Manager to join our Anti-Money Laundering (AML) Squad to make a meaningful dent in global financial crime.Wise moves £145B+ annually across borders and customers lov
 Reference
 493e335b-3877-43d1-bd70-280d5c5c2920
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Banking and Regulatory Expansion Manager - Europe
-Salary
-70000 - 95000 GBP Annual
-Location
-London
-Team
-Banking
-Locations
-London
-Description
-This role is a unique opportunity to solve complex regulatory problems whilst being part of a product team focussing on growth. We want you to help us expand and deepen the Wise account in Europe, in
-Reference
-1db02d99-c25f-47a9-bb37-cf8f6921afae
 Expiry Date
 01/01/0001
 Read more
@@ -422,5 +422,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: San Jose
+City: Chicago
 GeoOptions: 339
