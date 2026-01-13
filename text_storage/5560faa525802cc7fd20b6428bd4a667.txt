@@ -104,57 +104,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Spend Expansions Project Manager
+Senior Recruiter
 Salary
-8500 - 10000 SGD Monthly + RSUs
+16100 - 23300 BRL Monthly
 Location
-Singapore
+São Paulo
 Team
-Operations
+People
 Locations
-Singapore
+São Paulo
 Description
-Salary Ranges: 8,500~10,000 SGD per month + RSUsWe're looking for an experienced and results-driven Project Manager to be the operational backbone for our regional card product expansion. This role si
+Join our dynamic and expanding team in São Paulo and play a crucial role in shaping the future of Wise in the Americas. As a Senior Technical Recruiter, you'll have the opportunity to foster a strong
 Reference
-287e1f26-1c34-4916-95e4-c5fbc2306098
+1f26d0fc-ab26-47c3-a2b8-fb6efa443bca
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Knowledge Management Senior Lead  (Maternity Cover)
+Senior Business Development Manager
 Salary
-4450 - 5600 EUR Monthly
+225000 - 284000 USD Annual
 Location
-Tallinn
+New York
 Team
-Customer Support
+Go To Market
 Locations
-Tallinn
+New York
 Description
-The Knowledge Management team’s mission is to help Wise achieve Mission 0 through enabling its operational teams to scale and provide excellent service to our customers by building and maintaining a c
+Senior Business Development Manager, Wise PlatformsLocation: Austin, TX (Hybrid)The Mission: Scale Wise’s infrastructure as the default payment engine for the world’s largest digital platforms.The Rol
 Reference
-1cba709a-3065-4a81-bf41-0ddfe521a06b
+07af7d4e-36fc-48d7-bf40-dae0a8ccd695
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Team Lead - AML Investigations
+Payment Operations Reconciliation Senior Specialist
 Salary
-15400 - 20100 BRL Monthly
+35 - 43.75 USD Hourly
 Location
-São Paulo
+Austin
 Team
 Operations
 Locations
-São Paulo
+Austin
 Description
-As a FinCrime Operations Team Lead you will develop and oversee the daily operations of a team of FinCrime Operations Analysts or Specialists. Your primary purpose is to ensure the effective mitigatio
+We’re looking for a Senior Reconciliation Specialist to join our team in Austin. This role is a unique opportunity to have an impact on Wise’s mission, being a part of our international Operations tea
 Reference
-b14bffd7-c525-465a-8851-c68f8aab68ca
+b84121da-6167-48bf-a427-22d7fcb2a0d2
 Expiry Date
 01/01/0001
 Read more
