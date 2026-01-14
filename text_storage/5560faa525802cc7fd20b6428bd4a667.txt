@@ -104,57 +104,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Recruiter
+Customer Support Associate
 Salary
-16100 - 23300 BRL Monthly
+26 - 26 USD Hourly
 Location
-São Paulo
+Austin
 Team
-People
+Customer Support
 Locations
-São Paulo
+Austin
 Description
-Join our dynamic and expanding team in São Paulo and play a crucial role in shaping the future of Wise in the Americas. As a Senior Technical Recruiter, you'll have the opportunity to foster a strong
+As a Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empat
 Reference
-1f26d0fc-ab26-47c3-a2b8-fb6efa443bca
+7ce2364e-bc1f-440d-8748-b6cef90d31b0
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Business Development Manager
+Software Engineer - Servicing Platform
 Salary
-225000 - 284000 USD Annual
+65000 - 85000 GBP Annual
 Location
-New York
+London
 Team
-Go To Market
+Technology
 Locations
-New York
+London
 Description
-Senior Business Development Manager, Wise PlatformsLocation: Austin, TX (Hybrid)The Mission: Scale Wise’s infrastructure as the default payment engine for the world’s largest digital platforms.The Rol
+About the role: Join us as a Platform Engineer in the Risk Domain, where you'll build the systems that make safe, global products possible. As part of our Platform Engineering team, you'll be at the i
 Reference
-07af7d4e-36fc-48d7-bf40-dae0a8ccd695
+6af0ddae-dbe1-4c5d-838a-dc686911a3ea
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Payment Operations Reconciliation Senior Specialist
+Latam Product Compliance and Risk Manager
 Salary
-35 - 43.75 USD Hourly
+29000 - 48000 BRL Monthly
 Location
-Austin
+São Paulo
 Team
-Operations
+Product
 Locations
-Austin
+São Paulo
 Description
-We’re looking for a Senior Reconciliation Specialist to join our team in Austin. This role is a unique opportunity to have an impact on Wise’s mission, being a part of our international Operations tea
+Wise is pioneering a new era of cross-border finance. As we expand our footprint in Brazil, we are looking for a FinCrime Product Compliance Manager to join our team.In this role, you will be the brid
 Reference
-b84121da-6167-48bf-a427-22d7fcb2a0d2
+bfda1dee-cdd9-4c31-b0b2-b5949f690df2
 Expiry Date
 01/01/0001
 Read more
