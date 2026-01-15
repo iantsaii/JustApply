@@ -104,47 +104,28 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Customer Support Associate
+Scheme Compliance Specialist
 Salary
-26 - 26 USD Hourly
+7,600 - 9,100 SGD Monthly
 Location
-Austin
+Singapore
 Team
-Customer Support
+Operations
 Locations
-Austin
+Singapore
 Description
-As a Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empat
+This role is based out of Singapore and has the unique opportunity to have a direct impact on Wise’s card product and our cardholders, globally. As our Scheme Compliance Specialist, you will be expect
 Reference
-7ce2364e-bc1f-440d-8748-b6cef90d31b0
+5285051d-d0a7-426f-9253-6e6160a50079
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Software Engineer - Servicing Platform
+Product Director - Brazil
 Salary
-65000 - 85000 GBP Annual
-Location
-London
-Team
-Technology
-Locations
-London
-Description
-About the role: Join us as a Platform Engineer in the Risk Domain, where you'll build the systems that make safe, global products possible. As part of our Platform Engineering team, you'll be at the i
-Reference
-6af0ddae-dbe1-4c5d-838a-dc686911a3ea
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Latam Product Compliance and Risk Manager
-Salary
-29000 - 48000 BRL Monthly
+-
 Location
 São Paulo
 Team
@@ -152,9 +133,28 @@ Product
 Locations
 São Paulo
 Description
-Wise is pioneering a new era of cross-border finance. As we expand our footprint in Brazil, we are looking for a FinCrime Product Compliance Manager to join our team.In this role, you will be the brid
+As our Product Director for Brazil, you'll own the mission to revolutionize international payments for consumers and businesses. Your vision will guide how we build, enhance, and scale our infrastruct
 Reference
-bfda1dee-cdd9-4c31-b0b2-b5949f690df2
+b72b4ccc-33f8-4c7c-bc94-cd9ad4d7e688
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Product Manager - Risk & Controls Brazil
+Salary
+-
+Location
+São Paulo
+Team
+Product
+Locations
+São Paulo
+Description
+As a Senior Product Manager for Risk and Controls in Brazil, you will define and implement the mechanisms that prevent financial crime. You will collaborate with compliance and risk teams to analyze o
+Reference
+c32ce9e7-ca68-44c7-a7fc-dbaeaeb831f7
 Expiry Date
 01/01/0001
 Read more
@@ -422,5 +422,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: San Jose
-GeoOptions: 339
+City: New York
+GeoOptions: 342
