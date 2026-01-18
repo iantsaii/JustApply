@@ -108,6 +108,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Senior Software Engineer - Regional Payments Platform
+Salary
+85000 - 105000 GBP Annual
+Location
+London
+Team
+Technology
+Locations
+London
+Description
+The team you’ll be joining the Payment Integrations Platform here our goal is to provide a reliable and scalable platform integrating payment schemes of the world into Wise. The platform is used by al
+Reference
+ec97c785-46e0-49c4-843c-919de3af7ef3
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Internal Audit Senior Manager
 Salary
 140000 - 175000 USD Annual
@@ -140,25 +159,6 @@ Description
 As the Third Party Risk Senior Regional Liaison, you will be the primary representative for the group's Third Party Risk framework within your allocated entities and regions. You will be instrumental
 Reference
 1d927928-7bf0-4cf9-b84f-ba6e27cde0f4
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Data Analyst - Fraud Risk
-Salary
-60000 - 75000 GBP Annual
-Location
-London
-Team
-Analytics
-Locations
-London
-Description
-About this role: We are looking for a Senior Data Analyst to lead risk analytics for financial crime risk management at Wise.This is a dedicated risk function embedded in the analytics teams to suppor
-Reference
-e8ce2b4d-8269-47a8-9c00-12fa9c07ef4a
 Expiry Date
 01/01/0001
 Read more
@@ -425,6 +425,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Redmond
+GeoOptions: 339
