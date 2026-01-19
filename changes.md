@@ -1,28 +1,26 @@
 # Latest Scraper Results
 
-## 2026-01-18 04:04:43
+## 2026-01-19 04:10:42
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-- 60000 - 75000 GBP Annual
-+ 85000 - 105000 GBP Annual
-- About this role: We are looking for a Senior Data Analyst to lead risk analytics for financial crime risk management at Wise.This is a dedicated risk function embedded in the analytics teams to suppor
-- Analytics
-- City: London
-+ City: Redmond
-+ GeoOptions: 339
-- GeoOptions: 343
-- Location: GB
-+ Location: US
-- Senior Data Analyst - Fraud Risk
-+ Senior Software Engineer - Regional Payments Platform
-+ Technology
-+ The team you’ll be joining the Payment Integrations Platform here our goal is to provide a reliable and scalable platform integrating payment schemes of the world into Wise. The platform is used by al
-- e8ce2b4d-8269-47a8-9c00-12fa9c07ef4a
-+ ec97c785-46e0-49c4-843c-919de3af7ef3
+- 132000 - 185000 USD Annual
+- 1d927928-7bf0-4cf9-b84f-ba6e27cde0f4
++ 88bc2ff2-edad-4f40-9a3f-99198935d0e0
+- As the Third Party Risk Senior Regional Liaison, you will be the primary representative for the group's Third Party Risk framework within your allocated entities and regions. You will be instrumental
+- Austin x2
++ City: Long Hill Twp
+- City: Redmond
+- Customer Support
++ From 16,600 monthly
++ Legal
++ Legal Counsel - APAC
++ Singapore x2
+- Third Party Risk Senior Regional Liaison
++ With a high degree of autonomy, you will be supporting the legal function within the Wise group to help take the business to the next level, including: Working closely and building relationships with
 ```
 
 ---
