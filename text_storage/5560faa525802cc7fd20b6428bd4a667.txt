@@ -31,6 +31,8 @@ Back
 Product Management Interviews
 Engineering Interviews
 Back
+Backend Pair Programming Interviews
+Backend System Design Interviews
 Front End Pair Programming Interviews
 Front End System Design Interviews
 Offer
@@ -108,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Legal Counsel - APAC
+Senior Rewards Specialist APAC
 Salary
-From 16,600 monthly
+3450000 - 4550000 INR Annual + RSUs
 Location
-Singapore
+Hyderabad
 Team
-Legal
+People
 Locations
-Singapore
+Hyderabad
 Description
-With a high degree of autonomy, you will be supporting the legal function within the Wise group to help take the business to the next level, including: Working closely and building relationships with
+At Wise, we are building a world without borders, the fairest, easiest way to manage money across the globe. As we rapidly scale, the People team is looking for a Senior Reward Specialist (APAC) to im
 Reference
-88bc2ff2-edad-4f40-9a3f-99198935d0e0
+4af4bf92-4167-4606-80f6-7294c3c0606a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer - Regional Payments Platform
+CRM Manager - Japan
 Salary
-85000 - 105000 GBP Annual
+7944000 - 11100000 JPY Annual
 Location
-London
+Tokyo
 Team
-Technology
+Marketing
 Locations
-London
+Tokyo
 Description
-The team you’ll be joining the Payment Integrations Platform here our goal is to provide a reliable and scalable platform integrating payment schemes of the world into Wise. The platform is used by al
+The CRM team at Wise is expanding to consolidate our efforts to develop our Japan region communications. We’re all about bringing value to our customers who deserve first-class communications so they
 Reference
-ec97c785-46e0-49c4-843c-919de3af7ef3
+36f61b8b-f708-41cd-9aa3-e662035064dc
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Internal Audit Senior Manager
+Senior Marketing Data Analyst - Marketing Science
 Salary
-140000 - 175000 USD Annual
+60000 - 75000 GBP Annual
 Location
-Austin
+London
 Team
-Finance
+Analytics
 Locations
-Austin
+London
 Description
-Wise is looking for a Senior Internal Audit Manager to join our new and growing IA team in North America. Your main task will be to support the internal audit process for the Wise entities in North Am
+Job DescriptionWe are looking for an analytical and curious Senior Marketing Data Analyst to join our Marketing Science team. Our mission is to fuel sustainable growth by measuring marketing effective
 Reference
-332c92d5-ac4d-4e83-bfc4-5f22cc4f1cb8
+9ac9e033-1467-4518-8a96-7fdce527f975
 Expiry Date
 01/01/0001
 Read more
@@ -426,5 +428,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Long Hill Twp
+City: Chicago
 GeoOptions: 339
