@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Rewards Specialist APAC
+High Risk Assessment Specialist
 Salary
-3450000 - 4550000 INR Annual + RSUs
+11500 - 16100 BRL Monthly
 Location
-Hyderabad
+São Paulo
 Team
-People
+Operations
 Locations
-Hyderabad
+São Paulo
 Description
-At Wise, we are building a world without borders, the fairest, easiest way to manage money across the globe. As we rapidly scale, the People team is looking for a Senior Reward Specialist (APAC) to im
+As a Risk Assessment Specialist, you will play a critical role in ensuring Wise’s adherence to regulatory and compliance standards. You will be responsible for mitigating risks associated with high ri
 Reference
-4af4bf92-4167-4606-80f6-7294c3c0606a
+123737cc-0465-4844-901a-4d46824b3971
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-CRM Manager - Japan
+Compliance Senior Manager- KYC
 Salary
-7944000 - 11100000 JPY Annual
+132000 - 185000 USD Annual
 Location
-Tokyo
+New York
 Team
-Marketing
+Risk and Compliance
 Locations
-Tokyo
+New York
 Description
-The CRM team at Wise is expanding to consolidate our efforts to develop our Japan region communications. We’re all about bringing value to our customers who deserve first-class communications so they
+Wise is looking for a Senior Manager to join its growing financial crime compliance oversight team in North America. This role will be working alongside the board-appointed AML/BSA Officer and a highl
 Reference
-36f61b8b-f708-41cd-9aa3-e662035064dc
+f71bfe48-eb36-451d-9be9-e751af86da57
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Marketing Data Analyst - Marketing Science
+Compliance Manager
 Salary
-60000 - 75000 GBP Annual
+99000 - 138000 USD Annual
 Location
-London
+New York
 Team
-Analytics
+Risk and Compliance
 Locations
-London
+New York
 Description
-Job DescriptionWe are looking for an analytical and curious Senior Marketing Data Analyst to join our Marketing Science team. Our mission is to fuel sustainable growth by measuring marketing effective
+Your mission: As a Compliance Monitoring and Testing Manager (Compliance Oversight), you'll play a pivotal role in ensuring Wise's adherence to regulatory requirements, particularly concerning our sec
 Reference
-9ac9e033-1467-4518-8a96-7fdce527f975
+65f389a1-665a-495d-8124-76b977c854d6
 Expiry Date
 01/01/0001
 Read more
@@ -428,5 +428,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Chicago
-GeoOptions: 339
+City: New York
+GeoOptions: 342
