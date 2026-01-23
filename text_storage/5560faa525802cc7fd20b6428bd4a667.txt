@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Financial Accountant - Pacific
+People Operations Senior Specialist
 Salary
-From 115,000 AUD + superannuation Annually
+8300 - 12200 BRL Monthly
 Location
-Sydney
+São Paulo
 Team
-Finance
+People
 Locations
-Sydney
+São Paulo
 Description
-Position SummaryReporting to the Head of Pacific Finance, the Senior Financial Accountant - Pacific is a pivotal role responsible for delivering the reliable, timely management information that drives
+Key Responsibilities:People Operations & Service ExcellenceCase Management & Support: Assist the People Ops Lead in managing the ticketing desk, ensuring requests meet agreed-upon service levels (SLAs
 Reference
-bc664ab2-f3e2-418d-a998-5fdeeed38198
+8a92e634-dcd3-45ff-9925-0e5da43e6604
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Wise Platform Enterprise Specialist
+Northam Investment Lead
 Salary
-32.45 - 37 USD Hourly
+170000 - 240000 USD Annual
 Location
 Austin
 Team
-Customer Support
+Banking
 Locations
 Austin
 Description
-We are seeking a proactive and detail-oriented Portuguese speaker to join our team as a Wise Platform Enterprise Support Specialist. In this role, you will be at the forefront of providing exceptional
+Wise is building the world’s best international account experience. Our bank, payment partner, and regulatory relationships determine the quality and breadth of our product. We are on the hunt for a s
 Reference
-f1a5e60a-2317-4491-8fa6-fb987f1ad4d0
+6da0562b-c823-40aa-a7c0-df3e1144010f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Analytics Manager - Marketing Experimentation
+Senior Business Development Manager
 Salary
-75000 - 100000 GBP Annual
+225000 - 284000 USD Annual
 Location
-London
+New York
 Team
-Analytics
+Go To Market
 Locations
-London
+New York
 Description
-We are looking for an exceptional Marketing Experimentation Analytics Manager to own the strategy, execution and evolution of marketing’s experimentation roadmap at Wise. Experimentation is a key pill
+We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
 Reference
-e806bd49-c8ff-4dec-9b8d-0849c6c72b0b
+07af7d4e-36fc-48d7-bf40-dae0a8ccd695
 Expiry Date
 01/01/0001
 Read more
@@ -178,9 +178,9 @@ Blog
 Publish date
 12/12/2025
 Summary
-"I wanted to be a part of a company that was making areal difference, and I realised that’s exactly the impactWise was having on my own life."
+"I wanted to be a part of a company that was making areal difference, and I realised that’s exactly the impact Wise was having on my own life."
 ​​Pablo Suarez (He/Him)
-Product Lead (L
+Product Lead (
 Teaser
 Pablo Suarez, Product Lead based in London, shares his journey from customer to Product Lead. Read how customer closeness, bottom‑up decision‑making, and shipping at speed shapes product at Wise 🚀
 Read more
@@ -428,6 +428,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: US
-City: New York
-GeoOptions: 342
+Location: SE
+City: Hägersten
+GeoOptions: 374
