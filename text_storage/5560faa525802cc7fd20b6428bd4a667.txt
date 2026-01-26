@@ -110,6 +110,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Software Engineering Intern
+Salary
+2333 - 2333 EUR Monthly
+Location
+Tallinn
+Team
+Technology
+Locations
+Tallinn
+Description
+Role/Programme:As a Software Engineering Intern, you’ll join our Engineering team in the summer. This is an exciting opportunity to kick start your career and make a meaningful impact. You will be joi
+Reference
+475a1077-fc18-4dc3-a92b-5b1dd2d65789
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 People Analytics
 Salary
 15000 - 21000 BRL Monthly
@@ -142,25 +161,6 @@ Description
 We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
 Reference
 07af7d4e-36fc-48d7-bf40-dae0a8ccd695
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Internal Reporting Senior Manager
-Salary
-88000 - 110000 GBP Annual
-Location
-London
-Team
-Finance
-Locations
-London
-Description
-Finance Senior Internal (Management) Reporting ManagerLondon (hybrid, 3+ days a week)£88,000 - £110,000 per annumWe're looking for an experienced specialist in management and financial reporting to jo
-Reference
-d0db27d7-b0d5-430f-b42d-1fefb089e309
 Expiry Date
 01/01/0001
 Read more
@@ -428,6 +428,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: US
-City: San Jose
-GeoOptions: 339
+Location: NL
+City: The Hague
+GeoOptions: 382
