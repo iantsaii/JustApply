@@ -111,57 +111,58 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Operations Senior Analyst - RFI
+PR Manager - South-East Asia
 Salary
-6000 - 7500 MYR Monthly
+8300 - 10700 SGD Monthly
 Location
-Kuala Lumpur
+Singapore
 Team
-Operations
+Marketing
 Locations
-Kuala Lumpur
+Singapore
 Description
-If you're interested in the position, please apply by submitting your CV and cover letter in English. In your cover letter please explain why you want to join the RFI team and what makes you a good ca
+Wise is unlike any other financial services company. You'll be part of a global movement that is bringing transparency and irreversible positive change around the world. Opportunities are everywhere h
 Reference
-56b2fb08-8191-47aa-bee5-d89cb5a70cc3
+de7f8a36-0173-469d-b1d9-708d6f678bb3
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Team Lead - RFI
+CRM Manager - NorthAm
 Salary
-MYR 10,000 Monthly + RSUs
+77000 - 103000 USD Annual
 Location
-Kuala Lumpur
+Austin
 Team
-Operations
+Marketing
 Locations
-Kuala Lumpur
+Austin
 Description
-If you're interested in the position, please apply by submitting your CV and cover letter in English. In your cover letter please explain why you want to join the RFI team and what makes you a good ca
+We’re building money without borders for people and businesses, and we need your help to make our NorthAm customer comms best-in-class.So we’re looking for a CRM Manager to join our growing CRM team a
 Reference
-13491fa1-feb2-410d-a707-10a7842efe4e
+941f9176-ba26-4a46-93f5-5033b8dfafab
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Fincrime Compliance Officer - Philippines
+Localisation Project Manager
 Salary
-278,000 - 314,333 PHP Monthly
+45000 - 65000 GBP Annual
 Location
-Manila
+London
 Team
-Risk and Compliance
+Marketing
 Locations
-Manila
+London
 Description
-We are seeking a proactive and detail-oriented FinCrime Compliance Officer - Philippines to assist the Compliance Office in PH. This critical role will provide robust support in managing Financial Cri
+About the Role
+As the Localisation Project Manager, you are the driving force behind the successful delivery of Wise’s localised content, ensuring our products and communications resonate effectively
 Reference
-52106041-44f8-4c0f-8521-8c6371234e67
+27724187-aabc-446a-8e99-7bd713b18312
 Expiry Date
 01/01/0001
 Read more
@@ -171,6 +172,26 @@ Shortlist
 View all
 List #1
 Latest blogs
+Building Community, Growing Leaders: The Black Wisers Community at Wise
+Teaser
+Diversity Equity & Inclusion
+Content Type
+Blog
+Publish date
+12/12/2025
+Summary
+“I was hired for my vision, but I’m supported here as a whole person, and that kind of community is exactly what turns a job into a career."
+Davon Daniels (He/Him)
+Customer Support A
+Teaser
+Davon, Customer Support Area Lead in Austin, and a key voice in the Black Wisers Community, as he shares his proudest moments at Wise—Learn how being supported as a whole person, building meaningful pipelines, and driving change shape his career at Wise 🚀
+Read more
+by
+Sapphire Birmingham
+by
+Sapphire Birmingham
+DEI
+Life at Wise
 From Customer to Product Lead: Pablo Suarez
 Teaser
 People profile
@@ -346,25 +367,6 @@ Verona Hasani
 Life at Wise
 Engineering
 Wise Platform
-WiseStart Apprenticeships: road to success
-Teaser
-Early careers
-Content Type
-Blog
-Publish date
-10/08/2025
-Summary
-Discover how our Apprenticeship Program is shaping the next generation of talent in Brazil. Hear from Marcela Paulino Leal, a People Apprentice, about her journey and growth, and gain
-Teaser
-Discover how our Apprenticeship Program is shaping the next generation of talent in Brazil
-Read more
-by
-Holly Sellers
-by
-Holly Sellers
-Early Careers
-Life at Wise
-Our work
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -429,6 +431,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: San Jose
+GeoOptions: 339
