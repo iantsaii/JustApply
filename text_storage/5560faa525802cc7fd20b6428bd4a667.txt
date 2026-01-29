@@ -111,58 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-PR Manager - South-East Asia
+Partner Risk Assessment Specialist
 Salary
-8300 - 10700 SGD Monthly
+6450 - 8500 SGD Monthly
 Location
 Singapore
 Team
-Marketing
+Operations
 Locations
 Singapore
 Description
-Wise is unlike any other financial services company. You'll be part of a global movement that is bringing transparency and irreversible positive change around the world. Opportunities are everywhere h
+As a Partner Risk Assessment Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for onboarding and risk assessin
 Reference
-de7f8a36-0173-469d-b1d9-708d6f678bb3
+90ffc6da-60f7-4d8d-a073-4a7285d21fbd
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-CRM Manager - NorthAm
+Partner Risk Monitoring Specialist
 Salary
-77000 - 103000 USD Annual
+6450 - 8500 SGD Monthly
 Location
-Austin
+Singapore
 Team
-Marketing
+Operations
 Locations
-Austin
+Singapore
 Description
-We’re building money without borders for people and businesses, and we need your help to make our NorthAm customer comms best-in-class.So we’re looking for a CRM Manager to join our growing CRM team a
+As a Partner Risk Monitoring Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for  monitoring our banks and on
 Reference
-941f9176-ba26-4a46-93f5-5033b8dfafab
+aa01d36c-1eca-43f0-afca-42def0e03354
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Localisation Project Manager
+Fincrime Operations Investigator
 Salary
-45000 - 65000 GBP Annual
+8000 - 11300 BRL Monthly
 Location
-London
+São Paulo
 Team
-Marketing
+Operations
 Locations
-London
+São Paulo
 Description
-About the Role
-As the Localisation Project Manager, you are the driving force behind the successful delivery of Wise’s localised content, ensuring our products and communications resonate effectively
+As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
 Reference
-27724187-aabc-446a-8e99-7bd713b18312
+97a5c914-bc74-4604-a07c-6466bb3deae1
 Expiry Date
 01/01/0001
 Read more
@@ -172,6 +171,25 @@ Shortlist
 View all
 List #1
 Latest blogs
+"A startup within a scale-up": Life as an Engineer in Wise Platform
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+01/26/2026
+Summary
+“As an engineer here, you aren't siloed in a technical world. You’re expected to reach out across teams, understand why deals do or don't go through, and solve problems with urgency.”
+Swa
+Teaser
+Meet Swati Tyagi, Engineer for Wise Platform on our API Experience team. Her journey to Wise began unexpectedly–with an encounter in Estonia that convinced her to join the team 🚀
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Wise Platform
 Building Community, Growing Leaders: The Black Wisers Community at Wise
 Teaser
 Diversity Equity & Inclusion
@@ -347,26 +365,6 @@ by
 Verona Hasani
 Life at Wise
 People
-Succeeding as an Engineering Lead at Wise Platform
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-10/28/2025
-Summary
-Kostas Stamatoukos, Senior Director of Engineering for Wise Platform in Singapore, shares the key qualities that define effective engineering leadership 🚀
-“The best engineers stay
-Teaser
-Kostas Stamatoukos, Senior Director of Engineering for Wise Platform in Singapore, shares the key qualities that define effective engineering leadership 🚀
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Engineering
-Wise Platform
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -432,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: San Jose
+City:
 GeoOptions: 339
