@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Workplace Operations Coordinator
+FinCrime (AML) Outsourcing Coordinator
 Salary
-4750 - 5200 SGD Monthly + RSUs
+80000 - 103000 USD Annual
 Location
-Singapore
+Austin
+Team
+Customer Support
+Locations
+Austin
+Description
+We’re looking for 1  FinCrime Outsourcing Coordinator in Austin to join the FinCrime Vendor Management team, to support our vendor teams to achieve their goals. We are specifically looking for an Outs
+Reference
+300fdbc3-b7ab-40da-8a2c-329328c002f2
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Workplace Facilities Coordinator
+Salary
+60000 - 72500 USD Annual
+Location
+Austin
 Team
 People
 Locations
-Singapore
+Austin
 Description
-We are seeking a highly organised and proactive Workplace Operations Coordinator to join our team in Singapore. This role is essential in ensuring the smooth and efficient day-to-day operations of our
+Ready to be the heart and soul of our Austin office? We're on the hunt for a super-connector and workplace experience architect to join our dynamic Workplace team! If you live for creating good vibes,
 Reference
-93781756-3290-4a59-9f22-bfb55cf3aa87
+e4ebfbf4-66ec-4ce3-ba6f-f962c1d6d7c9
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Partner Risk Monitoring Specialist
+Internal Audit Senior Manager
 Salary
-80000 - 103000 USD Annual
+140000 - 175000 USD Annual
 Location
 Austin
 Team
-Operations
+Finance
 Locations
 Austin
 Description
-As a  Partner Risk Monitoring Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for  monitoring our banks and o
+Wise is looking for a Senior Internal Audit Manager to join our new and growing IA team in North America. Your main task will be to support the internal audit process for the Wise entities in North Am
 Reference
-a32a60f6-9c3d-486e-97a5-10766007fc7c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Partner Risk Assessment Specialist
-Salary
-80000 - 103000 USD Annual
-Location
-Austin
-Team
-Operations
-Locations
-Austin
-Description
-Role & Job purposeAs a Partner Risk Assessment Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for onboarding
-Reference
-9e0d99bf-02cb-4305-ab07-8cd41a77d359
+332c92d5-ac4d-4e83-bfc4-5f22cc4f1cb8
 Expiry Date
 01/01/0001
 Read more
@@ -177,7 +177,7 @@ People profile
 Content Type
 Blog
 Publish date
-01/26/2026
+01/28/2026
 Summary
 “As an engineer here, you aren't siloed in a technical world. You’re expected to reach out across teams, understand why deals do or don't go through, and solve problems with urgency.”
 Swa
@@ -196,7 +196,7 @@ Diversity Equity & Inclusion
 Content Type
 Blog
 Publish date
-12/12/2025
+01/13/2026
 Summary
 “I was hired for my vision, but I’m supported here as a whole person, and that kind of community is exactly what turns a job into a career."
 Davon Daniels (He/Him)
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: San Jose
-GeoOptions: 339
+City: New York
+GeoOptions: 342
