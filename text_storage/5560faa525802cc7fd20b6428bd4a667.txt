@@ -111,6 +111,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Third Party Assurance Manager
+Salary
+2800 - 3800 EUR Monthly
+Location
+Tallinn
+Team
+Customer Support
+Locations
+Tallinn
+Description
+This role encompasses the strategic planning and management of Third-Party Risk, ensuring alignment with both industry standards and regulatory expectations. As the Third-Party Assurance Manager, you
+Reference
+3ac6ad28-fc1c-4bba-84ac-9b105c79eaab
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 FinCrime (AML) Outsourcing Coordinator
 Salary
 80000 - 103000 USD Annual
@@ -143,25 +162,6 @@ Description
 Ready to be the heart and soul of our Austin office? We're on the hunt for a super-connector and workplace experience architect to join our dynamic Workplace team! If you live for creating good vibes,
 Reference
 e4ebfbf4-66ec-4ce3-ba6f-f962c1d6d7c9
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Internal Audit Senior Manager
-Salary
-140000 - 175000 USD Annual
-Location
-Austin
-Team
-Finance
-Locations
-Austin
-Description
-Wise is looking for a Senior Internal Audit Manager to join our new and growing IA team in North America. Your main task will be to support the internal audit process for the Wise entities in North Am
-Reference
-332c92d5-ac4d-4e83-bfc4-5f22cc4f1cb8
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: New York
-GeoOptions: 342
+City: Olympia
+GeoOptions: 339
