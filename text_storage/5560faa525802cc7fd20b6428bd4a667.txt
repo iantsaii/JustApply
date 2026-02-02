@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Third Party Assurance Manager
+SEO Business Content Specialist - Japan
 Salary
-2800 - 3800 EUR Monthly
+6624000 - 8352000 JPY Annual
 Location
-Tallinn
+Tokyo
 Team
-Customer Support
+Marketing
 Locations
-Tallinn
+Tokyo
 Description
-This role encompasses the strategic planning and management of Third-Party Risk, ensuring alignment with both industry standards and regulatory expectations. As the Third-Party Assurance Manager, you
+We're looking for a SEO Business Content Specialist to join our growing SEO Content team and grow new business customers through B2B content for our Japan market.Content and SEO at Wise is about makin
 Reference
-3ac6ad28-fc1c-4bba-84ac-9b105c79eaab
+65f9d2c2-01fa-447a-ae0f-a41d58cc7ba5
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime (AML) Outsourcing Coordinator
+Compliance Senior Manager
 Salary
-80000 - 103000 USD Annual
+105700 - 131800 HKD Monthly
 Location
-Austin
+Hong Kong
 Team
-Customer Support
+Risk and Compliance
 Locations
-Austin
+Hong Kong
 Description
-We’re looking for 1  FinCrime Outsourcing Coordinator in Austin to join the FinCrime Vendor Management team, to support our vendor teams to achieve their goals. We are specifically looking for an Outs
+We’re looking for a Compliance Officer Manager (Assets) - Hong Kong to strengthen our compliance team.Based in Hong Kong, you will work with a growing team of multidisciplinary specialists across Prod
 Reference
-300fdbc3-b7ab-40da-8a2c-329328c002f2
+467313e0-7f18-4167-bd1a-b114d2f96bbe
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Workplace Facilities Coordinator
+Senior Marketing Data Analyst - Marketing Science
 Salary
-60000 - 72500 USD Annual
+60000 - 75000 GBP Annual
 Location
-Austin
+London
 Team
-People
+Analytics
 Locations
-Austin
+London
 Description
-Ready to be the heart and soul of our Austin office? We're on the hunt for a super-connector and workplace experience architect to join our dynamic Workplace team! If you live for creating good vibes,
+We are looking for an analytical and curious Senior Marketing Data Analyst to join our Marketing Science team. Our mission is to fuel sustainable growth by measuring marketing effectiveness - building
 Reference
-e4ebfbf4-66ec-4ce3-ba6f-f962c1d6d7c9
+9ac9e033-1467-4518-8a96-7fdce527f975
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Olympia
+City: Phoenix
 GeoOptions: 339
