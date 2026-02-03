@@ -111,19 +111,38 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-SEO Business Content Specialist - Japan
+Internal Audit Senior Specialist
 Salary
-6624000 - 8352000 JPY Annual
+6667 - 8100 SGD Monthly
 Location
-Tokyo
+Singapore
 Team
-Marketing
+Finance
 Locations
-Tokyo
+Singapore
 Description
-We're looking for a SEO Business Content Specialist to join our growing SEO Content team and grow new business customers through B2B content for our Japan market.Content and SEO at Wise is about makin
+Salary Ranges: 6500 - 8100 SGD Monthly + RSUsWe are looking for an Internal Audit Senior Specialist to join our new and growing IA team in Singapore.Your main task will be to plan and execute the inte
 Reference
-65f9d2c2-01fa-447a-ae0f-a41d58cc7ba5
+3490d94f-d54a-4a7b-a974-018f786accef
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+FinCrime Operations Team Lead - AML Investigations
+Salary
+15400 - 20100 BRL Monthly
+Location
+São Paulo
+Team
+Operations
+Locations
+São Paulo
+Description
+As a FinCrime Operations Team Lead you will develop and oversee the daily operations of a team of FinCrime Operations Analysts or Specialists. Your primary purpose is to ensure the effective mitigatio
+Reference
+b14bffd7-c525-465a-8851-c68f8aab68ca
 Expiry Date
 01/01/0001
 Read more
@@ -132,36 +151,17 @@ Read more
 Shortlist
 Compliance Senior Manager
 Salary
-105700 - 131800 HKD Monthly
+146000 - 205000 USD Annual
 Location
-Hong Kong
+New York
 Team
 Risk and Compliance
 Locations
-Hong Kong
+New York
 Description
-We’re looking for a Compliance Officer Manager (Assets) - Hong Kong to strengthen our compliance team.Based in Hong Kong, you will work with a growing team of multidisciplinary specialists across Prod
+Wise is looking for a Senior Manager to join its growing financial crime compliance oversight team in North America. This role will be working alongside the board-appointed AML/BSA Officer and a highl
 Reference
-467313e0-7f18-4167-bd1a-b114d2f96bbe
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Marketing Data Analyst - Marketing Science
-Salary
-60000 - 75000 GBP Annual
-Location
-London
-Team
-Analytics
-Locations
-London
-Description
-We are looking for an analytical and curious Senior Marketing Data Analyst to join our Marketing Science team. Our mission is to fuel sustainable growth by measuring marketing effectiveness - building
-Reference
-9ac9e033-1467-4518-8a96-7fdce527f975
+f71bfe48-eb36-451d-9be9-e751af86da57
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Phoenix
+City: Durham
 GeoOptions: 339
