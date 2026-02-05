@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-CRM Manager - LatAm
+Product Operations Specialist (Assets)
 Salary
-11496 - 15936 BRL Monthly
+6850 - 9100 SGD Monthly
 Location
-São Paulo
+Singapore
+Team
+Operations
+Locations
+Singapore
+Description
+We are looking for a Product Specialist to join the Grow (Assets) Operations team to enhance existing products and build the foundational infrastructure for Wise's future investment solutions.The Role
+Reference
+a49f7491-8941-47fd-82e9-f73dd6fc9416
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+SEO Content Specialist - Thailand
+Salary
+4700 - 6700 SGD Monthly
+Location
+Singapore
 Team
 Marketing
 Locations
-São Paulo
+Singapore
 Description
-The CRM team at Wise is expanding to consolidate our communication efforts across the LatAm region. We are dedicated to providing first-class, high-value communications that help our customers maximiz
+What’s the Role?We're looking for a SEO Content Specialist to join our growing SEO Content team to focus on growing content for our Thailand market. Thailand is one of the biggest opportunities for Wi
 Reference
-db0c3eb9-9d7e-4f3f-89d3-0f45135d9200
+00172db8-8d29-4c62-98c1-e88abc5b206c
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Financial Accountant - Pacific
+Compliance Manager
 Salary
-115000 - 150000 AUD Annual
+9300 - 12180 SGD Monthly
 Location
-Sydney
+Singapore
 Team
-Finance
+Risk and Compliance
 Locations
-Sydney
+Singapore
 Description
-Position SummaryReporting to the Head of Pacific Finance, the Senior Financial Accountant - Pacific is a pivotal role responsible for delivering the reliable, timely management information that drives
+Your mission:Improve the compliance product in line with our mission to be instant, convenient, transparent and eventually free.Maintain our Major Payment Institution Licence in Singapore, including b
 Reference
-bc664ab2-f3e2-418d-a998-5fdeeed38198
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Workplace Facilities Coordinator
-Salary
-60000 - 72500 USD Annual
-Location
-Austin
-Team
-People
-Locations
-Austin
-Description
-Ready to be the heart and soul of our Austin office? We're on the hunt for a super-connector and workplace experience architect to join our dynamic Workplace team! If you live for creating good vibes,
-Reference
-e4ebfbf4-66ec-4ce3-ba6f-f962c1d6d7c9
+c3fee73f-fc6f-4f2a-a55e-f562e01bf2b0
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Long Hill Twp
+City: San Jose
 GeoOptions: 339
