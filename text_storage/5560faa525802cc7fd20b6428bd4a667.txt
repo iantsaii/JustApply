@@ -111,9 +111,9 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Product Operations Specialist (Assets)
+Payment Operations Reconciliation Senior Specialist
 Salary
-6850 - 9100 SGD Monthly
+SGD 5,800 Monthly
 Location
 Singapore
 Team
@@ -121,47 +121,47 @@ Operations
 Locations
 Singapore
 Description
-We are looking for a Product Specialist to join the Grow (Assets) Operations team to enhance existing products and build the foundational infrastructure for Wise's future investment solutions.The Role
+Here’s how you’ll be contributing to:Perform and maintain high level execution of reconciliation related tasks: Reconciliation of bank accounts Payments and transactions reconciliationCompensations re
 Reference
-a49f7491-8941-47fd-82e9-f73dd6fc9416
+b43e5e67-72d8-4fe9-b608-4562e405f1e9
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-SEO Content Specialist - Thailand
+Compliance Senior Manager - Canada Assets
 Salary
-4700 - 6700 SGD Monthly
+132000 - 185000 USD Annual
 Location
-Singapore
-Team
-Marketing
-Locations
-Singapore
-Description
-What’s the Role?We're looking for a SEO Content Specialist to join our growing SEO Content team to focus on growing content for our Thailand market. Thailand is one of the biggest opportunities for Wi
-Reference
-00172db8-8d29-4c62-98c1-e88abc5b206c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Compliance Manager
-Salary
-9300 - 12180 SGD Monthly
-Location
-Singapore
+toronto
 Team
 Risk and Compliance
 Locations
-Singapore
+Toronto
 Description
-Your mission:Improve the compliance product in line with our mission to be instant, convenient, transparent and eventually free.Maintain our Major Payment Institution Licence in Singapore, including b
+Since 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders.We’re just at the beginn
 Reference
-c3fee73f-fc6f-4f2a-a55e-f562e01bf2b0
+3b1e8725-6e35-49a9-a4cb-51b4c636986a
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Country Manager - Sweden
+Salary
+1,148,000 - 1,492,000 SEK
+Location
+Stockholm
+Team
+Banking
+Locations
+Stockholm
+Description
+Our ability to offer hyper-localised products and services determine the quality of our service to our Swedish customers. And our relationships with regulators, governments and payment systems are cru
+Reference
+05615092-b7ce-42ce-95b0-96cdf6a55642
 Expiry Date
 01/01/0001
 Read more
@@ -171,6 +171,26 @@ Shortlist
 View all
 List #1
 Latest blogs
+From Customer to Product Innovation: June Yuan
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+02/03/2026
+Summary
+“At Wise, you're empowered to act. The level of trust is incredibly assuring, as it means your impact is direct and visible.”
+June Yuan (She/Her)
+Business Product Lead in North Ame
+Teaser
+Meet June Yuan, Wise Business Product Lead in North America. From launching high-impact features for US customers to navigating our mission-driven culture, discover how Product managers at Wise are empowered to move money without borders🚀
+Read more
+by
+Sapphire Birmingham
+by
+Sapphire Birmingham
+Life at Wise
+Product
 "A startup within a scale-up": Life as an Engineer in Wise Platform
 Teaser
 People profile
@@ -346,25 +366,6 @@ Holly Sellers
 Early Careers
 Life at Wise
 Our work
-Inside our People team with Gabriela Rubino, People Operations Specialist
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-11/03/2025
-Summary
-Gabriela Rubino, People Operations Specialist based in São Paulo shares her move from Customer Support to People Operations 🚀
-“Seven and a half years later, I’m still here and I th
-Teaser
-Gabriela Rubino, People Operations Specialist based in São Paulo shares her move from Customer Support to People Operations 🚀
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-People
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -430,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: San Jose
+City: Phoenix
 GeoOptions: 339

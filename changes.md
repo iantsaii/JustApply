@@ -1,46 +1,58 @@
 # Latest Scraper Results
 
-## 2026-02-05 04:46:28
+## 2026-02-06 04:45:26
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-+ 00172db8-8d29-4c62-98c1-e88abc5b206c
-- 11496 - 15936 BRL Monthly
-- 115000 - 150000 AUD Annual
-+ 4700 - 6700 SGD Monthly
-- 60000 - 72500 USD Annual
-+ 6850 - 9100 SGD Monthly
-+ 9300 - 12180 SGD Monthly
-- Austin x2
-- CRM Manager - LatAm
-- City: Long Hill Twp
-+ City: San Jose
-+ Compliance Manager
-- Finance
-+ Operations
+- 00172db8-8d29-4c62-98c1-e88abc5b206c
++ 02/03/2026
++ 05615092-b7ce-42ce-95b0-96cdf6a55642
++ 1,148,000 - 1,492,000 SEK
+- 11/03/2025
++ 132000 - 185000 USD Annual
++ 3b1e8725-6e35-49a9-a4cb-51b4c636986a
+- 4700 - 6700 SGD Monthly
+- 6850 - 9100 SGD Monthly
+- 9300 - 12180 SGD Monthly
++ Banking
++ Business Product Lead in North Ame
++ City: Phoenix
+- City: San Jose
+- Compliance Manager
++ Compliance Senior Manager - Canada Assets
++ Country Manager - Sweden
++ From Customer to Product Innovation: June Yuan
+- Gabriela Rubino, People Operations Specialist based in São Paulo shares her move from Customer Support to People Operations 🚀 x2
++ Here’s how you’ll be contributing to:Perform and maintain high level execution of reconciliation related tasks: Reconciliation of bank accounts Payments and transactions reconciliationCompensations re
+- Inside our People team with Gabriela Rubino, People Operations Specialist
++ June Yuan (She/Her)
+- Marketing
++ Meet June Yuan, Wise Business Product Lead in North America. From launching high-impact features for US customers to navigating our mission-driven culture, discover how Product managers at Wise are empowered to move money without borders🚀
++ Our ability to offer hyper-localised products and services determine the quality of our service to our Swedish customers. And our relationships with regulators, governments and payment systems are cru
++ Payment Operations Reconciliation Senior Specialist
 - People
-- Position SummaryReporting to the Head of Pacific Finance, the Senior Financial Accountant - Pacific is a pivotal role responsible for delivering the reliable, timely management information that drives
-+ Product Operations Specialist (Assets)
-- Ready to be the heart and soul of our Austin office? We're on the hunt for a super-connector and workplace experience architect to join our dynamic Workplace team! If you live for creating good vibes,
-+ Risk and Compliance
-+ SEO Content Specialist - Thailand
-- Senior Financial Accountant - Pacific
-+ Singapore x6
-- Sydney x2
-- São Paulo x2
-- The CRM team at Wise is expanding to consolidate our communication efforts across the LatAm region. We are dedicated to providing first-class, high-value communications that help our customers maximiz
-+ We are looking for a Product Specialist to join the Grow (Assets) Operations team to enhance existing products and build the foundational infrastructure for Wise's future investment solutions.The Role
-+ What’s the Role?We're looking for a SEO Content Specialist to join our growing SEO Content team to focus on growing content for our Thailand market. Thailand is one of the biggest opportunities for Wi
-- Workplace Facilities Coordinator
-+ Your mission:Improve the compliance product in line with our mission to be instant, convenient, transparent and eventually free.Maintain our Major Payment Institution Licence in Singapore, including b
-+ a49f7491-8941-47fd-82e9-f73dd6fc9416
-- bc664ab2-f3e2-418d-a998-5fdeeed38198
-+ c3fee73f-fc6f-4f2a-a55e-f562e01bf2b0
-- db0c3eb9-9d7e-4f3f-89d3-0f45135d9200
-- e4ebfbf4-66ec-4ce3-ba6f-f962c1d6d7c9
++ Product
+- Product Operations Specialist (Assets)
+- SEO Content Specialist - Thailand
++ SGD 5,800 Monthly
++ Sapphire Birmingham x2
++ Since 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders.We’re just at the beginn
+- Singapore x4
++ Stockholm x2
++ Toronto
+- Verona Hasani x2
+- We are looking for a Product Specialist to join the Grow (Assets) Operations team to enhance existing products and build the foundational infrastructure for Wise's future investment solutions.The Role
+- What’s the Role?We're looking for a SEO Content Specialist to join our growing SEO Content team to focus on growing content for our Thailand market. Thailand is one of the biggest opportunities for Wi
+- Your mission:Improve the compliance product in line with our mission to be instant, convenient, transparent and eventually free.Maintain our Major Payment Institution Licence in Singapore, including b
+- a49f7491-8941-47fd-82e9-f73dd6fc9416
++ b43e5e67-72d8-4fe9-b608-4562e405f1e9
+- c3fee73f-fc6f-4f2a-a55e-f562e01bf2b0
++ toronto
++ “At Wise, you're empowered to act. The level of trust is incredibly assuring, as it means your impact is direct and visible.”
+- “Seven and a half years later, I’m still here and I th
 ```
 
 ---
@@ -49,12 +61,10 @@
 **Line changes detected!**
 
 ```diff
-- Austin, TX
-+ Belfast, United Kingdom
-- Program and Project Management (Technical)
-- Project Analyst Intern - Summer 2026, Austin
-+ Software Development/Engineering
-+ Software Engineer Intern - Placement Year
+- Baku, Azerbaijan
++ Bratislava, Slovakia (Slovak Republic)
+- Business Development Intern (Starting June 2026, for current students graduating in 2027)
++ Consulting & Analytics Intern
 ```
 
 ---
