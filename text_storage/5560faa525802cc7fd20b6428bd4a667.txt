@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Payment Operations Reconciliation Senior Specialist
+Country Manager - Germany
 Salary
-SGD 5,800 Monthly
+€100,000 - €120,000
 Location
-Singapore
-Team
-Operations
-Locations
-Singapore
-Description
-Here’s how you’ll be contributing to:Perform and maintain high level execution of reconciliation related tasks: Reconciliation of bank accounts Payments and transactions reconciliationCompensations re
-Reference
-b43e5e67-72d8-4fe9-b608-4562e405f1e9
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Compliance Senior Manager - Canada Assets
-Salary
-132000 - 185000 USD Annual
-Location
-toronto
-Team
-Risk and Compliance
-Locations
-Toronto
-Description
-Since 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders.We’re just at the beginn
-Reference
-3b1e8725-6e35-49a9-a4cb-51b4c636986a
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Country Manager - Sweden
-Salary
-1,148,000 - 1,492,000 SEK
-Location
-Stockholm
+Berlin
 Team
 Banking
 Locations
-Stockholm
+Berlin
 Description
-Our ability to offer hyper-localised products and services determine the quality of our service to our Swedish customers. And our relationships with regulators, governments and payment systems are cru
+Our ability to offer hyper-localised products and services determine the quality of our service to our German customers. And our relationships with regulators, governments and payment systems are cruc
 Reference
-05615092-b7ce-42ce-95b0-96cdf6a55642
+e1bf597a-e842-4ae9-8b15-29c9db73cf12
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Software Engineer - Treasury Money Movements
+Salary
+4250 - 5550 - EUR Monthly
+Location
+Tallinn
+Team
+Technology
+Locations
+Tallinn
+Description
+The Challenge: The Logistics of Global MoneyMoving £35+ billion every month isn't just about database entries—it is a massive coordination effort. At Wise, we tackle the logistical challenges of money
+Reference
+7586e664-112c-4941-832f-419d5af4db46
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+KYC Operations Area Lead - Platform
+Salary
+4025 - 5000 EUR Monthly
+Location
+Tallinn
+Team
+Operations
+Locations
+Tallinn
+Description
+The KYC Operations Area Lead for Wise Platform is the full owner of their space, driving strategic direction and operational excellence across key sites and functional domains. In this role, you are r
+Reference
+016e633b-aeb9-43d8-a17f-ed3964cc65b8
 Expiry Date
 01/01/0001
 Read more
@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Phoenix
+City: Olympia
 GeoOptions: 339
