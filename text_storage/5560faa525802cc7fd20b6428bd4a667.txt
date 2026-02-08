@@ -111,6 +111,44 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Staff Data Scientist - AML
+Salary
+6916.67 - 8750 EUR Monthly
+Location
+Tallinn
+Team
+Analytics
+Locations
+Tallinn
+Description
+We’re looking for a Staff Data Scientist to join our growing AML Team in Tallinn, Estonia. This role is a unique opportunity to work behind the scenes of company transactions, develop our risk detecti
+Reference
+98aebc5c-9d85-4544-8f62-9d8790e9ff88
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Payment Operations Regional Team Lead - Service Delivery
+Salary
+INR
+Location
+Hyderabad
+Team
+Operations
+Locations
+Hyderabad
+Description
+We’re looking for a Payment Operations Team Lead who will help build, scale and lead our new India Payment Operations team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s m
+Reference
+55ce0fdd-2e24-4f40-bb41-4f3114ed2c7c
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Country Manager - Germany
 Salary
 €100,000 - €120,000
@@ -124,44 +162,6 @@ Description
 Our ability to offer hyper-localised products and services determine the quality of our service to our German customers. And our relationships with regulators, governments and payment systems are cruc
 Reference
 e1bf597a-e842-4ae9-8b15-29c9db73cf12
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Software Engineer - Treasury Money Movements
-Salary
-4250 - 5550 - EUR Monthly
-Location
-Tallinn
-Team
-Technology
-Locations
-Tallinn
-Description
-The Challenge: The Logistics of Global MoneyMoving £35+ billion every month isn't just about database entries—it is a massive coordination effort. At Wise, we tackle the logistical challenges of money
-Reference
-7586e664-112c-4941-832f-419d5af4db46
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-KYC Operations Area Lead - Platform
-Salary
-4025 - 5000 EUR Monthly
-Location
-Tallinn
-Team
-Operations
-Locations
-Tallinn
-Description
-The KYC Operations Area Lead for Wise Platform is the full owner of their space, driving strategic direction and operational excellence across key sites and functional domains. In this role, you are r
-Reference
-016e633b-aeb9-43d8-a17f-ed3964cc65b8
 Expiry Date
 01/01/0001
 Read more
@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Olympia
+City: Des Moines
 GeoOptions: 339
