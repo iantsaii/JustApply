@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Finance Senior Manager, South Asia
+Customer Support Associate - Cantonese Speaker
 Salary
-INR
+4100 - 4100 SGD Monthly
 Location
-Hyderabad
+Singapore
 Team
-Finance
+Customer Support
 Locations
-Hyderabad
+Singapore
 Description
-We’re seeking a  Finance Senior Manager, South Asia to join our finance team in Hyderabad, India! If you've got Financial Services experience in Statutory GAAP (iGAAP), Financial Reporting (IFRS/US GA
+As a Customer Support Associate - Cantonese Speaker at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with
 Reference
-4dc9f087-d1b0-4609-b7cd-ab1cb32ad0cb
+768e6bdf-21c3-45cd-9625-beb71f0e980f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Staff Data Scientist - AML
+People Analytics (Infrastructure)
 Salary
-6916.67 - 8750 EUR Monthly
+15000 - 21000 BRL Monthly
 Location
-Tallinn
+São Paulo
 Team
 Analytics
 Locations
-Tallinn
+São Paulo
 Description
-We’re looking for a Staff Data Scientist to join our growing AML Team in Tallinn, Estonia. This role is a unique opportunity to work behind the scenes of company transactions, develop our risk detecti
+This role focuses on enhancing our self-service reporting capabilities within Visier and establishing the robust data foundations that allow our analytics team to deliver accurate, high-impact insight
 Reference
-98aebc5c-9d85-4544-8f62-9d8790e9ff88
+1433724a-3589-44d5-86ef-293d3777b702
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Payment Operations Regional Team Lead - Service Delivery
+Country Manager - Germany
 Salary
-INR
+€124,000 - €160,000
 Location
-Hyderabad
+Berlin
 Team
-Operations
+Banking
 Locations
-Hyderabad
+Berlin
 Description
-We’re looking for a Payment Operations Team Lead who will help build, scale and lead our new India Payment Operations team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s m
+Our ability to offer hyper-localised products and services determine the quality of our service to our German customers. And our relationships with regulators, governments and payment systems are cruc
 Reference
-55ce0fdd-2e24-4f40-bb41-4f3114ed2c7c
+e1bf597a-e842-4ae9-8b15-29c9db73cf12
 Expiry Date
 01/01/0001
 Read more
@@ -430,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: New York
+GeoOptions: 342
