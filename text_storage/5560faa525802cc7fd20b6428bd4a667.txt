@@ -111,44 +111,6 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Workplace Operations Coordinator
-Salary
-4750 - 5650 SGD Monthly
-Location
-Singapore
-Team
-People
-Locations
-Singapore
-Description
-We are seeking a highly organised and proactive Workplace Operations Coordinator to join our team in Singapore. This role is essential in ensuring the smooth and efficient day-to-day operations of our
-Reference
-93781756-3290-4a59-9f22-bfb55cf3aa87
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Implementation Manager
-Salary
-170000 - 215000 USD Annual
-Location
-Austin
-Team
-Go To Market
-Locations
-Austin
-Description
-Job DescriptionWe are looking for a Senior Implementation Manager to join our team in Austin and play a crucial role in growing Wise Platform by delivering our highest impact partner integrations. You
-Reference
-e45f136f-13dc-4300-a358-ebd9099c0d04
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
 FinCrime Investigator - AML Investigations
 Salary
 8000 - 11300 BRL Monthly
@@ -162,6 +124,44 @@ Description
 As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
 Reference
 97a5c914-bc74-4604-a07c-6466bb3deae1
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Lead Product Analyst - Account Management
+Salary
+75000 - 100000 GBP Annual
+Location
+London
+Team
+Analytics
+Locations
+London
+Description
+THE ROLEWe’re looking for a Lead Product Analyst (Individual Contributor) to join the Account Management team and Account squad. The Account Management team builds and optimises Wise’s core account ex
+Reference
+0666467e-7dc6-4dd5-b1d1-343488b206d5
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Data Analyst - People Analytics
+Salary
+60000 - 75000 GBP Annual
+Location
+London
+Team
+Analytics
+Locations
+London
+Description
+THE ROLEWe’re looking for a Senior Data Analyst to join our People Analytics team. The People Analytics team empowers the People tribe to elevate our Wisers' experience by leveraging data and insights
+Reference
+a1992db4-2dd7-4fe8-8516-1583b4424deb
 Expiry Date
 01/01/0001
 Read more
@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Long Hill Twp
+City: San Jose
 GeoOptions: 339

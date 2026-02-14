@@ -1,36 +1,54 @@
 # Latest Scraper Results
 
-## 2026-02-13 04:50:59
+## 2026-02-14 04:29:50
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-+ 170000 - 215000 USD Annual
-- 26 - 26 USD Hourly
-+ 4750 - 5650 SGD Monthly
-- 4ae53108-c157-4700-b29b-3616077d401e
-+ 8000 - 11300 BRL Monthly
-- 8000 - 8000 BRL Monthly
-+ 93781756-3290-4a59-9f22-bfb55cf3aa87
-- As a Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empat
-- As a Recruiter at Wise you’ll be responsible for hiring the best talent for Servicing Operations in Hyderabad. You’ll own talent management, helping Servicing Operations to scale to enable Wise to ach
-+ City: Long Hill Twp
-- City: San Jose
-- Customer Support
-- Customer Support Associate
-+ Go To Market
-- Hyderabad x2
-- INR
-+ Job DescriptionWe are looking for a Senior Implementation Manager to join our team in Austin and play a crucial role in growing Wise Platform by delivering our highest impact partner integrations. You
-- Recruiter - Volume Hiring
-+ Senior Implementation Manager
-+ Singapore x2
-+ We are seeking a highly organised and proactive Workplace Operations Coordinator to join our team in Singapore. This role is essential in ensuring the smooth and efficient day-to-day operations of our
-+ Workplace Operations Coordinator
-- e009588a-96a7-4514-ae12-6a33e4197bd0
-+ e45f136f-13dc-4300-a358-ebd9099c0d04
++ 0666467e-7dc6-4dd5-b1d1-343488b206d5
+- 170000 - 215000 USD Annual
+- 4750 - 5650 SGD Monthly
++ 60000 - 75000 GBP Annual
++ 75000 - 100000 GBP Annual
+- 93781756-3290-4a59-9f22-bfb55cf3aa87
++ Analytics x2
+- Austin x2
+- City: Long Hill Twp
++ City: San Jose
+- Go To Market
+- Job DescriptionWe are looking for a Senior Implementation Manager to join our team in Austin and play a crucial role in growing Wise Platform by delivering our highest impact partner integrations. You
++ Lead Product Analyst - Account Management
++ London x4
+- People
++ Senior Data Analyst - People Analytics
+- Senior Implementation Manager
+- Singapore x2
++ THE ROLEWe’re looking for a Lead Product Analyst (Individual Contributor) to join the Account Management team and Account squad. The Account Management team builds and optimises Wise’s core account ex
++ THE ROLEWe’re looking for a Senior Data Analyst to join our People Analytics team. The People Analytics team empowers the People tribe to elevate our Wisers' experience by leveraging data and insights
+- We are seeking a highly organised and proactive Workplace Operations Coordinator to join our team in Singapore. This role is essential in ensuring the smooth and efficient day-to-day operations of our
+- Workplace Operations Coordinator
++ a1992db4-2dd7-4fe8-8516-1583b4424deb
+- e45f136f-13dc-4300-a358-ebd9099c0d04
+```
+
+---
+### [https://careers.smartrecruiters.com/Visa/university-recruiting](https://careers.smartrecruiters.com/Visa/university-recruiting)
+
+**Line changes detected!**
+
+```diff
+- 1 job
++ 2 jobs
+- Atlanta, GA
+- Business Development
++ Cambridge, United Kingdom
++ Graduate Software Engineer
++ Intern
++ Software Development/Engineering
++ Software Engineer Intern
+- Visa Athletes Champions Program (VACP) - A Rotational Program for Former Professional Athletes – 2026 - Atlanta, GA
 ```
 
 ---
