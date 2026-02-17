@@ -111,57 +111,58 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Account Manager, Japan & Korea
+People Operations Lead
 Salary
-SGD 143,000 - 185,000 Annually + RSUs
+3100000 - 4750000 INR Annual
 Location
-Singapore
+Hyderabad
 Team
-Go To Market
+People
 Locations
-Singapore
+Hyderabad
 Description
-You will be a Senior Account Manager within a fast growing regional commercial team, responsible for driving growth with our existing partners. You’ll identify and execute growth opportunities across
+Your Mission:As part of our People Operations team, your mission is to lead People Operations in India with ownership, pace, and sound judgment, delivering reliable, scalable support in a fast-moving
 Reference
-60b438cd-74f8-4d69-a751-78a207be0e79
+e386f592-7c01-4ca2-a85e-dff25c3343cc
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Product Manager (Location Verification)
+Data Science Intern
 Salary
-INR
+2530 - 2530 EUR Monthly
 Location
-Hyderabad
+Tallinn
 Team
-Product
+Analytics
 Locations
-Hyderabad
+Tallinn
 Description
-At Wise, we’re building money products that work seamlessly across borders. A smooth, trustworthy onboarding experience is a critical part of that — and Location Verification plays a key role in keepi
+Role/Programme:
+As a Data Science Intern, you’ll join our Data Science team in the summer. This is an exciting opportunity to kick start your career and make a meaningful impact. You will be joinin
 Reference
-c0a57b8c-41ad-472c-aa24-2bc4d30a6a0a
+8ff859a8-bcf4-4829-8134-c042593438dc
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Director, Business Operations - Global Product
+Graduate Data Scientist
 Salary
-138000 - 185000 GBP Annual
+3170 - 3170 EUR Monthly
 Location
-London
+Tallinn
 Team
-Operations
+Analytics
 Locations
-London
+Tallinn
 Description
-Our Business Operations team ensures we deliver our mission.We’re looking for a Director of Business Operations (Global Product) to join us and do things differently.We are seeking a highly analytical
+How you’ll contribute to our team of data scientists: Help take Wise to the next level as we scale to impact 100’s of millions more customersYou will work directly on projects that impact our customer
 Reference
-808763fb-48fc-4a39-9c9b-c8b39892fe9c
+e22d907d-7d00-4a64-946c-5cf0072960fc
 Expiry Date
 01/01/0001
 Read more
@@ -431,5 +432,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: New York
-GeoOptions: 342
+City: Chicago
+GeoOptions: 339
