@@ -111,58 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-People Operations Lead
+CI Process Analyst
 Salary
-3100000 - 4750000 INR Annual
+1,150,000 INR + RSUs
 Location
 Hyderabad
 Team
-People
+Customer Support
 Locations
 Hyderabad
 Description
-Your Mission:As part of our People Operations team, your mission is to lead People Operations in India with ownership, pace, and sound judgment, delivering reliable, scalable support in a fast-moving
+The CI Process Analyst will support critical discovery, analysis, and improvement initiatives within a specific Servicing domain (CS, KYC, Fincrime, or Payment Ops). This role requires collaboration a
 Reference
-e386f592-7c01-4ca2-a85e-dff25c3343cc
+e452c54e-30c2-4103-b402-b56d6c1a8c1a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Data Science Intern
+FinCrime Reporting Specialist
 Salary
-2530 - 2530 EUR Monthly
+64500 USD yearly
 Location
-Tallinn
+Austin
 Team
-Analytics
+Operations
 Locations
-Tallinn
+Austin
 Description
-Role/Programme:
-As a Data Science Intern, you’ll join our Data Science team in the summer. This is an exciting opportunity to kick start your career and make a meaningful impact. You will be joinin
+We’re looking for a Financial Crime Specialist (SAR Reporting) to join our Austin, TX team and help protect millions of customers around the world.If you’re passionate about financial crime prevention
 Reference
-8ff859a8-bcf4-4829-8134-c042593438dc
+b87bfa94-24ed-4209-9763-de9f78cbbf3f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Graduate Data Scientist
+Senior Salesforce Administrator
 Salary
-3170 - 3170 EUR Monthly
+66000 - 82000 GBP Annual
 Location
-Tallinn
+London
 Team
-Analytics
+Go To Market
 Locations
-Tallinn
+London
 Description
-How you’ll contribute to our team of data scientists: Help take Wise to the next level as we scale to impact 100’s of millions more customersYou will work directly on projects that impact our customer
+About Wise PlatformWise Platform helps banks and software companies leverage Wiseʼs infrastructure to offer their customers world-class payments products through their own channels. Our partners make
 Reference
-e22d907d-7d00-4a64-946c-5cf0072960fc
+258cb3d8-b051-4503-88af-5547b1c59cd7
 Expiry Date
 01/01/0001
 Read more
@@ -431,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: US
-City: Chicago
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
