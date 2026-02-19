@@ -111,28 +111,47 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-CI Process Analyst
+Complaints Officer
 Salary
-1,150,000 INR + RSUs
+Monthly SGD 4,850 + RSUs
 Location
-Hyderabad
+Singapore
 Team
 Customer Support
 Locations
-Hyderabad
+Singapore
 Description
-The CI Process Analyst will support critical discovery, analysis, and improvement initiatives within a specific Servicing domain (CS, KYC, Fincrime, or Payment Ops). This role requires collaboration a
+The main role of a Complaints Officer is investigating customer complaints and providing the customers with a final response in a timely manner.A stage 1 Complaints Officer will ensure that customers
 Reference
-e452c54e-30c2-4103-b402-b56d6c1a8c1a
+36493fc8-cbee-4098-b542-7ca39dd9247a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Reporting Specialist
+Payment Operations Reconciliation Senior Specialist
 Salary
-64500 USD yearly
+SGD 5,800 Monthly
+Location
+Singapore
+Team
+Operations
+Locations
+Singapore
+Description
+Here’s how you’ll be contributing to:Perform and maintain high level execution of reconciliation related tasks: Reconciliation of bank accounts Payments and transactions reconciliationCompensations re
+Reference
+b43e5e67-72d8-4fe9-b608-4562e405f1e9
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Partner Risk Assessment Specialist
+Salary
+80000 - 103000 USD Annual
 Location
 Austin
 Team
@@ -140,28 +159,9 @@ Operations
 Locations
 Austin
 Description
-We’re looking for a Financial Crime Specialist (SAR Reporting) to join our Austin, TX team and help protect millions of customers around the world.If you’re passionate about financial crime prevention
+Role & Job purposeAs a Partner Risk Assessment Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for onboarding
 Reference
-b87bfa94-24ed-4209-9763-de9f78cbbf3f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Salesforce Administrator
-Salary
-66000 - 82000 GBP Annual
-Location
-London
-Team
-Go To Market
-Locations
-London
-Description
-About Wise PlatformWise Platform helps banks and software companies leverage Wiseʼs infrastructure to offer their customers world-class payments products through their own channels. Our partners make
-Reference
-258cb3d8-b051-4503-88af-5547b1c59cd7
+9e0d99bf-02cb-4305-ab07-8cd41a77d359
 Expiry Date
 01/01/0001
 Read more
@@ -430,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City:
+GeoOptions: 339
