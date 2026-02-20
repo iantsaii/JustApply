@@ -111,9 +111,9 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Complaints Officer
+Total Service Account Specialist
 Salary
-Monthly SGD 4,850 + RSUs
+From 5800 SGD Monthly + RSUs
 Location
 Singapore
 Team
@@ -121,37 +121,18 @@ Customer Support
 Locations
 Singapore
 Description
-The main role of a Complaints Officer is investigating customer complaints and providing the customers with a final response in a timely manner.A stage 1 Complaints Officer will ensure that customers
+1. Purpose of the roleAs an Account Specialist at Wise, you will play a pivotal role in enhancing customer relationships and driving business growth. Your focus will be on servicing existing customers
 Reference
-36493fc8-cbee-4098-b542-7ca39dd9247a
+860aade2-bc30-43f4-a9e0-29db24e9a046
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Payment Operations Reconciliation Senior Specialist
+Financial Crime Specialist (SAR Reporting)
 Salary
-SGD 5,800 Monthly
-Location
-Singapore
-Team
-Operations
-Locations
-Singapore
-Description
-Here’s how you’ll be contributing to:Perform and maintain high level execution of reconciliation related tasks: Reconciliation of bank accounts Payments and transactions reconciliationCompensations re
-Reference
-b43e5e67-72d8-4fe9-b608-4562e405f1e9
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Partner Risk Assessment Specialist
-Salary
-80000 - 103000 USD Annual
+64500 USD yearly
 Location
 Austin
 Team
@@ -159,9 +140,28 @@ Operations
 Locations
 Austin
 Description
-Role & Job purposeAs a Partner Risk Assessment Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for onboarding
+We’re looking for a Financial Crime Specialist (SAR Reporting) to join our Austin, TX team and help protect millions of customers around the world.If you’re passionate about financial crime prevention
 Reference
-9e0d99bf-02cb-4305-ab07-8cd41a77d359
+b87bfa94-24ed-4209-9763-de9f78cbbf3f
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+KYC Operations Associate Analyst -  Business
+Salary
+6680 - 7100 BRL Monthly
+Location
+São Paulo
+Team
+Operations
+Locations
+São Paulo
+Description
+As a KYC Operations Associate Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting thorough customer d
+Reference
+cc47a681-47c2-4c85-9a82-67af75e648d6
 Expiry Date
 01/01/0001
 Read more
@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City:
+City: San Jose
 GeoOptions: 339
