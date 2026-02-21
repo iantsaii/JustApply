@@ -113,45 +113,26 @@ List #1
 Latest jobs
 Total Service Account Specialist
 Salary
-From 5800 SGD Monthly + RSUs
+11000 - 15400 BRL Monthly
 Location
-Singapore
+São Paulo
 Team
 Customer Support
 Locations
-Singapore
+São Paulo
 Description
-1. Purpose of the roleAs an Account Specialist at Wise, you will play a pivotal role in enhancing customer relationships and driving business growth. Your focus will be on servicing existing customers
+Are you ready to take a pivotal role in enhancing customer relationships and driving business growth?Wise is seeking a dedicated Account Specialist in São Paulo to join our high-impact team! This is y
 Reference
-860aade2-bc30-43f4-a9e0-29db24e9a046
+c4b98c01-30c1-4dad-be09-300944cb81c4
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Financial Crime Specialist (SAR Reporting)
+FinCrime Operations Team Lead - Sanctions
 Salary
-64500 USD yearly
-Location
-Austin
-Team
-Operations
-Locations
-Austin
-Description
-We’re looking for a Financial Crime Specialist (SAR Reporting) to join our Austin, TX team and help protect millions of customers around the world.If you’re passionate about financial crime prevention
-Reference
-b87bfa94-24ed-4209-9763-de9f78cbbf3f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-KYC Operations Associate Analyst -  Business
-Salary
-6680 - 7100 BRL Monthly
+15400 - 20100 BRL Monthly
 Location
 São Paulo
 Team
@@ -159,9 +140,28 @@ Operations
 Locations
 São Paulo
 Description
-As a KYC Operations Associate Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting thorough customer d
+We are looking for a Sanctions Team Lead to help build and guide our newly established Sanctions Screening team in Sao Paulo, Brazil. This is a unique opportunity to shape the foundation of our Brazil
 Reference
-cc47a681-47c2-4c85-9a82-67af75e648d6
+af6666ce-37b7-463c-912c-e029a5f2d37f
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Product Director - Finance
+Salary
+115000 - 145000 GBP Annual
+Location
+London
+Team
+Product
+Locations
+London
+Description
+Your mission: Your mandate is to build and maintain the foundational financial platform that guarantees the integrity and compliance of every transaction across Wise’s global ecosystem. The systems yo
+Reference
+e47909c7-e643-4ae5-bae2-74631912155c
 Expiry Date
 01/01/0001
 Read more
@@ -430,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: US
-City: San Jose
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
