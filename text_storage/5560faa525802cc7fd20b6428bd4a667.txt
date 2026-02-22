@@ -111,6 +111,44 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Senior Marketing Copywriter (APAC)
+Salary
+6400 - 8900 SGD Monthly
+Location
+Singapore
+Team
+Marketing
+Locations
+Singapore
+Description
+WHAT’S THE ROLE? Millions of people will read your words.Wise is looking for our first Senior Marketing Copywriter to join our newly set up full-stack Brand, Creative & Strategy team in Singapore. Wis
+Reference
+01cbea4c-24c4-4bd9-ac1a-86784a4aeac8
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Midweight Motion Designer
+Salary
+6400 - 8900 SGD Monthly
+Location
+Singapore
+Team
+Marketing
+Locations
+Singapore
+Description
+We’re looking for a Midweight Motion Designer to join our newly set up APAC Brand and Creative team in Singapore. You’ll play a key part in helping our in-house agency create impactful, recognisable a
+Reference
+869858bd-ccf2-4cd6-814b-f67c8a9cfc84
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Total Service Account Specialist
 Salary
 11000 - 15400 BRL Monthly
@@ -124,44 +162,6 @@ Description
 Are you ready to take a pivotal role in enhancing customer relationships and driving business growth?Wise is seeking a dedicated Account Specialist in São Paulo to join our high-impact team! This is y
 Reference
 c4b98c01-30c1-4dad-be09-300944cb81c4
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-FinCrime Operations Team Lead - Sanctions
-Salary
-15400 - 20100 BRL Monthly
-Location
-São Paulo
-Team
-Operations
-Locations
-São Paulo
-Description
-We are looking for a Sanctions Team Lead to help build and guide our newly established Sanctions Screening team in Sao Paulo, Brazil. This is a unique opportunity to shape the foundation of our Brazil
-Reference
-af6666ce-37b7-463c-912c-e029a5f2d37f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Product Director - Finance
-Salary
-115000 - 145000 GBP Annual
-Location
-London
-Team
-Product
-Locations
-London
-Description
-Your mission: Your mandate is to build and maintain the foundational financial platform that guarantees the integrity and compliance of every transaction across Wise’s global ecosystem. The systems yo
-Reference
-e47909c7-e643-4ae5-bae2-74631912155c
 Expiry Date
 01/01/0001
 Read more
@@ -430,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Phoenix
+GeoOptions: 339
