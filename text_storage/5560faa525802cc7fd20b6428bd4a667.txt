@@ -111,6 +111,44 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+FinCrime Operations Team Lead - RFI
+Salary
+MYR 10,000 Monthly + RSUs
+Location
+Kuala Lumpur
+Team
+Operations
+Locations
+Kuala Lumpur
+Description
+If you're interested in the position, please apply by submitting your CV and cover letter in English. In your cover letter please explain why you want to join the RFI team and what makes you a good ca
+Reference
+13491fa1-feb2-410d-a707-10a7842efe4e
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+FinCrime Operations Analyst - Sanctions
+Salary
+MYR 5,600 Monthly + RSUs
+Location
+Kuala Lumpur
+Team
+Operations
+Locations
+Kuala Lumpur
+Description
+In your cover letter please explain your interest in this role and why you want to join the Sanctions team.We’re looking for a FinCrime Operations Analyst - Sanctions to join our growing Sanctions Scr
+Reference
+8ad6981a-2cb3-490a-82b1-6ae5c8e2d4c6
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Senior Marketing Copywriter (APAC)
 Salary
 6400 - 8900 SGD Monthly
@@ -124,44 +162,6 @@ Description
 WHAT’S THE ROLE? Millions of people will read your words.Wise is looking for our first Senior Marketing Copywriter to join our newly set up full-stack Brand, Creative & Strategy team in Singapore. Wis
 Reference
 01cbea4c-24c4-4bd9-ac1a-86784a4aeac8
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Midweight Motion Designer
-Salary
-6400 - 8900 SGD Monthly
-Location
-Singapore
-Team
-Marketing
-Locations
-Singapore
-Description
-We’re looking for a Midweight Motion Designer to join our newly set up APAC Brand and Creative team in Singapore. You’ll play a key part in helping our in-house agency create impactful, recognisable a
-Reference
-869858bd-ccf2-4cd6-814b-f67c8a9cfc84
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Total Service Account Specialist
-Salary
-11000 - 15400 BRL Monthly
-Location
-São Paulo
-Team
-Customer Support
-Locations
-São Paulo
-Description
-Are you ready to take a pivotal role in enhancing customer relationships and driving business growth?Wise is seeking a dedicated Account Specialist in São Paulo to join our high-impact team! This is y
-Reference
-c4b98c01-30c1-4dad-be09-300944cb81c4
 Expiry Date
 01/01/0001
 Read more
@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: Phoenix
-GeoOptions: 339
+City: New York
+GeoOptions: 342
