@@ -111,28 +111,47 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Legal Counsel, Disputes
+Senior Account Manager, North Asia
 Salary
-230000 - 260000 USD Annual
+SGD 204,000 - 264,000 Total Annual Compentation (Base + Stock)
 Location
-New York
+Singapore
 Team
-Legal
+Go To Market
 Locations
-New York
+Singapore
 Description
-Senior Legal CounselWe’re looking for a Senior Legal Counsel to join our growing Legal Team in New York. This role will be disputes-focused and is a unique opportunity to build on your litigation and
+You will be a Senior Account Manager within a fast growing regional commercial team, responsible for driving growth with our existing partners. You’ll identify and execute growth opportunities across
 Reference
-eb68c36f-7658-4ccd-b297-22e7cf316b40
+1dee9584-8886-4dac-a32f-0da91e0f48ba
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime (AML) Outsourcing Coordinator
+FinCrime Investigator - AML Investigations
 Salary
-80000 - 103000 USD Annual
+8000 - 11300 BRL Monthly
+Location
+São Paulo
+Team
+Operations
+Locations
+São Paulo
+Description
+As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
+Reference
+97a5c914-bc74-4604-a07c-6466bb3deae1
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Total Service Account Specialist
+Salary
+35 - 43.75 USD Hourly
 Location
 Austin
 Team
@@ -140,28 +159,10 @@ Customer Support
 Locations
 Austin
 Description
-We’re looking for 1 FinCrime Outsourcing Coordinator in Austin to join the FinCrime Vendor Management team, to support our vendor teams to achieve their goals. We are specifically looking for an Outso
+Wise is a global technology company, building the best way to move and manage the world’s money.
+Min fees. Max ease. Full speed.Whether people and businesses are sending money to another country, spe
 Reference
-300fdbc3-b7ab-40da-8a2c-329328c002f2
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Business Development Manager
-Salary
-225000 - 284000 USD Annual
-Location
-Austin
-Team
-Go To Market
-Locations
-Austin
-Description
-We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
-Reference
-07af7d4e-36fc-48d7-bf40-dae0a8ccd695
+75fb367a-1b52-4c38-8d23-ced814fce700
 Expiry Date
 01/01/0001
 Read more
