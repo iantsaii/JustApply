@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Sr Platfrom Engineer I - Cloud Economics
+Compliance Senior Manager
 Salary
-85000 - 105000 GBP Annual
+132000 - 185000 USD Annual
 Location
-London
+Austin
 Team
-Technology
+Risk and Compliance
 Locations
-London
+Austin
 Description
-We are looking for a Senior Platform Engineer to join our Cloud Economics team at Wise. You will work cross-functionally with engineering teams across the business, identifying and implementing effici
+We’re looking for a Compliance Senior Manager to join our growing North America Regulatory Oversight Compliance team. In this role, you’ll be a key partner in managing compliance related issues and ri
 Reference
-5d7f7cb5-1546-4be0-afd2-003cae5c9d15
+03e113a6-22a9-45de-bf75-b1bab6a6abfb
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Lead - Platform Infrastructure
+Compliance Senior Specialist
 Salary
-125000 - 153000 GBP Annual
+77000 - 105000 USD Annual
 Location
-London
+Austin
 Team
-Technology
+Risk and Compliance
 Locations
-London
+Austin
 Description
-What are we looking for? We are looking for an Engineering Lead to join the Platform Product Integrations team to expand and maintain direct integrations with payments systems and partners all over th
+We’re looking for a Compliance Senior Specialist to join our growing North America Regulatory Oversight Compliance team. In this role, you’ll be a key partner in managing our regulatory obligations, p
 Reference
-51962dd0-411c-41b6-954a-70a7bf899a0c
+403609d1-b6d3-4f74-a02e-c17c5010b46f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Sr Software Engineer II - Golang - Cloud Foundations
+Events Specialist
 Salary
-105000 - 130000 GBP Annual
+INR
 Location
-London
+Hyderabad
 Team
-Technology
+People
 Locations
-London
+Hyderabad
 Description
-About the role The Cloud Foundations team is responsible for building and maintaining the services that help ensure Wise’s cloud infrastructure meets all the necessary requirements for a growing FinTe
+We are looking for a detail-oriented, well-organized, proactive, and creative Event Specialist to join our Events team at Wise. In this role, you will collaborate closely with the Events Lead to suppo
 Reference
-1cbae4d0-0289-4155-b439-e07a877e4ef1
+eb755640-5ddb-4219-9a38-383d25823c06
 Expiry Date
 01/01/0001
 Read more
