@@ -111,6 +111,44 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Senior Software Engineer I - Reliability
+Salary
+85000 - 105000 GBP Annual
+Location
+London
+Team
+Technology
+Locations
+London
+Description
+More about our mission.About the role We are looking for a Senior Software Engineer to join our Reliability Engineering team at Wise. You will work cross-functionally with software engineering teams a
+Reference
+b255bfa6-5f8b-464d-8d48-99adcf05dc6a
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+FinCrime Operations Senior Lead - AML Investigations
+Salary
+1,350,000 - 1,940,000 HUF gross/monthly + RSUs
+Location
+Budapest
+Team
+Operations
+Locations
+Budapest
+Description
+We're looking for an experienced lead to join our growing AML Investigations team in Budapest, Hungary. As a FinCrime Operations Senior Lead your mission is to ensure the effective assessment and miti
+Reference
+74b74e87-2792-45e8-ad19-4f1839c1d4b9
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Compliance Senior Manager
 Salary
 132000 - 185000 USD Annual
@@ -124,44 +162,6 @@ Description
 We’re looking for a Compliance Senior Manager to join our growing North America Regulatory Oversight Compliance team. In this role, you’ll be a key partner in managing compliance related issues and ri
 Reference
 03e113a6-22a9-45de-bf75-b1bab6a6abfb
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Compliance Senior Specialist
-Salary
-77000 - 105000 USD Annual
-Location
-Austin
-Team
-Risk and Compliance
-Locations
-Austin
-Description
-We’re looking for a Compliance Senior Specialist to join our growing North America Regulatory Oversight Compliance team. In this role, you’ll be a key partner in managing our regulatory obligations, p
-Reference
-403609d1-b6d3-4f74-a02e-c17c5010b46f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Events Specialist
-Salary
-INR
-Location
-Hyderabad
-Team
-People
-Locations
-Hyderabad
-Description
-We are looking for a detail-oriented, well-organized, proactive, and creative Event Specialist to join our Events team at Wise. In this role, you will collaborate closely with the Events Lead to suppo
-Reference
-eb755640-5ddb-4219-9a38-383d25823c06
 Expiry Date
 01/01/0001
 Read more
@@ -432,6 +432,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: San Jose
+GeoOptions: 339
