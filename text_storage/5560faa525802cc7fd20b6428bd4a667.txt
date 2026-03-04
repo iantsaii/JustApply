@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Business Development Manager - Payout Sales
+Business Customer Support Team Lead
 Salary
-Total Compensation starting from SGD 245k (Base + RSUs)
+950000 - 1250000 INR Annual
 Location
-Singapore
-Team
-Go To Market
-Locations
-Singapore
-Description
-We’re looking for an exceptional Business Development Manager to establish and scale our Mass Payouts business in Singapore.This is a unique opportunity to build a new revenue stream from the ground u
-Reference
-73b07824-b780-41e5-bc0e-6fa7817887ea
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Financial Crime Product Compliance (Senior) Manager - South-East Asia
-Salary
-Starting from $9250 SGD Monthly + RSUs
-Location
-Singapore
-Team
-Product
-Locations
-Singapore
-Description
-Salary Range: SGD 9,250 - 14,083 per month + RSUs Location: Singapore We’re looking for a Financial Crime Product Compliance (Senior) Manager to work alongside our APAC Product teams to help  launch n
-Reference
-23cf8e4d-e982-4277-aea2-e848b6b92ed1
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Social Media Customer Support Associate - Japanese Speaking
-Salary
-4100 - 4100 SGD Monthly
-Location
-Singapore
+Hyderabad
 Team
 Customer Support
 Locations
-Singapore
+Hyderabad
 Description
-We’re looking for a passionate Social Media Customer Support Associate to join our team in Singapore.We work differently and we’re proud of it! This is not your average customer service job. There’s n
+Salary: 9.5 - 12.5 Lakhs INR annually + RSUsThe Customer Support Team Lead (CSTL) is a strong leader with a mindset that allows them to build strong teams and processes that put our customers first, w
 Reference
-df6d3a42-62c5-476b-b2fb-a2de9cca7df4
+9e1dc0a6-aa8d-4c25-a171-a5902121ded2
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Enterprise Pricing Manager
+Salary
+130000 - 175000 USD Annual
+Location
+Austin
+Team
+Finance
+Locations
+Austin
+Description
+Wise Platform is enabling businesses to utilise Wise’s payment infrastructure to create amazing payment experiences for their customers. Our APIs power leading global platforms delivering payroll, exp
+Reference
+f7e2b3cd-186c-451c-a4ad-a461798e3cff
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Software Engineer II - Contacts Team - Java
+Salary
+105000 - 130000 GBP Annual
+Location
+London
+Team
+Technology
+Locations
+London
+Description
+The Contacts team is a core team at Wise, dedicated to making adding, finding, and managing your recipients as easy as possible. We own this experience end-to-end: from the scalable platform securing
+Reference
+4880d8ef-4f84-41d9-aef8-06a857d015f7
 Expiry Date
 01/01/0001
 Read more
@@ -432,6 +432,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: 351
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: New York
+GeoOptions: 342
