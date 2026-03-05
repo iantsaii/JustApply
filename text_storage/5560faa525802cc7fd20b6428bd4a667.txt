@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Business Customer Support Team Lead
+Complaints Officer
 Salary
-950000 - 1250000 INR Annual
+4850 - 5800 SGD Monthly
 Location
-Hyderabad
+Singapore
 Team
 Customer Support
 Locations
-Hyderabad
+Singapore
 Description
-Salary: 9.5 - 12.5 Lakhs INR annually + RSUsThe Customer Support Team Lead (CSTL) is a strong leader with a mindset that allows them to build strong teams and processes that put our customers first, w
+The main role of a Complaints Officer is investigating customer complaints and providing the customers with a final response in a timely manner.A stage 1 Complaints Officer will ensure that customers
 Reference
-9e1dc0a6-aa8d-4c25-a171-a5902121ded2
+36493fc8-cbee-4098-b542-7ca39dd9247a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Enterprise Pricing Manager
+Compliance Manager
 Salary
-130000 - 175000 USD Annual
+13,200,000 - 20,000,000 JPY Annual
 Location
-Austin
+Tokyo
 Team
-Finance
+Risk and Compliance
 Locations
-Austin
+Tokyo
 Description
-Wise Platform is enabling businesses to utilise Wise’s payment infrastructure to create amazing payment experiences for their customers. Our APIs power leading global platforms delivering payroll, exp
+We’re looking for a Compliance Officer - Japan to strengthen our compliance team. Based in Tokyo, you will work with a growing team of multidisciplinary specialists (Product, Treasury, Bank Product, S
 Reference
-f7e2b3cd-186c-451c-a4ad-a461798e3cff
+caa528f1-bc6b-4484-93d1-92605d7a92b0
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer II - Contacts Team - Java
+Arbitration Specialist
 Salary
-105000 - 130000 GBP Annual
+5800 - 7750 SGD Monthly
 Location
-London
+Singapore
 Team
-Technology
+Customer Support
 Locations
-London
+Singapore
 Description
-The Contacts team is a core team at Wise, dedicated to making adding, finding, and managing your recipients as easy as possible. We own this experience end-to-end: from the scalable platform securing
+We’re looking for an Arbitration Specialist to join our growing team. Purpose of the roleWe’re looking for an Arbitration Specialist to join our growing team, with a critical focus on the APAC region,
 Reference
-4880d8ef-4f84-41d9-aef8-06a857d015f7
+3d40f09d-7916-4947-9033-9e8388f37e17
 Expiry Date
 01/01/0001
 Read more
@@ -433,5 +433,5 @@ Wise women code
 Keyword: No Keyword
 Options: 351
 Location: US
-City: New York
-GeoOptions: 342
+City: San Jose
+GeoOptions: 339
