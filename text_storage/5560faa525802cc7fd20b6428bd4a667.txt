@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Complaints Officer
+Senior Employee Relations Advisor
 Salary
-4850 - 5800 SGD Monthly
+From 8700 SGD Monthly + RSUs
 Location
 Singapore
 Team
-Customer Support
+People
 Locations
 Singapore
 Description
-The main role of a Complaints Officer is investigating customer complaints and providing the customers with a final response in a timely manner.A stage 1 Complaints Officer will ensure that customers
+We’re looking for a Senior Employee Relations Advisor to join our People Services team in the Singapore office. This role suits someone who is passionate about all things ER, but also wants the unique
 Reference
-36493fc8-cbee-4098-b542-7ca39dd9247a
+93133e9c-ddfe-4ae7-a3ee-15ba67921b88
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Compliance Manager
-Salary
-13,200,000 - 20,000,000 JPY Annual
-Location
-Tokyo
-Team
-Risk and Compliance
-Locations
-Tokyo
-Description
-We’re looking for a Compliance Officer - Japan to strengthen our compliance team. Based in Tokyo, you will work with a growing team of multidisciplinary specialists (Product, Treasury, Bank Product, S
-Reference
-caa528f1-bc6b-4484-93d1-92605d7a92b0
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Arbitration Specialist
+Cards Operations Senior Specialist - Issuance
 Salary
 5800 - 7750 SGD Monthly
 Location
 Singapore
 Team
-Customer Support
+Operations
 Locations
 Singapore
 Description
-We’re looking for an Arbitration Specialist to join our growing team. Purpose of the roleWe’re looking for an Arbitration Specialist to join our growing team, with a critical focus on the APAC region,
+Role ScopeMaintaining consistent and high level execution of recurring responsibilities within the designated domain;Supporting own team in reaching main performance metrics targets and SLA's set to O
 Reference
-3d40f09d-7916-4947-9033-9e8388f37e17
+be22ca53-e348-4023-ab37-c75e9c2abb46
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Total Service Account Specialist
+Salary
+11000 - 15400 BRL Monthly
+Location
+São Paulo
+Team
+Customer Support
+Locations
+São Paulo
+Description
+Are you ready to take a pivotal role in enhancing customer relationships and driving business growth?Wise is seeking a dedicated Account Specialist in São Paulo to join our high-impact team! This is y
+Reference
+c4b98c01-30c1-4dad-be09-300944cb81c4
 Expiry Date
 01/01/0001
 Read more
@@ -431,7 +431,7 @@ Legal
 People
 Wise women code
 Keyword: No Keyword
-Options: 351
+Options: No options
 Location: US
-City: San Jose
-GeoOptions: 339
+City: New York
+GeoOptions: 342
