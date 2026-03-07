@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Employee Relations Advisor
+Enterprise Pricing Manager
 Salary
-From 8700 SGD Monthly + RSUs
+130000 - 175000 USD Annual
 Location
-Singapore
+Austin
 Team
-People
+Finance
 Locations
-Singapore
+Austin
 Description
-We’re looking for a Senior Employee Relations Advisor to join our People Services team in the Singapore office. This role suits someone who is passionate about all things ER, but also wants the unique
+Wise Platform is enabling businesses to utilise Wise’s payment infrastructure to create amazing payment experiences for their customers. Our APIs power leading global platforms delivering payroll, exp
 Reference
-93133e9c-ddfe-4ae7-a3ee-15ba67921b88
+f7e2b3cd-186c-451c-a4ad-a461798e3cff
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Cards Operations Senior Specialist - Issuance
+CRM Manager - LatAm (Individual Contributor)
 Salary
-5800 - 7750 SGD Monthly
+11496 - 15936 BRL Monthly
 Location
-Singapore
+São Paulo
 Team
-Operations
+Marketing
 Locations
-Singapore
+São Paulo
 Description
-Role ScopeMaintaining consistent and high level execution of recurring responsibilities within the designated domain;Supporting own team in reaching main performance metrics targets and SLA's set to O
+The CRM team at Wise is expanding to consolidate our communication efforts across the LatAm region. We are dedicated to providing first-class, high-value communications that help our customers maximiz
 Reference
-be22ca53-e348-4023-ab37-c75e9c2abb46
+db0c3eb9-9d7e-4f3f-89d3-0f45135d9200
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Total Service Account Specialist
+Product Lead - Servicing Platform - Identity Platform
 Salary
-11000 - 15400 BRL Monthly
+120000 - 145000 GBP Annual
 Location
-São Paulo
+London
 Team
-Customer Support
+Product
 Locations
-São Paulo
+London
 Description
-Are you ready to take a pivotal role in enhancing customer relationships and driving business growth?Wise is seeking a dedicated Account Specialist in São Paulo to join our high-impact team! This is y
+Wise is looking for a Product Lead for Identity Platform to join our team in London, Budapest, or Tallinn. You'll be a pivotal leader, responsible for crafting the vision and strategy for our core ide
 Reference
-c4b98c01-30c1-4dad-be09-300944cb81c4
+e560d159-2f51-4d50-aaa1-372b684d97d3
 Expiry Date
 01/01/0001
 Read more
@@ -433,5 +433,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: New York
-GeoOptions: 342
+City: San Jose
+GeoOptions: 339
