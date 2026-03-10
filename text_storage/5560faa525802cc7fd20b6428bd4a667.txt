@@ -111,57 +111,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Technical Support Engineer (Enterprise)
+Technical Support Engineer
 Salary
-SGD 79,000 - 100,000 Annually + RSUs
+34 - 40.75 USD Hourly
 Location
-Singapore
+Austin
 Team
 Technology
 Locations
-Singapore
+Austin
 Description
-The TeamWise Platform helps banks, software companies and large enterprises leverage Wise’s infrastructure to offer their customers world class payments products through their own channels. Our partne
+Technical Support Engineers ensure that our partners get a rapid and effective response when issues arise; from general questions about the behaviour of an API or webhook, to acting as a first-respond
 Reference
-a517197d-14a3-47b4-abf3-7020c56da198
+c651d81a-0107-4634-b1cb-62b23eb66b03
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer I - Japanese Speaking
+Customer Support Associate - Japanese Speaker
 Salary
-148,800 - 184,800 SGD per annum + RSUs
+6015 - 6015 BRL Monthly
 Location
-Singapore
-Team
-Technology
-Locations
-Singapore
-Description
-Salary Range: 148,800 - 184,800 SGD per annum + RSUs We're looking for a Senior Software Engineer - Japanese Speaking to join our growing team in Singapore. The role is a unique opportunity to build b
-Reference
-0e07aaed-4c99-4b6d-9694-a7cf375151e4
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Social Media Customer Support Associate
-Salary
-4100 - 4100 SGD Monthly
-Location
-Singapore
+São Paulo
 Team
 Customer Support
 Locations
-Singapore
+São Paulo
 Description
-We’re looking for a passionate Social Media Customer Support Associate to join our team in Singapore.We work differently and we’re proud of it! This is not your average customer service job. There’s n
+Your mission is to help customers have an excellent experience with Wise mainly via phone, emails and chat contacts. This isn't your normal call center - we do things differently - and our Customer Su
 Reference
-93350007-0f80-4cba-937c-44b9bba51ae6
+593e51ce-a0c1-4fbe-a766-9fa75fff0aa8
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+UK Regulatory Engagement Manager (12 Month FTC)
+Salary
+83000 - 118000 GBP Annual
+Location
+London
+Team
+Risk and Compliance
+Locations
+London
+Description
+We’re looking for a UK Regulator Liaison Manager to cover maternity absence for a period of up to 12 months who will be responsible for ensuring Wise maintains a healthy, productive and transparent re
+Reference
+ec9c07f6-8b1c-4af2-b287-b49ed6fcf62b
 Expiry Date
 01/01/0001
 Read more
@@ -432,6 +432,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: San Jose
+GeoOptions: 339
