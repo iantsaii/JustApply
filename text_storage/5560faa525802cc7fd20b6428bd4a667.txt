@@ -111,28 +111,47 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Product Compliance (Senior) Manager - SEA
+Social Media Customer Support Associate
 Salary
-9250 - 14083 SGD Monthly
+4100 - 4100 SGD Monthly
 Location
 Singapore
 Team
-Product
+Customer Support
 Locations
 Singapore
 Description
-Salary Range: SGD 9,250 - 14,083 per month + RSUs Location: Singapore We’re looking for a Financial Crime Product Compliance (Senior) Manager to work alongside our APAC Product teams to help  launch n
+We’re looking for a passionate Social Media Customer Support Associate to join our team in Singapore.We work differently and we’re proud of it! This is not your average customer service job. There’s n
 Reference
-23cf8e4d-e982-4277-aea2-e848b6b92ed1
+93350007-0f80-4cba-937c-44b9bba51ae6
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Investigator - AML Investigations
+Payment Operations Regional Senior Specialist
 Salary
-8000 - 11300 BRL Monthly
+7850000 - 10000000 JPY Annual
+Location
+Tokyo
+Team
+Operations
+Locations
+Tokyo
+Description
+We are looking for Payment Operations Senior Specialists to join our Payment Operations Regional team, with a focus on Service Delivery. Wise has already pioneered new ways for people to transfer mone
+Reference
+e768cd88-2e86-47b4-8986-85d9ece08060
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Servicing Training Lead
+Salary
+14300 - 21100 BRL Monthly
 Location
 São Paulo
 Team
@@ -140,28 +159,9 @@ Operations
 Locations
 São Paulo
 Description
-As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
+The Servicing Training Lead is a critical leadership role responsible for the end-to-end management, performance, and strategic direction of the Servicing Training Specialist team. This role ensures t
 Reference
-97a5c914-bc74-4604-a07c-6466bb3deae1
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Implementation Manager
-Salary
-170000 - 215000 USD Annual
-Location
-Austin
-Team
-Go To Market
-Locations
-Austin
-Description
-Job DescriptionWe are looking for a Senior Implementation Manager to join our team in Austin and play a crucial role in growing Wise Platform by delivering our highest impact partner integrations. You
-Reference
-45e98e45-4781-4876-a9ab-93c91843b11c
+d73659f3-3ae5-44db-ab32-bcc14ad4c935
 Expiry Date
 01/01/0001
 Read more
@@ -433,5 +433,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: Des Moines
 GeoOptions: 339
