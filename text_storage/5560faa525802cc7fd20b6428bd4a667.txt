@@ -3,7 +3,6 @@ This website uses cookies. By continuing to use this site, you are giving your c
 Privacy policy
 for more info.
 JUMP TO CONTENT
-Jobs
 Keyword
 Search
 Shortlist
@@ -111,9 +110,9 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Social Media Customer Support Associate
+Complaints Officer
 Salary
-4100 - 4100 SGD Monthly
+Monthly SGD 4,850 + RSUs
 Location
 Singapore
 Team
@@ -121,47 +120,47 @@ Customer Support
 Locations
 Singapore
 Description
-We’re looking for a passionate Social Media Customer Support Associate to join our team in Singapore.We work differently and we’re proud of it! This is not your average customer service job. There’s n
+The main role of a Complaints Officer is investigating customer complaints and providing the customers with a final response in a timely manner.A stage 1 Complaints Officer will ensure that customers
 Reference
-93350007-0f80-4cba-937c-44b9bba51ae6
+36493fc8-cbee-4098-b542-7ca39dd9247a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Payment Operations Regional Senior Specialist
+Team Assistant
 Salary
-7850000 - 10000000 JPY Annual
+760000 - 900000 HUF Monthly
 Location
-Tokyo
+Budapest
 Team
-Operations
+People
 Locations
-Tokyo
+Budapest
 Description
-We are looking for Payment Operations Senior Specialists to join our Payment Operations Regional team, with a focus on Service Delivery. Wise has already pioneered new ways for people to transfer mone
+We are looking for a Team Assistant to support our Product Team. This role will be based out of our Budapest office and is a unique opportunity to enhance the productivity of our leadership by managin
 Reference
-e768cd88-2e86-47b4-8986-85d9ece08060
+22b97b4e-cde1-4e10-bd7c-b2b0cc1dda08
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Servicing Training Lead
+Senior Reward Partner - Americas
 Salary
-14300 - 21100 BRL Monthly
+141000 - 168000 USD Annual
 Location
-São Paulo
+Austin
 Team
-Operations
+People
 Locations
-São Paulo
+Austin
 Description
-The Servicing Training Lead is a critical leadership role responsible for the end-to-end management, performance, and strategic direction of the Servicing Training Specialist team. This role ensures t
+At Wise, we are building a world without borders, the fairest, easiest way to manage money across the globe. As our Engineering organization scales to meet the demands of a global infrastructure, the
 Reference
-d73659f3-3ae5-44db-ab32-bcc14ad4c935
+8b8a8e53-2a1f-479a-9a1e-a174bc9d4282
 Expiry Date
 01/01/0001
 Read more
@@ -399,7 +398,6 @@ Policies
 Back
 Privacy policy
 Cookies policy
-Jobs
 Keyword
 Search
 Connect with us:
@@ -409,7 +407,6 @@ Wise is authorised by the Financial Conduct Authority under the Electronic Money
 , for the issuing of electronic money.
 Career site system powered by
 SmartRecruiters Attrax
-Jobs
 Keyword
 Search
 Browse Jobs
@@ -432,6 +429,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Des Moines
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
