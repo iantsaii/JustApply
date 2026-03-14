@@ -110,57 +110,58 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Complaints Officer
+Head of Regional Payment Operations - LATAM & MEA
 Salary
-Monthly SGD 4,850 + RSUs
+0
 Location
-Singapore
+São Paulo
 Team
-Customer Support
+Operations
 Locations
-Singapore
+São Paulo
 Description
-The main role of a Complaints Officer is investigating customer complaints and providing the customers with a final response in a timely manner.A stage 1 Complaints Officer will ensure that customers
+Are you ready to shape the future of payments in Latin America, Middle East & Africa and beyond?We’re seeking a strategic and experienced Head of Regional Payment Operations to lead our teams across L
 Reference
-36493fc8-cbee-4098-b542-7ca39dd9247a
+3215c399-88f2-41a9-943c-b567836b5ce4
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Team Assistant
+Sr Software Engineer I - Reliability
 Salary
-760000 - 900000 HUF Monthly
+85000 - 105000 GBP Annual
 Location
-Budapest
+London
 Team
-People
+Technology
 Locations
-Budapest
+London
 Description
-We are looking for a Team Assistant to support our Product Team. This role will be based out of our Budapest office and is a unique opportunity to enhance the productivity of our leadership by managin
+More about our mission.About the role We are looking for a Senior Software Engineer to join our Reliability Engineering team at Wise. You will work cross-functionally with software engineering teams a
 Reference
-22b97b4e-cde1-4e10-bd7c-b2b0cc1dda08
+5f058221-99b0-4f0d-8fa4-bdc6af3b9fd7
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Reward Partner - Americas
+Software Engineer - AML Risk
 Salary
-141000 - 168000 USD Annual
+65000 - 85000 GBP Annual
 Location
-Austin
+London
 Team
-People
+Technology
 Locations
-Austin
+London
 Description
-At Wise, we are building a world without borders, the fairest, easiest way to manage money across the globe. As our Engineering organization scales to meet the demands of a global infrastructure, the
+About the role:
+As an engineer in the AML Risk team, you'll help Wise detect and prevent money laundering, and help in our team mission of Clean Money without Borders. You'll work closely with our
 Reference
-8b8a8e53-2a1f-479a-9a1e-a174bc9d4282
+06ebe728-d714-4382-93f4-1aebb9bc7394
 Expiry Date
 01/01/0001
 Read more
@@ -429,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: New York
+GeoOptions: 342
