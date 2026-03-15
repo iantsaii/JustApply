@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: New York
-GeoOptions: 342
+City: San Jose
+GeoOptions: 339
