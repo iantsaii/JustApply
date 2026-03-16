@@ -430,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: San Jose
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
