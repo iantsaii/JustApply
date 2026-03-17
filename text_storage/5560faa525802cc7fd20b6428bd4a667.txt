@@ -110,58 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Head of Regional Payment Operations - LATAM & MEA
+Regional Controller
 Salary
-0
+130000 - 175000 USD Annual
 Location
-São Paulo
+Austin
 Team
-Operations
+Finance
 Locations
-São Paulo
+Austin
 Description
-Are you ready to shape the future of payments in Latin America, Middle East & Africa and beyond?We’re seeking a strategic and experienced Head of Regional Payment Operations to lead our teams across L
+Wise is looking to hire a Senior Financial Controller for Wise National Trust (WNT) who will report directly to the WNT CFO  and work closely with teams across Wise as well as interface with senior le
 Reference
-3215c399-88f2-41a9-943c-b567836b5ce4
+40acda72-57be-4506-a8fb-b29c834d7810
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Sr Software Engineer I - Reliability
+Wise Platform Enterprise Team Lead
 Salary
-85000 - 105000 GBP Annual
+15400 BRL Monthly
 Location
-London
+São Paulo
 Team
-Technology
+Customer Support
 Locations
-London
+São Paulo
 Description
-More about our mission.About the role We are looking for a Senior Software Engineer to join our Reliability Engineering team at Wise. You will work cross-functionally with software engineering teams a
+The role of a Wise Platform Enterprise Support Team Lead is a blend of team management, strategic oversight, and hands-on operational support, all focused on ensuring Wise's business-to-business partn
 Reference
-5f058221-99b0-4f0d-8fa4-bdc6af3b9fd7
+da4963f1-532b-4ef8-832e-5bb81ffa5591
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Software Engineer - AML Risk
+UK Regulatory Engagement Manager (12 Month FTC)
 Salary
-65000 - 85000 GBP Annual
+89000 - 127000 GBP Annual
 Location
 London
 Team
-Technology
+Risk and Compliance
 Locations
 London
 Description
-About the role:
-As an engineer in the AML Risk team, you'll help Wise detect and prevent money laundering, and help in our team mission of Clean Money without Borders. You'll work closely with our
+We’re looking for a UK Regulator Liaison Manager to cover maternity absence for a period of up to 12 months who will be responsible for ensuring Wise maintains a healthy, productive and transparent re
 Reference
-06ebe728-d714-4382-93f4-1aebb9bc7394
+ec9c07f6-8b1c-4af2-b287-b49ed6fcf62b
 Expiry Date
 01/01/0001
 Read more
@@ -430,6 +429,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: New York
+GeoOptions: 342
