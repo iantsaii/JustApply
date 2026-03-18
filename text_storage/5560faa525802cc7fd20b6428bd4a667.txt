@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Regional Controller
+Early Careers Recruitment & Development Specialist - WiseStart
 Salary
-130000 - 175000 USD Annual
+16100 - 23300 BRL Monthly
 Location
-Austin
+São Paulo
 Team
-Finance
+People
 Locations
-Austin
+São Paulo
 Description
-Wise is looking to hire a Senior Financial Controller for Wise National Trust (WNT) who will report directly to the WNT CFO  and work closely with teams across Wise as well as interface with senior le
+We're looking for an Early Careers Recruitment & Development Specialist to join our WiseStart team in São Paulo, to help us set up a new and exciting apprenticeship, and grow our early careers presenc
 Reference
-40acda72-57be-4506-a8fb-b29c834d7810
+0c07cd5c-b953-4c8f-bdbb-77c892a6319b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Wise Platform Enterprise Team Lead
+Legal Counsel - UK
 Salary
-15400 BRL Monthly
+100000 - 130000 GBP Annual
 Location
-São Paulo
+London
 Team
-Customer Support
+Legal
 Locations
-São Paulo
+London
 Description
-The role of a Wise Platform Enterprise Support Team Lead is a blend of team management, strategic oversight, and hands-on operational support, all focused on ensuring Wise's business-to-business partn
+You’ll undertake a wide range of legal matters relating to Wise’s day to day and strategic initiatives. Your mission is to enable, protect and empower the business and people of Wise to help achieve g
 Reference
-da4963f1-532b-4ef8-832e-5bb81ffa5591
+72df9a20-6e37-41c0-9017-61d4ccd0e60c
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-UK Regulatory Engagement Manager (12 Month FTC)
+Principal Implementation Manager
 Salary
-89000 - 127000 GBP Annual
+115000 - 150000 GBP Annual
 Location
 London
 Team
-Risk and Compliance
+Go To Market
 Locations
 London
 Description
-We’re looking for a UK Regulator Liaison Manager to cover maternity absence for a period of up to 12 months who will be responsible for ensuring Wise maintains a healthy, productive and transparent re
+Your MissionAs a Principal Implementation Manager in the KYC & Onboarding domain, you will oversee large-scale implementations that touch millions of customers. You’ll ensure regional KYC/KYB teams an
 Reference
-ec9c07f6-8b1c-4af2-b287-b49ed6fcf62b
+dd8f7bcf-428b-47de-b4fd-97652994a581
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: New York
-GeoOptions: 342
+City: San Jose
+GeoOptions: 339
