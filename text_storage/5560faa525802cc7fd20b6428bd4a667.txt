@@ -110,47 +110,47 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Early Careers Recruitment & Development Specialist - WiseStart
+Administrative Assistant
 Salary
-16100 - 23300 BRL Monthly
+0 - 0 USD Annual
 Location
-São Paulo
+Austin
 Team
 People
 Locations
+Austin
+Description
+We are seeking a highly organized and proactive Executive Assistant to support our Wise US leadership team. This role is perfect for someone who excels in administrative efficiency, process optimizati
+Reference
+792fbb23-04a4-4408-ba35-835b045638b2
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+UT Technician
+Salary
+5385 - 6692 BRL Monthly
+Location
+São Paulo
+Team
+Technology
+Locations
 São Paulo
 Description
-We're looking for an Early Careers Recruitment & Development Specialist to join our WiseStart team in São Paulo, to help us set up a new and exciting apprenticeship, and grow our early careers presenc
+We are looking for an experienced IT Support Technician to join our growing User Technology (UT) Support Team in our São Paulo, Brazil office! 🚀 Here at Wise we're working to create a seamless UT exp
 Reference
-0c07cd5c-b953-4c8f-bdbb-77c892a6319b
+1a5c875d-0634-451f-ae23-a1500f25bcea
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Legal Counsel - UK
+Business Development, Online Platforms
 Salary
-100000 - 130000 GBP Annual
-Location
-London
-Team
-Legal
-Locations
-London
-Description
-You’ll undertake a wide range of legal matters relating to Wise’s day to day and strategic initiatives. Your mission is to enable, protect and empower the business and people of Wise to help achieve g
-Reference
-72df9a20-6e37-41c0-9017-61d4ccd0e60c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Principal Implementation Manager
-Salary
-115000 - 150000 GBP Annual
+117000 - 167000 GBP Annual
 Location
 London
 Team
@@ -158,9 +158,9 @@ Go To Market
 Locations
 London
 Description
-Your MissionAs a Principal Implementation Manager in the KYC & Onboarding domain, you will oversee large-scale implementations that touch millions of customers. You’ll ensure regional KYC/KYB teams an
+We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in EMEA. In this role, you will help deliver world-class API payment solutions to some of t
 Reference
-dd8f7bcf-428b-47de-b4fd-97652994a581
+8223cab4-1ced-4b0d-9e5e-497060fc451d
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Boydton
 GeoOptions: 339
