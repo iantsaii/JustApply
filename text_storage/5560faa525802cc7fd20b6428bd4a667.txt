@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Administrative Assistant
+Cards Operations Senior Specialist - Issuance
 Salary
-0 - 0 USD Annual
+5800 - 7750 SGD Monthly
 Location
-Austin
+Singapore
 Team
-People
+Operations
 Locations
-Austin
+Singapore
 Description
-We are seeking a highly organized and proactive Executive Assistant to support our Wise US leadership team. This role is perfect for someone who excels in administrative efficiency, process optimizati
+Role ScopeMaintaining consistent and high level execution of recurring responsibilities within the designated domain;Supporting own team in reaching main performance metrics targets and SLA's set to O
 Reference
-792fbb23-04a4-4408-ba35-835b045638b2
+be22ca53-e348-4023-ab37-c75e9c2abb46
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-UT Technician
+Payment Operations Process Manager
 Salary
-5385 - 6692 BRL Monthly
+8500 - 10000 SGD Monthly + RSUs
 Location
-São Paulo
+Singapore
 Team
-Technology
+Operations
 Locations
-São Paulo
+Singapore
 Description
-We are looking for an experienced IT Support Technician to join our growing User Technology (UT) Support Team in our São Paulo, Brazil office! 🚀 Here at Wise we're working to create a seamless UT exp
+Salary Ranges: 8,500~10,000 SGD per month + RSUsWe’re looking for a strategic thinker who can look beyond individual procedures to architect the entire ecosystem to join us in our Payment Operations t
 Reference
-1a5c875d-0634-451f-ae23-a1500f25bcea
+7eb706e8-65f0-4604-868c-ba8ecccc12e4
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Business Development, Online Platforms
+FinCrime Operations Analyst - Sanctions
 Salary
-117000 - 167000 GBP Annual
+5600 - 6000 MYR Monthly
 Location
-London
+Kuala Lumpur
 Team
-Go To Market
+Operations
 Locations
-London
+Kuala Lumpur
 Description
-We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in EMEA. In this role, you will help deliver world-class API payment solutions to some of t
+In your cover letter please explain your interest in this role and why you want to join the Sanctions team.We’re looking for a FinCrime Operations Analyst - Sanctions to join our growing Sanctions Scr
 Reference
-8223cab4-1ced-4b0d-9e5e-497060fc451d
+8ad6981a-2cb3-490a-82b1-6ae5c8e2d4c6
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Boydton
+City:
 GeoOptions: 339
