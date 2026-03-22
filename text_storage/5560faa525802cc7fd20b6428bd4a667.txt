@@ -110,6 +110,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Recruiter
+Salary
+1050000 - 1450000 INR Annual
+Location
+Hyderabad
+Team
+People
+Locations
+Hyderabad
+Description
+As a Recruiter at Wise you’ll be responsible for hiring the best talent for Financial Crime and Anti Money Laundering in Hyderabad. You’ll own talent management, helping Servicing Operations to scale
+Reference
+62470b5f-6ced-477d-ae95-7a0ce2544365
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Compliance Senior Specialist
 Salary
 -
@@ -142,25 +161,6 @@ Description
 The Business Accounting Integrations and Reporting is on a mission to simplify financial management for Wise’s business customers. We build the integrations that allow businesses to seamlessly connect
 Reference
 465237f1-cbb7-4ff4-8b3d-0612bd6c589a
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Engineering Lead - Business Accounting Integrations and Reporting
-Salary
-125000 - 153000 GBP Annual + RSUs
-Location
-London
-Team
-Technology
-Locations
-London
-Description
-The Business Accounting Integrations & Reporting team is on a mission to simplify financial management for Wise’s business customers. We build the integrations that allow businesses to seamlessly conn
-Reference
-f6aefc54-f242-4c66-859f-5edc76e73c04
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: New York
-GeoOptions: 342
+City: Cheyenne
+GeoOptions: 339
