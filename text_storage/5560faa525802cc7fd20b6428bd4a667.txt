@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Cheyenne
-GeoOptions: 339
+City: New York
+GeoOptions: 342
