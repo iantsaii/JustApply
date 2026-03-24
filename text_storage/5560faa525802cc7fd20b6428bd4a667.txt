@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Recruiter
+Complaints Officer
 Salary
-1050000 - 1450000 INR Annual
+Monthly SGD 4,850 + RSUs
 Location
-Hyderabad
+Singapore
 Team
-People
+Customer Support
 Locations
-Hyderabad
+Singapore
 Description
-As a Recruiter at Wise you’ll be responsible for hiring the best talent for Financial Crime and Anti Money Laundering in Hyderabad. You’ll own talent management, helping Servicing Operations to scale
+The main role of a Complaints Officer is investigating customer complaints and providing the customers with a final response in a timely manner.A stage 1 Complaints Officer will ensure that customers
 Reference
-62470b5f-6ced-477d-ae95-7a0ce2544365
+36493fc8-cbee-4098-b542-7ca39dd9247a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Compliance Senior Specialist
+Payment Operations Reconciliation Senior Specialist
 Salary
--
+35 - 43.75 USD Hourly
 Location
-Hyderabad
+Austin
 Team
-Risk and Compliance
+Operations
 Locations
-Hyderabad
+Austin
 Description
-We are seeking a proactive and detail-oriented Senior Compliance Specialist to assist the Compliance Officer in India. This role will provide critical support in filing reports to the RBI, regulatory
+We’re looking for a Senior Reconciliation Specialist to join our team in Austin. This role is a unique opportunity to have an impact on Wise’s mission, being a part of our international Operations tea
 Reference
-00dfdcd8-4d76-4308-a106-73c3858ee1c8
+b84121da-6167-48bf-a427-22d7fcb2a0d2
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer I - Backend (Java) - Business Accounting Integrations and Reporting
+Customer Support Associate
 Salary
-85000 - 105000 GBP Annual + RSUs
+6015 - 6015 BRL Monthly
 Location
-London
+São Paulo
 Team
-Technology
+Customer Support
 Locations
-London
+São Paulo
 Description
-The Business Accounting Integrations and Reporting is on a mission to simplify financial management for Wise’s business customers. We build the integrations that allow businesses to seamlessly connect
+Your mission is to help customers have an excellent experience with Wise mainly via phone, emails and chat contacts. This isn't your normal call center - we do things differently - and our Customer Su
 Reference
-465237f1-cbb7-4ff4-8b3d-0612bd6c589a
+c7422d24-7be3-4c2e-bb2f-fefc2c54ac80
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: New York
-GeoOptions: 342
+City: Chicago
+GeoOptions: 339
