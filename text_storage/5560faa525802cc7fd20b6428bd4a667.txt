@@ -110,45 +110,26 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Reporting Specialist - Japanese Speaker
+Senior Software Engineer I - Java
 Salary
-JPY 6,800,000 Annually + RSUs
+12400 - 15400 SGD Monthly
 Location
-Tokyo
+Singapore
 Team
-Operations
+Technology
 Locations
-Tokyo
+Singapore
 Description
-What to expect from our hiring process;Application - our team will review your application within 5 daysA short Skills Assessment via Maki People to give you a sense of the types of skills and tasks r
+Salary range: 148,800 - 184,800 SGD per annum + RSUsWe're looking for a Senior Software Engineer to join our growing teams in Singapore. The role is a unique opportunity to build beautifully simple ex
 Reference
-ca5cd122-6305-44bb-bb11-2c754478e8b3
+10fba631-73d8-4149-a21c-f7ce93077596
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Reporting Specialist
-Salary
-MYR 6,350 Monthly + RSUs
-Location
-Kuala Lumpur
-Team
-Operations
-Locations
-Kuala Lumpur
-Description
-What to expect from our hiring process;Application - our team will review your application within 5 daysA short Skills Assessment via Maki People to give you a sense of the types of skills and tasks r
-Reference
-70f646d7-ce2e-4488-b50b-bd8943219614
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-FinCrime Reporting Specialist
+FinCrime Reporting Specialist - Indonesian Speaker
 Salary
 MYR 6,350 Monthly + RSUs
 Location
@@ -161,6 +142,25 @@ Description
 What to expect from our hiring process;Application - our team will review your application within 5 daysA short Skills Assessment via Maki People to give you a sense of the types of skills and tasks r
 Reference
 472cee57-b824-4083-aea5-30d88355bfe7
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Cloud Governance Engineer II
+Salary
+85000 - 105000 GBP Annual
+Location
+London
+Team
+Technology
+Locations
+London
+Description
+About the role We are looking for a Cloud Governance Specialist who will lead and maintain Wise’s Cloud Governance policy to ensure it remains current and aligned with business objectives and regulato
+Reference
+f9736829-9e61-4a60-ac3e-0344a2401eab
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: Phoenix
 GeoOptions: 339
