@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Software Engineer I - Java
+SEO Business Content Specialist - Japan
 Salary
-12400 - 15400 SGD Monthly
+7944000 - 11100000 JPY Annual
 Location
-Singapore
+Tokyo
 Team
-Technology
+Marketing
 Locations
-Singapore
+Tokyo
 Description
-Salary range: 148,800 - 184,800 SGD per annum + RSUsWe're looking for a Senior Software Engineer to join our growing teams in Singapore. The role is a unique opportunity to build beautifully simple ex
+We're looking for a SEO Business Content Specialist to join our growing SEO Content team and grow new business customers through B2B content for our Japan market. This role will be based in our Tokyo
 Reference
-10fba631-73d8-4149-a21c-f7ce93077596
+65f9d2c2-01fa-447a-ae0f-a41d58cc7ba5
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Reporting Specialist - Indonesian Speaker
+Internal Audit Senior Manager
 Salary
-MYR 6,350 Monthly + RSUs
+140000 - 175000 USD Annual
 Location
-Kuala Lumpur
+Austin
 Team
-Operations
+Finance
 Locations
-Kuala Lumpur
+Austin
 Description
-What to expect from our hiring process;Application - our team will review your application within 5 daysA short Skills Assessment via Maki People to give you a sense of the types of skills and tasks r
+Wise is looking for a Senior Internal Audit Manager to join our new and growing IA team in North America. Your main task will be to support the internal audit process for the Wise entities in North Am
 Reference
-472cee57-b824-4083-aea5-30d88355bfe7
+332c92d5-ac4d-4e83-bfc4-5f22cc4f1cb8
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Cloud Governance Engineer II
+SEO Content Specialist- USA
 Salary
-85000 - 105000 GBP Annual
+63000 - 81000 USD Annual
 Location
-London
+Austin
 Team
-Technology
+Marketing
 Locations
-London
+Austin
 Description
-About the role We are looking for a Cloud Governance Specialist who will lead and maintain Wise’s Cloud Governance policy to ensure it remains current and aligned with business objectives and regulato
+We are looking for an SEO Content Specialist to join our team to accelerate our growth in the US market. The role involves creating best-possible, high-quality on-site content that inspires and helps
 Reference
-f9736829-9e61-4a60-ac3e-0344a2401eab
+4b15c694-5b36-4f65-b173-b7dc49908124
 Expiry Date
 01/01/0001
 Read more
@@ -430,5 +430,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: Boydton
 GeoOptions: 339
