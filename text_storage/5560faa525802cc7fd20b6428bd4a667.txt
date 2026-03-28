@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-SEO Business Content Specialist - Japan
+Customer Support Associate
 Salary
-7944000 - 11100000 JPY Annual
+26 - 26 USD Hourly
 Location
-Tokyo
+Austin
 Team
-Marketing
+Customer Support
 Locations
-Tokyo
+Austin
 Description
-We're looking for a SEO Business Content Specialist to join our growing SEO Content team and grow new business customers through B2B content for our Japan market. This role will be based in our Tokyo
+As a Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empat
 Reference
-65f9d2c2-01fa-447a-ae0f-a41d58cc7ba5
+e009588a-96a7-4514-ae12-6a33e4197bd0
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Internal Audit Senior Manager
+Regulatory Compliance Lead
 Salary
-140000 - 175000 USD Annual
+195000 - 267000 USD Annual
 Location
-Austin
+New York
 Team
-Finance
+Risk and Compliance
 Locations
-Austin
+New York
 Description
-Wise is looking for a Senior Internal Audit Manager to join our new and growing IA team in North America. Your main task will be to support the internal audit process for the Wise entities in North Am
+We’re looking for a Regulatory Compliance Lead to join our growing North America Regulatory Oversight Compliance team. You’ll lead a compliance team(s) of specialists/professionals providing advice, g
 Reference
-332c92d5-ac4d-4e83-bfc4-5f22cc4f1cb8
+1d42cbc8-aa97-43ef-9168-3d2017dce4e9
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-SEO Content Specialist- USA
+Head of Compliance - Canada Assets
 Salary
-63000 - 81000 USD Annual
+132000 - 185000 USD Annual
 Location
-Austin
+toronto
 Team
-Marketing
+Risk and Compliance
 Locations
-Austin
+Toronto
 Description
-We are looking for an SEO Content Specialist to join our team to accelerate our growth in the US market. The role involves creating best-possible, high-quality on-site content that inspires and helps
+Since 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders. We’re just at the begin
 Reference
-4b15c694-5b36-4f65-b173-b7dc49908124
+3b1e8725-6e35-49a9-a4cb-51b4c636986a
 Expiry Date
 01/01/0001
 Read more
@@ -170,6 +170,25 @@ Shortlist
 View all
 List #1
 Latest blogs
+Beyond the map: how we launched Wise in India
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+03/20/2026
+Summary
+Our team, including Suman Anand, Taneia Bhardwaj, Aditi Jalan, and Kanaka Raju Gullapudi is bridging the gap between time zones to build products that impact 16 million+ customers globally 🌎
+Teaser
+Our team, including Suman Anand, Taneia Bhardwaj, Aditi Jalan, and Kanaka Raju Gullapudi is bridging the gap between time zones to build products that impact 16 million+ customers globally 🌎
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Product
+Engineering
 Working globally, staying local: Life at Wise in Japan
 Teaser
 People profile
@@ -347,26 +366,6 @@ Sapphire Birmingham
 Early Careers
 Life at Wise
 Engineering
-Product Compliance: balancing regulation and customer impact
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-11/13/2025
-Summary
-Yann De Rudder, Group Product Compliance Lead in our Brussels office shares his insights in working in Product Compliance at Wise.
-"In Product Compliance, you’re not just interpreti
-Teaser
-Yann De Rudder, Group Product Compliance Lead in our Brussels office shares his insights in working in Product Compliance
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Product
-Compliance
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -429,6 +428,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Boydton
-GeoOptions: 339
+Location: NL
+City: The Hague
+GeoOptions: 382
