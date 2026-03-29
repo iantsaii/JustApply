@@ -428,6 +428,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: NL
-City: The Hague
-GeoOptions: 382
+Location: US
+City: San Jose
+GeoOptions: 339
