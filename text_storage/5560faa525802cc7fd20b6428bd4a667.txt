@@ -110,25 +110,6 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Customer Support Associate
-Salary
-26 - 26 USD Hourly
-Location
-Austin
-Team
-Customer Support
-Locations
-Austin
-Description
-As a Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empat
-Reference
-e009588a-96a7-4514-ae12-6a33e4197bd0
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
 Regulatory Compliance Lead
 Salary
 195000 - 267000 USD Annual
@@ -161,6 +142,25 @@ Description
 Since 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders. We’re just at the begin
 Reference
 3b1e8725-6e35-49a9-a4cb-51b4c636986a
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Data Analyst - Internal Audit
+Salary
+60000 - 75000 GBP Annual
+Location
+London
+Team
+Analytics
+Locations
+London
+Description
+We are looking for a Senior Data Analyst to join the Internal Audit branch of the Compliance & Internal Audit Analytics team at Wise.You’ll partner with Internal Audit (IA) to develop and implement th
+Reference
+95cbb4a4-1e84-4b02-9a00-a3f743fd617f
 Expiry Date
 01/01/0001
 Read more
@@ -429,5 +429,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Boydton
 GeoOptions: 339
