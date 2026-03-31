@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Regulatory Compliance Lead
+SEO Content Specialist - Japan
 Salary
-195000 - 267000 USD Annual
+7944000 - 11100000 JPY Annual
 Location
-New York
+Tokyo
 Team
-Risk and Compliance
+Marketing
 Locations
-New York
+Tokyo
 Description
-We’re looking for a Regulatory Compliance Lead to join our growing North America Regulatory Oversight Compliance team. You’ll lead a compliance team(s) of specialists/professionals providing advice, g
+Wise is looking for a SEO Content Specialist to join our growing SEO Content team and grow new business customers through B2B content for our Japan market. This role will be based in our Tokyo office.
 Reference
-1d42cbc8-aa97-43ef-9168-3d2017dce4e9
+65f9d2c2-01fa-447a-ae0f-a41d58cc7ba5
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Head of Compliance - Canada Assets
+Customer Support Team Lead
 Salary
-132000 - 185000 USD Annual
+10000 - 12000 BRL Monthly
 Location
-toronto
+São Paulo
 Team
-Risk and Compliance
+Customer Support
 Locations
-Toronto
+São Paulo
 Description
-Since 2011, we’ve had a clear mission: money without borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders. We’re just at the begin
+Your mission is to provide leadership to the Customer Support Team - Business establishing and maintaining high levels of quality, efficiency and other processes required for an exceptional level of c
 Reference
-3b1e8725-6e35-49a9-a4cb-51b4c636986a
+fa37a322-4d55-409f-a3d5-d557e837be1b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Data Analyst - Internal Audit
+High Risk Assessment Specialist
 Salary
-60000 - 75000 GBP Annual
+11500 - 16100 BRL Monthly
 Location
-London
+São Paulo
 Team
-Analytics
+Operations
 Locations
-London
+São Paulo
 Description
-We are looking for a Senior Data Analyst to join the Internal Audit branch of the Compliance & Internal Audit Analytics team at Wise.You’ll partner with Internal Audit (IA) to develop and implement th
+As a Risk Assessment Specialist, you will play a critical role in ensuring Wise’s adherence to regulatory and compliance standards. You will be responsible for mitigating risks associated with high ri
 Reference
-95cbb4a4-1e84-4b02-9a00-a3f743fd617f
+123737cc-0465-4844-901a-4d46824b3971
 Expiry Date
 01/01/0001
 Read more
@@ -429,5 +429,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Boydton
+City: Olympia
 GeoOptions: 339
