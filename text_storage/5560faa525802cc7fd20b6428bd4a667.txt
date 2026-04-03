@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Customer Support Associate
+Senior Recruiter, GTM
 Salary
-4100 - 4100 SGD Monthly
+110000 - 141000 USD Annual
 Location
-Singapore
+Austin
+Team
+People
+Locations
+Austin
+Description
+Wise is evolving how money moves around the world. To do that, we need a talent powerhouse to scale our Americas HQ in Austin. As a Senior GTM Recruiter, you aren’t just filling seats; you are a talen
+Reference
+e5af37b4-91ac-4f82-9ee7-c9dbc40a55a7
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Corporate Communications Lead, US
+Salary
+138000 - 183500 USD Annual
+Location
+Austin
+Team
+Marketing
+Locations
+Austin
+Description
+The Corporate PR Lead, US will play a pivotal role in further shaping Wise’s US reputation as the global technology company that is building the best way to move and manage money around the world. Thi
+Reference
+e439465a-6acb-45a4-b41a-8f65b52d4a0c
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Total Service Account Specialist Lead
+Salary
+15400 - 20100 BRL Monthly
+Location
+São Paulo
 Team
 Customer Support
 Locations
-Singapore
+São Paulo
 Description
-As a Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empat
+As a Team Lead for the Account Specialists Team at Wise, you will play a pivotal role in guiding a team dedicated to enhancing customer relationships and driving business growth. Your focus will be on
 Reference
-768e6bdf-21c3-45cd-9625-beb71f0e980f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Business Operations Associate Manager
-Salary
-9250 - 12400 SGD Monthly + RSUs
-Location
-Singapore
-Team
-Operations
-Locations
-Singapore
-Description
-The Business Operations Associate Manager will support critical discovery, analysis, and improvement initiatives in servicing operations. This role focuses on leveraging servicing operations insights
-Reference
-911c266e-2f46-47ce-b455-b79c84d96a87
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Software engineer
-Salary
-65000 - 85000 GBP Annual
-Location
-London
-Team
-Technology
-Locations
-London
-Description
-About the role:Join us as a Software Engineer in our critical Trust and Safety team. This is a high-impact engineering role with a strong product focus, dedicated to solving complex, real-world advers
-Reference
-8bedeb70-9726-404b-8b75-8e44d9795686
+043cc566-d02c-40e0-806a-b43c85fd059b
 Expiry Date
 01/01/0001
 Read more
@@ -429,5 +429,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Atlanta
+City: Olympia
 GeoOptions: 339
