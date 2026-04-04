@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Recruiter, GTM
+Senior Product Manager - LATAM expansion
 Salary
-110000 - 141000 USD Annual
+32692 - 55385 BRL Annual
 Location
-Austin
+São Paulo
+Team
+Product
+Locations
+São Paulo
+Description
+As our Senior Product Manager for LATAM Expansion, you will be the architect of Wise’s growth across Latin America. Your mission is twofold: launching our existing suite of products into new markets a
+Reference
+7efa9307-7e6e-4108-83fe-eec8a62562a8
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Product Manager - PIX
+Salary
+32692 - 55385 BRL Annual
+Location
+São Paulo
+Team
+Product
+Locations
+São Paulo
+Description
+As our Senior Product Manager for PIX, you will be the driving force behind our payment infrastructure in Brazil. Your mission is to bridge the gap between international transfers and local convenienc
+Reference
+c32ce9e7-ca68-44c7-a7fc-dbaeaeb831f7
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Recruiting Manager
+Salary
+23300 - 34400 BRL Monthly
+Location
+São Paulo
 Team
 People
 Locations
-Austin
-Description
-Wise is evolving how money moves around the world. To do that, we need a talent powerhouse to scale our Americas HQ in Austin. As a Senior GTM Recruiter, you aren’t just filling seats; you are a talen
-Reference
-e5af37b4-91ac-4f82-9ee7-c9dbc40a55a7
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Corporate Communications Lead, US
-Salary
-138000 - 183500 USD Annual
-Location
-Austin
-Team
-Marketing
-Locations
-Austin
-Description
-The Corporate PR Lead, US will play a pivotal role in further shaping Wise’s US reputation as the global technology company that is building the best way to move and manage money around the world. Thi
-Reference
-e439465a-6acb-45a4-b41a-8f65b52d4a0c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Total Service Account Specialist Lead
-Salary
-15400 - 20100 BRL Monthly
-Location
-São Paulo
-Team
-Customer Support
-Locations
 São Paulo
 Description
-As a Team Lead for the Account Specialists Team at Wise, you will play a pivotal role in guiding a team dedicated to enhancing customer relationships and driving business growth. Your focus will be on
+We are seeking a strategic Recruiting Manager to spearhead our high-volume Servicing and Operations hiring as we rapidly scale our presence in São Paulo and across the Americas. In this role, you will
 Reference
-043cc566-d02c-40e0-806a-b43c85fd059b
+f5a348fd-cb07-45ff-b224-31c76055ddd0
 Expiry Date
 01/01/0001
 Read more
@@ -429,5 +429,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: Boydton
 GeoOptions: 339
