@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Product Manager - LATAM expansion
+Senior Software Engineer I - Java
 Salary
-32692 - 55385 BRL Annual
+148,800 - 184,800 SGD base per annum + RSUs
 Location
-São Paulo
+Singapore
 Team
-Product
+Technology
 Locations
-São Paulo
+Singapore
 Description
-As our Senior Product Manager for LATAM Expansion, you will be the architect of Wise’s growth across Latin America. Your mission is twofold: launching our existing suite of products into new markets a
+We're looking for a Senior Software Engineer to join our growing teams in Singapore. The role is a unique opportunity to build beautifully simple experiences that guide our customers through Wise, hel
 Reference
-7efa9307-7e6e-4108-83fe-eec8a62562a8
+ffebf21a-55c3-4bb9-9470-1b53e6ad542a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Product Manager - PIX
+Software Engineer - Java - Japanese Speaking
 Salary
-32692 - 55385 BRL Annual
+112,200 - 148,800 SGD per annum + RSUs
 Location
-São Paulo
+Singapore
 Team
-Product
+Technology
 Locations
-São Paulo
+Singapore
 Description
-As our Senior Product Manager for PIX, you will be the driving force behind our payment infrastructure in Brazil. Your mission is to bridge the gap between international transfers and local convenienc
+Salary Range: 112,200 - 148,800 SGD base per annum + RSUsWe're looking for a Software Engineer to join our growing team in Singapore. The role is a unique opportunity to build beautifully simple exper
 Reference
-c32ce9e7-ca68-44c7-a7fc-dbaeaeb831f7
+d5b3e3b9-fd43-4977-858e-2d30556ba4c7
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Recruiting Manager
+Sales Coordinator - APAC
 Salary
-23300 - 34400 BRL Monthly
+6500 - 8750 SGD Monthly
 Location
-São Paulo
+Singapore
 Team
-People
+Go To Market
 Locations
-São Paulo
+Singapore
 Description
-We are seeking a strategic Recruiting Manager to spearhead our high-volume Servicing and Operations hiring as we rapidly scale our presence in São Paulo and across the Americas. In this role, you will
+As a Sales Coordinator, you will bring critical project management skills crucial to speeding up the sales process, keeping deals organised by working closely with the deal team, including BDs, AMs, P
 Reference
-f5a348fd-cb07-45ff-b224-31c76055ddd0
+5fac5e13-256c-4b9d-a354-50e0f55d7f07
 Expiry Date
 01/01/0001
 Read more
@@ -429,5 +429,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Boydton
+City: Des Moines
 GeoOptions: 339
