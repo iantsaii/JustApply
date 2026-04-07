@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Software Engineer I - Java
+Senior Customer Success Manager
 Salary
-148,800 - 184,800 SGD base per annum + RSUs
+98000 - 138000 USD Annual
 Location
-Singapore
-Team
-Technology
-Locations
-Singapore
-Description
-We're looking for a Senior Software Engineer to join our growing teams in Singapore. The role is a unique opportunity to build beautifully simple experiences that guide our customers through Wise, hel
-Reference
-ffebf21a-55c3-4bb9-9470-1b53e6ad542a
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Software Engineer - Java - Japanese Speaking
-Salary
-112,200 - 148,800 SGD per annum + RSUs
-Location
-Singapore
-Team
-Technology
-Locations
-Singapore
-Description
-Salary Range: 112,200 - 148,800 SGD base per annum + RSUsWe're looking for a Software Engineer to join our growing team in Singapore. The role is a unique opportunity to build beautifully simple exper
-Reference
-d5b3e3b9-fd43-4977-858e-2d30556ba4c7
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Sales Coordinator - APAC
-Salary
-6500 - 8750 SGD Monthly
-Location
-Singapore
+Austin
 Team
 Go To Market
 Locations
+Austin
+Description
+About the role:As a Customer Success Manager, you will own the operational strategy and execution for a portfolio of high-value banking and fintech partners, ensuring their ongoing success and driving
+Reference
+c47d8415-951f-46ce-892a-7332d37fca71
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Payment Operations Reconciliation Senior Specialist
+Salary
+35 - 43.75 USD Hourly
+Location
+Austin
+Team
+Operations
+Locations
+Austin
+Description
+We’re looking for a Senior Reconciliation Specialist to join our team in Austin. This role is a unique opportunity to have an impact on Wise’s mission, being a part of our international Operations tea
+Reference
+e4b3444b-2268-4c87-838a-80741994d218
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Internal Audit Senior Manager
+Salary
+13333 - 19167 SGD Monthly
+Location
+Singapore
+Team
+Finance
+Locations
 Singapore
 Description
-As a Sales Coordinator, you will bring critical project management skills crucial to speeding up the sales process, keeping deals organised by working closely with the deal team, including BDs, AMs, P
+A bit about the roleWe are looking for an Internal Audit Senior Manager to join our new and growing IA team. Your main task will be to coordinate the internal audit process predominantly on financial
 Reference
-5fac5e13-256c-4b9d-a354-50e0f55d7f07
+20c2267f-d5dc-426a-9aeb-a4f10077df78
 Expiry Date
 01/01/0001
 Read more
@@ -429,5 +429,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
-GeoOptions: 339
+City: New York
+GeoOptions: 342
