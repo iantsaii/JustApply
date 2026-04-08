@@ -110,28 +110,28 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Customer Success Manager
+Customer Support Associate
 Salary
-98000 - 138000 USD Annual
+4100 - 4100 SGD Monthly
 Location
-Austin
+Singapore
 Team
-Go To Market
+Customer Support
 Locations
-Austin
+Singapore
 Description
-About the role:As a Customer Success Manager, you will own the operational strategy and execution for a portfolio of high-value banking and fintech partners, ensuring their ongoing success and driving
+As a Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empat
 Reference
-c47d8415-951f-46ce-892a-7332d37fca71
+768e6bdf-21c3-45cd-9625-beb71f0e980f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Payment Operations Reconciliation Senior Specialist
+Partner Risk Assessment Specialist
 Salary
-35 - 43.75 USD Hourly
+80000 - 103000 USD Annual
 Location
 Austin
 Team
@@ -139,28 +139,28 @@ Operations
 Locations
 Austin
 Description
-We’re looking for a Senior Reconciliation Specialist to join our team in Austin. This role is a unique opportunity to have an impact on Wise’s mission, being a part of our international Operations tea
+As a Partner Risk Assessment Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for onboarding and risk assessin
 Reference
-e4b3444b-2268-4c87-838a-80741994d218
+4277560a-4406-4dba-ae4b-30f80246ddee
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Internal Audit Senior Manager
+Treasury Manager - Markets
 Salary
-13333 - 19167 SGD Monthly
+180000 - 250000 USD Annual
 Location
-Singapore
+Austin
 Team
 Finance
 Locations
-Singapore
+Austin
 Description
-A bit about the roleWe are looking for an Internal Audit Senior Manager to join our new and growing IA team. Your main task will be to coordinate the internal audit process predominantly on financial
+We’re looking for an experienced Treasury Manager to join our Treasury team in Austin. This role is a unique growth opportunity in our Treasury within our newly created Markets team, with the ability
 Reference
-20c2267f-d5dc-426a-9aeb-a4f10077df78
+a5245106-3745-46cc-b28e-1a1e6e4c8075
 Expiry Date
 01/01/0001
 Read more
@@ -428,6 +428,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: New York
-GeoOptions: 342
+Location: NL
+City: The Hague
+GeoOptions: 382
