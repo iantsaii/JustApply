@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Customer Support Associate
+Cloud Governance Advisor II
 Salary
-4100 - 4100 SGD Monthly
+85000 - 105000 GBP Annual
 Location
-Singapore
-Team
-Customer Support
+London
+Job Family Group
+Engineering
 Locations
-Singapore
+London
 Description
-As a Customer Support Associate at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empat
+About the role We are looking for a Cloud Governance Specialist who will lead and maintain Wise’s Cloud Governance policy to ensure it remains current and aligned with business objectives and regulato
 Reference
-768e6bdf-21c3-45cd-9625-beb71f0e980f
+f9736829-9e61-4a60-ac3e-0344a2401eab
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Partner Risk Assessment Specialist
+Senior Risk Manager
 Salary
-80000 - 103000 USD Annual
+132500 - 190000 USD Annual
 Location
 Austin
-Team
-Operations
+Job Family Group
+Risk
 Locations
 Austin
 Description
-As a Partner Risk Assessment Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for onboarding and risk assessin
+The RoleWe're looking for a Senior Risk Manager to support and contribute to the ongoing design and implementation and day-to-day management of our enterprise risk management framework, with a particu
 Reference
-4277560a-4406-4dba-ae4b-30f80246ddee
+c6a88a8f-7ce4-42b4-b2f4-bf841bc3f418
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Treasury Manager - Markets
+Workplace Operations Coordinator
 Salary
-180000 - 250000 USD Annual
+610000 - 750000 HUF Monthly
 Location
-Austin
-Team
-Finance
+Budapest
+Job Family Group
+Workplace
 Locations
-Austin
+Budapest
 Description
-We’re looking for an experienced Treasury Manager to join our Treasury team in Austin. This role is a unique growth opportunity in our Treasury within our newly created Markets team, with the ability
+We’re looking for a well organised, passionate and people-centric Workplace Operations Coordinator to join our dynamic Workplace team in Budapest! As a core member of our Workplace Team, you will help
 Reference
-a5245106-3745-46cc-b28e-1a1e6e4c8075
+40c86d11-6a4e-4ef8-8d4a-d12afa46e0ed
 Expiry Date
 01/01/0001
 Read more
@@ -428,6 +428,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: NL
-City: The Hague
-GeoOptions: 382
+Location: US
+City: Newark
+GeoOptions: 339
