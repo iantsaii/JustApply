@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Cloud Governance Advisor II
+Total Service Account Specialist
 Salary
-85000 - 105000 GBP Annual
+11000 - 15400 BRL Monthly
 Location
-London
+São Paulo
 Job Family Group
-Engineering
+Customer Support - General
 Locations
-London
+São Paulo
 Description
-About the role We are looking for a Cloud Governance Specialist who will lead and maintain Wise’s Cloud Governance policy to ensure it remains current and aligned with business objectives and regulato
+Are you ready to take a pivotal role in enhancing customer relationships and driving business growth?Wise is seeking a dedicated Account Specialist in São Paulo to join our high-impact team! This is y
 Reference
-f9736829-9e61-4a60-ac3e-0344a2401eab
+cde93fec-0fe5-4590-b990-32b0a5926a9b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Risk Manager
+Servicing Recruiter
 Salary
-132500 - 190000 USD Annual
+9200 - 13500 BRL Monthly
 Location
-Austin
+São Paulo
 Job Family Group
-Risk
+Recruitment
 Locations
-Austin
+São Paulo
 Description
-The RoleWe're looking for a Senior Risk Manager to support and contribute to the ongoing design and implementation and day-to-day management of our enterprise risk management framework, with a particu
+Join our dynamic and expanding team in São Paulo and play a crucial role in shaping the future of Wise in the Americas. As a Servicing Recruiter, you'll have the opportunity to foster a strong team cu
 Reference
-c6a88a8f-7ce4-42b4-b2f4-bf841bc3f418
+436223a4-bc4c-4184-8cea-74cc64d50793
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Workplace Operations Coordinator
+Presales Consultant
 Salary
-610000 - 750000 HUF Monthly
+230000 - 280000 USD Annual
 Location
-Budapest
+New York
 Job Family Group
-Workplace
+Presales
 Locations
-Budapest
+New York
 Description
-We’re looking for a well organised, passionate and people-centric Workplace Operations Coordinator to join our dynamic Workplace team in Budapest! As a core member of our Workplace Team, you will help
+We are looking for a Pre-sales Consultant to join our team in New York and play a crucial role in winning sales opportunities by solving our partner’s most complex problems. We’ll look to you as a key
 Reference
-40c86d11-6a4e-4ef8-8d4a-d12afa46e0ed
+2f626a49-f6e2-4231-a676-4b77123075d8
 Expiry Date
 01/01/0001
 Read more
@@ -429,5 +429,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Newark
+City: Phoenix
 GeoOptions: 339
