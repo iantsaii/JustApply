@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Paid Social Manager
+Senior Recruiter
 Salary
-6400 - 8900 SGD Monthly + RSUs
+2150000 - 3450000 INR Annual
 Location
-Singapore
+Hyderabad
 Job Family Group
-Paid Acquisition
+Recruitment
 Locations
-Singapore
+Hyderabad
 Description
-We're looking for a Paid Social Manager to join our growing team, based in our Singapore office and looking after markets within the Asia region. This role is a unique opportunity to join a team who h
+As a Senior Recruiter at Wise you’ll be responsible for hiring the best talent for AML teams in Hyderabad. You’ll own talent management, helping AML to scale to enable Wise to achieve our mission - mo
 Reference
-a6d605a8-c62d-4302-b9be-0ddbf142868d
+fa03095c-2162-412e-8638-84af79cf4faf
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Product Compliance Manager - Japan
+Recruiter
 Salary
-19.8Million - 24.825Million JPY Per Annum + RSUs
+1450000 - 2150000 INR Annual
 Location
-Tokyo
+Hyderabad
 Job Family Group
-Product Compliance
+Recruitment
 Locations
-Tokyo
+Hyderabad
 Description
-Senior FinCrime Product Compliance & Risk Manager - JapanLocation: TokyoWe’re looking for a Senior FinCrime Product Compliance & Risk Manager to work alongside our APAC Product teams to help launch ne
+As a Recruiter at Wise you’ll be responsible for hiring the best talent for Core Functions and Servicing Operations in Hyderabad. You’ll own talent management, helping Servicing Operations to scale to
 Reference
-0b0a19eb-e19a-4d5d-b0a5-f614ff80895b
+5cb614a0-249f-4e6b-ae24-9257a009f1e8
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Sr Cloud Economics Engineer I
+Analytics Director, APAC
 Salary
-85000 - 105000 GBP Annual
+Starting from 230,0000 SGD base per annum + RSUs
 Location
-London
+Singapore
 Job Family Group
-Engineering
+Analytics - General
 Locations
-London
+Singapore
 Description
-We are looking for a Senior Platform Engineer to join our Cloud Economics team at Wise. You will work cross-functionally with engineering teams across the business, identifying and implementing effici
+Salary Range: Starting from 230,0000 SGD base per annum + RSUsWe’re looking for an Analytics Director for the APAC Squad who is passionate about our mission of Money Without Borders, to lead a high-im
 Reference
-03905bfc-feea-4857-b5bf-8b1367ce1a85
+9da8b042-2932-4550-b483-a7d37e281239
 Expiry Date
 01/01/0001
 Read more
@@ -428,6 +428,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: San Jose
+GeoOptions: 339
