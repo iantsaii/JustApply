@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Recruiter
+FinCrime Operations Analyst - Sanctions
 Salary
-2150000 - 3450000 INR Annual
+0 - 0 INR Annual
 Location
 Hyderabad
 Job Family Group
-Recruitment
+Customer Compliance
 Locations
 Hyderabad
 Description
-As a Senior Recruiter at Wise you’ll be responsible for hiring the best talent for AML teams in Hyderabad. You’ll own talent management, helping AML to scale to enable Wise to achieve our mission - mo
+We’re looking for FinCrime Operations Analyst - Sanctions to join our growing Sanctions Screening team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s mission, grow as a Sa
 Reference
-fa03095c-2162-412e-8638-84af79cf4faf
+38b1b1c3-a666-40a4-a9f7-566b7e6ebbdd
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Recruiter
+Senior Business Development Manager
 Salary
-1450000 - 2150000 INR Annual
+225000 - 284000 USD Annual
 Location
-Hyderabad
+Austin
 Job Family Group
-Recruitment
+Business Development
 Locations
-Hyderabad
+Austin
 Description
-As a Recruiter at Wise you’ll be responsible for hiring the best talent for Core Functions and Servicing Operations in Hyderabad. You’ll own talent management, helping Servicing Operations to scale to
+We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
 Reference
-5cb614a0-249f-4e6b-ae24-9257a009f1e8
+07af7d4e-36fc-48d7-bf40-dae0a8ccd695
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Analytics Director, APAC
+Recruiting Manager - Servicing and Operations
 Salary
-Starting from 230,0000 SGD base per annum + RSUs
+23300 - 34400 BRL Monthly
 Location
-Singapore
+São Paulo
 Job Family Group
-Analytics - General
+Recruitment
 Locations
-Singapore
+São Paulo
 Description
-Salary Range: Starting from 230,0000 SGD base per annum + RSUsWe’re looking for an Analytics Director for the APAC Squad who is passionate about our mission of Money Without Borders, to lead a high-im
+We are seeking a strategic Recruiting Manager to spearhead our high-volume Servicing and Operations hiring as we rapidly scale our presence in São Paulo and across the Americas. In this role, you will
 Reference
-9da8b042-2932-4550-b483-a7d37e281239
+f5a348fd-cb07-45ff-b224-31c76055ddd0
 Expiry Date
 01/01/0001
 Read more
@@ -429,5 +429,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Phoenix
 GeoOptions: 339
