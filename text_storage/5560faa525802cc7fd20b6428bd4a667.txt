@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Operations Analyst - Sanctions
+FinCrime Operations Senior Lead - Fraud
 Salary
-0 - 0 INR Annual
+MYR 14,000 Monthly + RSUs
 Location
-Hyderabad
+Kuala Lumpur
 Job Family Group
 Customer Compliance
 Locations
-Hyderabad
+Kuala Lumpur
 Description
-We’re looking for FinCrime Operations Analyst - Sanctions to join our growing Sanctions Screening team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s mission, grow as a Sa
+As a Financial Crime Operations Senior Lead, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key object
 Reference
-38b1b1c3-a666-40a4-a9f7-566b7e6ebbdd
+60d089e0-cdc7-4ae2-9ef9-8d5ef05f2b6e
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Business Development Manager
+Senior Risk Manager
 Salary
-225000 - 284000 USD Annual
+132500 - 190000 USD Annual
 Location
 Austin
 Job Family Group
-Business Development
+Risk
 Locations
 Austin
 Description
-We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
+The RoleWe're looking for a Senior Risk Manager to support and contribute to the ongoing design and implementation and day-to-day management of our enterprise risk management framework, with a particu
 Reference
-07af7d4e-36fc-48d7-bf40-dae0a8ccd695
+c6a88a8f-7ce4-42b4-b2f4-bf841bc3f418
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Recruiting Manager - Servicing and Operations
+FinCrime Operations Senior Team Lead - AML Investigations
 Salary
-23300 - 34400 BRL Monthly
+23,500 - 31,500 BRL Monthly
 Location
 São Paulo
 Job Family Group
-Recruitment
+Customer Compliance
 Locations
 São Paulo
 Description
-We are seeking a strategic Recruiting Manager to spearhead our high-volume Servicing and Operations hiring as we rapidly scale our presence in São Paulo and across the Americas. In this role, you will
+As a FinCrime Operations Senior Lead - LatAm, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key objec
 Reference
-f5a348fd-cb07-45ff-b224-31c76055ddd0
+85993212-83ce-482c-9644-7ff8edd2c28a
 Expiry Date
 01/01/0001
 Read more
@@ -208,6 +208,7 @@ Verona Hasani
 by
 Verona Hasani
 Life at Wise
+Payment Operations
 Inclusion by Design: Wise Office spaces
 Teaser
 Diversity Equity & Inclusion
@@ -285,6 +286,7 @@ Verona Hasani
 by
 Verona Hasani
 Life at Wise
+Engineering
 Wise Platform
 Building Community, Growing Leaders: The Black Wisers Community at Wise
 Teaser
@@ -306,6 +308,7 @@ by
 Sapphire Birmingham
 DEI
 Life at Wise
+Customer Support
 From Customer to Product Lead: Pablo Suarez
 Teaser
 People profile
@@ -429,5 +432,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: San Jose
 GeoOptions: 339
