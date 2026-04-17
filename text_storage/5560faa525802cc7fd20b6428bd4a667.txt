@@ -110,47 +110,47 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Operations Senior Lead - Fraud
+CMT & Risk Lead
 Salary
-MYR 14,000 Monthly + RSUs
+195000 - 267000 USD Annual
 Location
-Kuala Lumpur
+New York
 Job Family Group
-Customer Compliance
+Compliance
 Locations
-Kuala Lumpur
+New York
 Description
-As a Financial Crime Operations Senior Lead, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key object
+This leadership role will head the CRMTA function for North America, driving effective and efficient compliance risk management across the US and Canada. You will be responsible for defining and imple
 Reference
-60d089e0-cdc7-4ae2-9ef9-8d5ef05f2b6e
+b39e14d4-fb40-4817-8a59-276997bb59f7
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Risk Manager
+Product Marketing Manager - Investments
 Salary
-132500 - 190000 USD Annual
+80000 - 110000 GBP Annual
 Location
-Austin
+London
 Job Family Group
-Risk
+Product Marketing
 Locations
-Austin
+London
 Description
-The RoleWe're looking for a Senior Risk Manager to support and contribute to the ongoing design and implementation and day-to-day management of our enterprise risk management framework, with a particu
+The Team: Grow SquadYou will join the Grow Squad, the cross-functional team responsible for the "Holding" and "Wealth" pillars of our mission. Our goal is to empower Wise customers to live the life th
 Reference
-c6a88a8f-7ce4-42b4-b2f4-bf841bc3f418
+c419c4cf-c792-45ab-addb-3b2595803f84
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Senior Team Lead - AML Investigations
+FinCrime Operations Team Lead - AML Investigations
 Salary
-23,500 - 31,500 BRL Monthly
+15400 - 20100 BRL Monthly
 Location
 São Paulo
 Job Family Group
@@ -158,9 +158,9 @@ Customer Compliance
 Locations
 São Paulo
 Description
-As a FinCrime Operations Senior Lead - LatAm, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key objec
+As a FinCrime Operations Team Lead you will develop and oversee the daily operations of a team of FinCrime Operations Analysts or Specialists. Your primary purpose is to ensure the effective mitigatio
 Reference
-85993212-83ce-482c-9644-7ff8edd2c28a
+883c6470-db58-4a1a-96e5-ec0fdf0e1c81
 Expiry Date
 01/01/0001
 Read more
