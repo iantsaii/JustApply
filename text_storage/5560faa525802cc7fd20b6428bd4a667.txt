@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-CMT & Risk Lead
+Benefits Manager - Americas
 Salary
-195000 - 267000 USD Annual
+141000 - 168000 USD Annual
 Location
-New York
+Austin
+Job Family Group
+Reward & Mobility
+Locations
+Austin
+Description
+At Wise, we’re building a world without borders, and that mission starts with our people. We are looking for an Americas Benefits Manager to join our Total Rewards Center of Excellence (COE).In this r
+Reference
+d9df81bb-0579-4155-9b9e-53b6e90861ef
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Compliance Senior Specialist - Sanctions
+Salary
+11000 - 16000 BRL Monthly
+Location
+São Paulo
 Job Family Group
 Compliance
 Locations
-New York
+São Paulo
 Description
-This leadership role will head the CRMTA function for North America, driving effective and efficient compliance risk management across the US and Canada. You will be responsible for defining and imple
+Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world’s first platform to offer true mult
 Reference
-b39e14d4-fb40-4817-8a59-276997bb59f7
+7ce87cc7-c762-457b-b16a-19cb8a0b736d
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Product Marketing Manager - Investments
+Indirect Tax Compliance Manager
 Salary
-80000 - 110000 GBP Annual
+3300 - 4400 EUR Monthly
 Location
-London
+Tallinn
 Job Family Group
-Product Marketing
+Finance Specialists
 Locations
-London
+Tallinn
 Description
-The Team: Grow SquadYou will join the Grow Squad, the cross-functional team responsible for the "Holding" and "Wealth" pillars of our mission. Our goal is to empower Wise customers to live the life th
+We are looking for a motivated, decisive, practical and detail-oriented Indirect Tax Manager to join our team in the Tallinn office! Our Tax team makes sure that we operate policies and governance pro
 Reference
-c419c4cf-c792-45ab-addb-3b2595803f84
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-FinCrime Operations Team Lead - AML Investigations
-Salary
-15400 - 20100 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Customer Compliance
-Locations
-São Paulo
-Description
-As a FinCrime Operations Team Lead you will develop and oversee the daily operations of a team of FinCrime Operations Analysts or Specialists. Your primary purpose is to ensure the effective mitigatio
-Reference
-883c6470-db58-4a1a-96e5-ec0fdf0e1c81
+2f631c54-90e3-4d56-aeb6-e527d1b3b5b6
 Expiry Date
 01/01/0001
 Read more
@@ -431,6 +431,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: San Jose
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
