@@ -110,6 +110,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+KYC Operations Area Lead - Consumer
+Salary
+2600000 INR Annual + RSU's
+Location
+Hyderabad
+Job Family Group
+Verification
+Locations
+Hyderabad
+Description
+The KYC Operations Area Lead is responsible for overseeing multiple KYC Operations Senior Team Leads within certain functional areas, which might be a site, group of sites or specific operational doma
+Reference
+d875824e-c89e-44f8-9ed5-32062601e5b9
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Benefits Manager - Americas
 Salary
 141000 - 168000 USD Annual
@@ -142,25 +161,6 @@ Description
 Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world’s first platform to offer true mult
 Reference
 7ce87cc7-c762-457b-b16a-19cb8a0b736d
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Indirect Tax Compliance Manager
-Salary
-3300 - 4400 EUR Monthly
-Location
-Tallinn
-Job Family Group
-Finance Specialists
-Locations
-Tallinn
-Description
-We are looking for a motivated, decisive, practical and detail-oriented Indirect Tax Manager to join our team in the Tallinn office! Our Tax team makes sure that we operate policies and governance pro
-Reference
-2f631c54-90e3-4d56-aeb6-e527d1b3b5b6
 Expiry Date
 01/01/0001
 Read more
@@ -431,6 +431,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Phoenix
+GeoOptions: 339
