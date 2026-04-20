@@ -110,6 +110,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Paid Social Manager
+Salary
+6400 - 8900 SGD Monthly + RSUs
+Location
+Singapore
+Job Family Group
+Paid Acquisition
+Locations
+Singapore
+Description
+We're looking for a Paid Social Manager to join our growing team, based in our Singapore office and looking after markets within the Asia region. This role is a unique opportunity to join a team who h
+Reference
+a6d605a8-c62d-4302-b9be-0ddbf142868d
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 KYC Operations Area Lead - Consumer
 Salary
 2600000 INR Annual + RSU's
@@ -142,25 +161,6 @@ Description
 At Wise, we’re building a world without borders, and that mission starts with our people. We are looking for an Americas Benefits Manager to join our Total Rewards Center of Excellence (COE).In this r
 Reference
 d9df81bb-0579-4155-9b9e-53b6e90861ef
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Compliance Senior Specialist - Sanctions
-Salary
-11000 - 16000 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Compliance
-Locations
-São Paulo
-Description
-Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world’s first platform to offer true mult
-Reference
-7ce87cc7-c762-457b-b16a-19cb8a0b736d
 Expiry Date
 01/01/0001
 Read more
@@ -432,5 +432,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: Olympia
 GeoOptions: 339

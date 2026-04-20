@@ -1,30 +1,26 @@
 # Latest Scraper Results
 
-## 2026-04-19 05:26:23
+## 2026-04-20 05:37:58
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-+ 2600000 INR Annual + RSU's
-- 2f631c54-90e3-4d56-aeb6-e527d1b3b5b6
-- 3300 - 4400 EUR Monthly
-- City: London
-+ City: Phoenix
-- Finance Specialists
-+ GeoOptions: 339
-- GeoOptions: 343
-+ Hyderabad x2
-- Indirect Tax Compliance Manager
-+ KYC Operations Area Lead - Consumer
-- Location: GB
-+ Location: US
-- Tallinn x2
-+ The KYC Operations Area Lead is responsible for overseeing multiple KYC Operations Senior Team Leads within certain functional areas, which might be a site, group of sites or specific operational doma
-+ Verification
-- We are looking for a motivated, decisive, practical and detail-oriented Indirect Tax Manager to join our team in the Tallinn office! Our Tax team makes sure that we operate policies and governance pro
-+ d875824e-c89e-44f8-9ed5-32062601e5b9
+- 11000 - 16000 BRL Monthly
++ 6400 - 8900 SGD Monthly + RSUs
+- 7ce87cc7-c762-457b-b16a-19cb8a0b736d
++ City: Olympia
+- City: Phoenix
+- Compliance
+- Compliance Senior Specialist - Sanctions
++ Paid Acquisition
++ Paid Social Manager
++ Singapore x2
+- São Paulo x2
++ We're looking for a Paid Social Manager to join our growing team, based in our Singapore office and looking after markets within the Asia region. This role is a unique opportunity to join a team who h
+- Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world’s first platform to offer true mult
++ a6d605a8-c62d-4302-b9be-0ddbf142868d
 ```
 
 ---
