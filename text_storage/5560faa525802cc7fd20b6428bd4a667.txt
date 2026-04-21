@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Paid Social Manager
+Customer Support Team Lead
 Salary
-6400 - 8900 SGD Monthly + RSUs
+5600 - 6350 SGD Monthly
 Location
 Singapore
 Job Family Group
-Paid Acquisition
+Customer Support - General
 Locations
 Singapore
 Description
-We're looking for a Paid Social Manager to join our growing team, based in our Singapore office and looking after markets within the Asia region. This role is a unique opportunity to join a team who h
+KPIsResponsible for ensuring the actual KPIs are within target for their team. These KPIs are defined based on the actual business requirements (Agent Performane Metrics) and can be - but are not sole
 Reference
-a6d605a8-c62d-4302-b9be-0ddbf142868d
+c15fd164-5b14-41b5-8ede-e9d5779df24f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-KYC Operations Area Lead - Consumer
+Events Specialist
 Salary
-2600000 INR Annual + RSU's
+81000 - 105000 USD Annual
 Location
-Hyderabad
+Austin
 Job Family Group
-Verification
+People Experience & Programmes
 Locations
-Hyderabad
+Austin
 Description
-The KYC Operations Area Lead is responsible for overseeing multiple KYC Operations Senior Team Leads within certain functional areas, which might be a site, group of sites or specific operational doma
+We are looking for a detail-oriented, organized, proactive, and creative Event Specialist to join our Events team at Wise. In this role, you will collaborate closely with the Global Events Lead to sup
 Reference
-d875824e-c89e-44f8-9ed5-32062601e5b9
+560c3d0b-ec17-4914-9644-8e3952a7705f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Benefits Manager - Americas
+Events Specialist
 Salary
-141000 - 168000 USD Annual
+8700 - 12800 BRL Monthly
 Location
-Austin
+São Paulo
 Job Family Group
-Reward & Mobility
+People Experience & Programmes
 Locations
-Austin
+São Paulo
 Description
-At Wise, we’re building a world without borders, and that mission starts with our people. We are looking for an Americas Benefits Manager to join our Total Rewards Center of Excellence (COE).In this r
+We are looking for a detail-oriented, well-organized, proactive, and creative Event Specialist to join our Events team at Wise. In this role, you will collaborate closely with the Events Lead to suppo
 Reference
-d9df81bb-0579-4155-9b9e-53b6e90861ef
+cf46a0b5-a2bb-4e32-bf3e-82f89a64cfcc
 Expiry Date
 01/01/0001
 Read more
@@ -432,5 +432,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: San Jose
 GeoOptions: 339
