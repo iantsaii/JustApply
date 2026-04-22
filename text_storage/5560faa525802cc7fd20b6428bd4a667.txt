@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Customer Support Team Lead
+Program Manager- Business Operations
 Salary
-5600 - 6350 SGD Monthly
+155000 - 190000 USD Annual
 Location
-Singapore
+Austin
 Job Family Group
-Customer Support - General
+Banking - General
 Locations
-Singapore
+Austin
 Description
-KPIsResponsible for ensuring the actual KPIs are within target for their team. These KPIs are defined based on the actual business requirements (Agent Performane Metrics) and can be - but are not sole
+Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world’s first platform to offer true mult
 Reference
-c15fd164-5b14-41b5-8ede-e9d5779df24f
+ed7047b1-8716-471f-bd68-ca11d0669b17
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Events Specialist
+Paid Audio Senior Manager
 Salary
-81000 - 105000 USD Annual
+117000 - 174500 USD Annual
 Location
-Austin
+New York
 Job Family Group
-People Experience & Programmes
+Paid Acquisition
 Locations
-Austin
+New York
 Description
-We are looking for a detail-oriented, organized, proactive, and creative Event Specialist to join our Events team at Wise. In this role, you will collaborate closely with the Global Events Lead to sup
+We’re looking for a data-driven Paid Audio Manager to join our team in NYC to scale Wise’s advertising activity across the global podcast and streaming landscape. This role will be rooted in maintaini
 Reference
-560c3d0b-ec17-4914-9644-8e3952a7705f
+6ffee08a-5f86-4f34-8cd2-1c85a72dfc6c
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Events Specialist
+Compliance Specialist
 Salary
-8700 - 12800 BRL Monthly
+77000 - 105000 USD Annual
 Location
-São Paulo
+Austin
 Job Family Group
-People Experience & Programmes
+Compliance
 Locations
-São Paulo
+Austin
 Description
-We are looking for a detail-oriented, well-organized, proactive, and creative Event Specialist to join our Events team at Wise. In this role, you will collaborate closely with the Events Lead to suppo
+We’re looking for a Compliance Specialist to join our growing North America Regulatory Oversight Compliance team. In this role, you’ll be a key partner in managing our regulatory obligations, particul
 Reference
-cf46a0b5-a2bb-4e32-bf3e-82f89a64cfcc
+77618200-d691-475f-906a-55749a3ddbec
 Expiry Date
 01/01/0001
 Read more
@@ -432,5 +432,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Chicago
 GeoOptions: 339
