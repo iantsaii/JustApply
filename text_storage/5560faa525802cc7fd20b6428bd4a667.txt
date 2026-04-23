@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Program Manager- Business Operations
+Complaints Officer
 Salary
-155000 - 190000 USD Annual
+4850 - 5800 SGD Monthly
 Location
-Austin
+Singapore
 Job Family Group
-Banking - General
+Complaints
 Locations
-Austin
+Singapore
 Description
-Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world’s first platform to offer true mult
+The main role of a Complaints Officer is investigating customer complaints and providing the customers with a final response in a timely manner.A stage 1 Complaints Officer will ensure that customers
 Reference
-ed7047b1-8716-471f-bd68-ca11d0669b17
+36493fc8-cbee-4098-b542-7ca39dd9247a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Paid Audio Senior Manager
+Analytics Director, APAC
 Salary
-117000 - 174500 USD Annual
+Starting from 230,0000 SGD base per annum + RSUs
 Location
-New York
+Singapore
 Job Family Group
-Paid Acquisition
+Analytics - General
 Locations
-New York
+Singapore
 Description
-We’re looking for a data-driven Paid Audio Manager to join our team in NYC to scale Wise’s advertising activity across the global podcast and streaming landscape. This role will be rooted in maintaini
+Salary Range: Starting from 230,0000 SGD base per annum + RSUsWe’re looking for an Analytics Director for the APAC Squad who is passionate about our mission of Money Without Borders, to lead a high-im
 Reference
-6ffee08a-5f86-4f34-8cd2-1c85a72dfc6c
+9da8b042-2932-4550-b483-a7d37e281239
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Compliance Specialist
+Customer Support Team Lead
 Salary
-77000 - 105000 USD Annual
+10000 - 12000 BRL Monthly
 Location
-Austin
+São Paulo
 Job Family Group
-Compliance
+Customer Support - General
 Locations
-Austin
+São Paulo
 Description
-We’re looking for a Compliance Specialist to join our growing North America Regulatory Oversight Compliance team. In this role, you’ll be a key partner in managing our regulatory obligations, particul
+Your mission is to provide outstanding leadership to the Business Customer Support Team. Because this team serves as the primary point of contact for Wise customers and forms a large part of the compa
 Reference
-77618200-d691-475f-906a-55749a3ddbec
+0c34428a-ec73-41b4-9818-dea51bf1fa48
 Expiry Date
 01/01/0001
 Read more
@@ -432,5 +432,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Chicago
+City: Olympia
 GeoOptions: 339

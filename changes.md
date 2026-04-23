@@ -1,46 +1,48 @@
 # Latest Scraper Results
 
-## 2026-04-22 05:23:13
+## 2026-04-23 05:27:30
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-+ 117000 - 174500 USD Annual
-+ 155000 - 190000 USD Annual
-- 5600 - 6350 SGD Monthly
-- 560c3d0b-ec17-4914-9644-8e3952a7705f
-+ 6ffee08a-5f86-4f34-8cd2-1c85a72dfc6c
-+ 77000 - 105000 USD Annual
-+ 77618200-d691-475f-906a-55749a3ddbec
-- 81000 - 105000 USD Annual
-- 8700 - 12800 BRL Monthly
-+ Austin x2
-+ Banking - General
-+ City: Chicago
-- City: San Jose
-+ Compliance
-+ Compliance Specialist
-- Customer Support - General
-- Customer Support Team Lead
-- Events Specialist x2
-- KPIsResponsible for ensuring the actual KPIs are within target for their team. These KPIs are defined based on the actual business requirements (Agent Performane Metrics) and can be - but are not sole
-+ New York x2
-+ Paid Acquisition
-+ Paid Audio Senior Manager
-- People Experience & Programmes x2
-+ Program Manager- Business Operations
-- Singapore x2
-- São Paulo x2
-- We are looking for a detail-oriented, organized, proactive, and creative Event Specialist to join our Events team at Wise. In this role, you will collaborate closely with the Global Events Lead to sup
-- We are looking for a detail-oriented, well-organized, proactive, and creative Event Specialist to join our Events team at Wise. In this role, you will collaborate closely with the Events Lead to suppo
-+ We’re looking for a Compliance Specialist to join our growing North America Regulatory Oversight Compliance team. In this role, you’ll be a key partner in managing our regulatory obligations, particul
-+ We’re looking for a data-driven Paid Audio Manager to join our team in NYC to scale Wise’s advertising activity across the global podcast and streaming landscape. This role will be rooted in maintaini
-+ Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world’s first platform to offer true mult
-- c15fd164-5b14-41b5-8ede-e9d5779df24f
-- cf46a0b5-a2bb-4e32-bf3e-82f89a64cfcc
-+ ed7047b1-8716-471f-bd68-ca11d0669b17
++ 0c34428a-ec73-41b4-9818-dea51bf1fa48
++ 10000 - 12000 BRL Monthly
+- 117000 - 174500 USD Annual
+- 155000 - 190000 USD Annual
++ 36493fc8-cbee-4098-b542-7ca39dd9247a
++ 4850 - 5800 SGD Monthly
+- 6ffee08a-5f86-4f34-8cd2-1c85a72dfc6c
+- 77000 - 105000 USD Annual
+- 77618200-d691-475f-906a-55749a3ddbec
++ 9da8b042-2932-4550-b483-a7d37e281239
++ Analytics - General
++ Analytics Director, APAC
+- Austin x4
+- Banking - General
+- City: Chicago
++ City: Olympia
++ Complaints
++ Complaints Officer
+- Compliance
+- Compliance Specialist
++ Customer Support - General
++ Customer Support Team Lead
+- New York x2
+- Paid Acquisition
+- Paid Audio Senior Manager
+- Program Manager- Business Operations
++ Salary Range: Starting from 230,0000 SGD base per annum + RSUsWe’re looking for an Analytics Director for the APAC Squad who is passionate about our mission of Money Without Borders, to lead a high-im
++ Singapore x4
++ Starting from 230,0000 SGD base per annum + RSUs
++ São Paulo x2
++ The main role of a Complaints Officer is investigating customer complaints and providing the customers with a final response in a timely manner.A stage 1 Complaints Officer will ensure that customers
+- We’re looking for a Compliance Specialist to join our growing North America Regulatory Oversight Compliance team. In this role, you’ll be a key partner in managing our regulatory obligations, particul
+- We’re looking for a data-driven Paid Audio Manager to join our team in NYC to scale Wise’s advertising activity across the global podcast and streaming landscape. This role will be rooted in maintaini
+- Wise has already pioneered new ways for people to transfer money across borders and currencies. Our customers can also manage their hard-earned money with the world’s first platform to offer true mult
++ Your mission is to provide outstanding leadership to the Business Customer Support Team. Because this team serves as the primary point of contact for Wise customers and forms a large part of the compa
+- ed7047b1-8716-471f-bd68-ca11d0669b17
 ```
 
 ---
