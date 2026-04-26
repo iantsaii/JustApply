@@ -110,6 +110,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+FinCrime Operations Senior Lead - Sanctions
+Salary
+-
+Location
+Hyderabad
+Job Family Group
+Customer Compliance
+Locations
+Hyderabad
+Description
+As a Financial Crime Operations Senior Lead, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key object
+Reference
+fe23e4ce-0b96-48d2-a0c5-1cab9167b4ab
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Customer Support Team Lead
 Salary
 10000 - 12000 BRL Monthly
@@ -142,25 +161,6 @@ Description
 As a WFM Specialist – Scheduling & Intraday, you will own the end-to-end scheduling and real-time workforce control function across a 0–30 day horizon. You will ensure that workforce plans are transla
 Reference
 524a6b25-c90d-4e8c-8fcf-35ead75d5c41
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Regional Marketing Senior Lead - Consumer - LATAM
-Salary
-31385 - 46154 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Regional Marketing
-Locations
-São Paulo
-Description
-Drive Wise’s regional marketing strategy and execution for LATAM (Brazil as primary focus). Identify key growth drivers, priority segments, and in-market opportunities to increase penetration, custome
-Reference
-8c459fda-666d-4414-9cca-d9c9e36fa9d7
 Expiry Date
 01/01/0001
 Read more
@@ -432,6 +432,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: SE
-City: Hägersten
-GeoOptions: 374
+Location: US
+City: Olympia
+GeoOptions: 339
