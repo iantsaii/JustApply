@@ -1,30 +1,24 @@
 # Latest Scraper Results
 
-## 2026-04-26 05:36:42
+## 2026-04-27 05:51:19
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-+ -
-- 31385 - 46154 BRL Monthly
-- 8c459fda-666d-4414-9cca-d9c9e36fa9d7
-+ As a Financial Crime Operations Senior Lead, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key object
-- City: Hägersten
-+ City: Olympia
-+ Customer Compliance
-- Drive Wise’s regional marketing strategy and execution for LATAM (Brazil as primary focus). Identify key growth drivers, priority segments, and in-market opportunities to increase penetration, custome
-+ FinCrime Operations Senior Lead - Sanctions
-+ GeoOptions: 339
-- GeoOptions: 374
-+ Hyderabad x2
-- Location: SE
-+ Location: US
-- Regional Marketing
-- Regional Marketing Senior Lead - Consumer - LATAM
++ 3d05f196-55a3-4e1f-826d-ca7444c49941
+- 524a6b25-c90d-4e8c-8fcf-35ead75d5c41
+- 7300 - 11000 BRL Monthly
+- As a WFM Specialist – Scheduling & Intraday, you will own the end-to-end scheduling and real-time workforce control function across a 0–30 day horizon. You will ensure that workforce plans are transla
++ KYC Operations Analyst - Platform
++ Monthly SGD 4,950 + RSUs
++ Singapore x2
 - São Paulo x2
-+ fe23e4ce-0b96-48d2-a0c5-1cab9167b4ab
++ Verification
+- Workforce Management
+- Workforce Management Specialist
++ ​​​​​​​What to expect from our hiring process;Application - our team will review your application within 5 daysA short Skills Assessment via Maki People to give you a sense of the types of skills and
 ```
 
 ---
