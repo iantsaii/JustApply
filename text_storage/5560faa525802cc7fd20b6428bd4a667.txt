@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Fullstack Engineer - Mitigation Handling Platform
+Complaints Administrator
 Salary
-1700000 - 2250000 HUF Monthly
+600,000 INR Annual + RSU's
 Location
-Budapest
+Hyderabad
+Job Family Group
+Complaints
+Locations
+Hyderabad
+Description
+The Complaints team exists to ensure we treat customers fairly and protect the company from regulatory, financial and reputational risk. We right wrongs through fairness, accountability and transparen
+Reference
+3384d1da-b1df-4a64-b94a-cbfe6104674f
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Treasury Manager - Markets
+Salary
+180000 - 250000 USD Annual
+Location
+Austin
+Job Family Group
+Treasury
+Locations
+Austin
+Description
+We’re looking for an experienced Treasury Manager to join our Treasury team in Austin. This role is a unique growth opportunity in our Treasury within our newly created Markets team, with the ability
+Reference
+a5245106-3745-46cc-b28e-1a1e6e4c8075
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Fullstack Engineer - Account Setup
+Salary
+68000 - 87500 GBP Annual
+Location
+London
 Job Family Group
 Engineering
 Locations
-Budapest
+London
 Description
-The team you’ll be working with: Mitigation Handling PlatformAt Wise, we’re on a mission to make financial services faster, simpler, and more accessible for everyone. To achieve our mission, we also n
+About the role We are looking for a talented Fullstack Engineer to join the Account Setup team.The Account Setup team is responsible for making our customer's first experience with Wise easy, simple a
 Reference
-3127a5d1-d099-422b-a4f0-d6f478c32e87
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Business Development Manager - Payout Sales
-Salary
-Total Compensation starting from SGD 245k (Base + RSUs)
-Location
-Singapore
-Job Family Group
-Business Development
-Locations
-Singapore
-Description
-We’re looking for an exceptional Business Development Manager to establish and scale our Mass Payouts business in Singapore.This is a unique opportunity to build a new revenue stream from the ground u
-Reference
-73b07824-b780-41e5-bc0e-6fa7817887ea
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Servicing Training Specialist - KYC
-Salary
-7300 - 8100 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Customer Support Training
-Locations
-São Paulo
-Description
-We’re looking for a Servicing Training Specialist to join our KYC Training team. Purpose of the roleThe Servicing Training Specialist role facilitates key learning and development initiatives that sup
-Reference
-0e297e4d-85b3-4997-9e02-18caf792660e
+72300c76-3da1-4bdd-810d-2674988d229a
 Expiry Date
 01/01/0001
 Read more
@@ -433,5 +433,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
+City: San Jose
 GeoOptions: 339
