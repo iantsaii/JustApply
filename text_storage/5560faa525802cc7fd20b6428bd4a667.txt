@@ -110,6 +110,43 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Lead Product Analyst - Operations
+Salary
+Location
+Hyderabad
+Job Family Group
+Analytics - General
+Locations
+Hyderabad
+Description
+We’re looking for a Lead Data Analyst who is passionate about our mission of Money Without Borders to partner with our operational teams to help drive data-driven decisions that would support our fast
+Reference
+ff628bff-cac9-424c-8b77-a34d9af2a973
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Staff Software Engineer
+Salary
+INR
+Location
+Hyderabad
+Job Family Group
+Engineering
+Locations
+Hyderabad
+Description
+Wise is opening a new office in Hyderabad that will be in the heart of product development of the company. We're looking for a Tenured Full Stack Engineer to join our very first product team in Hydera
+Reference
+89b6b67f-6497-4309-a270-d8af5eb2feb0
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Jr Customer Success Manager
 Salary
 59000 - 72000 USD Annual
@@ -123,44 +160,6 @@ Description
 We’re looking for a Junior Customer Success Manager to join our fast-growing Wise Platform squad in Austin. Your job will be to manage a portfolio of partners and provide them with best-in-class suppo
 Reference
 4bd649a8-c8a8-44fc-9c5b-218f789a776c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Software Engineer I - Reliability
-Salary
-87,500 - 111,000 GBP Annual
-Location
-London
-Job Family Group
-Engineering
-Locations
-London
-Description
-More about our mission.About the role We are looking for a Senior Software Engineer to join our Reliability Engineering team at Wise. You will work cross-functionally with software engineering teams a
-Reference
-b255bfa6-5f8b-464d-8d48-99adcf05dc6a
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Finance Business Partner - Servicing
-Salary
-68000 - 75000 GBP Annual
-Location
-London
-Job Family Group
-Finance Specialists
-Locations
-London
-Description
-Due to continued and rapid growth we’re on the hunt for a Finance Business Partner to join our FP&A team in London. You’ll be part of the team that helps pilot the rocket ship. Your mission:You will b
-Reference
-ff5dd3d3-cbcd-473a-9efe-d0450baf16a0
 Expiry Date
 01/01/0001
 Read more
@@ -431,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Newark
+GeoOptions: 339
