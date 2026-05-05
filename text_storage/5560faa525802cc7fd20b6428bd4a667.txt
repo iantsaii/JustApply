@@ -110,56 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Lead Product Analyst - Operations
+Financial Risk Manager
 Salary
+AUD 120,000 - 155,000 per annum + super
 Location
-Hyderabad
+Sydney
 Job Family Group
-Analytics - General
+Risk
 Locations
-Hyderabad
+Sydney
 Description
-We’re looking for a Lead Data Analyst who is passionate about our mission of Money Without Borders to partner with our operational teams to help drive data-driven decisions that would support our fast
+Job DescriptionWe are seeking a capable and enthusiastic Financial Risk Manager to join our team in Australia. The Financial Risk Manager will report directly to the country CRO, providing support and
 Reference
-ff628bff-cac9-424c-8b77-a34d9af2a973
+88b6a902-02f9-41e9-9fce-06d4163d6b29
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Staff Software Engineer
+Fincrime Operations Investigator - Fraud
 Salary
-INR
+800000 - 970000 HUF Monthly
 Location
-Hyderabad
+Budapest
 Job Family Group
-Engineering
+Customer Compliance
 Locations
-Hyderabad
+Budapest
 Description
-Wise is opening a new office in Hyderabad that will be in the heart of product development of the company. We're looking for a Tenured Full Stack Engineer to join our very first product team in Hydera
+Role & Job purposeAs a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyz
 Reference
-89b6b67f-6497-4309-a270-d8af5eb2feb0
+82a147ea-2cda-44fd-99c9-a4310e2ebd51
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Jr Customer Success Manager
+Card Disputes Associate Specialist
 Salary
-59000 - 72000 USD Annual
+2225 EUR Monthly
 Location
-Austin
+Tallinn
 Job Family Group
-Customer Success
+Payment Operations
 Locations
-Austin
+Tallinn
 Description
-We’re looking for a Junior Customer Success Manager to join our fast-growing Wise Platform squad in Austin. Your job will be to manage a portfolio of partners and provide them with best-in-class suppo
+We’re looking for a Card Disputes Associate Specialist to join our team in the Tallinn office! This role is a unique opportunity to have an impact on Wise’s mission, help save millions more people mon
 Reference
-4bd649a8-c8a8-44fc-9c5b-218f789a776c
+b4f32c7e-7c6f-4ffd-95fb-6f2494dea46c
 Expiry Date
 01/01/0001
 Read more
@@ -430,6 +431,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Boydton
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
