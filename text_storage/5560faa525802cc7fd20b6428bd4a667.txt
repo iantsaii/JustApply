@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Internal Audit Manager
+Quality Assurance Specialist
 Salary
-AUD 129,000 - 150,000 annually + superannuation
+70500 - 84625 USD Annual
 Location
-Sydney
+Austin
 Job Family Group
-Internal Audit
+Quality
 Locations
-Sydney
+Austin
 Description
-A bit about the roleWe are looking for an Internal Audit Manager to join our fast growing IA team focusing in the APAC region of Wise. This role will mainly focus in Australia which is one of Wise Gro
+Purpose of the RoleAs a Quality Assurance Specialist with a focus on SAR Reporting at Wise, you are responsible for providing expert, objective assurance on the quality and effectiveness of our operat
 Reference
-099c22a4-3fba-4075-99d8-bd2091f55219
+27a4bb2e-35ba-4084-b832-c0df6de69323
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Lead Product Analyst - Europe & UK
+Engineering Lead - API Experience
 Salary
-75000 - 115000 GBP Annual
+125000 - 153000 GBP Annual
 Location
 London
 Job Family Group
-Analytics - General
+Engineering
 Locations
 London
 Description
-We’re looking for a Lead Product Analyst who is passionate about our mission of Money Without Borders to join our Europe & UK Regional Expansion team, to help drive data-driven decisions that would su
+We’re looking for an Engineering Lead to join the embedded finance vertical at Wise Platform. Our mission is to build the world's best embedded finance platform for our partners. We work closely with
 Reference
-5e725938-abcc-4c16-9269-27d850d425a0
+d64260a7-293d-47ce-a113-ec3df2f4e546
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Analyst - Sanctions
+Senior Software Engineer II - Wise for Enterprise - Banks
 Salary
-7000 - 7850 BRL Monthly
+105000 - 130000 GBP Annual
 Location
-São Paulo
+London
 Job Family Group
-Customer Compliance
+Engineering
 Locations
-São Paulo
+London
 Description
-We’re looking for Sanctions Analysts to join our newly established Sanctions Analyst team in Sao Paulo, Brazil. This role is a unique opportunity to have an impact on Wise’s mission, grow as a Sanctio
+About the role We’re looking for a Senior Software Engineer II to join our Wise for Banks team and help shape the technical direction of the systems powering Wise’s global payment network. In this rol
 Reference
-35881dd1-6d5e-4b3f-8b4f-8a3bb3cf3144
+3c8d37bb-2a7e-4301-a091-76d4e79f90b4
 Expiry Date
 01/01/0001
 Read more
@@ -170,6 +170,27 @@ Shortlist
 View all
 List #1
 Latest blogs
+Leading Engineering through ownership
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+05/07/2026
+Summary
+"What keeps me here is the sense of ownership and responsibility. Teams are empowered and truly accountable for their domains”
+Marta Lima (She/Her)
+Engineering lead
+Teaser
+Marta Lima, Engineering Lead based in London discusses the intricacies of observability, the power of leadership, and why building a career is often about saying "yes" to being uncomfortable.
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Our work
+Engineering
 Mental Health Spotlight: Personal Habits and Lessons from Leads
 Teaser
 Diversity Equity & Inclusion
@@ -349,26 +370,6 @@ Sapphire Birmingham
 DEI
 Life at Wise
 Customer Support
-From Customer to Product Lead: Pablo Suarez
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-12/12/2025
-Summary
-"I wanted to be a part of a company that was making areal difference, and I realised that’s exactly the impact Wise was having on my own life."
-​​Pablo Suarez (He/Him)
-Product Lead (
-Teaser
-Pablo Suarez, Product Lead based in London, shares his journey from customer to Product Lead. Read how customer closeness, bottom‑up decision‑making, and shipping at speed shapes product at Wise 🚀
-Read more
-by
-Sapphire Birmingham
-by
-Sapphire Birmingham
-Life at Wise
-Product
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
