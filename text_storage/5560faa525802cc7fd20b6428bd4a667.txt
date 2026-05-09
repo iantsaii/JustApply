@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Quality Assurance Specialist
+High Risk Assessment Specialist
 Salary
-70500 - 84625 USD Annual
+11500 - 16100 BRL Monthly
 Location
-Austin
+São Paulo
 Job Family Group
-Quality
+Verification
 Locations
-Austin
+São Paulo
 Description
-Purpose of the RoleAs a Quality Assurance Specialist with a focus on SAR Reporting at Wise, you are responsible for providing expert, objective assurance on the quality and effectiveness of our operat
+As a Risk Assessment Specialist, you will play a critical role in ensuring Wise’s adherence to regulatory and compliance standards. You will be responsible for mitigating risks associated with high ri
 Reference
-27a4bb2e-35ba-4084-b832-c0df6de69323
+123737cc-0465-4844-901a-4d46824b3971
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Lead - API Experience
+Head of Operations, Sweden
 Salary
-125000 - 153000 GBP Annual
+-
 Location
-London
+Stockholm
 Job Family Group
-Engineering
+Banking - General
 Locations
-London
+Stockholm
 Description
-We’re looking for an Engineering Lead to join the embedded finance vertical at Wise Platform. Our mission is to build the world's best embedded finance platform for our partners. We work closely with
+Our ability to offer hyper-localised products and services determine the quality of our service to our Swedish customers. And our relationships with regulators, governments and payment systems are cru
 Reference
-d64260a7-293d-47ce-a113-ec3df2f4e546
+05615092-b7ce-42ce-95b0-96cdf6a55642
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer II - Wise for Enterprise - Banks
+Sales Manager - Wise Business
 Salary
-105000 - 130000 GBP Annual
+162,000 -  210,000
 Location
-London
+Austin
 Job Family Group
-Engineering
+Business Development
 Locations
-London
+Austin
 Description
-About the role We’re looking for a Senior Software Engineer II to join our Wise for Banks team and help shape the technical direction of the systems powering Wise’s global payment network. In this rol
+We're hiring a Sales Manager to own the US sales function for Wise Business. This is a building role. You'll start by getting on top of a high volume of inbound leads, hiring and developing a team of
 Reference
-3c8d37bb-2a7e-4301-a091-76d4e79f90b4
+5d390c16-d49f-4566-9bf9-0c7fe8269bb0
 Expiry Date
 01/01/0001
 Read more
@@ -319,7 +319,7 @@ Publish date
 Summary
 “At Wise, you're empowered to act. The level of trust is incredibly assuring, as it means your impact is direct and visible.”
 June Yuan (She/Her)
-Business Product Lead in North Ame
+Product Lead in North America
 Teaser
 Meet June Yuan, Wise Business Product Lead in North America. From launching high-impact features for US customers to navigating our mission-driven culture, discover how Product managers at Wise are empowered to move money without borders🚀
 Read more
@@ -433,5 +433,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
-GeoOptions: 339
+City: New York
+GeoOptions: 342
