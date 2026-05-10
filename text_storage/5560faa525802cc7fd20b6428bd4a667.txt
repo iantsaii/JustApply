@@ -110,6 +110,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Product Compliance & Risk Manager - FinCrime - Wise Platform
+Salary
+9250 - 14083 SGD Monthly
+Location
+Singapore
+Job Family Group
+Product Compliance
+Locations
+Singapore
+Description
+We’re looking for a Product Compliance and Risk Manager with a sub-specialisation in financial crime to join our APAC Wise Platform team. This is a critical role designed to strengthen our Wise Platfo
+Reference
+6b437c94-6a04-47de-a99f-b79de0076a82
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 High Risk Assessment Specialist
 Salary
 11500 - 16100 BRL Monthly
@@ -142,25 +161,6 @@ Description
 Our ability to offer hyper-localised products and services determine the quality of our service to our Swedish customers. And our relationships with regulators, governments and payment systems are cru
 Reference
 05615092-b7ce-42ce-95b0-96cdf6a55642
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Sales Manager - Wise Business
-Salary
-162,000 -  210,000
-Location
-Austin
-Job Family Group
-Business Development
-Locations
-Austin
-Description
-We're hiring a Sales Manager to own the US sales function for Wise Business. This is a building role. You'll start by getting on top of a high volume of inbound leads, hiring and developing a team of
-Reference
-5d390c16-d49f-4566-9bf9-0c7fe8269bb0
 Expiry Date
 01/01/0001
 Read more
@@ -433,5 +433,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: New York
-GeoOptions: 342
+City: Olympia
+GeoOptions: 339
