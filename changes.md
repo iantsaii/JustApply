@@ -1,28 +1,26 @@
 # Latest Scraper Results
 
-## 2026-05-10 06:08:38
+## 2026-05-11 06:37:17
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-- 162,000 -  210,000
-- 5d390c16-d49f-4566-9bf9-0c7fe8269bb0
-+ 6b437c94-6a04-47de-a99f-b79de0076a82
-+ 9250 - 14083 SGD Monthly
-- Austin x2
-- Business Development
-- City: New York
-+ City: Olympia
-+ GeoOptions: 339
-- GeoOptions: 342
-+ Product Compliance
-+ Product Compliance & Risk Manager - FinCrime - Wise Platform
-- Sales Manager - Wise Business
+- -
+- 05615092-b7ce-42ce-95b0-96cdf6a55642
++ 89e8febe-32b6-4ab3-9d97-65c3e1ef6abf
+- Banking - General
++ Business Development
+- City: Olympia
++ City: Phoenix
+- Head of Operations, Sweden
+- Our ability to offer hyper-localised products and services determine the quality of our service to our Swedish customers. And our relationships with regulators, governments and payment systems are cru
++ SGD 172,000 - 256,000 Annually + RSUs
++ Senior Business Development Manager - Financial Institutions - APAC
 + Singapore x2
-- We're hiring a Sales Manager to own the US sales function for Wise Business. This is a building role. You'll start by getting on top of a high volume of inbound leads, hiring and developing a team of
-+ We’re looking for a Product Compliance and Risk Manager with a sub-specialisation in financial crime to join our APAC Wise Platform team. This is a critical role designed to strengthen our Wise Platfo
+- Stockholm x2
++ We are re-imagining correspondent banking for low value transactions.We’re looking for a commercially minded self-starter to scale our correspondent banking sales in APAC, who are excited by the chall
 ```
 
 ---

@@ -110,6 +110,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Senior Business Development Manager - Financial Institutions - APAC
+Salary
+SGD 172,000 - 256,000 Annually + RSUs
+Location
+Singapore
+Job Family Group
+Business Development
+Locations
+Singapore
+Description
+We are re-imagining correspondent banking for low value transactions.We’re looking for a commercially minded self-starter to scale our correspondent banking sales in APAC, who are excited by the chall
+Reference
+89e8febe-32b6-4ab3-9d97-65c3e1ef6abf
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Product Compliance & Risk Manager - FinCrime - Wise Platform
 Salary
 9250 - 14083 SGD Monthly
@@ -142,25 +161,6 @@ Description
 As a Risk Assessment Specialist, you will play a critical role in ensuring Wise’s adherence to regulatory and compliance standards. You will be responsible for mitigating risks associated with high ri
 Reference
 123737cc-0465-4844-901a-4d46824b3971
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Head of Operations, Sweden
-Salary
--
-Location
-Stockholm
-Job Family Group
-Banking - General
-Locations
-Stockholm
-Description
-Our ability to offer hyper-localised products and services determine the quality of our service to our Swedish customers. And our relationships with regulators, governments and payment systems are cru
-Reference
-05615092-b7ce-42ce-95b0-96cdf6a55642
 Expiry Date
 01/01/0001
 Read more
@@ -433,5 +433,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: Phoenix
 GeoOptions: 339
