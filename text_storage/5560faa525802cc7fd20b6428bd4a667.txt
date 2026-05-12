@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Business Development Manager - Financial Institutions - APAC
+FinCrime Operations Senior Analyst - RFI
 Salary
-SGD 172,000 - 256,000 Annually + RSUs
+6200 - 7700 MYR Monthly
 Location
-Singapore
+Kuala Lumpur
 Job Family Group
-Business Development
+Customer Compliance
 Locations
-Singapore
+Kuala Lumpur
 Description
-We are re-imagining correspondent banking for low value transactions.We’re looking for a commercially minded self-starter to scale our correspondent banking sales in APAC, who are excited by the chall
+As a FinCrime Operations Senior Analyst specializing in Requests for Information (RFI), you will be an integral part of the team responsible for facilitating the secure and compliant exchange of infor
 Reference
-89e8febe-32b6-4ab3-9d97-65c3e1ef6abf
+c6029d63-2b16-4460-8ec9-642f39e162aa
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Product Compliance & Risk Manager - FinCrime - Wise Platform
+Regional Partner Risk Team Lead - APAC
 Salary
-9250 - 14083 SGD Monthly
+8,500 - 11,500 SGD monthly + RSUs
 Location
 Singapore
 Job Family Group
-Product Compliance
+Risk
 Locations
 Singapore
 Description
-We’re looking for a Product Compliance and Risk Manager with a sub-specialisation in financial crime to join our APAC Wise Platform team. This is a critical role designed to strengthen our Wise Platfo
+As the Team Lead for our Partner Risk team in APAC, you will develop and oversee the daily operations of a team of Risk Specialists. Your team is responsible for mitigating risks associated with high
 Reference
-6b437c94-6a04-47de-a99f-b79de0076a82
+7d1b365f-9618-404f-97f8-8e3eca784314
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-High Risk Assessment Specialist
+Sr. Sanctions Advisory Manager
 Salary
-11500 - 16100 BRL Monthly
+175000 - 205000 USD Annual
 Location
-São Paulo
+New York
 Job Family Group
-Verification
+Compliance
 Locations
-São Paulo
+New York
 Description
-As a Risk Assessment Specialist, you will play a critical role in ensuring Wise’s adherence to regulatory and compliance standards. You will be responsible for mitigating risks associated with high ri
+Sanctions Advisory Senior Compliance Manager We’re looking for a Sanctions Advisory manager to join our growing FinCrime Oversight team.  Sanctions is a key function in our oversight team.  This role
 Reference
-123737cc-0465-4844-901a-4d46824b3971
+03f7d6f5-c8e6-4cc7-9d8f-2c432b33f472
 Expiry Date
 01/01/0001
 Read more
@@ -432,6 +432,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Phoenix
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
