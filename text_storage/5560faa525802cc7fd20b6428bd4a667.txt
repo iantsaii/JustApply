@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Complaints Officer
+Wise Platform Enterprise Specialist
 Salary
-4850 - 5800 SGD Monthly
+5800 - 5800 SGD Monthly
 Location
 Singapore
 Job Family Group
-Complaints
+Customer Support - General
 Locations
 Singapore
 Description
-The main role of a Complaints Officer is investigating customer complaints and providing the customers with a final response in a timely manner.A stage 1 Complaints Officer will ensure that customers
+As an Enterprise Support Specialist for Wise Platform, your mission is to drive operational efficiency and scalability for our partners. You'll be the main point of contact for our partners, ensuring
 Reference
-36493fc8-cbee-4098-b542-7ca39dd9247a
+35699efa-a4d9-4cca-a6a5-f436cc018895
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Senior Lead - AML Investigations
+Sr Engineer Lead - Cloud Foundations
 Salary
-4350 - 5850 EUR gross/monthly + RSUs
+135000 - 175000 GBP Annual
 Location
-Tallinn
+London
 Job Family Group
-Customer Compliance
+Engineering
 Locations
-Tallinn
+London
 Description
-We're looking for an experienced lead to join our growing AML Investigations team in Tallinn, Estonia. As a FinCrime Operations Senior Lead your mission is to ensure the effective assessment and mitig
+About the roleWe are looking for a highly technical Engineering Lead to own our Cloud Foundations domain — the platform that enables safe, scalable, and frictionless cloud usage across Wise.Cloud Foun
 Reference
-dd288711-4f15-4d73-a3de-1d957816231e
+e08a91cd-8ed4-465d-b4b9-c158372b6113
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Chief Compliance Officer, Wise Assets Japan
+Account Manager
 Salary
-19800000 - 26500000 JPY Annual
+95000 - 130000 USD Annual
 Location
-Tokyo
+Austin
 Job Family Group
-Compliance
+Account Management
 Locations
-Tokyo
+Austin
 Description
-We’re looking for a Chief Compliance Officer, Japan to strengthen our compliance team for a new service being introduced: Wise Assets.Based in Tokyo, Japan, you will work with a growing team of multid
+As part of our growing Account Management team, you will be responsible for driving growth and deepening relationships across a portfolio of strategic platform partners in North America.You will own p
 Reference
-3ade9fbf-6ee6-46d2-92ad-837dae24077a
+3321cf45-e6f4-46c3-9753-0c73a57d9999
 Expiry Date
 01/01/0001
 Read more
@@ -170,6 +170,25 @@ Shortlist
 View all
 List #1
 Latest blogs
+Building global blueprints at Wise Platform as a Senior Implementation Manager
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+05/13/2026
+Summary
+“For me, the hallmark of a great Implementation Manager is empowering partners by translating complex technical capabilities into experiences that feel effortless.”
+Cindy Momodu (She/Her)
+Teaser
+Cindy Momodu, Senior Implementation Manager shares her journey from Microbiologist to leading seamless partner migrations 🚀
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Wise Platform
 Leading Engineering through ownership
 Teaser
 People profile
@@ -349,27 +368,6 @@ Verona Hasani
 Life at Wise
 Engineering
 Wise Platform
-Building Community, Growing Leaders: The Black Wisers Community at Wise
-Teaser
-Diversity Equity & Inclusion
-Content Type
-Blog
-Publish date
-01/13/2026
-Summary
-“I was hired for my vision, but I’m supported here as a whole person, and that kind of community is exactly what turns a job into a career."
-Davon Daniels (He/Him)
-Customer Support A
-Teaser
-Davon, Customer Support Area Lead in Austin, and a key voice in the Black Wisers Community, as he shares his proudest moments at Wise—Learn how being supported as a whole person, building meaningful pipelines, and driving change shape his career at Wise 🚀
-Read more
-by
-Sapphire Birmingham
-by
-Sapphire Birmingham
-DEI
-Life at Wise
-Customer Support
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -432,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: NL
-City: The Hague
-GeoOptions: 382
+Location: US
+City: Olympia
+GeoOptions: 339
