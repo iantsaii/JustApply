@@ -110,38 +110,38 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Wise Platform Enterprise Specialist
+Executive Assistant
 Salary
-5800 - 5800 SGD Monthly
+6700 - 8500 SGD Monthly + RSUs
 Location
 Singapore
 Job Family Group
-Customer Support - General
+Executive Assistant
 Locations
 Singapore
 Description
-As an Enterprise Support Specialist for Wise Platform, your mission is to drive operational efficiency and scalability for our partners. You'll be the main point of contact for our partners, ensuring
+We're looking for an Executive Assistant to support our Head of Banking & Expansion APAC and offer light support to other senior members of APAC Leadership Team. This role will be based out of our Sin
 Reference
-35699efa-a4d9-4cca-a6a5-f436cc018895
+5841db37-50e6-41e3-a562-1f3371c9e15e
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Sr Engineer Lead - Cloud Foundations
+Wise Platform Enterprise Team Lead
 Salary
-135000 - 175000 GBP Annual
+16,500 - 22,000 BRL Monthly
 Location
-London
+São Paulo
 Job Family Group
-Engineering
+Customer Support - General
 Locations
-London
+São Paulo
 Description
-About the roleWe are looking for a highly technical Engineering Lead to own our Cloud Foundations domain — the platform that enables safe, scalable, and frictionless cloud usage across Wise.Cloud Foun
+The role of a Wise Platform Enterprise Support Team Lead is a blend of team management, strategic oversight, and hands-on operational support, all focused on ensuring Wise's business-to-business partn
 Reference
-e08a91cd-8ed4-465d-b4b9-c158372b6113
+da4963f1-532b-4ef8-832e-5bb81ffa5591
 Expiry Date
 01/01/0001
 Read more
@@ -150,7 +150,7 @@ Read more
 Shortlist
 Account Manager
 Salary
-95000 - 130000 USD Annual
+119,000 - 145,000 USD Annual
 Location
 Austin
 Job Family Group
@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: San Jose
 GeoOptions: 339
