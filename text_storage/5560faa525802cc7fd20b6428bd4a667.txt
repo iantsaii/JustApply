@@ -110,28 +110,9 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Executive Assistant
+Total Service Account Specialist
 Salary
-6700 - 8500 SGD Monthly + RSUs
-Location
-Singapore
-Job Family Group
-Executive Assistant
-Locations
-Singapore
-Description
-We're looking for an Executive Assistant to support our Head of Banking & Expansion APAC and offer light support to other senior members of APAC Leadership Team. This role will be based out of our Sin
-Reference
-5841db37-50e6-41e3-a562-1f3371c9e15e
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Wise Platform Enterprise Team Lead
-Salary
-16,500 - 22,000 BRL Monthly
+11000 - 15400 BRL Monthly
 Location
 São Paulo
 Job Family Group
@@ -139,28 +120,47 @@ Customer Support - General
 Locations
 São Paulo
 Description
-The role of a Wise Platform Enterprise Support Team Lead is a blend of team management, strategic oversight, and hands-on operational support, all focused on ensuring Wise's business-to-business partn
+Are you ready to take a pivotal role in enhancing customer relationships and driving business growth?Wise is seeking a dedicated Account Specialist in São Paulo to join our high-impact team! This is y
 Reference
-da4963f1-532b-4ef8-832e-5bb81ffa5591
+cde93fec-0fe5-4590-b990-32b0a5926a9b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Account Manager
+Customer Support Training Lead
 Salary
-119,000 - 145,000 USD Annual
+13400 - 16500 BRL Monthly
+Location
+São Paulo
+Job Family Group
+Customer Support Training
+Locations
+São Paulo
+Description
+The Servicing Training Lead provides strategic leadership and oversight to the Servicing Training team, ensuring the delivery of effective learning and development initiatives that support business ob
+Reference
+3393e4e4-f9f8-49d6-bb75-516fce4b3445
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior CRM Manager
+Salary
+109000-139000 USD Annual
 Location
 Austin
 Job Family Group
-Account Management
+Organic Acquisition
 Locations
 Austin
 Description
-As part of our growing Account Management team, you will be responsible for driving growth and deepening relationships across a portfolio of strategic platform partners in North America.You will own p
+As we continue to grow, we’re looking for a Senior CRM Manager to own and elevate our Americas customer lifecycle strategy. Your Mission:You will hold the vision for how we communicate with customers
 Reference
-3321cf45-e6f4-46c3-9753-0c73a57d9999
+ad6da4a7-92e6-46b6-8412-7cdbec8e9891
 Expiry Date
 01/01/0001
 Read more
@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Olympia
 GeoOptions: 339
