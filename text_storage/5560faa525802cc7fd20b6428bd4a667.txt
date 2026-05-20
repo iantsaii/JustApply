@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-India and South Asia Government Relations Manager
+IC 5 Product Engineer
 Salary
--
+INR
 Location
 Hyderabad
-Job Family Group
-Government Relations - General
-Locations
-Hyderabad
-Description
-The roleWe’re looking for an experienced Government Relations Manager (India/South Asia) to advance our policy and regulatory objectives in India and help us get closer to achieving our mission. You w
-Reference
-b2c0477d-d75d-48fc-851e-e6f1ea1988c8
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Business Development Manager - Payout Sales
-Salary
-Total Compensation starting from SGD 245k (Base + RSUs)
-Location
-Singapore
-Job Family Group
-Business Development
-Locations
-Singapore
-Description
-We’re looking for an exceptional Business Development Manager to establish and scale our Mass Payouts business in Singapore.This is a unique opportunity to build a new revenue stream from the ground u
-Reference
-73b07824-b780-41e5-bc0e-6fa7817887ea
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior IOS Software Engineer - Grow
-Salary
-87500 - 111000 GBP Annual
-Location
-London
 Job Family Group
 Engineering
 Locations
-London
+Hyderabad
 Description
-Wise Assets is one of the fastest-growing features today, with Stocks and Interest live in the UK, EU, Singapore, Australia, Brazil and expanding further. Our customers now already earn £50m a month f
+At Wise, we’re on a mission to make money borderless, instant, and convenient for millions of people and businesses worldwide. Our engineers are at the heart of this mission, solving complex challenge
 Reference
-6ea3708c-05e7-4aa5-943e-0e67b2d257b0
+c51f672d-7f0f-4e44-8d2f-cb26dc1dce1b
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Analyst - Internal Audit
+Salary
+101,000 SGD to 131,000 SGD Annually
+Location
+Singapore
+Job Family Group
+Internal Audit
+Locations
+Singapore
+Description
+TEAM: Compliance & Internal Audit AnalyticsABOUT WISEWise is a global technology company, building the best way to move and manage the world’s money. Min fees. Max ease. Full speed. Whether people and
+Reference
+bb116c6b-b2b0-400a-bf8d-1bf2ae1ccdb6
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Q226 Technical Support Engineer
+Salary
+6583.33 - 8333.33 SGD Monthly
+Location
+Singapore
+Job Family Group
+API
+Locations
+Singapore
+Description
+The TeamWise Platform helps banks, software companies and large enterprises leverage Wise’s infrastructure to offer their customers world class payments products through their own channels. Our partne
+Reference
+a6e49e68-493d-430b-82c4-8e2c7d25dd17
 Expiry Date
 01/01/0001
 Read more
