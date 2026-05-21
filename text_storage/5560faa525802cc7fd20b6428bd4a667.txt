@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-IC 5 Product Engineer
+Internal Audit Analyst
 Salary
-INR
+-
 Location
 Hyderabad
-Job Family Group
-Engineering
-Locations
-Hyderabad
-Description
-At Wise, we’re on a mission to make money borderless, instant, and convenient for millions of people and businesses worldwide. Our engineers are at the heart of this mission, solving complex challenge
-Reference
-c51f672d-7f0f-4e44-8d2f-cb26dc1dce1b
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Analyst - Internal Audit
-Salary
-101,000 SGD to 131,000 SGD Annually
-Location
-Singapore
 Job Family Group
 Internal Audit
 Locations
-Singapore
+Hyderabad
 Description
-TEAM: Compliance & Internal Audit AnalyticsABOUT WISEWise is a global technology company, building the best way to move and manage the world’s money. Min fees. Max ease. Full speed. Whether people and
+THE ROLEWe are looking for a Data Analyst to join the Internal Audit branch of the Compliance & Internal Audit Analytics team at Wise.You’ll partner with Internal Audit (IA) to develop and implement t
 Reference
-bb116c6b-b2b0-400a-bf8d-1bf2ae1ccdb6
+1135d1e1-5d84-45ef-bba5-533fd8a8acc5
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Q226 Technical Support Engineer
+Internal Audit Manager - Analytics
 Salary
-6583.33 - 8333.33 SGD Monthly
+-
+Location
+Hyderabad
+Job Family Group
+Internal Audit
+Locations
+Hyderabad
+Description
+THE ROLEWe are looking for an Analytics Manager to join the Internal Audit branch of the Compliance & Internal Audit Analytics team at Wise.You’ll partner with Internal Audit (IA) to develop and imple
+Reference
+d9327709-14aa-41fd-a2ec-e7e40d59851f
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Strategist
+Salary
+9000 - 12500 SGD Monthly + RSUs
 Location
 Singapore
 Job Family Group
-API
+Brand & Creative
 Locations
 Singapore
 Description
-The TeamWise Platform helps banks, software companies and large enterprises leverage Wise’s infrastructure to offer their customers world class payments products through their own channels. Our partne
+A bit about the jobWe’re looking for an excellent Senior Strategist to join our marketing team and drive the direction of our creative across Asia. This is a superb opportunity for a strategic thinker
 Reference
-a6e49e68-493d-430b-82c4-8e2c7d25dd17
+507b97f3-21bc-4d65-973d-ade8b133af70
 Expiry Date
 01/01/0001
 Read more
@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: Long Hill Twp
 GeoOptions: 339
