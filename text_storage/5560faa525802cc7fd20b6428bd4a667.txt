@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Events Marketing Manager - APAC
+KYC Operations Associate Analyst
 Salary
-7100 - 9250 SGD Monthly + RSUs
+7000 - 7750 BRL Monthly
 Location
-Singapore
+São Paulo
 Job Family Group
-Growth Marketing
+Verification
 Locations
-Singapore
+São Paulo
 Description
-We’re looking for an Events Marketing Manager who is passionate about the Wise Mission - Money without borders. You’ll be a part of the Wise Platform team, leading impactful projects in order to expan
+As a KYC Operations Associate Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting thorough customer d
 Reference
-95b1bb7d-058b-44b9-893b-f548d20a807c
+9b50a056-43d0-481a-8cef-b203cc78bd4b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Workforce Management Operations Partner
+Senior Software Engineer I - Receive
 Salary
-INR 2,400,000 - 3,300,000 Annually + RSUs
+87500 - 111000 GBP Annual
 Location
-Hyderabad
+London
 Job Family Group
-Workforce Management
+Engineering
 Locations
-Hyderabad
+London
 Description
-We’re looking for a Workforce Management Operations Partner Lead to join our Operational team in our Hyderabad office!The WFM Operations Partner Lead is the primary interface between Workforce Managem
+Team you will be working with: Receive RiskThe Receive Risk team is part of Acquiring Squad, in the Global Product tribe, dedicated to ensuring customers can receive money quickly and securely, using
 Reference
-e1b390cb-4979-4801-a60b-7eaa7bab9e94
+8e8b5a79-a9ea-449a-99ef-ab8bee7ca1c3
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Workforce Management Senior Manager
+Senior Software Engineer I - Wise for Enterprise - Banks
 Salary
-INR 2,400,000 - 3,300,000 Annually + RSUs
+85000 - 105000 GBP Annual
 Location
-Hyderabad
+London
 Job Family Group
-Workforce Management
+Engineering
 Locations
-Hyderabad
+London
 Description
-The WFM Team Lead – Scheduling & Intraday leads the end-to-end tactical execution layer of Workforce Management, integrating schedule optimisation, weekly workforce steering, real-time operational con
+About the role We are looking for a Senior Product Engineer, you'll be an integral part of our dynamic Wise for Banks team, working at the forefront of innovation, playing a key role in building scala
 Reference
-5c13c6fa-1367-466e-9ca9-47384f19d260
+8b0b442b-29cc-442f-9a2c-375249dd4031
 Expiry Date
 01/01/0001
 Read more
@@ -430,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Phoenix
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
