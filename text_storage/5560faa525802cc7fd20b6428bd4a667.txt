@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-KYC Operations Associate Analyst
+FinCrime Investigator - AML Investigations
 Salary
-7000 - 7750 BRL Monthly
+800,000 HUF Monthly + RSUs
 Location
-São Paulo
+Budapest
 Job Family Group
-Verification
+Customer Compliance
 Locations
-São Paulo
+Budapest
 Description
-As a KYC Operations Associate Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting thorough customer d
+We’re looking for FinCrime Investigators to join our growing AML Investigations team in Budapest. This role is a unique opportunity to have an impact on Wise’s mission, grow as a specialist in anti-mo
 Reference
-9b50a056-43d0-481a-8cef-b203cc78bd4b
+931eb331-544e-44b9-9b29-479c3474b817
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer I - Receive
+Senior Product Analyst - Wise Business
 Salary
-87500 - 111000 GBP Annual
+60000 - 85000 GBP Annual
 Location
 London
 Job Family Group
-Engineering
+Analytics - General
 Locations
 London
 Description
-Team you will be working with: Receive RiskThe Receive Risk team is part of Acquiring Squad, in the Global Product tribe, dedicated to ensuring customers can receive money quickly and securely, using
+We’re looking for several Senior Product Analysts to join Wise Business, our international business account. The Wise Business account helps small and medium-sized businesses across the world focus on
 Reference
-8e8b5a79-a9ea-449a-99ef-ab8bee7ca1c3
+a0f41662-9641-4a21-a681-eb66a0634bb6
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer I - Wise for Enterprise - Banks
+Senior Product Analyst, Accounting Integrations & Reporting
 Salary
-85000 - 105000 GBP Annual
+60000 - 85000 GBP Annual
 Location
 London
 Job Family Group
-Engineering
+Analytics - General
 Locations
 London
 Description
-About the role We are looking for a Senior Product Engineer, you'll be an integral part of our dynamic Wise for Banks team, working at the forefront of innovation, playing a key role in building scala
+The RoleWe’re looking for a Senior Product Analyst to join Wise Business Squad, our international business account. The Wise Business account helps small and medium-sized businesses across the world f
 Reference
-8b0b442b-29cc-442f-9a2c-375249dd4031
+9dcab72f-88df-458f-b49c-0c0515e7eabd
 Expiry Date
 01/01/0001
 Read more
@@ -430,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Olympia
+GeoOptions: 339
