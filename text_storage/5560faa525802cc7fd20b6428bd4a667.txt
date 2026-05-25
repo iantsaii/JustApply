@@ -110,6 +110,44 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+FinCrime Product Compliance Manager - APAC Wise Platform
+Salary
+9,300 - 13,000 SGD Monthly + RSUs
+Location
+Singapore
+Job Family Group
+Product Compliance
+Locations
+Singapore
+Description
+We’re looking for a Product Compliance and Risk Manager with a specialisation in financial crime to join our APAC Wise Platform team. This is a critical, highly tactical role designed to move our fina
+Reference
+6b437c94-6a04-47de-a99f-b79de0076a82
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Workforce Management Operations Partner Lead
+Salary
+8500 - 11800 SGD Monthly
+Location
+Singapore
+Job Family Group
+Workforce Management
+Locations
+Singapore
+Description
+We’re looking for a Workforce Management Operations Partner Lead to join our Operational team in our Singapore office!The WFM Operations Partner Lead is the primary interface between Workforce Managem
+Reference
+fc3e0b5d-4429-449c-9ea2-4491500d1fa4
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 FinCrime Investigator - AML Investigations
 Salary
 800,000 HUF Monthly + RSUs
@@ -123,44 +161,6 @@ Description
 We’re looking for FinCrime Investigators to join our growing AML Investigations team in Budapest. This role is a unique opportunity to have an impact on Wise’s mission, grow as a specialist in anti-mo
 Reference
 931eb331-544e-44b9-9b29-479c3474b817
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Product Analyst - Wise Business
-Salary
-60000 - 85000 GBP Annual
-Location
-London
-Job Family Group
-Analytics - General
-Locations
-London
-Description
-We’re looking for several Senior Product Analysts to join Wise Business, our international business account. The Wise Business account helps small and medium-sized businesses across the world focus on
-Reference
-a0f41662-9641-4a21-a681-eb66a0634bb6
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Product Analyst, Accounting Integrations & Reporting
-Salary
-60000 - 85000 GBP Annual
-Location
-London
-Job Family Group
-Analytics - General
-Locations
-London
-Description
-The RoleWe’re looking for a Senior Product Analyst to join Wise Business Squad, our international business account. The Wise Business account helps small and medium-sized businesses across the world f
-Reference
-9dcab72f-88df-458f-b49c-0c0515e7eabd
 Expiry Date
 01/01/0001
 Read more
@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: Cheyenne
 GeoOptions: 339
