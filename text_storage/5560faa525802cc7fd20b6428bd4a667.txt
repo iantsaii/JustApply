@@ -110,9 +110,47 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Product Compliance Manager - APAC Wise Platform
+Platform Engineer - Database Platform - Python
 Salary
-9,300 - 13,000 SGD Monthly + RSUs
+68000 - 87500 GBP Annual
+Location
+London
+Job Family Group
+Engineering
+Locations
+London
+Description
+About the roleYou’ll work on high-scale systems used by hundreds of engineers, shaping how we run databases globally through automation, observability, and platform thinking - developing the internal
+Reference
+340ea38d-701e-42a6-b0fb-4525f91db708
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Global People Partner
+Salary
+1500000 - 2000000 HUF Monthly
+Location
+Budapest
+Job Family Group
+People Partners
+Locations
+Budapest
+Description
+We’re currently hiring a People Partner (Global HR Business Partner) to join our growing People Partners team and our mission. You’ll be supporting our Payment Operations teams and Global Product Oper
+Reference
+f6b69a1e-5769-4441-b41d-71637d15e187
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+(Senior) FinCrime Product Compliance Manager - APAC Wise Platform
+Salary
+Starting from 11,600 SGD Monthly + RSUs
 Location
 Singapore
 Job Family Group
@@ -120,47 +158,9 @@ Product Compliance
 Locations
 Singapore
 Description
-We’re looking for a Product Compliance and Risk Manager with a specialisation in financial crime to join our APAC Wise Platform team. This is a critical, highly tactical role designed to move our fina
+We’re looking for a Product Compliance and Risk Manager with a specialisation in financial crime to join our APAC Wise Platform team. This is a high impact, strategic role designed to move our financi
 Reference
 6b437c94-6a04-47de-a99f-b79de0076a82
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Workforce Management Operations Partner Lead
-Salary
-8500 - 11800 SGD Monthly
-Location
-Singapore
-Job Family Group
-Workforce Management
-Locations
-Singapore
-Description
-We’re looking for a Workforce Management Operations Partner Lead to join our Operational team in our Singapore office!The WFM Operations Partner Lead is the primary interface between Workforce Managem
-Reference
-fc3e0b5d-4429-449c-9ea2-4491500d1fa4
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-FinCrime Investigator - AML Investigations
-Salary
-800,000 HUF Monthly + RSUs
-Location
-Budapest
-Job Family Group
-Customer Compliance
-Locations
-Budapest
-Description
-We’re looking for FinCrime Investigators to join our growing AML Investigations team in Budapest. This role is a unique opportunity to have an impact on Wise’s mission, grow as a specialist in anti-mo
-Reference
-931eb331-544e-44b9-9b29-479c3474b817
 Expiry Date
 01/01/0001
 Read more
@@ -431,5 +431,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Cheyenne
+City: San Jose
 GeoOptions: 339
