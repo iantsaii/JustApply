@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Platform Engineer - Database Platform - Python
+Senior FinCrime Product Compliance and Risk Manager - Wise Platform
 Salary
-68000 - 87500 GBP Annual
+134000 - 198000 USD Annual
 Location
-London
-Job Family Group
-Engineering
-Locations
-London
-Description
-About the roleYou’ll work on high-scale systems used by hundreds of engineers, shaping how we run databases globally through automation, observability, and platform thinking - developing the internal
-Reference
-340ea38d-701e-42a6-b0fb-4525f91db708
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Global People Partner
-Salary
-1500000 - 2000000 HUF Monthly
-Location
-Budapest
-Job Family Group
-People Partners
-Locations
-Budapest
-Description
-We’re currently hiring a People Partner (Global HR Business Partner) to join our growing People Partners team and our mission. You’ll be supporting our Payment Operations teams and Global Product Oper
-Reference
-f6b69a1e-5769-4441-b41d-71637d15e187
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-(Senior) FinCrime Product Compliance Manager - APAC Wise Platform
-Salary
-Starting from 11,600 SGD Monthly + RSUs
-Location
-Singapore
+Austin
 Job Family Group
 Product Compliance
 Locations
-Singapore
+Austin
 Description
-We’re looking for a Product Compliance and Risk Manager with a specialisation in financial crime to join our APAC Wise Platform team. This is a high impact, strategic role designed to move our financi
+At Wise we believe that people who are closest to risks are the best placed to identify and address these. We’re looking for a FinCrime Product Compliance Senior Manager to support our Wise Platform P
 Reference
-6b437c94-6a04-47de-a99f-b79de0076a82
+7e96b8e9-6d22-4d75-ad00-f2b607966c43
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Network Automation Engineer - IC 3
+Salary
+INR
+Location
+Hyderabad
+Job Family Group
+Engineering
+Locations
+Hyderabad
+Description
+Wise is one the fastest growing companies in Europe and we’re on a mission: to make money without borders the new normal. We’ve got 10 million customers across the globe and we’re growing. Fast.Curren
+Reference
+9d696ec0-b6ef-432b-b387-67540c432d2b
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Manager, Sales - Wise Business
+Salary
+-
+Location
+London
+Job Family Group
+Business Development
+Locations
+London
+Description
+Wise Business has historically grown through self-serve and product-led channels. We’re now building a dedicated velocity sales team to help larger businesses discover, adopt, and fully activate on Wi
+Reference
+56b6c4e4-5edc-4a97-8560-c435865d0a48
 Expiry Date
 01/01/0001
 Read more
@@ -430,6 +430,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: San Jose
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
