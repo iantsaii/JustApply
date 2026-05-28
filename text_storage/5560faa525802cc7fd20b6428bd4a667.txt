@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior FinCrime Product Compliance and Risk Manager - Wise Platform
+FinCrime Operations Team Lead - AML Investigations
 Salary
-134000 - 198000 USD Annual
+10600 - 14300 MYR Monthly
 Location
-Austin
+Kuala Lumpur
 Job Family Group
-Product Compliance
+Customer Compliance
 Locations
-Austin
+Kuala Lumpur
 Description
-At Wise we believe that people who are closest to risks are the best placed to identify and address these. We’re looking for a FinCrime Product Compliance Senior Manager to support our Wise Platform P
+We’re looking for an AML Investigations Team Lead to join our team in KL. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicious activity and through that
 Reference
-7e96b8e9-6d22-4d75-ad00-f2b607966c43
+f3e0ab01-d240-4d4a-b7c6-21c1096a36bb
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Network Automation Engineer - IC 3
+Head of Account Management, NorthAm - Wise Platform
 Salary
-INR
+209,000 - 290,000 USD Annual
 Location
-Hyderabad
+Austin
 Job Family Group
-Engineering
+Account Management
 Locations
-Hyderabad
+Austin
 Description
-Wise is one the fastest growing companies in Europe and we’re on a mission: to make money without borders the new normal. We’ve got 10 million customers across the globe and we’re growing. Fast.Curren
+We’re looking for an exceptional Head of Account Management to join our fast-growing Wise Platform team in North America. This is a unique opportunity to shape the future of account management at Wise
 Reference
-9d696ec0-b6ef-432b-b387-67540c432d2b
+32768b37-f99e-4f07-93c6-bd29b306e25f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Manager, Sales - Wise Business
+CRM Team Lead - North/South Americas
 Salary
--
+109000-139000 USD Annual
 Location
-London
+Austin
 Job Family Group
-Business Development
+Organic Acquisition
 Locations
-London
+Austin
 Description
-Wise Business has historically grown through self-serve and product-led channels. We’re now building a dedicated velocity sales team to help larger businesses discover, adopt, and fully activate on Wi
+As we continue to grow, we’re looking for a Senior CRM Manager to own and elevate our Americas customer lifecycle strategy. Your Mission:You will hold the vision for how we communicate with customers
 Reference
-56b6c4e4-5edc-4a97-8560-c435865d0a48
+ad6da4a7-92e6-46b6-8412-7cdbec8e9891
 Expiry Date
 01/01/0001
 Read more
@@ -189,6 +189,7 @@ by
 Verona Hasani
 Life at Wise
 Wise Platform
+London
 Leading Engineering through ownership
 Teaser
 People profile
@@ -210,6 +211,7 @@ Verona Hasani
 Life at Wise
 Our work
 Engineering
+London
 Mental Health Spotlight: Personal Habits and Lessons from Leads
 Teaser
 Diversity Equity & Inclusion
@@ -289,6 +291,7 @@ by
 Verona Hasani
 Life at Wise
 Payment Operations
+Japan
 Inclusion by Design: Wise Office spaces
 Teaser
 Diversity Equity & Inclusion
@@ -328,6 +331,7 @@ by
 Sapphire Birmingham
 DEI
 Life at Wise
+London
 From Customer to Product Innovation: June Yuan
 Teaser
 People profile
@@ -348,6 +352,7 @@ by
 Sapphire Birmingham
 Life at Wise
 Product
+Austin
 "A startup within a scale-up": Life as an Engineer in Wise Platform
 Teaser
 People profile
@@ -368,6 +373,7 @@ Verona Hasani
 Life at Wise
 Engineering
 Wise Platform
+London
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -430,6 +436,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: San Jose
+GeoOptions: 339
