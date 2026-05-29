@@ -110,19 +110,19 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-FinCrime Operations Team Lead - AML Investigations
+WFM Partner Lead
 Salary
-10600 - 14300 MYR Monthly
+16100 - 22000 BRL Monthly
 Location
-Kuala Lumpur
+São Paulo
 Job Family Group
-Customer Compliance
+Workforce Management
 Locations
-Kuala Lumpur
+São Paulo
 Description
-We’re looking for an AML Investigations Team Lead to join our team in KL. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicious activity and through that
+We’re looking for a Workforce Management Operations Partner Lead to join our Operational team in our São Paulo office!The WFM Operations Partner Lead is the primary interface between Workforce Managem
 Reference
-f3e0ab01-d240-4d4a-b7c6-21c1096a36bb
+2882b6cf-32f1-4170-a917-e565e05ef027
 Expiry Date
 01/01/0001
 Read more
@@ -131,7 +131,7 @@ Read more
 Shortlist
 Head of Account Management, NorthAm - Wise Platform
 Salary
-209,000 - 290,000 USD Annual
+Base Salary Range: 209,000 - 299,000 USD Annual + Equity
 Location
 Austin
 Job Family Group
@@ -148,19 +148,19 @@ Read more
 Shortlist
 Read more
 Shortlist
-CRM Team Lead - North/South Americas
+Internal Audit Senior Specialist
 Salary
-109000-139000 USD Annual
+89000 - 115000 USD Annual
 Location
 Austin
 Job Family Group
-Organic Acquisition
+Internal Audit
 Locations
 Austin
 Description
-As we continue to grow, we’re looking for a Senior CRM Manager to own and elevate our Americas customer lifecycle strategy. Your Mission:You will hold the vision for how we communicate with customers
+A bit about the role Wise is looking for a Senior Internal Audit Specialist to join our new and growing IA team in North America. Your main task will be to support the internal audit process for the W
 Reference
-ad6da4a7-92e6-46b6-8412-7cdbec8e9891
+cd0c40ff-9206-4137-ab23-1b966cdea6bf
 Expiry Date
 01/01/0001
 Read more
@@ -437,5 +437,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Boydton
 GeoOptions: 339
