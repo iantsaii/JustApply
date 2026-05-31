@@ -436,6 +436,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Olympia
+GeoOptions: 339
