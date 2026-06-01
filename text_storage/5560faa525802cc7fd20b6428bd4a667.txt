@@ -110,6 +110,25 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
+Copy of FinCrime Operations Internal Communications Lead
+Salary
+1200000 - 1560000 HUF Monthly
+Location
+Budapest
+Job Family Group
+Customer Compliance
+Locations
+Budapest
+Description
+In this role, you are one of the primary architects of the global operating model for the Financial Crime Operations vertical. You are responsible for the structural integrity, strategic alignment, an
+Reference
+1b9ed85e-5bad-44c7-91cd-227597f743d1
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Product Risk and Compliance- Expansion Senior Manager
 Salary
 134000 - 170000 USD Annual
@@ -142,25 +161,6 @@ Description
 We’re looking for a Sanctions Advisory manager to join our growing FinCrime Oversight team for the Wise National Trust (“WNT”).  Sanctions is a key function in our oversight team.  This role is hands-
 Reference
 5b809b0b-7d6e-4155-9ac1-628b75b60c7c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-KYC Operations Senior Analyst
-Salary
-8300 - 11000 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Verification
-Locations
-São Paulo
-Description
-As a KYC Operations Senior Analyst - Deactivation, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting enhance
-Reference
-6028ff3a-3124-4a45-985b-550a84e2e2ac
 Expiry Date
 01/01/0001
 Read more
@@ -436,6 +436,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Olympia
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
