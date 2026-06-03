@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Regional Head of Business Operations - Wise Platform - Asia Pacific
+FinCrime Operations Team Lead - AML Investigations
 Salary
-17,400 - 23,700 SGD Monthly + RSUs
+MYR 10,600 Monthly + RSUs
 Location
-Singapore
+Kuala Lumpur
 Job Family Group
-Operations - General
+Customer Compliance
 Locations
-Singapore
+Kuala Lumpur
 Description
-Your MissionAs the Head of Business Operations, your mission is to enhance and scale our servicing and operations for our platform partners. You will lead the regional operational strategy, ensuring o
+We’re looking for an AML Investigations Team Lead to join our team in KL. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicious activity and through that
 Reference
-9c50511f-e036-4ee2-bf93-ee13c9f652e2
+f3e0ab01-d240-4d4a-b7c6-21c1096a36bb
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Commercial Director - Marketplaces
+Junior Payroll Specialist (Contract)
 Salary
-Competitive salary + RSUs offered based on interview performance
+INR
 Location
-Singapore
+Hyderabad
 Job Family Group
-Business Development
+Payroll
 Locations
-Singapore
+Hyderabad
 Description
-The Mission: Build the Marketplace VerticalWe are looking for a driven, self-starting Senior Commercial Lead to drive GTM for Online Platforms. You will be responsible for co-creating and launching ou
+We’re currently hiring for a Junior Payroll Specialist to join our global Payroll Team based in our Hyderabad Office+We’re looking for a payroll superstar, with a keen eye for accuracy, attention to d
 Reference
-e026e26b-92e8-43b8-ac2d-4cef0b673909
+19cc7586-0fdc-4b90-85d7-f8d03c50f586
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Manager, Sales - Wise Business
+Senior Software Engineer - Tax Experience
 Salary
--
+€5750 - €7083.33 gross/monthly
 Location
-London
+Tallinn
 Job Family Group
-Business Development
+Engineering
 Locations
-London
+Tallinn
 Description
-Wise Business has historically grown through self-serve and product-led channels. We’re now building a dedicated velocity sales team to help larger businesses discover, adopt, and fully activate on Wi
+The team you will join: Tax ExperienceWith Wise Assets, we’ve enabled customers to grow the money they hold with Wise  - giving them access to government-backed assets that track base rates, or a glob
 Reference
-56b6c4e4-5edc-4a97-8560-c435865d0a48
+9ab92e35-2ae2-4f0a-9171-e0266cd41ef3
 Expiry Date
 01/01/0001
 Read more
@@ -436,6 +436,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Boydton
+GeoOptions: 339
