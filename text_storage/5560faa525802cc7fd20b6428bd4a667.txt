@@ -110,59 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-People Operations Specialist (Fixed Term Contract)
+Technical Support Engineer
 Salary
-1118500 - 1833000 INR Annual
+34 - 40.75 USD Hourly
 Location
-Hyderabad
+Austin
 Job Family Group
-People Operations
+API
 Locations
-Hyderabad
+Austin
 Description
-Onboarding supportManage the administrative process of onboarding new joiners, ensuring that the Wiser journey is as smooth as possible with everyone involved kept in the loopCoordinate adaptable onbo
+Technical Support Engineers ensure that our Wise Platform enterprise partners get a rapid, highly effective response when issues arise. Whether it is answering complex questions about the behavior of
 Reference
-a48bdbd0-797a-4424-ab57-b80027721795
+786f761f-af47-4ee8-b1ef-b0075253ab34
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Reg Compliance Lead
+Sales Coordinator
 Salary
-207000 - 297000 USD Annual
+86,000-104,000USD Annual
 Location
-New York
+Austin
 Job Family Group
-Compliance
+Business Development
 Locations
-New York
+Austin
 Description
-We’re looking for a Regulatory Compliance Lead to join our growing North America Regulatory Oversight Compliance team. You’ll lead a compliance team(s) of specialists/professionals providing advice, g
+Wise is building money without borders. To get there faster, our North America Wise Platform team is looking for a highly proactive Sales Coordinator to supercharge our Banks vertical.This isn’t your
 Reference
-1d42cbc8-aa97-43ef-9168-3d2017dce4e9
+fd5277d7-d4e1-49a3-a907-65f2d77f3d5b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Head of KYC Operations - Wise Platform
+Senior Solutions Engineer
 Salary
-96000 - 130000 GBP Annual
+85000 - 105000 GBP Annual
 Location
 London
 Job Family Group
-Verification
+Engineering
 Locations
 London
 Description
-Your mission is to lead the KYC Operations Function organization to Ensure its
-Compliance and Provide Instant Service with best-in-class Quality. And to do
-this in a scalable, cost-efficient manner,
+About the role We are looking for a Senior Solutions Engineer to join our growing Wise Platform team in London. The Wise Platform team works with top tier global financial institutions and major tech
 Reference
-d7013d8e-67ca-48c9-9aa1-dfa7c7894088
+35e5ad73-b885-4d50-9046-01e8cf99fe4d
 Expiry Date
 01/01/0001
 Read more
@@ -438,6 +436,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: New York
+GeoOptions: 342
