@@ -437,5 +437,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: New York
-GeoOptions: 342
+City: Cheyenne
+GeoOptions: 339
