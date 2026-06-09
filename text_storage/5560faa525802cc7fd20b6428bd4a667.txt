@@ -110,45 +110,7 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Technical Support Engineer
-Salary
-34 - 40.75 USD Hourly
-Location
-Austin
-Job Family Group
-API
-Locations
-Austin
-Description
-Technical Support Engineers ensure that our Wise Platform enterprise partners get a rapid, highly effective response when issues arise. Whether it is answering complex questions about the behavior of
-Reference
-786f761f-af47-4ee8-b1ef-b0075253ab34
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Sales Coordinator
-Salary
-86,000-104,000USD Annual
-Location
-Austin
-Job Family Group
-Business Development
-Locations
-Austin
-Description
-Wise is building money without borders. To get there faster, our North America Wise Platform team is looking for a highly proactive Sales Coordinator to supercharge our Banks vertical.This isn’t your
-Reference
-fd5277d7-d4e1-49a3-a907-65f2d77f3d5b
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Solutions Engineer
+iOS Engineer - Recommend Team
 Salary
 85000 - 105000 GBP Annual
 Location
@@ -158,9 +120,47 @@ Engineering
 Locations
 London
 Description
-About the role We are looking for a Senior Solutions Engineer to join our growing Wise Platform team in London. The Wise Platform team works with top tier global financial institutions and major tech
+The Recommend team builds and owns the recommendation experience that allows customers to recommend Wise to their friends and family and brings new customers to Wise through the recommendations. From
 Reference
-35e5ad73-b885-4d50-9046-01e8cf99fe4d
+267f5674-6ffe-40d5-a493-a3e707ced014
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Platform Engineer - Database Platform
+Salary
+68000 - 87500 GBP Annual
+Location
+London
+Job Family Group
+Engineering
+Locations
+London
+Description
+About the roleYou’ll work on high-scale systems used by hundreds of engineers, shaping how we run databases globally through automation, observability, and platform thinking - developing the internal
+Reference
+340ea38d-701e-42a6-b0fb-4525f91db708
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Data Analyst
+Salary
+3500 - 5000 EUR Monthly
+Location
+Tallinn
+Job Family Group
+Analytics - General
+Locations
+Tallinn
+Description
+We’re looking for a Senior Data Analyst who is passionate about our mission of Money Without Borders to partner with our operational teams to help drive data-driven decisions that would support our fa
+Reference
+358c40d6-6a53-481c-8b6d-e88204a98b25
 Expiry Date
 01/01/0001
 Read more
@@ -436,6 +436,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Olympia
+GeoOptions: 339
