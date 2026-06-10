@@ -110,9 +110,9 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-iOS Engineer - Recommend Team
+Senior Solutions Engineer
 Salary
-85000 - 105000 GBP Annual
+£87500 - £111000 GBP Annual
 Location
 London
 Job Family Group
@@ -120,18 +120,18 @@ Engineering
 Locations
 London
 Description
-The Recommend team builds and owns the recommendation experience that allows customers to recommend Wise to their friends and family and brings new customers to Wise through the recommendations. From
+About the role We are looking for a Senior Solutions Engineer to join our growing Wise Platform team in London. The Wise Platform team works with top tier global financial institutions and major tech
 Reference
-267f5674-6ffe-40d5-a493-a3e707ced014
+35e5ad73-b885-4d50-9046-01e8cf99fe4d
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Platform Engineer - Database Platform
+Senior Software Engineer II - Wise for Enterprise
 Salary
-68000 - 87500 GBP Annual
+111000 - 145000 GBP Annual
 Location
 London
 Job Family Group
@@ -139,28 +139,28 @@ Engineering
 Locations
 London
 Description
-About the roleYou’ll work on high-scale systems used by hundreds of engineers, shaping how we run databases globally through automation, observability, and platform thinking - developing the internal
+About the role We’re looking for a Senior Software Engineer II to join our Wise for Banks team and help shape the technical direction of the systems powering Wise’s global payment network. In this rol
 Reference
-340ea38d-701e-42a6-b0fb-4525f91db708
+3c8d37bb-2a7e-4301-a091-76d4e79f90b4
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Data Analyst
+Senior Data Analyst - Finance Reporting
 Salary
-3500 - 5000 EUR Monthly
+60000 - 85000 GBP Annual
 Location
-Tallinn
+London
 Job Family Group
 Analytics - General
 Locations
-Tallinn
+London
 Description
-We’re looking for a Senior Data Analyst who is passionate about our mission of Money Without Borders to partner with our operational teams to help drive data-driven decisions that would support our fa
+We are looking for an Analyst to sit at the intersection of Data Analytics and Financial Reporting. You aren’t here to do traditional accounting; you are here to build the data infrastructure and auto
 Reference
-358c40d6-6a53-481c-8b6d-e88204a98b25
+c3d517c3-ee28-4417-9f04-2fd0613f0025
 Expiry Date
 01/01/0001
 Read more
@@ -437,5 +437,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: Cheyenne
 GeoOptions: 339
