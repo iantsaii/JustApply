@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Solutions Engineer
+High Value Support Specialist
 Salary
-£87500 - £111000 GBP Annual
+4500 - 5175 SGD Monthly
 Location
-London
+Singapore
 Job Family Group
-Engineering
+Customer Support - General
 Locations
-London
+Singapore
 Description
-About the role We are looking for a Senior Solutions Engineer to join our growing Wise Platform team in London. The Wise Platform team works with top tier global financial institutions and major tech
+You will be joining a dynamic Operations team, acting as the strategic "defense" line for our highest-volume Consumer and Business customer segments. We are looking for superstars in customer retentio
 Reference
-35e5ad73-b885-4d50-9046-01e8cf99fe4d
+63f7c908-4b35-46b6-8fa6-873687e0dfef
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer II - Wise for Enterprise
+Compliance Senior Manager
 Salary
-111000 - 145000 GBP Annual
+132000 - 185000 USD Annual
 Location
-London
+Austin
 Job Family Group
-Engineering
+Compliance
 Locations
-London
+Austin
 Description
-About the role We’re looking for a Senior Software Engineer II to join our Wise for Banks team and help shape the technical direction of the systems powering Wise’s global payment network. In this rol
+We’re looking for a Compliance Senior Manager to join our growing North America Regulatory Oversight Compliance team. In this role, you’ll be a key partner in managing compliance related issues and ri
 Reference
-3c8d37bb-2a7e-4301-a091-76d4e79f90b4
+03e113a6-22a9-45de-bf75-b1bab6a6abfb
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Data Analyst - Finance Reporting
+FinCrime Operations Team Lead - Reporting
 Salary
-60000 - 85000 GBP Annual
+17500 - 23500 BRL Monthly
 Location
-London
+São Paulo
 Job Family Group
-Analytics - General
+Customer Compliance
 Locations
-London
+São Paulo
 Description
-We are looking for an Analyst to sit at the intersection of Data Analytics and Financial Reporting. You aren’t here to do traditional accounting; you are here to build the data infrastructure and auto
+Wise is looking for an experienced Team Lead to build and lead our Suspicious Activity Reporting (SAR) team in São Paulo, Brazil.You'll lead a team of financial crime analysts responsible for investig
 Reference
-c3d517c3-ee28-4417-9f04-2fd0613f0025
+800280a2-674a-4cae-8247-212e4a895ff8
 Expiry Date
 01/01/0001
 Read more
@@ -437,5 +437,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Cheyenne
+City: Boydton
 GeoOptions: 339
