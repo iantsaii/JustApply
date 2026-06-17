@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Technical Support Engineer (Enterprise)
+Senior Backend Engineer - Europe Account
 Salary
-6583.33 - 8333.33 SGD Monthly
+111000 - 145000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
-API
+Engineering
 Locations
-Singapore
+London
 Description
-The TeamWise Platform helps banks, software companies and large enterprises leverage Wise’s infrastructure to offer their customers world class payments products through their own channels. Our partne
+About the role:We are seeking a Senior Backend Engineer II that is passionate about our mission of money without borders to collaborate with our Regional Europe & UK team. Your role will be to drive d
 Reference
-a6e49e68-493d-430b-82c4-8e2c7d25dd17
+922c8deb-1290-4a13-9219-29152943b3a2
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Senior Lead - Fraud
+High Volume Support Specialist
 Salary
-MYR 14,300-18,000 Monthly + RSUs
+2200 EUR Monthly
 Location
-Kuala Lumpur
+Tallinn
 Job Family Group
-Customer Compliance
+Customer Support - General
 Locations
-Kuala Lumpur
+Tallinn
 Description
-As a Financial Crime Operations Senior Lead, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key object
+The High Volume Support Specialist is the frontline owner of trust and retention for our highest-volume customer segment. Your purpose is to deliver service and expert guidance so strong that our most
 Reference
-60d089e0-cdc7-4ae2-9ef9-8d5ef05f2b6e
+545ee4cf-84ae-4389-81ee-099ca84e8885
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Investigator - AML Investigations
+KYC Operations Senior Analyst - SMA (Night shifts)
 Salary
-8300 - 11000 BRL Monthly
+2400 - 2850 EUR Monthly
 Location
-São Paulo
+Tallinn
 Job Family Group
-Customer Compliance
+Verification
 Locations
-São Paulo
+Tallinn
 Description
-As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
+Wise is looking for a KYC Operations Senior Analyst to join the Tallinn Senior Management Approval team to cover our night shifts. You will play a critical role in ensuring that Wise adheres to regula
 Reference
-633c0441-14ee-45a6-a443-7f72e8c64e2d
+ee4cb952-69c3-4194-a97e-334a8c471c7f
 Expiry Date
 01/01/0001
 Read more
@@ -436,6 +436,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: SE
+City: Hägersten
+GeoOptions: 374
