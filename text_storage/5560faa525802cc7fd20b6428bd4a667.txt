@@ -110,19 +110,19 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Backend Engineer - Europe Account
+FinCrime Investigator - AML Investigations
 Salary
-111000 - 145000 GBP Annual
+800000 - 970000 HUF Monthly
 Location
-London
+Budapest
 Job Family Group
-Engineering
+Customer Compliance
 Locations
-London
+Budapest
 Description
-About the role:We are seeking a Senior Backend Engineer II that is passionate about our mission of money without borders to collaborate with our Regional Europe & UK team. Your role will be to drive d
+We’re looking for FinCrime Investigators to join our growing AML Investigations team in Budapest. This role is a unique opportunity to have an impact on Wise’s mission, grow as a specialist in anti-mo
 Reference
-922c8deb-1290-4a13-9219-29152943b3a2
+7f2e3f7e-906b-4b41-b862-eb726bb572fe
 Expiry Date
 01/01/0001
 Read more
@@ -148,19 +148,19 @@ Read more
 Shortlist
 Read more
 Shortlist
-KYC Operations Senior Analyst - SMA (Night shifts)
+APAC Employee Relations Regional Lead
 Salary
-2400 - 2850 EUR Monthly
+12900 - 16800 SGD Monthly + RSUs
 Location
-Tallinn
+Singapore
 Job Family Group
-Verification
+Employee Relations
 Locations
-Tallinn
+Singapore
 Description
-Wise is looking for a KYC Operations Senior Analyst to join the Tallinn Senior Management Approval team to cover our night shifts. You will play a critical role in ensuring that Wise adheres to regula
+We’re looking for a Regional Employee Relation (ER) Lead to join our ER team in the Singapore office. This role is a unique opportunity to have an impact on Wise’s mission and assist our Wisers, Leads
 Reference
-ee4cb952-69c3-4194-a97e-334a8c471c7f
+9b277333-2fb5-4ee2-8e8e-cc8ea35a4f02
 Expiry Date
 01/01/0001
 Read more
