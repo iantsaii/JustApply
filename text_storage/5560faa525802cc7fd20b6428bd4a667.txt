@@ -110,47 +110,9 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-KYC Operations Associate Analyst - Consumer
+Senior Business Development Manager - Financial Institutions - APAC
 Salary
-650000 - 730000 INR Annual
-Location
-Hyderabad
-Job Family Group
-Verification
-Locations
-Hyderabad
-Description
-Salary: INR 6.5 LPA (Fixed) + RSU's This role requires you to be flexible to work in rotational shifts & weeks offs. Please note: You'll receive a link to an online assessment after you apply. Please
-Reference
-9a3f8287-1a3f-44e0-a0bd-c7cafeb2774f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-KYC Operations Area Lead - Consumer
-Salary
-2650000 - 3650000 INR Annual
-Location
-Hyderabad
-Job Family Group
-Verification
-Locations
-Hyderabad
-Description
-The KYC Operations Area Lead is responsible for overseeing multiple KYC Operations Senior Team Leads within certain functional areas, which might be a site, group of sites or specific operational doma
-Reference
-d875824e-c89e-44f8-9ed5-32062601e5b9
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Commercial Director - Payout Sales - APAC
-Salary
-Total Compensation starting from SGD 365k (Base + RSUs)
+SGD 172,000 - 256,000 Annually + RSUs
 Location
 Singapore
 Job Family Group
@@ -158,9 +120,47 @@ Business Development
 Locations
 Singapore
 Description
-We’re looking for an exceptional Commercial Director to establish and scale our Mass Payouts business in Singapore.This is a unique opportunity to build a new revenue stream from the ground up. You wi
+We are re-imagining correspondent banking for low value transactions.We’re looking for a commercially minded self-starter to scale our correspondent banking sales in APAC, who are excited by the chall
 Reference
-73b07824-b780-41e5-bc0e-6fa7817887ea
+89e8febe-32b6-4ab3-9d97-65c3e1ef6abf
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior iOS Engineer - Spend
+Salary
+12,400 - 15,400 SGD base per month + RSUs
+Location
+Singapore
+Job Family Group
+Engineering
+Locations
+Singapore
+Description
+Salary range: 12,400 - 15,400 SGD base per month + RSUs About the Spend Squad:We build products that allow our customers to spend their money anywhere in the world. We currently process about £34 bill
+Reference
+ad88b23f-da2c-4a2e-b2e0-f4f87cbc4d1e
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Android Engineer - Spend
+Salary
+12,400 - 15,400 SGD base per month + RSUs
+Location
+Singapore
+Job Family Group
+Engineering
+Locations
+Singapore
+Description
+Salary range: 12,400 - 15,400 SGD base per month + RSUs About the Spend Squad:We build products that allow our customers to spend their money anywhere in the world. We currently process about £34 bill
+Reference
+021d5b3a-2a33-4bde-aafa-790e971740c8
 Expiry Date
 01/01/0001
 Read more
@@ -436,6 +436,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Long Hill Twp
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
