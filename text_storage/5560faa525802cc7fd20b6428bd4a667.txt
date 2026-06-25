@@ -110,57 +110,57 @@ wisestart@wise.com
 .
 List #1
 Latest jobs
-Senior Business Development Manager - Financial Institutions - APAC
+Automation Senior Analyst
 Salary
-SGD 172,000 - 256,000 Annually + RSUs
+8500 - 11800 SGD Monthly
 Location
 Singapore
 Job Family Group
-Business Development
+Payment Operations
 Locations
 Singapore
 Description
-We are re-imagining correspondent banking for low value transactions.We’re looking for a commercially minded self-starter to scale our correspondent banking sales in APAC, who are excited by the chall
+We are looking for an Automation Senior Analyst to join our Spend Automation team in Singapore. This is a technical IC role for someone who wants to use data, coding, automation rules, and LLMs to imp
 Reference
-89e8febe-32b6-4ab3-9d97-65c3e1ef6abf
+0c679980-dd25-47d9-94e3-f4bb816d8029
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior iOS Engineer - Spend
+APAC Employee Relations Regional Lead
 Salary
-12,400 - 15,400 SGD base per month + RSUs
+13000 - 18500 SGD Monthly + RSUs
 Location
 Singapore
 Job Family Group
-Engineering
+Employee Relations
 Locations
 Singapore
 Description
-Salary range: 12,400 - 15,400 SGD base per month + RSUs About the Spend Squad:We build products that allow our customers to spend their money anywhere in the world. We currently process about £34 bill
+We’re looking for a Regional Employee Relation (ER) Lead to join our ER team in the Singapore office. This role is a unique opportunity to have an impact on Wise’s mission and assist our Wisers, Leads
 Reference
-ad88b23f-da2c-4a2e-b2e0-f4f87cbc4d1e
+9b277333-2fb5-4ee2-8e8e-cc8ea35a4f02
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Android Engineer - Spend
+Lead Data Analyst - Total Service (Operations)
 Salary
-12,400 - 15,400 SGD base per month + RSUs
+75000 - 115000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
-Engineering
+Analytics - General
 Locations
-Singapore
+London
 Description
-Salary range: 12,400 - 15,400 SGD base per month + RSUs About the Spend Squad:We build products that allow our customers to spend their money anywhere in the world. We currently process about £34 bill
+THE ROLEWe’re looking for a Lead Data Analyst who is passionate about our mission of Money Without Borders to partner with our operational teams to help drive data-driven decisions that would support
 Reference
-021d5b3a-2a33-4bde-aafa-790e971740c8
+f78bbe03-db0d-49d8-a03e-1a372456b533
 Expiry Date
 01/01/0001
 Read more
@@ -436,6 +436,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: San Jose
+GeoOptions: 339
