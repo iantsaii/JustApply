@@ -108,59 +108,65 @@ next openings in Singapore and London
 If you have any questions or need more information, feel free to reach out to
 wisestart@wise.com
 .
+Snippet heading
+Watch Video
+Wise Women Code London: Mentoring the Future of Tech
+https://www.youtube.com/embed/cRXUjDDBe-Q
+Wise Women Code London: Mentoring the Future of Tech
+Close
 List #1
 Latest jobs
-Automation Senior Analyst
+FinCrime Operations Senior Lead - PEP & Adverse Media
 Salary
-8500 - 11800 SGD Monthly
+4350 - 5850 EUR Monthly
 Location
-Singapore
+Tallinn
 Job Family Group
-Payment Operations
+Customer Compliance
 Locations
-Singapore
+Tallinn
 Description
-We are looking for an Automation Senior Analyst to join our Spend Automation team in Singapore. This is a technical IC role for someone who wants to use data, coding, automation rules, and LLMs to imp
+As a FinCrime Operations Senior Lead your mission is to ensure the effective assessment and mitigation of financial crime risks across operations. You will act as a vital connector between operational
 Reference
-0c679980-dd25-47d9-94e3-f4bb816d8029
+155e1d2d-4a38-46c4-aa27-c9ce5ad7b6ac
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-APAC Employee Relations Regional Lead
+Senior Software Engineer
 Salary
-13000 - 18500 SGD Monthly + RSUs
+Compensation determined by interview performance
 Location
-Singapore
+Hyderabad
 Job Family Group
-Employee Relations
+Engineering
 Locations
-Singapore
+Hyderabad
 Description
-We’re looking for a Regional Employee Relation (ER) Lead to join our ER team in the Singapore office. This role is a unique opportunity to have an impact on Wise’s mission and assist our Wisers, Leads
+Wise is opening a new office in Hyderabad that will be in the heart of product development of the company. We're looking for a Senior/Staff Full Stack Engineer to join our very first product team in H
 Reference
-9b277333-2fb5-4ee2-8e8e-cc8ea35a4f02
+4a20e63c-9706-4a04-a7f4-3619ad726ce0
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Lead Data Analyst - Total Service (Operations)
+Workplace Adviser - Tokyo
 Salary
-75000 - 115000 GBP Annual
+-
 Location
-London
+Tokyo
 Job Family Group
-Analytics - General
+Workplace
 Locations
-London
+Tokyo
 Description
-THE ROLEWe’re looking for a Lead Data Analyst who is passionate about our mission of Money Without Borders to partner with our operational teams to help drive data-driven decisions that would support
+We’re looking for a passionate and people-centric Workplace Adviser to join our growing Workplace team. Based at our Tokyo office, you will help us to support day-to-day operations to foster a great w
 Reference
-f78bbe03-db0d-49d8-a03e-1a372456b533
+7dd0f302-a0d2-4a32-a7af-e74e14d53538
 Expiry Date
 01/01/0001
 Read more
@@ -170,6 +176,27 @@ Shortlist
 View all
 List #1
 Latest blogs
+Moving Upstream: How Wise is eliminating customer friction at the source
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+06/23/2026
+Summary
+“The best quality check is the one that never has to happen because we've already designed the problem out of existence.”Sreevishnu Sachidananda (He/Him)
+Head of Quality CS & Payment Op
+Teaser
+Sreevishnu Sachidananda, Head of Quality Customer Support & Payment Operations, breaks down how his team leverages automation and AI to move from manual checklists to data-driven, full-coverage assessments across four global locations.
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Customer Support
+Payment Operations
+London
 Building global blueprints at Wise Platform as a Senior Implementation Manager
 Teaser
 People profile
@@ -353,27 +380,6 @@ Sapphire Birmingham
 Life at Wise
 Product
 Austin
-"A startup within a scale-up": Life as an Engineer in Wise Platform
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-01/28/2026
-Summary
-“As an engineer here, you aren't siloed in a technical world. You’re expected to reach out across teams, understand why deals do or don't go through, and solve problems with urgency.”
-Swa
-Teaser
-Meet Swati Tyagi, Engineer for Wise Platform on our API Experience team. Her journey to Wise began unexpectedly–with an encounter in Estonia that convinced her to join the team 🚀
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Engineering
-Wise Platform
-London
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
