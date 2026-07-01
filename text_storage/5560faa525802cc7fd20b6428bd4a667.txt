@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-CRM Communications Strategist & Copywriter (12-month FTC)
+Internal Audit Manager - Technology
 Salary
-7100 - 9250 SGD Monthly
+SGD 9,900 - 11,650 Monthly + RSUs
 Location
 Singapore
 Job Family Group
-Brand & Creative
+Internal Audit
 Locations
 Singapore
 Description
-Wise is seeking a creative and data-driven individual to join our growing CRM team as our first CRM Communications Strategist & Copywriter in APAC. The role is based in our Singapore office, supported
+A bit about the roleWe are looking for an Internal Audit Manager for the technology risk portfolio with a global remit to join our new and growing IA team. Your main task will be to coordinate the int
 Reference
-852fdd58-5415-495a-8422-85b63eed14f7
+de8f141c-659e-4269-a9fb-a9959e4dd67d
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Network Automation Engineer
+Markets Associate
 Salary
-3500000 - 4900000 INR Annual
+10,800 - 13,750 SGD Monthly
 Location
-Hyderabad
+Singapore
 Job Family Group
-Engineering
+Treasury
 Locations
-Hyderabad
+Singapore
 Description
-Wise is one the fastest growing companies in Europe and we’re on a mission: to make money without borders the new normal. We’ve got 10 million customers across the globe and we’re growing. Fast.Curren
+As a Treasury Markets Associate joining the Treasury Markets team in Singapore. You will have the opportunity to manage Wise’s portfolio of currency risk, develop hedging strategies as well as be invo
 Reference
-9d696ec0-b6ef-432b-b387-67540c432d2b
+de9df6d3-f84e-46c9-9518-04762bdb7c24
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Product Manager, Growth
+Analytics Manager - Internal Audit
 Salary
-200000 - 250000 USD Annual
+6779661 - 8813559 INR Annual
 Location
-Austin
+Hyderabad
 Job Family Group
-Product Management
+Analytics - General
 Locations
-Austin
+Hyderabad
 Description
-As a Growth Product Manager at Wise, North America, you will be the owner of key corridor growth. This includes defining the strategic vision and roadmap for these crucial North American corridors. Yo
+THE ROLEWe are looking for an Analytics Manager to join the Internal Audit branch of the Compliance & Internal Audit Analytics team at Wise.You’ll partner with Internal Audit (IA) to develop and imple
 Reference
-a9854cf6-7697-4aac-85b3-071f3801fd04
+d9327709-14aa-41fd-a2ec-e7e40d59851f
 Expiry Date
 01/01/0001
 Read more
@@ -443,5 +443,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: Cheyenne
 GeoOptions: 339
