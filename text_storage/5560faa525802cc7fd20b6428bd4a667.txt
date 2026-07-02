@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Internal Audit Manager - Technology
+Press Officer - Asia
 Salary
-SGD 9,900 - 11,650 Monthly + RSUs
+6850 - 9000 SGD Monthly
 Location
 Singapore
 Job Family Group
-Internal Audit
+PR
 Locations
 Singapore
 Description
-A bit about the roleWe are looking for an Internal Audit Manager for the technology risk portfolio with a global remit to join our new and growing IA team. Your main task will be to coordinate the int
+If you're a creative, curious PR professional looking for your next step into media relations and storytelling at a fast growing organisation with a regional scope, we'd like to hear from you. In this
 Reference
-de8f141c-659e-4269-a9fb-a9959e4dd67d
+63e29a79-db40-4964-bf83-f213884a55ea
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Markets Associate
+Benefits Manager - Americas
 Salary
-10,800 - 13,750 SGD Monthly
+143000 - 190000 USD Annual
 Location
-Singapore
+Austin
 Job Family Group
-Treasury
+Reward & Mobility
 Locations
-Singapore
+Austin
 Description
-As a Treasury Markets Associate joining the Treasury Markets team in Singapore. You will have the opportunity to manage Wise’s portfolio of currency risk, develop hedging strategies as well as be invo
+At Wise, we’re building a world without borders, and that mission starts with our people. We are looking for an Americas Benefits Manager to join our Total Rewards Center of Excellence (COE).In this r
 Reference
-de9df6d3-f84e-46c9-9518-04762bdb7c24
+d9df81bb-0579-4155-9b9e-53b6e90861ef
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Analytics Manager - Internal Audit
+Regional Head of AML Investigations
 Salary
-6779661 - 8813559 INR Annual
+29000 - 38300 BRL Monthly
 Location
-Hyderabad
+São Paulo
 Job Family Group
-Analytics - General
+Customer Compliance
 Locations
-Hyderabad
+São Paulo
 Description
-THE ROLEWe are looking for an Analytics Manager to join the Internal Audit branch of the Compliance & Internal Audit Analytics team at Wise.You’ll partner with Internal Audit (IA) to develop and imple
+The Regional Lead of AML Investigations is a leadership role responsible for the strategic direction and operational excellence of Anti-Money Laundering (AML) investigations. Beyond functional oversig
 Reference
-d9327709-14aa-41fd-a2ec-e7e40d59851f
+fa4e5c05-29af-48b0-8790-40f95a0c3ca8
 Expiry Date
 01/01/0001
 Read more
@@ -443,5 +443,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Cheyenne
+City: Phoenix
 GeoOptions: 339
