@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Press Officer - Asia
+Lead Product Analyst -Personal Onboarding KYC
 Salary
-6850 - 9000 SGD Monthly
+6779661 - 8813559 INR Annual
 Location
-Singapore
+Hyderabad
 Job Family Group
-PR
+Analytics - General
 Locations
-Singapore
+Hyderabad
 Description
-If you're a creative, curious PR professional looking for your next step into media relations and storytelling at a fast growing organisation with a regional scope, we'd like to hear from you. In this
+About the roleYou’ll help us build the next generation of systems that help us run multi region, scalable processes to identify customers who they say they are and ensure any processes minimise the ch
 Reference
-63e29a79-db40-4964-bf83-f213884a55ea
+7606655b-8c78-4d6c-b85e-5d3d3e447d98
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Benefits Manager - Americas
+Senior Product Manager - LatAm Expansion
 Salary
-143000 - 190000 USD Annual
+28100 - 41700 BRL Monthly
 Location
-Austin
+São Paulo
 Job Family Group
-Reward & Mobility
+Product Management
 Locations
-Austin
+São Paulo
 Description
-At Wise, we’re building a world without borders, and that mission starts with our people. We are looking for an Americas Benefits Manager to join our Total Rewards Center of Excellence (COE).In this r
+As the Senior Product Manager for LATAM Expansion, you will be responsible for expanding Wise's presence across Latin America. You will own the vision, strategy, and roadmap for launching existing Wis
 Reference
-d9df81bb-0579-4155-9b9e-53b6e90861ef
+7efa9307-7e6e-4108-83fe-eec8a62562a8
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Regional Head of AML Investigations
+Senior Tech Recruiter
 Salary
-29000 - 38300 BRL Monthly
+18200 - 26600 BRL Monthly
 Location
 São Paulo
 Job Family Group
-Customer Compliance
+Recruitment
 Locations
 São Paulo
 Description
-The Regional Lead of AML Investigations is a leadership role responsible for the strategic direction and operational excellence of Anti-Money Laundering (AML) investigations. Beyond functional oversig
+Join our dynamic and expanding team in São Paulo and play a crucial role in shaping the future of Wise in the Americas. As a Senior Technical Recruiter, you'll have the opportunity to foster a strong
 Reference
-fa4e5c05-29af-48b0-8790-40f95a0c3ca8
+19bb4f19-e699-4f2f-9eb7-3cab8e011492
 Expiry Date
 01/01/0001
 Read more
@@ -176,6 +176,28 @@ Shortlist
 View all
 List #1
 Latest blogs
+Behind the screens: how Wise brought the FIFA World Cup™ to your wallet
+Teaser
+Our work
+Content Type
+Blog
+Publish date
+07/01/2026
+Summary
+Every four years, football gets millions of people moving across borders, navigating new cities, and dealing with unfamiliar currencies. Thanks to Visa, we’ve launched the Limited Edition Wise
+Teaser
+Who’s behind our limited-edition FIFA World Cup™ cards? ⚽
+Our Engineering, Product and Marketing squads worked cross-functionally to build a seamless experience for fans worldwide. 🌎
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Product
+Engineering
+Marketing
+global
 Moving Upstream: How Wise is eliminating customer friction at the source
 Teaser
 People profile
@@ -359,27 +381,6 @@ Sapphire Birmingham
 DEI
 Life at Wise
 London
-From Customer to Product Innovation: June Yuan
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-02/03/2026
-Summary
-“At Wise, you're empowered to act. The level of trust is incredibly assuring, as it means your impact is direct and visible.”
-June Yuan (She/Her)
-Product Lead in North America
-Teaser
-Meet June Yuan, Wise Business Product Lead in North America. From launching high-impact features for US customers to navigating our mission-driven culture, discover how Product managers at Wise are empowered to move money without borders🚀
-Read more
-by
-Sapphire Birmingham
-by
-Sapphire Birmingham
-Life at Wise
-Product
-Austin
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -443,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
-GeoOptions: 339
+City: New York
+GeoOptions: 342
