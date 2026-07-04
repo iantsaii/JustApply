@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Lead Product Analyst -Personal Onboarding KYC
+Senior Software Engineer
 Salary
-6779661 - 8813559 INR Annual
+21000 - 30000 BRL Monthly
 Location
-Hyderabad
+São Paulo
 Job Family Group
-Analytics - General
+Engineering
 Locations
-Hyderabad
+São Paulo
 Description
-About the roleYou’ll help us build the next generation of systems that help us run multi region, scalable processes to identify customers who they say they are and ensure any processes minimise the ch
+The Opportunity:We are expanding our LatAm teams by establishing a new São Paulo engineering hub, building new, high-impact teams on the ground. We are looking for an ambitious and highly skilled Seni
 Reference
-7606655b-8c78-4d6c-b85e-5d3d3e447d98
+890fb133-6fe0-4540-8a96-3d79f734c4cf
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Product Manager - LatAm Expansion
+Staff Software Engineer
 Salary
-28100 - 41700 BRL Monthly
+30000 - 41000 BRL Monthly
 Location
 São Paulo
 Job Family Group
-Product Management
+Engineering
 Locations
 São Paulo
 Description
-As the Senior Product Manager for LATAM Expansion, you will be responsible for expanding Wise's presence across Latin America. You will own the vision, strategy, and roadmap for launching existing Wis
+We are expanding our Latin American teams by establishing a new São Paulo engineering hub, building multiple new, high-impact engineering teams on the ground. We are looking for ambitious and highly s
 Reference
-7efa9307-7e6e-4108-83fe-eec8a62562a8
+2efa92c7-93f6-45ae-8ff3-5a9b3b6dc5b2
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Tech Recruiter
+Finance Manager - 6-Month Contract
 Salary
-18200 - 26600 BRL Monthly
+15000 - 23000 BRL Monthly
 Location
 São Paulo
 Job Family Group
-Recruitment
+Finance Specialists
 Locations
 São Paulo
 Description
-Join our dynamic and expanding team in São Paulo and play a crucial role in shaping the future of Wise in the Americas. As a Senior Technical Recruiter, you'll have the opportunity to foster a strong
+We're looking for a 6-month fixed-term contract  to join our team LATAM finance team in Sao Paulo, Brazil as Finance Manager. This role is a critical bridge between our regional strategy and day-to-da
 Reference
-19bb4f19-e699-4f2f-9eb7-3cab8e011492
+925f85ca-14b1-4d39-8245-9c6ff0d70663
 Expiry Date
 01/01/0001
 Read more
@@ -443,6 +443,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: New York
-GeoOptions: 342
+Location: GB
+City: London
+GeoOptions: 343
