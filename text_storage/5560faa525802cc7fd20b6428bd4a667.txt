@@ -116,6 +116,25 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
+FinCrime Operations Analyst - Sanctions
+Salary
+680000 + RSUs
+Location
+Hyderabad
+Job Family Group
+Customer Compliance
+Locations
+Hyderabad
+Description
+We’re looking for FinCrime Operations Analyst - Sanctions to join our growing Sanctions Screening team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s mission, grow as a Sa
+Reference
+38b1b1c3-a666-40a4-a9f7-566b7e6ebbdd
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Senior Software Engineer
 Salary
 21000 - 30000 BRL Monthly
@@ -148,25 +167,6 @@ Description
 We are expanding our Latin American teams by establishing a new São Paulo engineering hub, building multiple new, high-impact engineering teams on the ground. We are looking for ambitious and highly s
 Reference
 2efa92c7-93f6-45ae-8ff3-5a9b3b6dc5b2
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Finance Manager - 6-Month Contract
-Salary
-15000 - 23000 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Finance Specialists
-Locations
-São Paulo
-Description
-We're looking for a 6-month fixed-term contract  to join our team LATAM finance team in Sao Paulo, Brazil as Finance Manager. This role is a critical bridge between our regional strategy and day-to-da
-Reference
-925f85ca-14b1-4d39-8245-9c6ff0d70663
 Expiry Date
 01/01/0001
 Read more
@@ -443,6 +443,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Boydton
+GeoOptions: 339
