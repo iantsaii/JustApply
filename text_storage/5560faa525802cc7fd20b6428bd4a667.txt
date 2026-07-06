@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-FinCrime Operations Analyst - Sanctions
+Compliance Analyst
 Salary
-680000 + RSUs
+3500 - 5000 EUR Monthly
 Location
-Hyderabad
+Tallinn
 Job Family Group
-Customer Compliance
+Analytics - General
 Locations
-Hyderabad
+Tallinn
 Description
-We’re looking for FinCrime Operations Analyst - Sanctions to join our growing Sanctions Screening team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s mission, grow as a Sa
+We’re looking for a Data Analyst who is passionate about Wise’s mission of Money Without Borders and who will partner with our global compliance teams to help us on our journey to Mission Zero!About t
 Reference
-38b1b1c3-a666-40a4-a9f7-566b7e6ebbdd
+64cebaa9-6977-4976-a895-c1e9c6cb93f5
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer
+Talent Development Specialist
 Salary
-21000 - 30000 BRL Monthly
+6150 - 8350 SGD Monthly
 Location
-São Paulo
+Singapore
 Job Family Group
-Engineering
+Talent
 Locations
-São Paulo
+Singapore
 Description
-The Opportunity:We are expanding our LatAm teams by establishing a new São Paulo engineering hub, building new, high-impact teams on the ground. We are looking for an ambitious and highly skilled Seni
+We are seeking a passionate and enthusiastic Talent Development Specialist to join us in the People Team in Singapore! If you are someone who thrives on connecting with people and fostering their grow
 Reference
-890fb133-6fe0-4540-8a96-3d79f734c4cf
+62133ba1-c177-4b52-9b47-44358cb031fc
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Staff Software Engineer
+Android Engineer- Regional Experience
 Salary
-30000 - 41000 BRL Monthly
+68000 - 87500 GBP Annual
 Location
-São Paulo
+London
 Job Family Group
 Engineering
 Locations
-São Paulo
+London
 Description
-We are expanding our Latin American teams by establishing a new São Paulo engineering hub, building multiple new, high-impact engineering teams on the ground. We are looking for ambitious and highly s
+We're hiring for our Regional Experience team, who work with teams across the world to deliver best in class user experiences that feel local to wherever our customers use them.As part of Regional Exp
 Reference
-2efa92c7-93f6-45ae-8ff3-5a9b3b6dc5b2
+e1b4dbfc-896a-40f3-821e-a06d86ab6c10
 Expiry Date
 01/01/0001
 Read more
@@ -444,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Boydton
+City: Olympia
 GeoOptions: 339
