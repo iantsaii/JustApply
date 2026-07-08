@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Regulatory Compliance Manager
+Recruiter (Contract)
 Salary
--
+0
 Location
 Hyderabad
 Job Family Group
-Compliance
+Recruitment
 Locations
 Hyderabad
 Description
-Role OverviewWe are seeking a proactive, independent, and detail-oriented Senior Regulatory Compliance Expert to join our team of compliance officers in India. In this senior role, you will work indep
+As a Recruiter at Wise you’ll be responsible for hiring the best talent for Core Functions and Servicing Operations in Hyderabad. You’ll own talent management, helping Servicing Operations to scale to
 Reference
-00dfdcd8-4d76-4308-a106-73c3858ee1c8
+5cb614a0-249f-4e6b-ae24-9257a009f1e8
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Talent Development Specialist
+Workforce Management Operations Partner
 Salary
-9400 - 13900 BRL Monthly
+INR 2,400,000 - 3,300,000 Annually + RSUs
 Location
-São Paulo
+Hyderabad
 Job Family Group
-People and Organisational Development
+Workforce Management
 Locations
-São Paulo
+Hyderabad
 Description
-As a Talent Development Specialist, you will play a pivotal role in fostering a culture of continuous learning and professional growth within the organization. You will facilitate leadership and onboa
+We’re looking for a Workforce Management Operations Partner Lead to join our Operational team in our Hyderabad office!The WFM Operations Partner Lead is the primary interface between Workforce Managem
 Reference
-2e04deee-f8f0-424b-8472-07352057ec24
+e1b390cb-4979-4801-a60b-7eaa7bab9e94
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Financial Accountant
+Senior Software Engineer I - Stream Processing - Kafka & Flink
 Salary
-125000 - 150000 AUD Annual
+85000 - 105000 GBP Annual
 Location
-Sydney
+London
 Job Family Group
-Finance Specialists
+Engineering
 Locations
-Sydney
+London
 Description
-Position SummaryThe Senior Financial Accountant is a key member of Wise’s Pacific Finance team, reporting to the Head of Pacific Finance. The role is responsible for delivering accurate financial repo
+About the roleWe are looking for a senior software engineer with a background in stream processing.Our Stream Processing team is part of the Data Squad.We provide the tooling and infrastructure that a
 Reference
-2ca0dfdd-3346-46e7-8b5a-484f8822be1e
+94d88f63-b1b7-4724-9bad-3b3f8a761f41
 Expiry Date
 01/01/0001
 Read more
@@ -443,6 +443,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: San Jose
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
