@@ -444,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: San Jose
 GeoOptions: 339
