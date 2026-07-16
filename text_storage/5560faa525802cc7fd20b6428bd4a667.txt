@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Partnerships Manager APAC
+Executive Assistant
 Salary
-From $7,100 base and onwards
+7050 - 9050 SGD Monthly + RSUs
 Location
 Singapore
 Job Family Group
-Organic Acquisition
+Executive Assistant
 Locations
 Singapore
 Description
-We are looking for an ambitious and commercially minded Partnerships Manager to join our Strategic Partnerships team in Singapore. You will play a critical role in helping Wise accelerate growth acros
+We're looking for an Executive Assistant to support our Head of Banking & Expansion APAC and offer light support to other senior members of APAC Leadership Team. This role will be based out of our Sin
 Reference
-2f893950-c144-46b8-b307-33933c8b281a
+5841db37-50e6-41e3-a562-1f3371c9e15e
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Principal Technical Recruiter
+Identity and Access Management Technician
 Salary
-143000 - 190000 USD Annual
+805000 - 1323000 INR Annual
 Location
-Austin
+Hyderabad
 Job Family Group
-Recruitment
+User Tech
 Locations
-Austin
+Hyderabad
 Description
-Join our dynamic and expanding team in Austin, TX and play a crucial role in shaping the future of our technology and product development in the Americas. As a Principal Technical Recruiter, you'll fo
+Job PurposeAs a UT Technician L2 on the team, you will be a self-directed, established team member who delivers reliably across both tickets and projects, from regional to global scope. You are expect
 Reference
-f4e1d89b-9819-4288-a39b-061f3d0b4a45
+ccb2e118-f42a-4bc0-a33e-f60704c4e521
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-KYC Operations Senior Analyst - Total Service
+Workforce Management Operations Partner
 Salary
-8300 - 11000 BRL Monthly
+INR 2,400,000 - 3,300,000 Annually + RSUs
 Location
-São Paulo
+Hyderabad
 Job Family Group
-Verification
+Workforce Management
 Locations
-São Paulo
+Hyderabad
 Description
-As a KYC Operations Senior Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting enhanced due diligence
+We’re looking for a Workforce Management Operations Partner Lead to join our Operational team in our Hyderabad office!The WFM Operations Partner Lead is the primary interface between Workforce Managem
 Reference
-8a7428be-5690-4c7d-a90a-00f3b434efc9
+e1b390cb-4979-4801-a60b-7eaa7bab9e94
 Expiry Date
 01/01/0001
 Read more
@@ -444,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
+City: San Jose
 GeoOptions: 339
