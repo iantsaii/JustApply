@@ -116,6 +116,25 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
+High Volume Team Lead
+Salary
+2750 EUR Monthly
+Location
+Tallinn
+Job Family Group
+Customer Support - General
+Locations
+Tallinn
+Description
+We’re looking for a High Volume (Total Service) Team Lead to join our team. This role is a unique opportunity to lead a team of highly empowered Specialists dedicated to our most valuable customers. T
+Reference
+a6dd1de5-ef48-40ee-be53-35040234b36e
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Technician, People Technology
 Salary
 5,250 - 7,250 BRL Monthly
@@ -148,25 +167,6 @@ Description
 We are expanding our Latin American teams by establishing a new São Paulo engineering hub, building multiple new, high-impact engineering teams on the ground. We are looking for ambitious and highly s
 Reference
 2efa92c7-93f6-45ae-8ff3-5a9b3b6dc5b2
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Software Engineer
-Salary
-21000 - 30000 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Engineering
-Locations
-São Paulo
-Description
-The Opportunity:We are expanding our LatAm teams by establishing a new São Paulo engineering hub, building new, high-impact teams on the ground. We are looking for an ambitious and highly skilled Seni
-Reference
-890fb133-6fe0-4540-8a96-3d79f734c4cf
 Expiry Date
 01/01/0001
 Read more
@@ -443,6 +443,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Phoenix
+GeoOptions: 339
