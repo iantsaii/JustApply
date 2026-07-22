@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-FinCrime Operations Team Lead - AML Investigations
+Treasury Operations Specialist
 Salary
-MYR 10,600 Monthly + RSUs
+5100 - 6600 SGD Monthly
 Location
-Kuala Lumpur
+Singapore
 Job Family Group
-Customer Compliance
+Treasury
 Locations
-Kuala Lumpur
+Singapore
 Description
-We’re looking for an AML Investigations Team Lead to join our team in KL. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicious activity and through that
+We’re seeking a Treasury Operations Specialist to join our Treasury Team in Singapore. This role presents a unique opportunity to contribute to Wise's mission within the Finance and Treasury Tribe, im
 Reference
-f3e0ab01-d240-4d4a-b7c6-21c1096a36bb
+6813f391-9b05-412e-8e7a-3da1a2796fdf
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-HRIS Analyst
+Head of Global Partnerships - Cards
 Salary
-5,250 - 7,250 BRL Monthly
+125000 - 170000 GBP Annual
 Location
-São Paulo
+London
 Job Family Group
-User Tech
+Banking - General
 Locations
-São Paulo
+London
 Description
-About the roleAs an HRIS Analyst, you will be a key member of our newly transformed People Technology team, focusing on the day-to-day execution, rapid service delivery, and stability of our global em
+We're looking for a Head of Global Card Expansion to own one of the most important parts of Wise's global payments infrastructure.You'll own the partnerships that underpin both how customers spend wit
 Reference
-fdc565dc-03fa-4dd9-bd5b-a3592cc429ab
+963a1b5d-6d4d-4300-bef6-2544a06c213b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Spanish Customer Support Specialist (Night shift)
+KYC Operations Senior Analyst - Deactivations
 Salary
-6680 - 7700 BRL Monthly
+900000 - 1190000 INR Annual
 Location
-São Paulo
+Hyderabad
 Job Family Group
-Customer Support - General
+Verification
 Locations
-São Paulo
+Hyderabad
 Description
-Your mission is to be the first point of contact for our customers, acting as a skilled problem solver and customer advocate. Because our Customer Support team forms a large part of the company’s publ
+As a KYC Operations Senior Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting enhanced due diligence
 Reference
-29e11b5e-1d98-4b97-b17b-2044458a74dc
+c8b72f52-b961-4468-803f-17da7d6aa455
 Expiry Date
 01/01/0001
 Read more
@@ -444,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
+City: San Jose
 GeoOptions: 339
