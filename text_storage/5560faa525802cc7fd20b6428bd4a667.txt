@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Treasury Operations Specialist
+Chief Risk Officer
 Salary
-5100 - 6600 SGD Monthly
+-
 Location
-Singapore
+Hyderabad
 Job Family Group
-Treasury
+Risk
 Locations
-Singapore
+Hyderabad
 Description
-We’re seeking a Treasury Operations Specialist to join our Treasury Team in Singapore. This role presents a unique opportunity to contribute to Wise's mission within the Finance and Treasury Tribe, im
+In this role as an India Chief Risk Officer in Wise’s second line Risk Management Team, you will be a key contributor in, and risk partner for the delivery of the risk management framework in India. T
 Reference
-6813f391-9b05-412e-8e7a-3da1a2796fdf
+48fa8da8-c986-40eb-868d-349843bdd752
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Head of Global Partnerships - Cards
+Workforce Management Operations Partner
 Salary
-125000 - 170000 GBP Annual
+INR 2,400,000 - 3,300,000 Annually + RSUs
 Location
-London
+Hyderabad
 Job Family Group
-Banking - General
+Workforce Management
 Locations
-London
+Hyderabad
 Description
-We're looking for a Head of Global Card Expansion to own one of the most important parts of Wise's global payments infrastructure.You'll own the partnerships that underpin both how customers spend wit
+We’re looking for a Workforce Management Operations Partner Lead to join our Operational team in our Hyderabad office!The WFM Operations Partner Lead is the primary interface between Workforce Managem
 Reference
-963a1b5d-6d4d-4300-bef6-2544a06c213b
+e1b390cb-4979-4801-a60b-7eaa7bab9e94
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-KYC Operations Senior Analyst - Deactivations
+Payment Operations Specialist - Global Processing
 Salary
-900000 - 1190000 INR Annual
+750000 INR Annually
 Location
 Hyderabad
 Job Family Group
-Verification
+Payment Operations
 Locations
 Hyderabad
 Description
-As a KYC Operations Senior Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting enhanced due diligence
+We are looking for a Payment Operations Specialist to join our Global Processing team to help our customers receive their funds faster globally.  The role is a unique opportunity to join one of the fa
 Reference
-c8b72f52-b961-4468-803f-17da7d6aa455
+2eec13a1-485e-4828-a20f-43846bb9d18b
 Expiry Date
 01/01/0001
 Read more
@@ -444,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Moses Lake
 GeoOptions: 339
