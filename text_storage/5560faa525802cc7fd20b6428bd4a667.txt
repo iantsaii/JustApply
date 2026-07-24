@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Chief Risk Officer
+Principal Executive Recruiter (18mth FTC)
 Salary
--
+82000 - 111000 GBP Annual
 Location
-Hyderabad
+London
 Job Family Group
-Risk
+Recruitment
 Locations
-Hyderabad
+London
 Description
-In this role as an India Chief Risk Officer in Wise’s second line Risk Management Team, you will be a key contributor in, and risk partner for the delivery of the risk management framework in India. T
+Our Board & Executive Talent Team enables us to deliver on our mission by ensuring we have the best leaders for our current & future needs. We’re looking for an experienced Executive Recruiter to join
 Reference
-48fa8da8-c986-40eb-868d-349843bdd752
+f49696b0-6a53-439a-b547-30a05701d88e
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Workforce Management Operations Partner
+WFM Team Lead
 Salary
-INR 2,400,000 - 3,300,000 Annually + RSUs
+16100 - 22000 BRL Monthly
 Location
-Hyderabad
+São Paulo
 Job Family Group
 Workforce Management
 Locations
-Hyderabad
+São Paulo
 Description
-We’re looking for a Workforce Management Operations Partner Lead to join our Operational team in our Hyderabad office!The WFM Operations Partner Lead is the primary interface between Workforce Managem
+As a WFM Lead, you will play a crucial role in supporting our agents and operational teams to optimise SLA and efficiency whilst protecting agent well-being. You’ll be supporting and levelling up our
 Reference
-e1b390cb-4979-4801-a60b-7eaa7bab9e94
+f73f7f3a-8eb9-4ea1-a318-607f1ba91f4f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Payment Operations Specialist - Global Processing
+FinCrime Investigator - AML Investigations
 Salary
-750000 INR Annually
+8300 - 11000 BRL Monthly
 Location
-Hyderabad
+São Paulo
 Job Family Group
-Payment Operations
+Customer Compliance
 Locations
-Hyderabad
+São Paulo
 Description
-We are looking for a Payment Operations Specialist to join our Global Processing team to help our customers receive their funds faster globally.  The role is a unique opportunity to join one of the fa
+As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
 Reference
-2eec13a1-485e-4828-a20f-43846bb9d18b
+5c25a01c-b410-4847-9b02-1588178092bc
 Expiry Date
 01/01/0001
 Read more
@@ -176,6 +176,26 @@ Shortlist
 View all
 List #1
 Latest blogs
+From 7 to scaled: What I’ve learned leading Product Analytics at Wise
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+07/22/2026
+Summary
+"At Wise, we expect our analysts to have just as much voice and ownership over what we build—and in what order—as the Product Managers. It is a true, cross-functional partnership."Hazal Mu
+Teaser
+6 years ago, Hazal Muhtar took on scaling Product Analytics at Wise. Today, her team uses data & AI to drive big strategic moves and shape our product roadmap side-by-side with PMs & Engineers. 🚀
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Product
+Analytics
+London
 Behind the screens: how Wise brought the FIFA World Cup™ to your wallet
 Teaser
 Our work
@@ -362,25 +382,6 @@ DEI
 Life at Wise
 ESG
 Our work
-Shaping the Future of Global Compliance at Wise
-Teaser
-Diversity Equity & Inclusion
-Content Type
-Blog
-Publish date
-02/23/2026
-Summary
-"Don't feel pressured to adopt a persona you think a leader 'should' have. Your unique perspective, background, and strengths are what will allow you to innovate and lead diverse teams effec
-Teaser
-Meet Nita Patel, our Chief Compliance Officer as she shares her transition from global investment banking to the mission-driven world of Wise. Explore her insights on leading with authenticity, the power of mentorship, and how embedding compliance by design are shaping the future of global money 🚀
-Read more
-by
-Sapphire Birmingham
-by
-Sapphire Birmingham
-DEI
-Life at Wise
-London
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -443,6 +444,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Moses Lake
-GeoOptions: 339
+Location: SE
+City: Hägersten
+GeoOptions: 374
