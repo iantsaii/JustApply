@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Principal Executive Recruiter (18mth FTC)
+Talent Acquistion Analyst
 Salary
-82000 - 111000 GBP Annual
+10400 - 15400 BRL Monthly
 Location
-London
+São Paulo
 Job Family Group
 Recruitment
 Locations
+São Paulo
+Description
+Develop and implement world-class recruitment strategies, collaborating closely with hiring teams to make data-driven decisions.Build long-term relationships with top talent, guiding them through a re
+Reference
+3490c584-7e4d-4235-b401-2271febfd94d
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Lead Product Analyst - Security Platform
+Salary
+75000 - 115000 GBP Annual
+Location
+London
+Job Family Group
+Analytics - General
+Locations
 London
 Description
-Our Board & Executive Talent Team enables us to deliver on our mission by ensuring we have the best leaders for our current & future needs. We’re looking for an experienced Executive Recruiter to join
+The Platform Engineering Tribe:We are the driving force behind Wise, making sure everything runs smoothly. We support our engineering teams so they innovate, build and ship great code quickly and conf
 Reference
-f49696b0-6a53-439a-b547-30a05701d88e
+a5c43c01-6bb3-493f-93e6-209cd3f0b0ae
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-WFM Team Lead
+Quality Assurance Specialist
 Salary
-16100 - 22000 BRL Monthly
+70500 - 84625 USD Annual
 Location
-São Paulo
+Austin
 Job Family Group
-Workforce Management
+Quality
 Locations
-São Paulo
+Austin
 Description
-As a WFM Lead, you will play a crucial role in supporting our agents and operational teams to optimise SLA and efficiency whilst protecting agent well-being. You’ll be supporting and levelling up our
+Purpose of the RoleAs a Quality Assurance Specialist with a focus on SAR Reporting at Wise, you are responsible for providing expert, objective assurance on the quality and effectiveness of our operat
 Reference
-f73f7f3a-8eb9-4ea1-a318-607f1ba91f4f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-FinCrime Investigator - AML Investigations
-Salary
-8300 - 11000 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Customer Compliance
-Locations
-São Paulo
-Description
-As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
-Reference
-5c25a01c-b410-4847-9b02-1588178092bc
+27a4bb2e-35ba-4084-b832-c0df6de69323
 Expiry Date
 01/01/0001
 Read more
@@ -444,6 +444,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: SE
-City: Hägersten
-GeoOptions: 374
+Location: US
+City: Phoenix
+GeoOptions: 339
