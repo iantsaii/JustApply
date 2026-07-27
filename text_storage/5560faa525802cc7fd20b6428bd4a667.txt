@@ -116,6 +116,44 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
+KYC Operations Analyst - Platform
+Salary
+7550 - 8700 BRL Monthly
+Location
+São Paulo
+Job Family Group
+Verification
+Locations
+São Paulo
+Description
+As a KYC Operations Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting thorough customer due diligen
+Reference
+06e9a656-ed27-43d1-a5e5-16d2953dc82c
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+FinCrime Reporting Specialist
+Salary
+900000 INR + RSUs
+Location
+Hyderabad
+Job Family Group
+Customer Compliance
+Locations
+Hyderabad
+Description
+We’re looking for a Financial Crime Specialist (focused on suspicious activity reporting) to join our team in Hyderabad, India. This is an exciting opportunity to be one of the very first founding mem
+Reference
+6bdd095c-7500-411d-958a-e7a1e6c5ea1b
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Talent Acquistion Analyst
 Salary
 10400 - 15400 BRL Monthly
@@ -129,44 +167,6 @@ Description
 Develop and implement world-class recruitment strategies, collaborating closely with hiring teams to make data-driven decisions.Build long-term relationships with top talent, guiding them through a re
 Reference
 3490c584-7e4d-4235-b401-2271febfd94d
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Lead Product Analyst - Security Platform
-Salary
-75000 - 115000 GBP Annual
-Location
-London
-Job Family Group
-Analytics - General
-Locations
-London
-Description
-The Platform Engineering Tribe:We are the driving force behind Wise, making sure everything runs smoothly. We support our engineering teams so they innovate, build and ship great code quickly and conf
-Reference
-a5c43c01-6bb3-493f-93e6-209cd3f0b0ae
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Quality Assurance Specialist
-Salary
-70500 - 84625 USD Annual
-Location
-Austin
-Job Family Group
-Quality
-Locations
-Austin
-Description
-Purpose of the RoleAs a Quality Assurance Specialist with a focus on SAR Reporting at Wise, you are responsible for providing expert, objective assurance on the quality and effectiveness of our operat
-Reference
-27a4bb2e-35ba-4084-b832-c0df6de69323
 Expiry Date
 01/01/0001
 Read more
@@ -445,5 +445,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: San Jose
 GeoOptions: 339
