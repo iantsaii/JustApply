@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Workplace Specialist - Tokyo
+Analytics Director, APAC
 Salary
-JPY 6,000,000 - 7,100,000 per annum
+230,000 - 318,000 SGD base per annum + RSUs
 Location
-Tokyo
+Singapore
+Job Family Group
+Analytics - General
+Locations
+Singapore
+Description
+Salary Range: 230,000 - 318,000 SGD base per annum + RSUsWe’re looking for an Analytics Director for the APAC Squad who is passionate about our mission of Money Without Borders, to lead a high-impact
+Reference
+9da8b042-2932-4550-b483-a7d37e281239
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Northam Enterprise & Ops Risk Senior Manager
+Salary
+132500 - 190000 USD Annual
+Location
+Austin
+Job Family Group
+Risk
+Locations
+Austin
+Description
+We're looking for a Senior Risk Manager to drive the implementation and day-to-day management of our risk management framework for the Wise US Broker Dealer franchise, with a particular focus on Opera
+Reference
+4683d747-2eb5-48cc-a907-4ef05afa4d00
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Workplace Operations Coordinator
+Salary
+6452 - 8917 BRL Monthly
+Location
+São Paulo
 Job Family Group
 Workplace
 Locations
-Tokyo
+São Paulo
 Description
-We’re looking for a passionate and people-centric Workplace Adviser to join our growing Workplace team. Based at our Tokyo office, you will help us to support day-to-day operations to foster a great w
+Your Mission, Should You Choose to Accept It:Our Global Workplace Team is basically the glue that holds everything together, crafting spaces, events, and services that make Wise feel like home (but co
 Reference
-7dd0f302-a0d2-4a32-a7af-e74e14d53538
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Indirect Tax Specialist
-Salary
-6000 - 7500 SGD Monthly + RSUs
-Location
-Singapore
-Job Family Group
-Finance Specialists
-Locations
-Singapore
-Description
-Job DescriptionWe are looking for a motivated, decisive, practical and detail-oriented Indirect Tax Specialist to join our team. Our Tax team makes sure that we operate policies and governance procedu
-Reference
-e948bbe3-f27f-48f7-94e9-206c1d627377
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Engineering Lead - Ptech - HRIS - Growth Team
-Salary
-105000 - 135000 GBP Annual
-Location
-London
-Job Family Group
-Engineering
-Locations
-London
-Description
-About the role:This role offers a unique opportunity to shape the technical foundation that empowers Wise employees to achieve our mission. As the Engineering Lead (EL1) for our People Technology Grow
-Reference
-83bb50b4-85b0-469c-b20b-dc677b16cfd7
+1be90f4d-21cb-4b2b-9649-c0c5fde047ad
 Expiry Date
 01/01/0001
 Read more
@@ -445,5 +445,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Phoenix
 GeoOptions: 339
