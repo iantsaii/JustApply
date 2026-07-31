@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-AML Manager
+Lifecycle Marketing Senior Manager - North/South Americas
 Salary
-23300 - 31200 BRL Monthly
+109000-139000 USD Annual
 Location
-São Paulo
+Austin
 Job Family Group
-Customer Compliance
+Organic Acquisition
 Locations
-São Paulo
+Austin
 Description
-As a FinCrime Operations Senior Lead - LatAm, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key objec
+As we continue to grow, we’re looking for a Lifecycle Marketing Senior Manager to own and elevate our Americas customer lifecycle strategy. Your Mission:You will hold the vision for how we communicate
 Reference
-85993212-83ce-482c-9644-7ff8edd2c28a
+ad6da4a7-92e6-46b6-8412-7cdbec8e9891
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Presales Consultant
+Senior Tech Recruiter
 Salary
-102000 - 125000 GBP Annual
+18200 - 26600 BRL Monthly
 Location
-London
+São Paulo
 Job Family Group
-Presales
+Recruitment
 Locations
-London
+São Paulo
 Description
-We’ll look to you to help drive our growth objectives while consulting closely with our product, sales, and delivery teams to design solutions that we can deliver efficiently and with quality.As a Sen
+Join our dynamic and expanding team in São Paulo and play a crucial role in shaping the future of Wise in the Americas. As a Senior Technical Recruiter, you'll have the opportunity to foster a strong
 Reference
-9113ce34-96bd-4e6a-a313-47d3ddce4a66
+19bb4f19-e699-4f2f-9eb7-3cab8e011492
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Investigator - AML Investigations (Exclusive for PwD)
+Payment Operations Regional Product Specialist
 Salary
-8300 - 11000 BRL Monthly
+83200 - 105560 USD Annual
 Location
-São Paulo
+Austin
 Job Family Group
-Customer Compliance
+Payment Operations
 Locations
-São Paulo
+Austin
 Description
-As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
+We’re looking for an exceptional Payment Product Operations Specialist to join our North America Payment Operations team right here in Austin. This is a dynamic position where you will sit at the inte
 Reference
-5c25a01c-b410-4847-9b02-1588178092bc
+2fea2b8d-6545-4bd5-a6d7-3a14b158939e
 Expiry Date
 01/01/0001
 Read more
@@ -445,5 +445,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: Chicago
 GeoOptions: 339
