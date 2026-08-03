@@ -116,6 +116,44 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
+Treasury Operations Specialist
+Salary
+5100 - 6600 SGD Monthly
+Location
+Singapore
+Job Family Group
+Treasury
+Locations
+Singapore
+Description
+We’re seeking a Treasury Operations Specialist to join our Treasury Team in Singapore. This role presents a unique opportunity to contribute to Wise's mission within the Finance and Treasury Tribe, im
+Reference
+6813f391-9b05-412e-8e7a-3da1a2796fdf
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Lead, Payment Operations Strategy & Automation
+Salary
+11800 - 15300 SGD Monthly + RSUs
+Location
+Singapore
+Job Family Group
+Payment Operations
+Locations
+Singapore
+Description
+We're hiring someone to lead the operational side of how Wise handles payments that don't complete cleanly and to help redesign that operation for a world where AI agents do most of the work.Why this
+Reference
+5de43520-b81b-437b-92c4-630849196fa6
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Senior Finance Manager
 Salary
 -
@@ -129,44 +167,6 @@ Description
 We're looking for a Finance Manager to join our LATAM finance team in Sao Paulo, Brazil. This role is a critical bridge between our regional strategy and day-to-day financial excellence.Role Objective
 Reference
 eafc5e81-8d9f-41ac-bd6a-8a68b2241d17
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Business Development Manager, Banks
-Salary
-225000 - 284000 USD Annual
-Location
-Austin
-Job Family Group
-Business Development
-Locations
-Austin
-Description
-We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
-Reference
-04bbb74d-d9af-41b0-96df-a894f0e6e03c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Wise Platform Enterprise Specialist
-Salary
-11000 - 15400 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Customer Support - General
-Locations
-São Paulo
-Description
-As an Enterprise Support Specialist for Wise Platform, your mission is to drive operational efficiency and scalability for our partners. You'll be the main point of contact for our partners, ensuring
-Reference
-ba6636d2-6638-445b-b319-2d7959525177
 Expiry Date
 01/01/0001
 Read more
@@ -445,5 +445,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: San Jose
 GeoOptions: 339
