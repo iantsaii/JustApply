@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Treasury Operations Specialist
+High Volume (Total Service) Support Specialist
 Salary
-5100 - 6600 SGD Monthly
+4900 SGD Monthly
 Location
 Singapore
 Job Family Group
-Treasury
+Customer Support - General
 Locations
 Singapore
 Description
-We’re seeking a Treasury Operations Specialist to join our Treasury Team in Singapore. This role presents a unique opportunity to contribute to Wise's mission within the Finance and Treasury Tribe, im
+Purpose of the role:The High Volume Support Specialist is the frontline owner of trust and retention for our highest-volume customer segment. Your purpose is to deliver service and expert guidance so
 Reference
-6813f391-9b05-412e-8e7a-3da1a2796fdf
+63f7c908-4b35-46b6-8fa6-873687e0dfef
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Lead, Payment Operations Strategy & Automation
+Senior Risk Manager - Non-Financial Risks
 Salary
-11800 - 15300 SGD Monthly + RSUs
+27000 - 48000 BRL Monthly
 Location
-Singapore
+São Paulo
 Job Family Group
-Payment Operations
+Risk
 Locations
-Singapore
+São Paulo
 Description
-We're hiring someone to lead the operational side of how Wise handles payments that don't complete cleanly and to help redesign that operation for a world where AI agents do most of the work.Why this
+We are seeking a dynamic individual to join our team as the Senior Risk Manager for Latam & MEA as an individual contributor. The successful candidate will be responsible for managing the risk functio
 Reference
-5de43520-b81b-437b-92c4-630849196fa6
+26d0fc20-6ca1-4c90-aa2d-619d770e52c5
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Finance Manager
+Global Business Complaints Lead
 Salary
--
+16500 - 22000 BRL Monthly
 Location
 São Paulo
 Job Family Group
-Financial Reporting
+Complaints
 Locations
 São Paulo
 Description
-We're looking for a Finance Manager to join our LATAM finance team in Sao Paulo, Brazil. This role is a critical bridge between our regional strategy and day-to-day financial excellence.Role Objective
+We’re looking for an experienced lead of business customers that can drive exceptional customer service, while generating high quality and actionable insights to key stakeholders, to create lasting an
 Reference
-eafc5e81-8d9f-41ac-bd6a-8a68b2241d17
+31efefe8-1199-456c-b174-3d11cfb5e5dc
 Expiry Date
 01/01/0001
 Read more
@@ -444,6 +444,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: San Jose
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
