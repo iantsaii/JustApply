@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-FinCrime Operations Analyst - Sanctions
+KYC Operations Senior Analyst
 Salary
-680000 - 775000 INR Annual
+8300 - 11000 BRL Monthly
 Location
-Hyderabad
+São Paulo
 Job Family Group
-Customer Compliance
+Verification
 Locations
-Hyderabad
+São Paulo
 Description
-We’re looking for FinCrime Operations Analyst - Sanctions to join our growing Sanctions Screening team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s mission, grow as a Sa
+As a KYC Operations Senior Analyst in Total Service area, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting
 Reference
-38b1b1c3-a666-40a4-a9f7-566b7e6ebbdd
+8a7428be-5690-4c7d-a90a-00f3b434efc9
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Product Compliance Senior Manager - APAC Assets
+Principal Product Marketing Manager — Consumer Discovery
 Salary
-13300 - 17500 SGD Monthly
+110000 - 150000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
-Product Compliance
+Product Marketing
 Locations
-Singapore
+London
 Description
-We’re looking for a Regulatory Product Compliance Senior Manager to join our growing Product Compliance team to support the Assets Product Compliance team in APAC. This role is hands-on, a unique oppo
+At Wise we're building money without borders — for people without borders. Our mission is to make moving money around the world instant, transparent, convenient and eventually free. Millions of custom
 Reference
-6f384e08-a7d1-45c1-9980-aab4846a49af
+3d1157ba-21ec-4c0f-bc11-e2e2ea2c3ff1
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Complaints & Ombudsman Officer - Exclusive for PwD
+Lead Data Scientist - Liquidity
 Salary
-7800 - 9350 BRL Monthly
+90500 - 127000 GBP Annual
 Location
-São Paulo
+London
 Job Family Group
-Complaints
+Data Science
 Locations
-São Paulo
+London
 Description
-As a Complaints Officer, you’ll investigate customer complaints, ensure timely and fair resolutions, and maintain a strong understanding of our regulatory obligations across multiple jurisdictions. Th
+We are seeking a talented Lead Data Scientist with expertise in Liquidity management modelling to join our dynamic Treasury team. This role focuses on driving our models and optimising their impact on
 Reference
-f51076f4-8bba-4fb9-a04f-b0e4f833f44f
+3afb16f3-0752-4efd-bdbe-c04bbe953a0e
 Expiry Date
 01/01/0001
 Read more
@@ -445,5 +445,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
+City: Boydton
 GeoOptions: 339
