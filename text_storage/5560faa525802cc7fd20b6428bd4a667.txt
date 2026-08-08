@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-KYC Operations Senior Analyst
+Paid Audio Senior Manager
 Salary
-8300 - 11000 BRL Monthly
+117000 - 174500 USD Annual
 Location
-São Paulo
+New York
 Job Family Group
-Verification
+Paid Acquisition
 Locations
-São Paulo
+New York
 Description
-As a KYC Operations Senior Analyst in Total Service area, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting
+We’re looking for a data-driven Paid Audio Senior Manager to scale Wise’s advertising activity across the global podcast and streaming landscape. This role will be rooted in maintaining direct relatio
 Reference
-8a7428be-5690-4c7d-a90a-00f3b434efc9
+6ffee08a-5f86-4f34-8cd2-1c85a72dfc6c
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Principal Product Marketing Manager — Consumer Discovery
+IPM Technical Operations Technician - UT Technician
 Salary
-110000 - 150000 GBP Annual
+6,550- 9,250 BRL Monthly
 Location
-London
+São Paulo
 Job Family Group
-Product Marketing
+User Tech
 Locations
-London
+São Paulo
 Description
-At Wise we're building money without borders — for people without borders. Our mission is to make moving money around the world instant, transparent, convenient and eventually free. Millions of custom
+We’re looking for a Technical Operations Technician who thrives on making our internal systems work together seamlessly. You won’t just be answering tickets; you’ll be the go-to expert for configuring
 Reference
-3d1157ba-21ec-4c0f-bc11-e2e2ea2c3ff1
+0bf94fd2-ec60-4f03-8925-aeb0490cd815
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Lead Data Scientist - Liquidity
+NA Pricing Manager
 Salary
-90500 - 127000 GBP Annual
+135000 - 185000 USD Annual
 Location
-London
+Austin
 Job Family Group
-Data Science
+Finance Specialists
 Locations
-London
+Austin
 Description
-We are seeking a talented Lead Data Scientist with expertise in Liquidity management modelling to join our dynamic Treasury team. This role focuses on driving our models and optimising their impact on
+At Wise, we’ve got a clear mission — money without borders. Built by and for people who live global lives. We’re looking for an experienced professional to join our Commercial Pricing team. The team i
 Reference
-3afb16f3-0752-4efd-bdbe-c04bbe953a0e
+a60f2754-2764-4ef7-b484-3c924d79b4a4
 Expiry Date
 01/01/0001
 Read more
@@ -444,6 +444,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Boydton
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
