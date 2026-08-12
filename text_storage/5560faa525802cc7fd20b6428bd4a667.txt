@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Software Engineer - APAC Expansion (Korea)
+Quality Assurance Specialist
 Salary
--
+34 - 40.75 USD Hourly
 Location
-Seoul
+Austin
 Job Family Group
-Engineering
+Quality
 Locations
-Seoul
+Austin
 Description
-Wise is opening a new office in Seoul in order to support our Asia & Pacific teams and regional plans, particularly in South Korea. The role is a unique opportunity to build beautifully simple experie
+Purpose of the RoleAs a Quality Assurance Specialist with a focus on SAR Reporting at Wise, you are responsible for providing expert, objective assurance on the quality and effectiveness of our operat
 Reference
-6b211e64-e2c8-4f05-9640-2a14104fcac7
+27a4bb2e-35ba-4084-b832-c0df6de69323
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Software Engineer - APAC Expansion (Korea)
+Complaints & Ombudsman Team Lead
 Salary
--
+16500 - 22000 BRL Monthly
 Location
-Seoul
+São Paulo
 Job Family Group
-Engineering
+Complaints
 Locations
-Seoul
+São Paulo
 Description
-Wise is opening a new office in Seoul in order to support our Asia & Pacific teams and regional plans, particularly in South Korea. The role is a unique opportunity to build beautifully simple experie
+As a Complaints & Ombudsman Team Lead, you will play a critical role in ensuring our customers' concerns are addressed efficiently and effectively. You will manage alongside another Team Lead the loca
 Reference
-929958c7-4644-431e-9471-9a733a76bf76
+3a2d97db-9f10-4f9d-a5f6-09db5714fb4e
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Lead - APAC Expansion (Korea)
+Vulnerable Customer Consultant
 Salary
--
+7800 - 9350 BRL Monthly
 Location
-Seoul
+São Paulo
 Job Family Group
-Engineering
+Complaints
 Locations
-Seoul
+São Paulo
 Description
-We are opening a new office in Seoul to support our Asia-Pacific teams and regional expansion plans. As an Engineering Lead in South Korea, you will have the unique opportunity to build beautifully si
+As a ECT Consultant (Vulnerable Customer Consultant), your mission is to help implement and enforce Wise’s vulnerability and accessibility strategy through specialising in our team’s focus areas (Prod
 Reference
-edea1b20-806b-4ce0-9e1f-d2e81eecf880
+69023ecc-1de1-4a0e-b54e-4245bf4c7927
 Expiry Date
 01/01/0001
 Read more
@@ -444,6 +444,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Olympia
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
