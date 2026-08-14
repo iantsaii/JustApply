@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Product Compliance & Risk Manager - Latam
+FinCrime Operations Analyst - Sanctions (Japanese Speaking)
 Salary
-1,944,000-2,526,000 MXN annually
+Monthly MYR 5,600 + RSUs
 Location
-Ciudad de México
+Kuala Lumpur
 Job Family Group
-Product Compliance
+Customer Compliance
 Locations
-Ciudad de México
+Kuala Lumpur
 Description
-We are looking for a candidate ready to leverage their Latin American regulatory compliance experience in a dynamic, fintech environment. This is an exciting, hands-on opportunity working directly wit
+We’re looking for FinCrime Operations Analyst - Sanctions (Japanese Speaking) to join our growing Sanctions Screening team in Kuala Lumpur. This role is a unique opportunity to have an impact on Wise’
 Reference
-eda344b3-17bb-42f1-9672-ee8f8db23840
+cf88201e-8b5e-44d5-a8df-35dcdaaf25c8
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Data Analytics Manager
+Arbitration Specialist
 Salary
-187000-241000
+JPY 7,850,000 - 10,000,000 Annually + RSUs
 Location
-Austin
+Tokyo
 Job Family Group
-Analytics - General
+Complaints
 Locations
-Austin
+Tokyo
 Description
-We are looking for a Senior Data Analytics Manager to lead analytics for the Americas Compliance Analytics branch of the Compliance & Internal Audit Analytics team at Wise.You’ll partner with 2nd line
+If you're interested in the position please apply by submitting your CV and Cover Letter. In your cover letter, please answer the following questions:What motivates you to apply for this role?Why woul
 Reference
-12b4b87d-83b2-474b-99a8-8d46e25f9896
+08f1788f-5e2f-41b5-8ba5-9e16717acdce
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Network Automation Engineer
+Arbitration Specialist
 Salary
-4900000 - 7800000 INR Annual
+Monthly SGD 5,850 - 7,750 + RSUs
 Location
-Hyderabad
+Singapore
 Job Family Group
-Engineering
+Complaints
 Locations
-Hyderabad
+Singapore
 Description
-Wise is one the fastest growing companies in Europe and we’re on a mission: to make money without borders the new normal. We’ve got 10 million customers across the globe and we’re growing. Fast.Curren
+If you're interested in the position please apply by submitting your CV and Cover Letter. In your cover letter, please answer the following questions:What motivates you to apply for this role?Why woul
 Reference
-5062799c-5943-4ccb-8742-c9a4cef08e5c
+67a2cf62-91fa-4bfe-a09d-ebc56cdce50a
 Expiry Date
 01/01/0001
 Read more
@@ -445,5 +445,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Long Hill Twp
+City: Chicago
 GeoOptions: 339
