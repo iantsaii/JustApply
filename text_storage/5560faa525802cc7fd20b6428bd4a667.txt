@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-FinCrime Operations Analyst - Sanctions (Japanese Speaking)
+Senior Software Engineer II- Regional Expansion
 Salary
-Monthly MYR 5,600 + RSUs
+111000 - 145000 GBP Annual
 Location
-Kuala Lumpur
+London
 Job Family Group
-Customer Compliance
+Engineering
 Locations
-Kuala Lumpur
+London
 Description
-We’re looking for FinCrime Operations Analyst - Sanctions (Japanese Speaking) to join our growing Sanctions Screening team in Kuala Lumpur. This role is a unique opportunity to have an impact on Wise’
+We are expanding our Latam & Mea Payments Team and are looking for ambitious and highly skilled Senior Software Engineers to join the engineering team.You will lead the development of the critical int
 Reference
-cf88201e-8b5e-44d5-a8df-35dcdaaf25c8
+2cfeb249-1c4a-42a8-9bfa-5fce421bff12
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Arbitration Specialist
+Senior Finance Manager
 Salary
-JPY 7,850,000 - 10,000,000 Annually + RSUs
+-
 Location
-Tokyo
+São Paulo
 Job Family Group
-Complaints
+Financial Reporting
 Locations
-Tokyo
+São Paulo
 Description
-If you're interested in the position please apply by submitting your CV and Cover Letter. In your cover letter, please answer the following questions:What motivates you to apply for this role?Why woul
+We're looking for a Finance Manager to join our LATAM finance team in Sao Paulo, Brazil. This role is a critical bridge between our regional strategy and day-to-day financial excellence.Role Objective
 Reference
-08f1788f-5e2f-41b5-8ba5-9e16717acdce
+eafc5e81-8d9f-41ac-bd6a-8a68b2241d17
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Arbitration Specialist
+Senior Finance Manager - SOX Testing
 Salary
-Monthly SGD 5,850 - 7,750 + RSUs
+3950000 - 6120000 INR Annual
 Location
-Singapore
+Hyderabad
 Job Family Group
-Complaints
+Finance Specialists
 Locations
-Singapore
+Hyderabad
 Description
-If you're interested in the position please apply by submitting your CV and Cover Letter. In your cover letter, please answer the following questions:What motivates you to apply for this role?Why woul
+About the TeamFinance Risk & Control partners with Finance and the wider business to strengthen the control environment, support SOX compliance, and improve how risks and controls are designed, operat
 Reference
-67a2cf62-91fa-4bfe-a09d-ebc56cdce50a
+7dff5641-fc32-4198-a7ed-92cfefafca6a
 Expiry Date
 01/01/0001
 Read more
@@ -176,6 +176,28 @@ Shortlist
 View all
 List #1
 Latest blogs
+Driving Systemic Impact with our Global ESG Lead 🌍
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+08/13/2026
+Summary
+“For us, ESG isn’t a separate project, it’s a part of how we build a global product.”
+Caroline Corbett-Thompson (She/Her)
+Global Environmental, Social Impact and Governance Lead
+Teaser
+From Wise customer to leading global impact: Caroline Corbett-Thompson shares practical strategies for embedding sustainability into everyday offices and events.
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+ESG
+Our work
+London
 From 7 to scaled: What I’ve learned leading Product Analytics at Wise
 Teaser
 People profile
@@ -361,27 +383,6 @@ Verona Hasani
 Life at Wise
 Payment Operations
 Japan
-Inclusion by Design: Wise Office spaces
-Teaser
-Diversity Equity & Inclusion
-Content Type
-Blog
-Publish date
-02/25/2026
-Summary
-“With a global team of over 8,000 people representing 125 nationalities, crafting spaces that genuinely work for everyone isn't a 'nice-to-have' – it's fundamental to our success.”
-Li
-Teaser
-We asked Liis Reisner, Real Estate Project Lead at Wise, what we do to ensure that our workspaces are more than just offices. They are inclusive community hubs where our global teams can thrive 🌍🏢
-Read more
-by
-Sapphire Birmingham
-by
-Sapphire Birmingham
-DEI
-Life at Wise
-ESG
-Our work
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -444,6 +445,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Chicago
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
