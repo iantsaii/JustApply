@@ -116,6 +116,25 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
+Card Disputes Associate Specialist
+Salary
+750000 - 950000 INR Annual
+Location
+Hyderabad
+Job Family Group
+Payment Operations
+Locations
+Hyderabad
+Description
+We’re looking for a Card Disputes Associate Specialist to join our team in the Hyderabad office. This role is a unique opportunity to have an impact on Wise’s mission, help save millions more people m
+Reference
+5759f995-62e7-4517-92c1-826754035f0f
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Senior Software Engineer II- Regional Expansion
 Salary
 111000 - 145000 GBP Annual
@@ -148,25 +167,6 @@ Description
 We're looking for a Finance Manager to join our LATAM finance team in Sao Paulo, Brazil. This role is a critical bridge between our regional strategy and day-to-day financial excellence.Role Objective
 Reference
 eafc5e81-8d9f-41ac-bd6a-8a68b2241d17
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Finance Manager - SOX Testing
-Salary
-3950000 - 6120000 INR Annual
-Location
-Hyderabad
-Job Family Group
-Finance Specialists
-Locations
-Hyderabad
-Description
-About the TeamFinance Risk & Control partners with Finance and the wider business to strengthen the control environment, support SOX compliance, and improve how risks and controls are designed, operat
-Reference
-7dff5641-fc32-4198-a7ed-92cfefafca6a
 Expiry Date
 01/01/0001
 Read more
@@ -446,5 +446,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Long Hill Twp
+City: Des Moines
 GeoOptions: 339
