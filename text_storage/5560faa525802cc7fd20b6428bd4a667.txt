@@ -116,9 +116,47 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-AML Team Lead
+Arbitration Specialist
 Salary
-17500 - 23500 BRL Monthly
+JPY 7,850,000 - 10,000,000 Annually + RSUs
+Location
+Tokyo
+Job Family Group
+Complaints
+Locations
+Tokyo
+Description
+If you're interested in the position please apply by submitting your CV and Cover Letter. In your cover letter, please answer the following questions:What motivates you to apply for this role?Why woul
+Reference
+08f1788f-5e2f-41b5-8ba5-9e16717acdce
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Junior People Operations Specialist (FTC - 12 Months)
+Salary
+NA
+Location
+Singapore
+Job Family Group
+People Operations
+Locations
+Singapore
+Description
+We’re looking for a Junior People Operations Specialist to join our People Operations team in our Singapore office. This is an exciting time to join us as we move towards Shared Services and continue
+Reference
+6847770b-6970-4c6b-a9ed-e9a4e0e89441
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Fincime operations senior analyst - RFI
+Salary
+7800 - 9350 BRL Monthly
 Location
 São Paulo
 Job Family Group
@@ -126,47 +164,9 @@ Customer Compliance
 Locations
 São Paulo
 Description
-As a FinCrime Operations Team Lead you will develop and oversee the daily operations of a team of FinCrime Operations Analysts or Specialists. Your primary purpose is to ensure the effective mitigatio
+As a FinCrime Operations Senior Analyst specializing in Requests for Information (RFI), you will be an integral part of the team responsible for facilitating the secure and compliant exchange of infor
 Reference
-b3dac237-554a-4bf3-8463-c05124309c1e
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Software Engineer II - Fraud Squad - Account Integrity (Java)
-Salary
-87500 - 111000 GBP Annual
-Location
-London
-Job Family Group
-Engineering
-Locations
-London
-Description
-About the role:Join us as a Software Engineer in our critical Scam Prevention team. This is a high-impact engineering role with a strong product focus, dedicated to solving complex, real-world adversa
-Reference
-1ffc5c05-29ba-4988-a122-9b320e26894b
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Data Analyst - Compliance
-Salary
-15500 - 23200 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Analytics - General
-Locations
-São Paulo
-Description
-We are looking for a Senior Analyst to join the LatAm Compliance Analytics branch of the Compliance & Internal Audit Analytics team at Wise.You will join a team of analysts who own the reporting layer
-Reference
-4b56aeb4-b8ef-4436-970d-118242c36243
+f52d978b-ee09-4334-aaa7-9c6e80644ef9
 Expiry Date
 01/01/0001
 Read more
@@ -446,5 +446,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Chicago
+City: San Jose
 GeoOptions: 339
