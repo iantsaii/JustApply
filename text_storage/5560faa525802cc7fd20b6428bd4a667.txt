@@ -116,28 +116,28 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Arbitration Specialist
+Financial Crime Product Compliance & Risk Senior Manager
 Salary
-JPY 7,850,000 - 10,000,000 Annually + RSUs
+172,000 - 225,000 AUD Annual Base + RSUs
 Location
-Tokyo
+Sydney
 Job Family Group
-Complaints
+Product Compliance
 Locations
-Tokyo
+Sydney
 Description
-If you're interested in the position please apply by submitting your CV and Cover Letter. In your cover letter, please answer the following questions:What motivates you to apply for this role?Why woul
+The Product Compliance & Risk (PC&R) team sits at the centre of Wise’s product development function, supporting our cross-functional teams to deliver exceptional compliant-by-design products for our c
 Reference
-08f1788f-5e2f-41b5-8ba5-9e16717acdce
+4d783443-0387-403e-80c6-098e256ad732
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Junior People Operations Specialist (FTC - 12 Months)
+Junior People Operations Specialist (12 Months Contract)
 Salary
-NA
+-
 Location
 Singapore
 Job Family Group
@@ -154,9 +154,9 @@ Read more
 Shortlist
 Read more
 Shortlist
-Fincime operations senior analyst - RFI
+AML Manager
 Salary
-7800 - 9350 BRL Monthly
+23300 - 31200 BRL Monthly
 Location
 São Paulo
 Job Family Group
@@ -164,9 +164,9 @@ Customer Compliance
 Locations
 São Paulo
 Description
-As a FinCrime Operations Senior Analyst specializing in Requests for Information (RFI), you will be an integral part of the team responsible for facilitating the secure and compliant exchange of infor
+As a FinCrime Operations Senior Lead - LatAm, you will be responsible for developing and managing a team of Financial Crime Operations Team Leads and Specialists for specific SME areas. Your key objec
 Reference
-f52d978b-ee09-4334-aaa7-9c6e80644ef9
+85993212-83ce-482c-9644-7ff8edd2c28a
 Expiry Date
 01/01/0001
 Read more
@@ -446,5 +446,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Des Moines
 GeoOptions: 339
