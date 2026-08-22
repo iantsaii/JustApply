@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Engineering Lead - Embedded Finance
+Application Security Engineer
 Salary
-105000 - 135000 GBP Annual
+180000 - 230000 USD Annual
 Location
-London
+Austin
 Job Family Group
 Engineering
 Locations
-London
+Austin
 Description
-We’re looking for an Engineering Lead to join the embedded finance team. Our mission is to build the world's best embedded finance platform for our partners. You’ll be working closely with multiple fu
+Wise is one the fastest growing companies in Europe and we’re on a mission: to make money without borders the new normal. We’ve got over 19 million customers across the globe and we’re growing. Fast.C
 Reference
-ea80ec81-db36-4746-a4a2-c739767dc5ad
+43cfbf21-0792-4cb8-b70e-293822d6ed22
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Product Lead - Business Payments
+Customer Success Manager
 Salary
-120000 - 145000 GBP Annual
+72000 - 98000 USD Annual
 Location
-London
+Austin
 Job Family Group
-Product Management
+Customer Success
 Locations
-London
+Austin
 Description
-As a Product Lead for Business Payments, you will be solving for how businesses prepare and send payments through Wise. Your objective is to make any kind of payment easy at any scale - with special f
+As a Customer Success Manager, you'll own the operational strategy and execution for a portfolio of high-value banking and fintech partners on Wise Platform — driving continuous improvement in how pay
 Reference
-0479e8bb-8af9-4d5b-9208-c2e57f643122
+4bd649a8-c8a8-44fc-9c5b-218f789a776c
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-KYC Operations Team Lead - Consumer
+Recruiter (High-Volume)
 Salary
-10900 - 15100 BRL Monthly
+10400 - 15400 BRL Monthly
 Location
 São Paulo
 Job Family Group
-Verification
+Recruitment
 Locations
 São Paulo
 Description
-We’re looking for a KYC Operations Team Lead to join our KYC team in Sao Paulo. This role is a unique opportunity to have an impact on Wise’s mission, grow as a lead and help save millions more people
+Develop and implement world-class recruitment strategies, collaborating closely with hiring teams to make data-driven decisions.Build long-term relationships with top talent, guiding them through a re
 Reference
-89a2bf64-0781-4ebd-9d31-327962daa9d6
+3490c584-7e4d-4235-b401-2271febfd94d
 Expiry Date
 01/01/0001
 Read more
@@ -176,6 +176,27 @@ Shortlist
 View all
 List #1
 Latest blogs
+Scaling Internal Audit at Wise
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+08/18/2026
+Summary
+“Don’t limit yourself to what’s written in your job description—be naturally curious, ask questions, and constantly look for ways to make things better.”
+Charlene Su (She/Her)
+Head o
+Teaser
+Head of Internal Audit APAC, Charlene Su, built our Singapore function, showing how ownership and craftsmanship drive lasting impact💡
+Read more
+by
+Sapphire Birmingham
+by
+Sapphire Birmingham
+Singapore
+Internal Audit
+Finance
 Driving Systemic Impact with our Global ESG Lead 🌍
 Teaser
 People profile
@@ -362,27 +383,6 @@ Verona Hasani
 Life at Wise
 Product
 Engineering
-Working globally, staying local: Life at Wise in Japan
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-03/02/2026
-Summary
-"When you join, you’ll see your own growth mirrored by the growth of the company. You won't just be watching change happen; you’ll be a direct part of it."
-Ataro Shoji (He/Him)
-Payment
-Teaser
-Ataro Shoji, our Payment Operations Senior Specialist, highlights how collaborating across time zones allows us to build 'Money Without Borders' while enjoying an inclusive, mission-driven culture 🌏
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Payment Operations
-Japan
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
