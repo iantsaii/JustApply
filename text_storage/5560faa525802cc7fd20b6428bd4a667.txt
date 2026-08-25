@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Network Engineer
+Fincime operations senior analyst - RFI
 Salary
-4900000 - 7800000 INR Annual
+7800 - 9350 BRL Monthly
 Location
-Hyderabad
+São Paulo
 Job Family Group
-Engineering
+Customer Compliance
 Locations
-Hyderabad
+São Paulo
 Description
-What are we looking for?We are looking for a Senior Network Engineer to join our Platform Integrations APAC team, where you'll help expand and maintain direct integrations with payment systems and par
+As a FinCrime Operations Senior Analyst specializing in Requests for Information (RFI), you will be an integral part of the team responsible for facilitating the secure and compliant exchange of infor
 Reference
-f9c69158-8b34-499a-adac-96e834f57e6f
+f52d978b-ee09-4334-aaa7-9c6e80644ef9
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Application Security Engineer
+Customer Support Specialist (Spanish Speaker - Nightime)
 Salary
-180000 - 230000 USD Annual
+6680 - 7700 BRL Monthly
 Location
-Austin
+São Paulo
 Job Family Group
-Engineering
+Customer Support - General
 Locations
-Austin
+São Paulo
 Description
-Wise is one the fastest growing companies in Europe and we’re on a mission: to make money without borders the new normal. We’ve got over 19 million customers across the globe and we’re growing. Fast.C
+Your mission is to be the first point of contact for our customers, acting as a skilled problem solver and customer advocate. Because our Customer Support team forms a large part of the company’s publ
 Reference
-43cfbf21-0792-4cb8-b70e-293822d6ed22
+38188cec-f219-4fbf-aed7-7e2a0df6ff65
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Customer Success Manager
+Customer Support Specialist (Spanish Speaker)
 Salary
-72000 - 98000 USD Annual
+6680 - 7700 BRL Monthly
 Location
-Austin
+São Paulo
 Job Family Group
-Customer Success
+Customer Support - General
 Locations
-Austin
+São Paulo
 Description
-As a Customer Success Manager, you'll own the operational strategy and execution for a portfolio of high-value banking and fintech partners on Wise Platform — driving continuous improvement in how pay
+Your mission as a Spanish Specialist is to act as a customer support expert who delivers with accuracy and ownership. You will resolve complex issues for all customers while adapting seamlessly to evo
 Reference
-4bd649a8-c8a8-44fc-9c5b-218f789a776c
+f8b20dd8-266b-4ea2-ad3f-f87567d3880e
 Expiry Date
 01/01/0001
 Read more
@@ -446,5 +446,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
+City: Olympia
 GeoOptions: 339
