@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Fincime operations senior analyst - RFI
+Senior iOS Engineer - Spend
 Salary
-7800 - 9350 BRL Monthly
+12,400 - 15,400 SGD base per month + RSUs
 Location
-São Paulo
+Singapore
+Job Family Group
+Engineering
+Locations
+Singapore
+Description
+Salary range: 12,400 - 15,400 SGD base per month + RSUs About the Spend Squad:We build products that allow our customers to spend their money anywhere in the world. We currently process about £34 bill
+Reference
+ad88b23f-da2c-4a2e-b2e0-f4f87cbc4d1e
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Android Engineer - Spend
+Salary
+9350 - 12400 SGD Monthly
+Location
+Singapore
+Job Family Group
+Engineering
+Locations
+Singapore
+Description
+Salary Range: 9,350 - 12,400 SGD base per month + RSUsAbout the Spend Squad:We build products that allow our customers to spend their money anywhere in the world. We currently process about £34 billio
+Reference
+277f46ef-a09c-4786-b65e-c2e166811bbc
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Regional Head of AML Investigations
+Salary
+193000 - 277000 USD Annual
+Location
+Austin
 Job Family Group
 Customer Compliance
 Locations
-São Paulo
+Austin
 Description
-As a FinCrime Operations Senior Analyst specializing in Requests for Information (RFI), you will be an integral part of the team responsible for facilitating the secure and compliant exchange of infor
+The Regional Lead of AML Investigations is a leadership role responsible for the strategic direction and operational excellence of Anti-Money Laundering (AML) investigations. Beyond functional oversig
 Reference
-f52d978b-ee09-4334-aaa7-9c6e80644ef9
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Customer Support Specialist (Spanish Speaker - Nightime)
-Salary
-6680 - 7700 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Customer Support - General
-Locations
-São Paulo
-Description
-Your mission is to be the first point of contact for our customers, acting as a skilled problem solver and customer advocate. Because our Customer Support team forms a large part of the company’s publ
-Reference
-38188cec-f219-4fbf-aed7-7e2a0df6ff65
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Customer Support Specialist (Spanish Speaker)
-Salary
-6680 - 7700 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Customer Support - General
-Locations
-São Paulo
-Description
-Your mission as a Spanish Specialist is to act as a customer support expert who delivers with accuracy and ownership. You will resolve complex issues for all customers while adapting seamlessly to evo
-Reference
-f8b20dd8-266b-4ea2-ad3f-f87567d3880e
+2175d81e-2f4a-46c1-a2ea-948eb88380db
 Expiry Date
 01/01/0001
 Read more
@@ -445,6 +445,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Olympia
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
