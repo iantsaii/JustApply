@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior iOS Engineer - Spend
+Senior Engineering Lead II - Send Experience
 Salary
-12,400 - 15,400 SGD base per month + RSUs
+135000 - 175000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
 Engineering
 Locations
-Singapore
+London
 Description
-Salary range: 12,400 - 15,400 SGD base per month + RSUs About the Spend Squad:We build products that allow our customers to spend their money anywhere in the world. We currently process about £34 bill
+The team you will join: Send ExperienceSend Experience sits at the heart of every transfer on Wise. It’s where new customers make their first international transfer, where people send money home every
 Reference
-ad88b23f-da2c-4a2e-b2e0-f4f87cbc4d1e
+d323d161-cfd5-4b82-9405-7ab4efb7d28e
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Android Engineer - Spend
+Market Abuse Operations Specialist
 Salary
-9350 - 12400 SGD Monthly
+2800 - 3600 EUR Monthly
 Location
-Singapore
+Tallinn
 Job Family Group
-Engineering
+Payment Operations
 Locations
-Singapore
+Tallinn
 Description
-Salary Range: 9,350 - 12,400 SGD base per month + RSUsAbout the Spend Squad:We build products that allow our customers to spend their money anywhere in the world. We currently process about £34 billio
+Wise is expanding its Assets product into stocks and ETFs!We’re looking for a Market Abuse Operations Specialist in Tallinn to help us build and run Wise’s Market Abuse monitoring process for our Asse
 Reference
-277f46ef-a09c-4786-b65e-c2e166811bbc
+0b535dd9-4e58-4f5e-bf91-c13123c5c80b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Regional Head of AML Investigations
+Principal Implementation Manager - Wise Platform Verification
 Salary
-193000 - 277000 USD Annual
+115000 - 150000 GBP Annual
 Location
-Austin
+London
 Job Family Group
-Customer Compliance
+Implementation
 Locations
-Austin
+London
 Description
-The Regional Lead of AML Investigations is a leadership role responsible for the strategic direction and operational excellence of Anti-Money Laundering (AML) investigations. Beyond functional oversig
+About The TeamThe Global KYC and Onboarding squad works to make onboarding into Wise safe, compliant, efficient, and scalable. Within that squad, Wise Platform Verification focuses on verification for
 Reference
-2175d81e-2f4a-46c1-a2ea-948eb88380db
+d7af6973-8048-42c1-83fb-3476cd8411b7
 Expiry Date
 01/01/0001
 Read more
