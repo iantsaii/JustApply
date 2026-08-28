@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Engineering Lead II - Send Experience
+Associate Product Operations Manager
 Salary
-135000 - 175000 GBP Annual
+55000 - 69000 GBP Annual
 Location
 London
 Job Family Group
-Engineering
+Product Management
 Locations
 London
 Description
-The team you will join: Send ExperienceSend Experience sits at the heart of every transfer on Wise. It’s where new customers make their first international transfer, where people send money home every
+Product Operations (ProdOps) is a small collaborative team of specialists at Wise. The team itself is in a strong growth phase hence the need for this role. Our team has a rich mix, a broad range of e
 Reference
-d323d161-cfd5-4b82-9405-7ab4efb7d28e
+17ab9157-dd50-4bbc-b678-c6325b7c56a8
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Market Abuse Operations Specialist
+Creative Producer (YouTube)
 Salary
-2800 - 3600 EUR Monthly
+2750 - 3850 EUR gross/monthly + RSUs
 Location
 Tallinn
 Job Family Group
-Payment Operations
+Organic Acquisition
 Locations
 Tallinn
 Description
-Wise is expanding its Assets product into stocks and ETFs!We’re looking for a Market Abuse Operations Specialist in Tallinn to help us build and run Wise’s Market Abuse monitoring process for our Asse
+We are looking for a YouTube Creative Producer to join the Organic Social team in Tallinn. Our YouTube channel is growing rapidly, and we are ready to scale. Your main mission will be to help increase
 Reference
-0b535dd9-4e58-4f5e-bf91-c13123c5c80b
+916af0f2-5f4e-4682-b7f3-febc7245ba7d
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Principal Implementation Manager - Wise Platform Verification
+Senior Data Science Lead - AML Risk
 Salary
-115000 - 150000 GBP Annual
+118500 - 164000 GBP Annual
 Location
 London
 Job Family Group
-Implementation
+Data Science
 Locations
 London
 Description
-About The TeamThe Global KYC and Onboarding squad works to make onboarding into Wise safe, compliant, efficient, and scalable. Within that squad, Wise Platform Verification focuses on verification for
+We’re looking for a Data Science Lead to join our AML Risk team in London. This role is a unique opportunity to work on building out the lead Data Science team and machine learning based technical sol
 Reference
-d7af6973-8048-42c1-83fb-3476cd8411b7
+860dfec5-b393-4211-a1f5-ab0cf343fd97
 Expiry Date
 01/01/0001
 Read more
@@ -176,6 +176,26 @@ Shortlist
 View all
 List #1
 Latest blogs
+Inside Wise: Building Financial Infrastructure in Japan
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+08/28/2026
+Summary
+"I traded my sabbatical for an application, changed my plans, and joined Wise in June 2020. Looking back, it was one of the best decisions I've ever made."
+Mika Sei (She/Her)
+Banking
+Teaser
+I’m Mika, and I traded my sabbatical for an application, changed my plans, and joined Wise in June 2020. Looking back, it was one of the best decisions I've ever made.
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Japan
 Scaling Internal Audit at Wise
 Teaser
 People profile
@@ -364,25 +384,6 @@ Verona Hasani
 Life at Wise
 AML Operations
 Budapest
-Beyond the map: how we launched Wise in India
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-03/20/2026
-Summary
-Our team, including Suman Anand, Taneia Bhardwaj, Aditi Jalan, and Kanaka Raju Gullapudi is bridging the gap between time zones to build products that impact 16 million+ customers globally 🌎
-Teaser
-Our team, including Suman Anand, Taneia Bhardwaj, Aditi Jalan, and Kanaka Raju Gullapudi is bridging the gap between time zones to build products that impact 16 million+ customers globally 🌎
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Product
-Engineering
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -445,6 +446,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Boydton
+GeoOptions: 339
