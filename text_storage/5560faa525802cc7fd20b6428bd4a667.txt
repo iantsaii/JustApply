@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Associate Product Operations Manager
+Account Manager
 Salary
-55000 - 69000 GBP Annual
+120000 - 150000 USD Annual
 Location
-London
+Austin
 Job Family Group
-Product Management
+Account Management
 Locations
-London
+Austin
 Description
-Product Operations (ProdOps) is a small collaborative team of specialists at Wise. The team itself is in a strong growth phase hence the need for this role. Our team has a rich mix, a broad range of e
+About Wise PlatformWise Platform is Wise’s global payments infrastructure for banks, financial institutions, and enterprises around the world. We enable these organisations to deliver instant* and rel
 Reference
-17ab9157-dd50-4bbc-b678-c6325b7c56a8
+3321cf45-e6f4-46c3-9753-0c73a57d9999
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Creative Producer (YouTube)
+Senior Business Development Manager, Banks
 Salary
-2750 - 3850 EUR gross/monthly + RSUs
+$166,000 - $233000 USD Annual
 Location
-Tallinn
+Austin
 Job Family Group
-Organic Acquisition
+Business Development
 Locations
-Tallinn
+Austin
 Description
-We are looking for a YouTube Creative Producer to join the Organic Social team in Tallinn. Our YouTube channel is growing rapidly, and we are ready to scale. Your main mission will be to help increase
+We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
 Reference
-916af0f2-5f4e-4682-b7f3-febc7245ba7d
+04bbb74d-d9af-41b0-96df-a894f0e6e03c
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Data Science Lead - AML Risk
+Business Development Manager, Mid Market
 Salary
-118500 - 164000 GBP Annual
+133000 - 166000 USD Annual
 Location
-London
+Austin
 Job Family Group
-Data Science
+Business Development
 Locations
-London
+Austin
 Description
-We’re looking for a Data Science Lead to join our AML Risk team in London. This role is a unique opportunity to work on building out the lead Data Science team and machine learning based technical sol
+Your MissionYou will own new business development for mid-market Payouts in North America, managing 30+ named accounts from initial conversation through to signature.The majority of your pipeline will
 Reference
-860dfec5-b393-4211-a1f5-ab0cf343fd97
+fcb61129-bdf7-4f39-a5b6-c1b70a71b32a
 Expiry Date
 01/01/0001
 Read more
@@ -447,5 +447,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Boydton
+City: Des Moines
 GeoOptions: 339
