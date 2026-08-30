@@ -116,6 +116,25 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
+Internal Audit Senior Manager
+Salary
+INR
+Location
+Hyderabad
+Job Family Group
+Internal Audit
+Locations
+Hyderabad
+Description
+We are looking for an Internal Audit Senior Manager to join our growing APAC IA team based in India. Your main task will be to support the internal audit process for the Wise entities in India.  The s
+Reference
+b7cd2d6f-fba1-428e-a4aa-4f03540689ea
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Account Manager
 Salary
 120000 - 150000 USD Annual
@@ -148,25 +167,6 @@ Description
 We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
 Reference
 04bbb74d-d9af-41b0-96df-a894f0e6e03c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Business Development Manager, Mid Market
-Salary
-133000 - 166000 USD Annual
-Location
-Austin
-Job Family Group
-Business Development
-Locations
-Austin
-Description
-Your MissionYou will own new business development for mid-market Payouts in North America, managing 30+ named accounts from initial conversation through to signature.The majority of your pipeline will
-Reference
-fcb61129-bdf7-4f39-a5b6-c1b70a71b32a
 Expiry Date
 01/01/0001
 Read more
@@ -447,5 +447,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
+City: Olympia
 GeoOptions: 339
