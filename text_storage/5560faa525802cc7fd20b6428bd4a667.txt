@@ -116,6 +116,44 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
+Country Risk Officer
+Salary
+-
+Location
+Hyderabad
+Job Family Group
+Risk
+Locations
+Hyderabad
+Description
+In this role as an India Chief Risk Officer in Wise’s second line Risk Management Team, you will be a key contributor in, and risk partner for the delivery of the risk management framework in India. T
+Reference
+48fa8da8-c986-40eb-868d-349843bdd752
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Recruiter
+Salary
+2725000 - 5200000 INR Annual
+Location
+Hyderabad
+Job Family Group
+Recruitment
+Locations
+Hyderabad
+Description
+As a Senior Recruiter at Wise you’ll be responsible for hiring the best talent for AML teams in Hyderabad. You’ll own talent management, helping AML to scale to enable Wise to achieve our mission - mo
+Reference
+fa03095c-2162-412e-8638-84af79cf4faf
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Internal Audit Senior Manager
 Salary
 INR
@@ -129,44 +167,6 @@ Description
 We are looking for an Internal Audit Senior Manager to join our growing APAC IA team based in India. Your main task will be to support the internal audit process for the Wise entities in India.  The s
 Reference
 b7cd2d6f-fba1-428e-a4aa-4f03540689ea
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Account Manager
-Salary
-120000 - 150000 USD Annual
-Location
-Austin
-Job Family Group
-Account Management
-Locations
-Austin
-Description
-About Wise PlatformWise Platform is Wise’s global payments infrastructure for banks, financial institutions, and enterprises around the world. We enable these organisations to deliver instant* and rel
-Reference
-3321cf45-e6f4-46c3-9753-0c73a57d9999
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Business Development Manager, Banks
-Salary
-$166,000 - $233000 USD Annual
-Location
-Austin
-Job Family Group
-Business Development
-Locations
-Austin
-Description
-We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
-Reference
-04bbb74d-d9af-41b0-96df-a894f0e6e03c
 Expiry Date
 01/01/0001
 Read more
@@ -447,5 +447,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: Phoenix
 GeoOptions: 339

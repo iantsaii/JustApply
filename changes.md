@@ -1,26 +1,36 @@
 # Latest Scraper Results
 
-## 2026-08-30 08:53:27
+## 2026-08-31 09:17:27
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-- 133000 - 166000 USD Annual
-- Austin x2
+- $166,000 - $233000 USD Annual
++ -
+- 04bbb74d-d9af-41b0-96df-a894f0e6e03c
+- 120000 - 150000 USD Annual
++ 2725000 - 5200000 INR Annual
+- 3321cf45-e6f4-46c3-9753-0c73a57d9999
++ 48fa8da8-c986-40eb-868d-349843bdd752
+- About Wise PlatformWise Platform is Wise’s global payments infrastructure for banks, financial institutions, and enterprises around the world. We enable these organisations to deliver instant* and rel
+- Account Management
+- Account Manager
++ As a Senior Recruiter at Wise you’ll be responsible for hiring the best talent for AML teams in Hyderabad. You’ll own talent management, helping AML to scale to enable Wise to achieve our mission - mo
+- Austin x4
 - Business Development
-- Business Development Manager, Mid Market
-- City: Des Moines
-+ City: Olympia
-+ Hyderabad x2
-+ INR
-+ Internal Audit
-+ Internal Audit Senior Manager
-+ We are looking for an Internal Audit Senior Manager to join our growing APAC IA team based in India. Your main task will be to support the internal audit process for the Wise entities in India.  The s
-- Your MissionYou will own new business development for mid-market Payouts in North America, managing 30+ named accounts from initial conversation through to signature.The majority of your pipeline will
-+ b7cd2d6f-fba1-428e-a4aa-4f03540689ea
-- fcb61129-bdf7-4f39-a5b6-c1b70a71b32a
+- City: Olympia
++ City: Phoenix
++ Country Risk Officer
++ Hyderabad x4
++ In this role as an India Chief Risk Officer in Wise’s second line Risk Management Team, you will be a key contributor in, and risk partner for the delivery of the risk management framework in India. T
++ Recruitment
++ Risk
+- Senior Business Development Manager, Banks
++ Senior Recruiter
+- We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
++ fa03095c-2162-412e-8638-84af79cf4faf
 ```
 
 ---
