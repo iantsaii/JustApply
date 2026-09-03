@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Card Disputes Associate Specialist
+Full Stack Developer
 Salary
-750000 - 950000 INR Annual
+5750 - 7083.33 EUR Monthly
 Location
-Hyderabad
+Tallinn
 Job Family Group
-Payment Operations
+Engineering
 Locations
-Hyderabad
+Tallinn
 Description
-We’re looking for a Card Disputes Associate Specialist to join our team in the Hyderabad office. This role is a unique opportunity to have an impact on Wise’s mission, help save millions more people m
+Join us as a Software Engineer in our critical Scam Prevention team. This is a high-impact engineering role with a strong product focus, dedicated to solving complex, real-world adversarial problems t
 Reference
-5759f995-62e7-4517-92c1-826754035f0f
+63d9b645-4570-40cf-881f-39cdb47d1238
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Commercial Director - South Asia
+Compliance Operations Lead
 Salary
-21350 - 31850 SGD Monthly
+0
 Location
-Singapore
+Hyderabad
 Job Family Group
-Business Development
+Compliance
 Locations
-Singapore
+Hyderabad
 Description
-Banks, Fintechs and large enterprises use Wise Platform to build crossborder money movement solutions including Morgan Stanley, Standard Chartered, Agoda,  Mandiri, Mox by Standard Chartered, and othe
+We’re looking for a Compliance Operations Lead focusing on driving performance of the compliance operations team who are responsible for making decisions on our higher risk customers for selected APAC
 Reference
-c546eac3-33e5-4f3e-a53a-4f28ab568a07
+28d9709a-6e5a-4358-bf53-01c7f7ab0b82
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Lead, Payment Operations Strategy & Automation
+Engineering Lead - Payout Core
 Salary
-11800 - 15300 SGD Monthly + RSUs
+€6,666 - €8,333 gross/monthly
 Location
-Singapore
+Tallinn
 Job Family Group
-Payment Operations
+Engineering
 Locations
-Singapore
+Tallinn
 Description
-We're hiring someone to lead the operational side of how Wise handles payments that don't complete cleanly and to help redesign that operation for a world where AI agents do most of the work.Why this
+The team you'll be working with: Payout CoreWhenever Wise needs to deliver money — whether through a customer transfer, a business payout, or an internal operational flow — the payout domain is respon
 Reference
-5de43520-b81b-437b-92c4-630849196fa6
+60d44b96-22b1-42b5-b5f2-dcdf97de272a
 Expiry Date
 01/01/0001
 Read more
@@ -217,6 +217,28 @@ Sapphire Birmingham
 Singapore
 Internal Audit
 Finance
+Behind the screens: how Wise brought the FIFA World Cup™ to your wallet
+Teaser
+Our work
+Content Type
+Blog
+Publish date
+08/18/2026
+Summary
+Every four years, football gets millions of people moving across borders, navigating new cities, and dealing with unfamiliar currencies. Thanks to Visa, we’ve launched the Limited Edition Wise
+Teaser
+Who’s behind our limited-edition FIFA World Cup™ cards? ⚽
+Our Engineering, Product and Marketing squads worked cross-functionally to build a seamless experience for fans worldwide. 🌎
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Product
+Engineering
+Marketing
+global
 Driving Systemic Impact with our Global ESG Lead 🌍
 Teaser
 People profile
@@ -239,6 +261,27 @@ Life at Wise
 ESG
 Our work
 London
+Moving Upstream: How Wise is eliminating customer friction at the source
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+07/28/2026
+Summary
+“The best quality check is the one that never has to happen because we've already designed the problem out of existence.”Sreevishnu Sachidananda (He/Him)
+Head of Quality CS & Payment Op
+Teaser
+Sreevishnu Sachidananda, Head of Quality Customer Support & Payment Operations, breaks down how his team leverages automation and AI to move from manual checklists to data-driven, full-coverage assessments across four global locations.
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Customer Support
+Payment Operations
+London
 From 7 to scaled: What I’ve learned leading Product Analytics at Wise
 Teaser
 People profile
@@ -259,49 +302,27 @@ Life at Wise
 Product
 Analytics
 London
-Behind the screens: how Wise brought the FIFA World Cup™ to your wallet
-Teaser
-Our work
-Content Type
-Blog
-Publish date
-07/01/2026
-Summary
-Every four years, football gets millions of people moving across borders, navigating new cities, and dealing with unfamiliar currencies. Thanks to Visa, we’ve launched the Limited Edition Wise
-Teaser
-Who’s behind our limited-edition FIFA World Cup™ cards? ⚽
-Our Engineering, Product and Marketing squads worked cross-functionally to build a seamless experience for fans worldwide. 🌎
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Product
-Engineering
-Marketing
-global
-Moving Upstream: How Wise is eliminating customer friction at the source
+From attending a campus talk to leading in FinCrime
 Teaser
 People profile
 Content Type
 Blog
 Publish date
-06/23/2026
+06/10/2026
 Summary
-“The best quality check is the one that never has to happen because we've already designed the problem out of existence.”Sreevishnu Sachidananda (He/Him)
-Head of Quality CS & Payment Op
+"Wise truly sees potential in people; they don’t just look at your current role, they look at what you’re capable of becoming."
+Islam Muhammad (He/Him)
+Interim FinCrime Operations Seni
 Teaser
-Sreevishnu Sachidananda, Head of Quality Customer Support & Payment Operations, breaks down how his team leverages automation and AI to move from manual checklists to data-driven, full-coverage assessments across four global locations.
+From attending a campus talk to leading in our Financial Crime Operations, Islam Muhammad’s journey at Wise has come full circle.
 Read more
 by
 Verona Hasani
 by
 Verona Hasani
 Life at Wise
-Customer Support
-Payment Operations
-London
+AML Operations
+Budapest
 Building global blueprints at Wise Platform as a Senior Implementation Manager
 Teaser
 People profile
@@ -363,27 +384,6 @@ Sapphire Birmingham
 DEI
 Life at Wise
 Mental Wellbeing
-From attending a campus talk to leading in FinCrime
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-04/15/2026
-Summary
-"Wise truly sees potential in people; they don’t just look at your current role, they look at what you’re capable of becoming."
-Islam Muhammad (He/Him)
-Interim FinCrime Operations Seni
-Teaser
-From attending a campus talk to leading in our Financial Crime Operations, Islam Muhammad’s journey at Wise has come full circle.
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-AML Operations
-Budapest
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -447,5 +447,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
-GeoOptions: 339
+City: New York
+GeoOptions: 342
