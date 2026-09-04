@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Full Stack Developer
+Finance Manager - Asia
 Salary
-5750 - 7083.33 EUR Monthly
+SGD 8,250 - 9,975 + RSUs
 Location
-Tallinn
+Singapore
 Job Family Group
-Engineering
+Finance Specialists
 Locations
-Tallinn
+Singapore
 Description
-Join us as a Software Engineer in our critical Scam Prevention team. This is a high-impact engineering role with a strong product focus, dedicated to solving complex, real-world adversarial problems t
+About the RoleWe’re looking for a Finance Manager, Asia to join our Regional Finance team in Singapore.You’ll play a key role in strengthening our Regional finance capabilities, overseeing financial p
 Reference
-63d9b645-4570-40cf-881f-39cdb47d1238
+93d0852e-0ca6-432c-9494-4cb45e732603
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Compliance Operations Lead
+Senior Operations Analyst - Payment Operations
 Salary
-0
+3500 - 5000 EUR Monthly
 Location
-Hyderabad
+Tallinn
 Job Family Group
-Compliance
+Analytics - General
 Locations
-Hyderabad
+Tallinn
 Description
-We’re looking for a Compliance Operations Lead focusing on driving performance of the compliance operations team who are responsible for making decisions on our higher risk customers for selected APAC
+We are looking for a Senior Operations Analyst who is passionate about our mission of Money Without Borders to join our team in Tallinn! You'll partner with our Payment Operations organisation to help
 Reference
-28d9709a-6e5a-4358-bf53-01c7f7ab0b82
+2441c47d-2741-4328-99fc-824ae4eb584f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Lead - Payout Core
+People Operations Specialist
 Salary
-€6,666 - €8,333 gross/monthly
+1118500 - 1833000 INR Annual
 Location
-Tallinn
+Hyderabad
 Job Family Group
-Engineering
+People Operations
 Locations
-Tallinn
+Hyderabad
 Description
-The team you'll be working with: Payout CoreWhenever Wise needs to deliver money — whether through a customer transfer, a business payout, or an internal operational flow — the payout domain is respon
+Onboarding supportManage the administrative process of onboarding new joiners, ensuring that the Wiser journey is as smooth as possible with everyone involved kept in the loopCoordinate adaptable onbo
 Reference
-60d44b96-22b1-42b5-b5f2-dcdf97de272a
+083e4d90-4b48-40f3-b042-1a22e17c6b51
 Expiry Date
 01/01/0001
 Read more
@@ -447,5 +447,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: New York
-GeoOptions: 342
+City: Canton
+GeoOptions: 339
