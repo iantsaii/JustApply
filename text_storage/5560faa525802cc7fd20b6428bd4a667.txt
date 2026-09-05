@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Finance Manager - Asia
+Lifecycle Marketing Senior Manager - North America
 Salary
-SGD 8,250 - 9,975 + RSUs
+109000-139000 USD Annual
 Location
-Singapore
+Austin
 Job Family Group
-Finance Specialists
+Organic Acquisition
 Locations
-Singapore
+Austin
 Description
-About the RoleWe’re looking for a Finance Manager, Asia to join our Regional Finance team in Singapore.You’ll play a key role in strengthening our Regional finance capabilities, overseeing financial p
+As we continue to grow, we’re looking for a Lifecycle Marketing Senior Manager to own and elevate our Americas customer lifecycle strategy. Your Mission:You will hold the vision for how we communicate
 Reference
-93d0852e-0ca6-432c-9494-4cb45e732603
+ad6da4a7-92e6-46b6-8412-7cdbec8e9891
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Operations Analyst - Payment Operations
+Global Head of Business Operations - Wise Platform
 Salary
-3500 - 5000 EUR Monthly
+118000 - 156000 GBP Annual
 Location
-Tallinn
+London
 Job Family Group
-Analytics - General
+Operations - General
 Locations
-Tallinn
+London
 Description
-We are looking for a Senior Operations Analyst who is passionate about our mission of Money Without Borders to join our team in Tallinn! You'll partner with our Payment Operations organisation to help
+Wise has already pioneered new ways for people to transfer money across borders and currencies. Through Wise Platform, we enable banks and enterprise businesses to leverage our multi-currency infrastr
 Reference
-2441c47d-2741-4328-99fc-824ae4eb584f
+7cbd35ae-ff7a-4900-bd07-8a4ecfc11cb2
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-People Operations Specialist
+APAC Marketing Director
 Salary
-1118500 - 1833000 INR Annual
+20000 - 28330 SGD Monthly
 Location
-Hyderabad
+Singapore
 Job Family Group
-People Operations
+Regional Marketing
 Locations
-Hyderabad
+Singapore
 Description
-Onboarding supportManage the administrative process of onboarding new joiners, ensuring that the Wiser journey is as smooth as possible with everyone involved kept in the loopCoordinate adaptable onbo
+Our Regional Marketing team ensures we deliver on our mission to make international money transfers instant, affordable, and transparent for everyone, everywhere.The Regional Marketing team plays a pi
 Reference
-083e4d90-4b48-40f3-b042-1a22e17c6b51
+e50a3f57-6114-414c-8215-88aad20533f8
 Expiry Date
 01/01/0001
 Read more
@@ -447,5 +447,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Canton
+City: Phoenix
 GeoOptions: 339
