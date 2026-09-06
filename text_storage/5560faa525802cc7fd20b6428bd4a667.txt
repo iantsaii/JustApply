@@ -446,6 +446,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Phoenix
-GeoOptions: 339
+Location: NL
+City: The Hague
+GeoOptions: 382
