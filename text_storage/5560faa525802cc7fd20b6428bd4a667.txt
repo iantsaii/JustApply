@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Fullstack Engineer - Customer Risk Assessment
+Banking Operations Governance Team Lead
 Salary
-€5750 - €7083.33 gross / monthly + RSUs
+3300 - 4250 EUR Monthly
 Location
 Tallinn
 Job Family Group
-Engineering
+Payment Operations
 Locations
 Tallinn
 Description
-At Wise, we’re on a mission to make financial services faster, simpler, and more accessible for everyone. But to achieve our mission, we also need to safeguard our platform against financial crime and
+We are looking for a Banking Operations Governance Team Lead to to lead one of our Banking Operations Governance teams.Banking Operations Governance is a control-critical function that helps Wise mana
 Reference
-d4e37c53-8295-481d-ae66-a79aad05b3d5
+d9b40ec6-9e3c-4665-b167-967ee99fc737
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Fullstack Engineer
+Product Director - APAC Growth & Expansion
 Salary
-4250 - 5750 EUR Monthly
+23,800 - 30,000 SGD base per month + RSUs
 Location
-Tallinn
+Singapore
 Job Family Group
-Engineering
+Product Management
 Locations
-Tallinn
+Singapore
 Description
-About the role:Join us as a Software Engineer in our critical Scam Prevention team. This is a high-impact engineering role with a strong product focus, dedicated to solving complex, real-world adversa
+Wise is one of the largest and fastest growing global fintechs. In this role, you’ll shape the strategy and lead development teams driving growth & expansion for Wise Consumer and Wise Business produc
 Reference
-03339797-2d8e-4f27-9d1c-1090074167aa
+5760cbda-2cbc-4a25-a6f5-4a38fa4f2e90
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Treasury Operations Specialist
+Government Relations and Public Policy Manager
 Salary
-Monthly SGD 6,000-8,750 + RSUs
+10900 - 14100 SGD Monthly + RSUs
 Location
 Singapore
 Job Family Group
-Treasury
+Government Relations - General
 Locations
 Singapore
 Description
-We’re seeking a Treasury Operations Specialist to join our Treasury Team in Singapore. This role presents a unique opportunity to contribute to Wise's mission within the Finance and Treasury Tribe, im
+We’re looking for an experienced Government Relations Manager to advance our policy and regulatory objectives in South East Asia and help us get closer to to help us get closer to achieving our missio
 Reference
-6813f391-9b05-412e-8e7a-3da1a2796fdf
+4a6ce50b-436f-4776-ab25-e6a08ec2c74d
 Expiry Date
 01/01/0001
 Read more
@@ -447,5 +447,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: New York
-GeoOptions: 342
+City: Des Moines
+GeoOptions: 339
