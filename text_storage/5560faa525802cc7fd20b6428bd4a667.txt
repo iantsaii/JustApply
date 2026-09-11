@@ -116,47 +116,28 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Customer Support Specialist
+Senior Product Manager - PIX
 Salary
-670000 INR Annual + RSU's
+28100 - 41700 BRL Monthly
 Location
-Hyderabad
+São Paulo
 Job Family Group
-Customer Support - General
+Product Management
 Locations
-Hyderabad
+São Paulo
 Description
-As a Customer Support Specialist at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empa
+As our Principal Product Manager for Brazil, you will be responsible for defining the vision for Wise's Brazil payments flows and strengthening the infrastructure that makes international transfers fe
 Reference
-16639fa7-3921-4647-b10b-b60f2e7cffb6
+c32ce9e7-ca68-44c7-a7fc-dbaeaeb831f7
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Account Manager (Indonesia)
+Senior Software Engineer I - Global KYC and Onboarding
 Salary
-From 204,000 SGD Base + RSUs
-Location
-Singapore
-Job Family Group
-Business Development
-Locations
-Singapore
-Description
-We’re looking for an experienced Senior Account Manager who is passionate about the Wise mission – money without borders. You’ll be part of the Wise Platform team in APAC, working closely to grow and
-Reference
-540c04e3-260e-4ae8-847d-dc880e03c933
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Software Engineer - Recurring Payin
-Salary
-68000 - 87500 GBP Annual
+87500 - 111000 GBP Annual
 Location
 London
 Job Family Group
@@ -164,9 +145,28 @@ Engineering
 Locations
 London
 Description
-The Recurring Payin team owns the Direct Debit API that powers automated payments into Wise. Underneath this, we are building a platform that allows customers to easily schedule top-ups or business co
+We are the Global KYC and Onboarding squad in the Servicing department and we have a mission: to enable teams at Wise to expand and fine-tune the business in a "config change" manner all across the gl
 Reference
-c05015ba-32af-4127-b4ec-4bd51b85b536
+0e34cdf3-cc1e-43ab-8d66-b1e01eed193a
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Business Development Manager - Switzerland
+Salary
+-
+Location
+London
+Job Family Group
+Business Development
+Locations
+London
+Description
+We are seeking an experienced and entrepreneurial Senior Business Development Manager to join our Wise Platform team. In this role, you will take full commercial ownership of driving our growth with f
+Reference
+1a768ae3-6786-4815-a423-1774bd007691
 Expiry Date
 01/01/0001
 Read more
@@ -446,6 +446,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Olympia
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
