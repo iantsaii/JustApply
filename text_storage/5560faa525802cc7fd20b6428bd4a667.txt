@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-FinCrime Operations Team Lead - AUP
+Senior Software Engineer - Finance Core Accounting
 Salary
-1200000 HUF Monthly
+5750 - 7083.33 EUR Monthly
 Location
-Budapest
+Tallinn
+Job Family Group
+Engineering
+Locations
+Tallinn
+Description
+The team you’ll be working with: Core Accounting in FinanceFinance drives financial accounting, business monitoring and representing Wise financials to board, investors, regulators and auditors. Their
+Reference
+e8111225-bff9-4a2a-be3c-3a4ff3306f9b
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Quality, Risk & Governance Lead - Compliance Operations
+Salary
+4350 - 5100 EUR gross/monthly + Wise RSUs
+Location
+Tallinn
 Job Family Group
 Customer Compliance
 Locations
-Budapest
+Tallinn
 Description
-We’re looking for an energetic and experienced Team Lead to join the AUP team. This role is a unique opportunity to develop a high performing team, while leveraging your knowledge and experience to he
+Our financial crime reporting function has grown fast. We've achieved a lot and built strong operational capabilities, but as we've scaled, we now need to strengthen and formalise our governance, risk
 Reference
-9fd32234-79d2-4e74-9d81-87936c3aafb7
+f7f39528-399e-4a18-a47f-d7950958638e
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Treasury Operations Specialist
+Commercial Director - Marketplaces
 Salary
-Monthly SGD 6,000-8,750 + RSUs
+From SGD 365,000 Total Compensation (Base + RSUs)
 Location
 Singapore
 Job Family Group
-Treasury
+Business Development
 Locations
 Singapore
 Description
-We’re seeking a Treasury Operations Specialist to join our Treasury Team in Singapore. This role presents a unique opportunity to contribute to Wise's mission within the Finance and Treasury Tribe, im
+The Mission: Build the Marketplace VerticalWe are looking for a driven, self-starting Senior Commercial Lead to drive GTM for Online Platforms. You will be responsible for co-creating and launching ou
 Reference
-6813f391-9b05-412e-8e7a-3da1a2796fdf
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Thailand Country Manager
-Salary
-400000 - 520000 THB Monthly + RSUs
-Location
-Bangkok
-Job Family Group
-Banking - General
-Locations
-Bangkok
-Description
-We are looking for an experienced Country Manager to lead our business in Thailand. This is not a traditional hands-off executive role. Based in Bangkok, you will be responsible for Wise’s overall suc
-Reference
-187ddefd-048b-4feb-9bd8-62e192c1d07b
+e026e26b-92e8-43b8-ac2d-4cef0b673909
 Expiry Date
 01/01/0001
 Read more
@@ -447,6 +447,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Des Moines
+GeoOptions: 339
