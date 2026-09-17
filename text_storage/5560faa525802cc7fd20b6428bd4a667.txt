@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Software Engineer - Finance Core Accounting
+Internal Audit Manager - Technology
 Salary
-5750 - 7083.33 EUR Monthly
+9900 - 13400 SGD Monthly
 Location
-Tallinn
+Singapore
 Job Family Group
-Engineering
+Internal Audit
 Locations
-Tallinn
+Singapore
 Description
-The team you’ll be working with: Core Accounting in FinanceFinance drives financial accounting, business monitoring and representing Wise financials to board, investors, regulators and auditors. Their
+A bit about the roleWe are looking for an Internal Audit Manager for the technology risk portfolio with a global remit to join our new and growing IA team. Your main task will be to coordinate the int
 Reference
-e8111225-bff9-4a2a-be3c-3a4ff3306f9b
+de8f141c-659e-4269-a9fb-a9959e4dd67d
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Quality, Risk & Governance Lead - Compliance Operations
+Banking Operations Manager
 Salary
-4350 - 5100 EUR gross/monthly + Wise RSUs
+2906000 - 3725000 INR Annual
 Location
-Tallinn
+Hyderabad
 Job Family Group
-Customer Compliance
+Payment Operations
 Locations
-Tallinn
+Hyderabad
 Description
-Our financial crime reporting function has grown fast. We've achieved a lot and built strong operational capabilities, but as we've scaled, we now need to strengthen and formalise our governance, risk
+Banking Operations Management is a global function with regional specialisation across APAC, Europe, NorthAm, MEA and LatAm. The team currently has 7 Banking Operations Managers, supported by the BOM
 Reference
-f7f39528-399e-4a18-a47f-d7950958638e
+b7ace61c-8c49-4fc2-a598-9b7a0b79a025
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Commercial Director - Marketplaces
+Lead Product Analyst - Growth
 Salary
-From SGD 365,000 Total Compensation (Base + RSUs)
+149000 - 191000 USD Annual
 Location
-Singapore
+Austin
 Job Family Group
-Business Development
+Analytics - General
 Locations
-Singapore
+Austin
 Description
-The Mission: Build the Marketplace VerticalWe are looking for a driven, self-starting Senior Commercial Lead to drive GTM for Online Platforms. You will be responsible for co-creating and launching ou
+We’re looking for a Lead Product Analyst to join the North America Growth team in Austin. In this role, you will be the analytical owner of our localized Growth Engine framework, focusing heavily on p
 Reference
-e026e26b-92e8-43b8-ac2d-4cef0b673909
+abac2ecd-a00a-4e60-889a-8e75fd974dbe
 Expiry Date
 01/01/0001
 Read more
@@ -447,6 +447,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Des Moines
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
