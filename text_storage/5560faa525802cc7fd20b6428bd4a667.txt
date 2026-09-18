@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Internal Audit Manager - Technology
+Head of Technical Accounting
 Salary
-9900 - 13400 SGD Monthly
+112000 - 150000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
-Internal Audit
+Finance Specialists
 Locations
-Singapore
+London
 Description
-A bit about the roleWe are looking for an Internal Audit Manager for the technology risk portfolio with a global remit to join our new and growing IA team. Your main task will be to coordinate the int
+Join our finance team and help navigate us through a critical transformationThe Finance team is critical in supporting the Wise mission. We are working to become listed in the US stock exchange in 202
 Reference
-de8f141c-659e-4269-a9fb-a9959e4dd67d
+81666e41-ecc9-416a-8d18-deebe1068ee9
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Banking Operations Manager
+Senior Product Engineer - Partner Experience
 Salary
-2906000 - 3725000 INR Annual
+87500 - 111000 GBP Annual
 Location
-Hyderabad
+London
 Job Family Group
-Payment Operations
+Engineering
 Locations
-Hyderabad
+London
 Description
-Banking Operations Management is a global function with regional specialisation across APAC, Europe, NorthAm, MEA and LatAm. The team currently has 7 Banking Operations Managers, supported by the BOM
+Wise Platform helps banks, software companies, and large enterprises use Wise's infrastructure to offer their customers cross-border payment products through our API. We're a cross-functional team acr
 Reference
-b7ace61c-8c49-4fc2-a598-9b7a0b79a025
+80612e98-6310-417a-bfe2-c58b6cafc0be
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Lead Product Analyst - Growth
+Senior Software Developer II - Consumer Onboarding
 Salary
-149000 - 191000 USD Annual
+111000 - 145000 GBP Annual
 Location
-Austin
+London
 Job Family Group
-Analytics - General
+Engineering
 Locations
-Austin
+London
 Description
-We’re looking for a Lead Product Analyst to join the North America Growth team in Austin. In this role, you will be the analytical owner of our localized Growth Engine framework, focusing heavily on p
+We’re looking for an experienced Backend Engineer for our Consumer Onboarding team. This is a unique opportunity to have a massive impact, helping a growing number of customers around the world choosi
 Reference
-abac2ecd-a00a-4e60-889a-8e75fd974dbe
+8f3da41f-de1a-4931-9352-cf678ceccbf3
 Expiry Date
 01/01/0001
 Read more
@@ -447,6 +447,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Des Moines
+GeoOptions: 339
