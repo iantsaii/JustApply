@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Head of Technical Accounting
+FinCrime Operations Team Lead - AML Investigations
 Salary
-112000 - 150000 GBP Annual
+2150000 - 2950000 INR Annual
 Location
-London
+Hyderabad
 Job Family Group
-Finance Specialists
+Customer Compliance
 Locations
-London
+Hyderabad
 Description
-Join our finance team and help navigate us through a critical transformationThe Finance team is critical in supporting the Wise mission. We are working to become listed in the US stock exchange in 202
+We’re looking for a FinCrime Operations Team Lead - AML Investigations to join our team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicio
 Reference
-81666e41-ecc9-416a-8d18-deebe1068ee9
+844a2b6f-ec60-4bbd-b125-b0707042a56b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Product Engineer - Partner Experience
+Presales Consultant
 Salary
-87500 - 111000 GBP Annual
+180000 - 220000 USD Annual
 Location
-London
+Austin
 Job Family Group
-Engineering
+Presales
 Locations
-London
+Austin
 Description
-Wise Platform helps banks, software companies, and large enterprises use Wise's infrastructure to offer their customers cross-border payment products through our API. We're a cross-functional team acr
+We are looking for a Presales Consultant to join our team in Austin and play a crucial role in winning sales opportunities by solving our partner’s most complex problems. We’ll look to you as a key co
 Reference
-80612e98-6310-417a-bfe2-c58b6cafc0be
+4e306681-34d4-479e-81c4-384c7656f7ad
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Developer II - Consumer Onboarding
+Customer Success Manager
 Salary
-111000 - 145000 GBP Annual
+-
 Location
-London
+São Paulo
 Job Family Group
-Engineering
+Customer Success
 Locations
-London
+São Paulo
 Description
-We’re looking for an experienced Backend Engineer for our Consumer Onboarding team. This is a unique opportunity to have a massive impact, helping a growing number of customers around the world choosi
+About Wise Platform:Wise Platform allows banks, fintechs, and enterprises to embed Wise's international payments infrastructure directly into their own products. Our technology powers partners globall
 Reference
-8f3da41f-de1a-4931-9352-cf678ceccbf3
+13efb4e2-472d-4a27-9cad-a6fb9fafe4f4
 Expiry Date
 01/01/0001
 Read more
@@ -448,5 +448,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
+City: Cheyenne
 GeoOptions: 339
