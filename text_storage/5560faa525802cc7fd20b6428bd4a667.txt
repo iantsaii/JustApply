@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Content Designer - Spend
+Complaints Officer
 Salary
-72000 - 105000 GBP Annual
+700000 - 875000 INR Annual + RSU's
 Location
-London
+Hyderabad
 Job Family Group
-Content Design
+Complaints
 Locations
-London
+Hyderabad
 Description
-How should global money work? How do you take a complex, stressful experience and make it simple, calming even? How do you challenge the way it’s always been done? How do you collaborate in a human-ce
+The Complaints Officer plays a pivotal role in ensuring that Wise delivers a fair, transparent, and customer-focused experience. By investigating customer complaints and providing timely, comprehensiv
 Reference
-882c1529-5216-4de6-8c8b-f5cf2768e236
+1633968f-a977-4e7c-a4d1-ca43fa6eef5d
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Implementation Manager
+Customer Support Specialist - Total Service
 Salary
-13,000 - 17,000 SGD Monthly + RSUs
+SGD 4900 Monthly
 Location
 Singapore
 Job Family Group
-Implementation
+Customer Support - General
 Locations
 Singapore
 Description
-You will join our team in Singapore to play a crucial role in growing Wise Platform by delivering our highest impact partner integrations. You’ll be helping to achieve our regional growth targets whil
+Purpose of the role:The High Volume Support Specialist is the frontline owner of trust and retention for our highest-volume customer segment. Your purpose is to deliver service and expert guidance so
 Reference
-4f75b22d-c79f-42f0-b9e5-1e6aa8b5b26e
+63f7c908-4b35-46b6-8fa6-873687e0dfef
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Lead - Payout Core
+FinCrime Investigator - AML Investigations
 Salary
-€6,666 - €8,333 gross/monthly
+8300 - 11000 BRL Monthly
 Location
-Tallinn
+São Paulo
 Job Family Group
-Engineering
+Customer Compliance
 Locations
-Tallinn
+São Paulo
 Description
-The team you'll be working with: Payout CoreWhenever Wise needs to deliver money — whether through a customer transfer, a business payout, or an internal operational flow — the payout domain is respon
+As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
 Reference
-60d44b96-22b1-42b5-b5f2-dcdf97de272a
+3d981a0b-d3ab-4a49-bc80-1d9180cd81ca
 Expiry Date
 01/01/0001
 Read more
@@ -448,5 +448,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: San Jose
 GeoOptions: 339
