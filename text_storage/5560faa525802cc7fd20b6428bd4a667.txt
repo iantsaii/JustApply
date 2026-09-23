@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Complaints Officer
+Technical Solutions and Implementation Lead, Third Party Management & Procurement
 Salary
-700000 - 875000 INR Annual + RSU's
+3750 - 5100 EUR Monthly
 Location
-Hyderabad
+Tallinn
 Job Family Group
-Complaints
+Service Delivery
 Locations
-Hyderabad
+Tallinn
 Description
-The Complaints Officer plays a pivotal role in ensuring that Wise delivers a fair, transparent, and customer-focused experience. By investigating customer complaints and providing timely, comprehensiv
+The opportunityOwn the systems that power how Wise onboards third parties, signs contracts, and runs key approvals and reports on them! Wise works with a wide range of partners, including third-party
 Reference
-1633968f-a977-4e7c-a4d1-ca43fa6eef5d
+91fc5970-91be-4b47-a2fe-a92945f9c79e
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Customer Support Specialist - Total Service
+Senior Network Automation Engineer
 Salary
-SGD 4900 Monthly
+4900000 - 7800000 INR Annual
 Location
-Singapore
+Hyderabad
 Job Family Group
-Customer Support - General
+User Tech
 Locations
-Singapore
+Hyderabad
 Description
-Purpose of the role:The High Volume Support Specialist is the frontline owner of trust and retention for our highest-volume customer segment. Your purpose is to deliver service and expert guidance so
+What are we looking for?We are looking for a Senior Network Engineer to join our Platform Integrations APAC team, where you'll help expand and maintain direct integrations with payment systems and par
 Reference
-63f7c908-4b35-46b6-8fa6-873687e0dfef
+f9c69158-8b34-499a-adac-96e834f57e6f
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Investigator - AML Investigations
+UT Technician
 Salary
-8300 - 11000 BRL Monthly
+490000 - 805000 INR Annual
 Location
-São Paulo
+Hyderabad
 Job Family Group
-Customer Compliance
+User Tech
 Locations
-São Paulo
+Hyderabad
 Description
-As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
+Here at Wise we're working to create a seamless IT experience by offering all the tools and permissions people need to do the best work they can, and simultaneously avoid being a speed hump. We have a
 Reference
-3d981a0b-d3ab-4a49-bc80-1d9180cd81ca
+d278b831-636d-4bcc-9155-83ee8ef31778
 Expiry Date
 01/01/0001
 Read more
@@ -448,5 +448,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Olympia
 GeoOptions: 339
