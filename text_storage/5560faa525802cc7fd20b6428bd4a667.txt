@@ -116,19 +116,38 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Finance Payment Specialist
+FinCrime Operations Team Lead - AML Investigations
 Salary
-2200 - 2400 EUR gross/monthly + RSUs
+MYR 10,600 Monthly + RSUs
 Location
-Tallinn
+Kuala Lumpur
+Job Family Group
+Customer Compliance
+Locations
+Kuala Lumpur
+Description
+We’re looking for an AML Investigations Team Lead to join our team in KL. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicious activity and through that
+Reference
+f3e0ab01-d240-4d4a-b7c6-21c1096a36bb
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Finance Manager (Associate Controller, APAC 12-month FTC)
+Salary
+8,250 - 10,250 SGD Monthly
+Location
+Singapore
 Job Family Group
 Finance Specialists
 Locations
-Tallinn
+Singapore
 Description
-Our Accounting team in Tallinn is expanding, and we are looking for a Payments Specialist to join us. This is an exciting opportunity for someone passionate about numbers, eager to take ownership, and
+About the RoleWe’re looking for a Finance Manager, (Associate Controller, APAC 12-month FTC) to join our Regional Finance team in Singapore.You’ll play a key role in strengthening our Regional finance
 Reference
-8399acac-b460-430a-9b90-fa4c212d99fa
+00005b6d-b327-4e00-9fb9-d40efcaac399
 Expiry Date
 01/01/0001
 Read more
@@ -148,25 +167,6 @@ Description
 Role & Job purposeAs a Partner Risk Assessment Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for onboarding
 Reference
 492e1b94-8a5d-49d1-9372-5f8308284a5f
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Sr Technical Account Manager - North America
-Salary
--
-Location
-Austin
-Job Family Group
-API
-Locations
-Austin
-Description
-As a Senior Technical Account Manager (TAM) with Wise Platform, you'll play a key role in helping our partners grow and get the most out of our infrastructure, setting the standard for technical excel
-Reference
-f699d3f6-363f-4154-b2fe-590bff82730d
 Expiry Date
 01/01/0001
 Read more
@@ -448,5 +448,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: Olympia
 GeoOptions: 339
