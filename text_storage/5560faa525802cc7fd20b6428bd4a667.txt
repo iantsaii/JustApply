@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-FinCrime Operations Team Lead - AML Investigations
+Senior Database Engineer
 Salary
-MYR 10,600 Monthly + RSUs
+87500 - 111000 GBP Annual
 Location
-Kuala Lumpur
+London
+Job Family Group
+Engineering
+Locations
+London
+Description
+About the roleWe’re looking for a Senior Platform Engineer (IC3 level) to join our Database Platform team. You’ll help build and operate a global platform that’s scalable, reliable, and secure - devel
+Reference
+188b3d05-a6bf-4f10-882b-035b2130e453
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+FinCrime Operations Team Lead
+Salary
+17500 - 23500 BRL Monthly
+Location
+São Paulo
 Job Family Group
 Customer Compliance
 Locations
-Kuala Lumpur
+São Paulo
 Description
-We’re looking for an AML Investigations Team Lead to join our team in KL. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicious activity and through that
+As a FinCrime Operations Team Lead you will develop and oversee the daily operations of a team of FinCrime Operations Analysts or Specialists. Your primary purpose is to ensure the effective mitigatio
 Reference
-f3e0ab01-d240-4d4a-b7c6-21c1096a36bb
+b3dac237-554a-4bf3-8463-c05124309c1e
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Finance Manager (Associate Controller, APAC 12-month FTC)
+Customer Success Manager
 Salary
-8,250 - 10,250 SGD Monthly
+-
 Location
-Singapore
+São Paulo
 Job Family Group
-Finance Specialists
+Customer Success
 Locations
-Singapore
+São Paulo
 Description
-About the RoleWe’re looking for a Finance Manager, (Associate Controller, APAC 12-month FTC) to join our Regional Finance team in Singapore.You’ll play a key role in strengthening our Regional finance
+About Wise Platform:Wise Platform allows banks, fintechs, and enterprises to embed Wise's international payments infrastructure directly into their own products. Our technology powers partners globall
 Reference
-00005b6d-b327-4e00-9fb9-d40efcaac399
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Partner Risk Assessment Specialist
-Salary
-Base + RSU
-Location
-Singapore
-Job Family Group
-Verification
-Locations
-Singapore
-Description
-Role & Job purposeAs a Partner Risk Assessment Specialist, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for onboarding
-Reference
-492e1b94-8a5d-49d1-9372-5f8308284a5f
+13efb4e2-472d-4a27-9cad-a6fb9fafe4f4
 Expiry Date
 01/01/0001
 Read more
@@ -448,5 +448,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: Long Hill Twp
 GeoOptions: 339
