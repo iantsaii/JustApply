@@ -116,7 +116,7 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Software Engineer I - Business Onboarding and Verification
+Senior Full-Stack Software Engineer
 Salary
 87500 - 111000 GBP Annual
 Location
@@ -126,48 +126,48 @@ Engineering
 Locations
 London
 Description
-Please note we do not offer relocation support or VISA sponsorship for this role.
-The Business Onboarding and Verification team is looking for a Senior Software Engineer to build seamless, scalable
+About the role:Join us as a Senior Full-Stack Engineer in our critical Account Integrity team. This is a high-impact engineering role with a strong product focus, dedicated to solving complex, real-wo
 Reference
-50bd453d-e484-47f9-af18-d2bcb5f1ee93
+250fca76-9dd0-428b-b359-5d70da935aa1
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-CRM Manager
+Lead Analyst - Business Operations - Wise Business
 Salary
-7100 - 8800 SGD Monthly
+75000 - 100000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
-Organic Acquisition
+Analytics - General
 Locations
-Singapore
+London
 Description
-The CRM team at Wise is expanding to consolidate our efforts to develop our APAC region communications. We’re all about bringing value to our customers who deserve first-class communications so they m
+We’re looking for a Lead Product Analysts to support our Business Operations team, working on Wise Business, our international business account. The Wise Business account helps small and medium-sized
 Reference
-d3deb1c8-a262-40f1-8535-660ac3a27b90
+e524ec34-8656-45bf-aa56-3e0846fe1ae9
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-KYC Operations Associate Analyst - Regional
+Lead Product Analyst - Send
 Salary
-650000 INR Annual
+75000 - 100000 GBP Annual
 Location
-Hyderabad
+London
 Job Family Group
-Verification
+Analytics - General
 Locations
-Hyderabad
+London
 Description
-As a KYC Operations, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will begin with a training program designed to teach you the complexitie
+The Mission
+Our High Volume customers have the most complex transfer requirements and rely on us most heavily to get it right. Your mission is to understand exactly what these customers need, pinpoin
 Reference
-6114b79e-e859-4a71-b18c-dd957013f861
+9a9a1e37-c472-4a0c-9918-6bc0daa30185
 Expiry Date
 01/01/0001
 Read more
@@ -449,5 +449,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Moses Lake
+City: Des Moines
 GeoOptions: 339
