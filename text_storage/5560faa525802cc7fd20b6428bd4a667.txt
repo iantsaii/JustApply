@@ -116,28 +116,28 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Product Compliance Manager - AML
+People Partner
 Salary
-89000 - 127000 GBP Annual
+82000 - 111000 GBP Annual
 Location
 London
 Job Family Group
-Product Compliance
+People Partners
 Locations
 London
 Description
-Our Product Compliance & Risk (“PC&R”) team sits at the centre of Wise’s product development function, supporting our cross-functional teams in delivering exceptional financial products for our custom
+We’re currently hiring a Global People Partner (Global HR Business Partner) to join our growing People Partners team and our mission. You’ll be supporting our Payment Operations teams and Global Produ
 Reference
-57e528fc-76c1-4b94-819c-275014cb1179
+f6b69a1e-5769-4441-b41d-71637d15e187
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-IT SOX Scoping and Governance Analyst
+Senior iOS Engineer II - Account Mobile
 Salary
-68000 - 87500 GBP Annual
+111000 - 145000 GBP Annual + RSUs
 Location
 London
 Job Family Group
@@ -145,18 +145,18 @@ Engineering
 Locations
 London
 Description
-We are looking for an IT SOX expert to join our mission and help us build a global platform that’s scalable, reliable, and secure. The Security Controls team plays a vital role in safeguarding Wise’s
+About the role We're looking for a skilled iOS engineer to become part of our Account Mobile team,  where you will play a key role in crafting a cohesive, polished, and responsive experience for all W
 Reference
-7b6bec23-e6f8-4fd1-91fe-a12f8288655c
+475cc7ee-adc5-4661-a6b8-d4e1a13e34b3
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer - Wise Platform - API Experience
+Senior/Staff Product Engineer - Risk & Control Governance
 Salary
-87500 - 111000 GBP Annual
+111000 - 145000 GBP Annual + RSUs (TC 160K)
 Location
 London
 Job Family Group
@@ -164,9 +164,9 @@ Engineering
 Locations
 London
 Description
-About the API Experience TeamThe API Experience team builds and maintains some of the most critical systems at Wise: the public API gateway, authentication/authorization systems (OAuth2), SDKs, and de
+We're looking for an experienced Senior Product Engineer to join the Risk & Control Governance team / Risk Assessment Group. You'll be instrumental in building the governance, assurance, and data foun
 Reference
-b9a31516-3e7e-4e46-a785-b3d54ecd3a6e
+87e736ec-3c18-41e5-a357-038508c9de6e
 Expiry Date
 01/01/0001
 Read more
@@ -447,6 +447,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Des Moines
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
