@@ -116,6 +116,25 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
+Card Disputes Specialist
+Salary
+750000 - 950000 INR Annual
+Location
+Hyderabad
+Job Family Group
+Payment Operations
+Locations
+Hyderabad
+Description
+We’re looking for a Card Disputes Associate Specialist to join our team in the Hyderabad office. This role is a unique opportunity to have an impact on Wise’s mission, help save millions more people m
+Reference
+5759f995-62e7-4517-92c1-826754035f0f
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Regional Head of AML Investigations
 Salary
 193000-277000
@@ -148,25 +167,6 @@ Description
 The CRM team at Wise is expanding to consolidate our efforts to develop our Americas regional communications for business. We’re all about bringing value to our customers who deserve first-class commu
 Reference
 5dfa9483-880d-44a1-9b16-ad499fdaa94e
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Solutions Engineer
-Salary
-180000 - 230000 USD Annual
-Location
-Austin
-Job Family Group
-Engineering
-Locations
-Austin
-Description
-We’re looking for a Senior Solutions Engineer to join our growing team in Austin, Texas. The Wise Platform team works with financial institutions and major tech companies at a global level to offer Wi
-Reference
-14889d75-5d39-43d7-b02e-a0ceb99d817a
 Expiry Date
 01/01/0001
 Read more
@@ -448,5 +448,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Moses Lake
+City: Cheyenne
 GeoOptions: 339
