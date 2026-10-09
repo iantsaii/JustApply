@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Analytics Director, APAC
+Senior Software Engineer - Global KYC and Onboarding
 Salary
-230,000 - 318,000 SGD base per annum + RSUs
+87500 - 111000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
-Analytics - General
+Engineering
 Locations
-Singapore
+London
 Description
-Salary Range: 230,000 - 318,000 SGD base per annum + RSUsWe’re looking for an Analytics Director for the APAC Squad who is passionate about our mission of Money Without Borders, to lead a high-impact
+We are the Global KYC and Onboarding squad in the Servicing department and we have a mission: to enable teams at Wise to expand and fine-tune the business in a "config change" manner all across the gl
 Reference
-9da8b042-2932-4550-b483-a7d37e281239
+0e34cdf3-cc1e-43ab-8d66-b1e01eed193a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Product Lead - APAC Growth
+Senior Data Engineer II - Scalable Growth
 Salary
-19,600 -  23,800 SGD base per month + RSUs
+87500 - 145000 GBP + RSUs
 Location
-Singapore
+London
 Job Family Group
-Product Management
+Engineering
 Locations
-Singapore
+London
 Description
-Wise is one of the largest and fastest growing global fintechs. In this role, you’ll shape the strategy and lead development teams driving growth & expansion for Wise Consumer and Wise Business produc
+About the roleWe’re looking for a seasoned, senior Data Engineer with a strong software engineering background to join our Scalable Growth team within the Global Product Tribe.In this role, you’ll rep
 Reference
-5760cbda-2cbc-4a25-a6f5-4a38fa4f2e90
+ab205e8f-2a4a-4cb4-a8d5-56da4525c391
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Partner Operations Manager (German Speaking)
+Senior iOS Engineer II - Account Mobile
 Salary
-74000 - 110000 GBP Annual
+111000 - 145000 GBP Annual + RSUs
 Location
 London
 Job Family Group
-Customer Success
+Engineering
 Locations
 London
 Description
-About the role:EMEA is Wise Platform's largest and most mature market. This role owns the operational relationship and volume retention for a portfolio of Tier 1 partners representing 10M+ GBP in annu
+About the role We're looking for a skilled iOS engineer to become part of our Account Mobile team,  where you will play a key role in crafting a cohesive, polished, and responsive experience for all W
 Reference
-99570d56-f0b4-4828-922e-ba025e56db55
+475cc7ee-adc5-4661-a6b8-d4e1a13e34b3
 Expiry Date
 01/01/0001
 Read more
@@ -176,6 +176,25 @@ Shortlist
 View all
 List #1
 Latest blogs
+Keeping millions safe: Scaling Fincrime Machine Learning at Wise
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+09/22/2026
+Summary
+“If you're the kind of engineer who gets excited by technically hard problems with direct human impact, where your model doesn't just optimise a metric but actually stops someone's savings
+Teaser
+How we’re using Machine Learning to prevent global financial crime
+Read more
+by
+Verona Hasani
+by
+Verona Hasani
+Life at Wise
+Engineering
+London
 Inside the Wise Product Academy: Different Paths into Product Management (Part 1)
 Teaser
 People profile
@@ -363,28 +382,6 @@ Verona Hasani
 Life at Wise
 Wise Platform
 London
-Leading Engineering through ownership
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-05/07/2026
-Summary
-"What keeps me here is the sense of ownership and responsibility. Teams are empowered and truly accountable for their domains”
-Marta Lima (She/Her)
-Engineering lead
-Teaser
-Marta Lima, Engineering Lead based in London discusses the intricacies of observability, the power of leadership, and why building a career is often about saying "yes" to being uncomfortable.
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Our work
-Engineering
-London
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -448,5 +445,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: New York
-GeoOptions: 342
+City: Moses Lake
+GeoOptions: 339
