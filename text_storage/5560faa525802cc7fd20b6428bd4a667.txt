@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Software Engineer - Global KYC and Onboarding
+Senior Specialist - Non-Financial Risks
 Salary
-87500 - 111000 GBP Annual
+27000 - 48000 BRL Monthly
 Location
-London
+São Paulo
 Job Family Group
-Engineering
+Risk
 Locations
-London
+São Paulo
 Description
-We are the Global KYC and Onboarding squad in the Servicing department and we have a mission: to enable teams at Wise to expand and fine-tune the business in a "config change" manner all across the gl
+We are seeking a dynamic individual to join our team as the Senior Specialist for Latam & MEA as an individual contributor. The successful candidate will be responsible for managing the risk function
 Reference
-0e34cdf3-cc1e-43ab-8d66-b1e01eed193a
+26d0fc20-6ca1-4c90-aa2d-619d770e52c5
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Data Engineer II - Scalable Growth
+Engineer People Technology
 Salary
-87500 - 145000 GBP + RSUs
+13846 - 21538 BRL Monthly
 Location
-London
+São Paulo
 Job Family Group
 Engineering
 Locations
-London
+São Paulo
 Description
-About the roleWe’re looking for a seasoned, senior Data Engineer with a strong software engineering background to join our Scalable Growth team within the Global Product Tribe.In this role, you’ll rep
+As a People Technology Engineer (Workday Time & Absence), you will be a vital technical contributor driving the configuration, maintenance, and optimization of our time and absence processes. You will
 Reference
-ab205e8f-2a4a-4cb4-a8d5-56da4525c391
+8fc330e0-3c8d-4b2f-a980-bebc53b703a9
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior iOS Engineer II - Account Mobile
+Card Disputes Associate
 Salary
-111000 - 145000 GBP Annual + RSUs
+7800 - 9350 BRL Monthly
 Location
-London
+São Paulo
 Job Family Group
-Engineering
+Payment Operations
 Locations
-London
+São Paulo
 Description
-About the role We're looking for a skilled iOS engineer to become part of our Account Mobile team,  where you will play a key role in crafting a cohesive, polished, and responsive experience for all W
+We’re looking for a Card Disputes Associate/Analyst to join our team in the São Paulo office! This role is a unique opportunity to have an impact on Wise’s mission, help save millions more people mone
 Reference
-475cc7ee-adc5-4661-a6b8-d4e1a13e34b3
+3f0e3571-6b7d-4899-86da-b09b02e88c07
 Expiry Date
 01/01/0001
 Read more
@@ -444,6 +444,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Moses Lake
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
