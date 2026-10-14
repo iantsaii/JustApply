@@ -116,58 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Software Engineer - Risk Intelligence Platform
+KYC Operations Team Lead - Deactivations
 Salary
-5750 - 7083.33 EUR Monthly
+1050000 - 1400000 INR Annual
+Location
+Hyderabad
+Job Family Group
+Verification
+Locations
+Hyderabad
+Description
+As the Team Lead for KYC Operations on our newly established Deactivations Team, you will be at the forefront of strengthening Wise's commitment to regulatory compliance and protecting our financial e
+Reference
+6b1a7033-3325-410d-a7ca-f49a1146c99e
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Localisation Project Manager
+Salary
+3600 - 4700 EUR Monthly
 Location
 Tallinn
+Job Family Group
+Organic Acquisition
+Locations
+Tallinn
+Description
+We’re looking for a Localisation Project Manager to join our growing Localisation team in Tallinn.Our team manages localisation projects across varied content types and language sets, ensuring high-qu
+Reference
+fda4845f-eedb-470b-bd12-3a192c4d7d1f
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior/Staff Software Engineer - Cards API team
+Salary
+12400 - 15417 SGD Monthly
+Location
+Singapore
 Job Family Group
 Engineering
 Locations
-Tallinn
+Singapore
 Description
-Wise moves billions every year for millions of people and businesses across multiple countries and currencies. At that scale, financial crime is constantly evolving — from scams and account takeovers
+Our Cards API powers programmatic digital and physical card issuance for global fintech leaders such as Nubank, Tiger Brokers, and XP, alongside a full suite of management tools for spending controls
 Reference
-55d279bf-747e-4b42-9674-8a5bd1a6226a
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-FinCrime Operations Team Lead - AML Investigations
-Salary
-MYR 10,600 Monthly + RSUs
-Location
-Kuala Lumpur
-Job Family Group
-Customer Compliance
-Locations
-Kuala Lumpur
-Description
-We’re looking for an AML Investigations Team Lead to join our team in KL. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicious activity and through that
-Reference
-f3e0ab01-d240-4d4a-b7c6-21c1096a36bb
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-FinCrime Operations Team Lead - Sanctions
-Salary
-10600 MYR Monthly
-Location
-Kuala Lumpur
-Job Family Group
-Customer Compliance
-Locations
-Kuala Lumpur
-Description
-Role & Job purpose
-As a FinCrime Operations Team Lead - Sanctions you will develop and oversee the daily operations of a team of FinCrime Operations Analysts or Specialists. Your primary purpose is
-Reference
-1df13ae5-8102-4cf0-9b43-e7257e4afb15
+ba0e5b78-0ec5-41e6-ad43-edf45a2a6f78
 Expiry Date
 01/01/0001
 Read more
@@ -446,5 +445,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Newark
+City: San Jose
 GeoOptions: 339
