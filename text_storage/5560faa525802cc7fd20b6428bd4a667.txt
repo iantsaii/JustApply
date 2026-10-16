@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Customer Support Specialist
+Assistant Company Secretary
 Salary
-670000 - 780000 INR Annual
+12500 - 13500 SGD Monthly
 Location
-Hyderabad
+Singapore
+Job Family Group
+Company Secretary
+Locations
+Singapore
+Description
+The Assistant Company Secretary will support the APAC Company Secretariat team in delivering best practice governance for our APAC entities as well as ensuring compliance with all relevant legislation
+Reference
+8978e88c-df9b-40a4-8b54-1cc375205150
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Board Support Manager
+Salary
+8750 - 9750 SGD Monthly + RSUs
+Location
+Singapore
+Job Family Group
+Company Secretary
+Locations
+Singapore
+Description
+In this pivotal and exciting role, reporting to the APAC Company Secretary, you'll take a lead role in ensuring the smooth running of our APAC Board and Committee meetings. This is an important role i
+Reference
+413f9e05-3794-4337-8e6c-3d71927793da
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Wise Platform Enterprise Specialist
+Salary
+5300 SGD Monthly
+Location
+Singapore
 Job Family Group
 Customer Support - General
 Locations
-Hyderabad
+Singapore
 Description
-As a Customer Support Specialist at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empa
+About the RoleAs an Enterprise Support Specialist for Wise Platform, your mission is to drive operational efficiency and scalability for our partners (Embedded Solutions, Corresponded Services, Enterp
 Reference
-16639fa7-3921-4647-b10b-b60f2e7cffb6
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Head of SOX Testing
-Salary
--
-Location
-Hyderabad
-Job Family Group
-Finance Specialists
-Locations
-Hyderabad
-Description
-About the team (Finance Risk & Control)Finance Risk & Control partners with Finance and the wider business to strengthen the control environment, support SOX compliance, and improve how risks and cont
-Reference
-0f23ccb3-68fa-4634-b207-5e61180c1fd6
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Regulatory Product Compliance Manager
-Salary
-107000 - 134000 USD Annual
-Location
-Austin
-Job Family Group
-Product Compliance
-Locations
-Austin
-Description
-We are seeking an experienced and hands-on Regulatory Product Compliance and Risk Manager to support a rapidly expanding product in North America. This role will report to the Regulatory Product Compl
-Reference
-39a61a14-b91d-46a7-9c87-19a8c5a40fd6
+2136d121-82b9-4f43-8566-ce7ae495ce08
 Expiry Date
 01/01/0001
 Read more
@@ -176,6 +176,25 @@ Shortlist
 View all
 List #1
 Latest blogs
+Driving Product Decisions Through Data Insights
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+10/14/2026
+Summary
+"We bring together researchers, engineers, and analysts from across the entire company to tackle real customer bottlenecks—it’s fast-paced, deeply collaborative, and immensely rewarding."
+Teaser
+Analysts at Wise are in the driving seat when it comes to building our products! Embedded directly in the product teams, analysts help the team understand the progress we’re making in solving our customers' problems and what the biggest opportunities are to accelerate this.
+Read more
+by
+Sapphire Birmingham
+by
+Sapphire Birmingham
+Life at Wise
+Analytics
+London
 Keeping millions safe: Scaling Fincrime Machine Learning at Wise
 Teaser
 People profile
@@ -362,26 +381,6 @@ Verona Hasani
 Life at Wise
 AML Operations
 Budapest
-Building global blueprints at Wise Platform as a Senior Implementation Manager
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-05/13/2026
-Summary
-“For me, the hallmark of a great Implementation Manager is empowering partners by translating complex technical capabilities into experiences that feel effortless.”
-Cindy Momodu (She/Her)
-Teaser
-Cindy Momodu, Senior Implementation Manager shares her journey from Microbiologist to leading seamless partner migrations 🚀
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Wise Platform
-London
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -445,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Newark
+City: Olympia
 GeoOptions: 339
