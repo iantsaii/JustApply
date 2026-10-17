@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Assistant Company Secretary
+FinCrime Operations Senior Analyst - RFI
 Salary
-12500 - 13500 SGD Monthly
+7800 - 9350 BRL Monthly
 Location
-Singapore
+São Paulo
 Job Family Group
-Company Secretary
+Customer Compliance
 Locations
-Singapore
+São Paulo
 Description
-The Assistant Company Secretary will support the APAC Company Secretariat team in delivering best practice governance for our APAC entities as well as ensuring compliance with all relevant legislation
+As a FinCrime Operations Senior Analyst specializing in Requests for Information (RFI), you will be an integral part of the team responsible for facilitating the secure and compliant exchange of infor
 Reference
-8978e88c-df9b-40a4-8b54-1cc375205150
+89a6c820-9014-4891-b5b6-e469a7850f65
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Board Support Manager
+Senior Finance Manager
 Salary
-8750 - 9750 SGD Monthly + RSUs
+-
 Location
-Singapore
+São Paulo
 Job Family Group
-Company Secretary
+Financial Reporting
 Locations
-Singapore
+São Paulo
 Description
-In this pivotal and exciting role, reporting to the APAC Company Secretary, you'll take a lead role in ensuring the smooth running of our APAC Board and Committee meetings. This is an important role i
+We're looking for a Finance Manager to join our LATAM finance team in Sao Paulo, Brazil. This role is a critical bridge between our regional strategy and day-to-day financial excellence.Role Objective
 Reference
-413f9e05-3794-4337-8e6c-3d71927793da
+eafc5e81-8d9f-41ac-bd6a-8a68b2241d17
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Wise Platform Enterprise Specialist
+Senior iOS Engineer II - Account Mobile
 Salary
-5300 SGD Monthly
+111000 - 145000 GBP Annual + RSUs
 Location
-Singapore
+London
 Job Family Group
-Customer Support - General
+Engineering
 Locations
-Singapore
+London
 Description
-About the RoleAs an Enterprise Support Specialist for Wise Platform, your mission is to drive operational efficiency and scalability for our partners (Embedded Solutions, Corresponded Services, Enterp
+About the role We're looking for a skilled iOS engineer to become part of our Account Mobile team,  where you will play a key role in crafting a cohesive, polished, and responsive experience for all W
 Reference
-2136d121-82b9-4f43-8566-ce7ae495ce08
+475cc7ee-adc5-4661-a6b8-d4e1a13e34b3
 Expiry Date
 01/01/0001
 Read more
@@ -444,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Olympia
+City: Des Moines
 GeoOptions: 339
