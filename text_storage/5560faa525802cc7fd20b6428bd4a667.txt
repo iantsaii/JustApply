@@ -40,8 +40,8 @@ Diversity, equity and inclusion
 Early careers
 Back
 WiseStart Overview
-Programs and
-applications
+Graduate Programs at Wise
+Internship Programs at Wise
 Scholarships
 WiseWomenCode
 Product Academy
@@ -116,58 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Product Operations Specialist - APAC Payments
+Legal Counsel (UK)
 Salary
-8500 - 11800 SGD Monthly + RSUs
+95000 - 110000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
-Payment Operations
+Legal - General
 Locations
-Singapore
+London
 Description
-We’re looking for a Senior Product Operations Specialist - APAC Payments to join our APAC Regional Payment Operations team in Singapore.Payments Product Operations turns recurring customer and operati
+Job DescriptionThis is a high-impact commercial legal role supporting the Wise Platform business that powers international payments for banks, financial institutions and enterprise partners around the
 Reference
-2f30e737-7e68-48ed-aaf1-f4c826a69b51
+8e620f68-ff44-490f-a88a-62cd3fee4bce
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Graduate Content Designer
+IT SOX Controls Tester
 Salary
-40000 - 52000 GBP Annual
+68000 - 87500 GBP Annual
 Location
 London
-Job Family Group
-Design - General
-Locations
-London
-Description
-We’re looking for a recent graduate to join our Design team in London as a Graduate Content Designer.Content designers help make products easier to understand and use. We think about what customers ne
-Reference
-4ad975eb-43fb-4c97-807e-c8041f243d1c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Software Engineer - Contact Automation - AI
-Salary
-1700000 - 2250000 HUF Monthly
-Location
-Budapest
 Job Family Group
 Engineering
 Locations
-Budapest
+London
 Description
-About the Role
-As a Senior Software Engineer in the Contact Automation team, you will play a pivotal role in shaping the future of customer support at Wise. You'll be a key technical leader in an aut
+We are looking for an IT SOX Controls Tester to join our mission and help us build a global platform that’s scalable, reliable, and secure. The Security Controls team plays a vital role in safeguardin
 Reference
-56265d46-2dfe-4e9f-9684-c366e7feca88
+27048faf-8d21-4929-bef2-93e03769edca
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Solutions Engineer
+Salary
+£87500 - £111000 GBP Annual
+Location
+London
+Job Family Group
+Engineering
+Locations
+London
+Description
+About the role We are looking for a Senior Solutions Engineer to join our growing Wise Platform team in London. The Wise Platform team works with top tier global financial institutions and major tech
+Reference
+35e5ad73-b885-4d50-9046-01e8cf99fe4d
 Expiry Date
 01/01/0001
 Read more
