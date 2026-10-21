@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Legal Counsel (UK)
+Operations Team Lead – FinCrime (AML Investigations)
 Salary
-95000 - 110000 GBP Annual
+1200000 - 1560000 HUF Monthly
 Location
-London
+Budapest
 Job Family Group
-Legal - General
+Customer Compliance
 Locations
-London
+Budapest
 Description
-Job DescriptionThis is a high-impact commercial legal role supporting the Wise Platform business that powers international payments for banks, financial institutions and enterprise partners around the
+We’re looking for an AML Investigations Team Lead to join our team in Budapest. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicious activity and ensuri
 Reference
-8e620f68-ff44-490f-a88a-62cd3fee4bce
+29757f3f-f1a5-4e58-a27a-39b3a56c51eb
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-IT SOX Controls Tester
+Global Compliance Monitoring & Testing Manager
 Salary
-68000 - 87500 GBP Annual
+2906000 - 4545000 INR Annual
 Location
-London
+Hyderabad
 Job Family Group
-Engineering
+Compliance
 Locations
-London
+Hyderabad
 Description
-We are looking for an IT SOX Controls Tester to join our mission and help us build a global platform that’s scalable, reliable, and secure. The Security Controls team plays a vital role in safeguardin
+We’re looking for a Testing Manager to join our Compliance Monitoring and Testing team. You’ll independently assess whether controls work in practice and whether customers receive the outcomes our obl
 Reference
-27048faf-8d21-4929-bef2-93e03769edca
+f802a792-3594-477a-aab0-e88d4a5f96e3
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Solutions Engineer
+Channel Sales Manager - APAC
 Salary
-£87500 - £111000 GBP Annual
+9,900 - 14,350 SGD Monthly + RSU's
 Location
-London
+Singapore
 Job Family Group
-Engineering
+Business Development
 Locations
-London
+Singapore
 Description
-About the role We are looking for a Senior Solutions Engineer to join our growing Wise Platform team in London. The Wise Platform team works with top tier global financial institutions and major tech
+Channel Sales at Wise Platform is a high-growth function. As part of our strategy to scale globally, we are expanding the team with a dedicated manager based in Singapore to look at scaling the functi
 Reference
-35e5ad73-b885-4d50-9046-01e8cf99fe4d
+c2c6d754-236a-4c35-889f-f92f067eb674
 Expiry Date
 01/01/0001
 Read more
@@ -444,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Phoenix
 GeoOptions: 339
