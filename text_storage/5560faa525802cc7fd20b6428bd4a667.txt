@@ -116,58 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Engineering Lead - Embedded Solutions
+Senior Analytics Manager
 Salary
-105000 - 135000 GBP Annual
+105000 - 150000 GBP Annual
 Location
 London
 Job Family Group
-Engineering
+Analytics - General
 Locations
 London
 Description
-We’re looking for an Engineering Lead to join the embedded finance team. Our mission is to build the world's best embedded finance platform for our partners. You’ll be working closely with multiple fu
+We are looking for a Senior Analytics Manager to lead the EMEA Compliance Analytics branch of the Compliance & Internal Audit Analytics team at Wise.You’ll partner with 2nd line Compliance in Europe,
 Reference
-ea80ec81-db36-4746-a4a2-c739767dc5ad
+237a629c-e024-4aa3-890e-936f984fc9f4
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Technical Recruiter
+Safeguarding Controller - APAC
 Salary
-3750 - 4750 EUR Monthly
+8,250 - 13,000 SGD Monthly + RSUs
 Location
-Tallinn
+Singapore
 Job Family Group
-Recruitment
+Finance Specialists
 Locations
-Tallinn
+Singapore
 Description
-What you'll do:Own end-to-end recruitment for complex, senior, or high-volume technical roles - from sourcing through closeAct as a strategic advisor to hiring managers and senior leadership on hiring
+Job DescriptionWorking alongside an existing team of Safeguarding specialists and reporting to the Global Safeguarding Accountable Owner, your role is to assist each of the existing controllers and pr
 Reference
-25d36590-7509-4518-a3c8-96778843d5dc
+11742903-2660-4a43-8166-c29c9f3548dc
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Workplace Operations Coordinator
+Senior Product Analyst
 Salary
-4900 - 5600 SGD Monthly + RSUs
+-
 Location
-Singapore
+Hyderabad
 Job Family Group
-Workplace
+Analytics - General
 Locations
-Singapore
+Hyderabad
 Description
-We are seeking an energetic, highly organised, and proactive Workplace Operations Coordinator to join
-our team in Singapore. Sitting at the heart of our office culture, this role plays a critical par
+About the roleYou’ll help us build the next generation of systems that help us run multi region, scalable processes to identify customers who they say they are and ensure any processes minimise the ch
 Reference
-c0a38f56-941a-4007-823a-2e78b55bfe17
+aa230fea-94f8-4123-9be4-1e144ae8451e
 Expiry Date
 01/01/0001
 Read more
@@ -445,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
+City:
 GeoOptions: 339
