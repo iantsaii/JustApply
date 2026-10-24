@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Analytics Manager
+Business Customer Support Specialist
 Salary
-105000 - 150000 GBP Annual
+6680 - 7700 BRL Monthly
 Location
-London
+São Paulo
 Job Family Group
-Analytics - General
+Customer Support - General
 Locations
-London
+São Paulo
 Description
-We are looking for a Senior Analytics Manager to lead the EMEA Compliance Analytics branch of the Compliance & Internal Audit Analytics team at Wise.You’ll partner with 2nd line Compliance in Europe,
+Your mission is to be the first point of contact for our customers, acting as a skilled problem solver and customer advocate. Because our Customer Support team forms a large part of the company’s publ
 Reference
-237a629c-e024-4aa3-890e-936f984fc9f4
+ca184556-2a8f-4f34-b43b-cc9caa17974a
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Safeguarding Controller - APAC
+Customer Support Specialist
 Salary
-8,250 - 13,000 SGD Monthly + RSUs
+670000 INR Annual + RSUs
 Location
-Singapore
+Hyderabad
 Job Family Group
-Finance Specialists
+Customer Support - General
 Locations
-Singapore
+Hyderabad
 Description
-Job DescriptionWorking alongside an existing team of Safeguarding specialists and reporting to the Global Safeguarding Accountable Owner, your role is to assist each of the existing controllers and pr
+As a Customer Support Specialist at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empa
 Reference
-11742903-2660-4a43-8166-c29c9f3548dc
+16639fa7-3921-4647-b10b-b60f2e7cffb6
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Product Analyst
+FinCrime Investigator - AML Investigations
 Salary
--
+8300 - 11000 BRL Monthly
 Location
-Hyderabad
+São Paulo
 Job Family Group
-Analytics - General
+Customer Compliance
 Locations
-Hyderabad
+São Paulo
 Description
-About the roleYou’ll help us build the next generation of systems that help us run multi region, scalable processes to identify customers who they say they are and ensure any processes minimise the ch
+As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
 Reference
-aa230fea-94f8-4123-9be4-1e144ae8451e
+a7d911c2-ba79-4764-9f3f-9259c63057b4
 Expiry Date
 01/01/0001
 Read more
@@ -444,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City:
+City: Phoenix
 GeoOptions: 339
