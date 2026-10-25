@@ -116,6 +116,25 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
+DEI Partner Lead
+Salary
+100000 - 140000 GBP Annual
+Location
+London
+Job Family Group
+DEI
+Locations
+London
+Description
+You'll lead DEI across Wise's People function—partnering with leaders to diagnose challenges, co-create and deliver action plans, and drive measurable progress. This role blends strategic thinking wit
+Reference
+1b3d0484-1ce0-454f-9616-f6ec11f454f0
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Business Customer Support Specialist
 Salary
 6680 - 7700 BRL Monthly
@@ -148,25 +167,6 @@ Description
 As a Customer Support Specialist at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empa
 Reference
 16639fa7-3921-4647-b10b-b60f2e7cffb6
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-FinCrime Investigator - AML Investigations
-Salary
-8300 - 11000 BRL Monthly
-Location
-São Paulo
-Job Family Group
-Customer Compliance
-Locations
-São Paulo
-Description
-As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
-Reference
-a7d911c2-ba79-4764-9f3f-9259c63057b4
 Expiry Date
 01/01/0001
 Read more
@@ -443,6 +443,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Phoenix
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
