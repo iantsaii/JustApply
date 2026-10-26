@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-DEI Partner Lead
+Analytics Senior Manager - Risk & Controls
 Salary
-100000 - 140000 GBP Annual
+0
 Location
-London
+Singapore
 Job Family Group
-DEI
+Analytics - General
 Locations
-London
+Singapore
 Description
-You'll lead DEI across Wise's People function—partnering with leaders to diagnose challenges, co-create and deliver action plans, and drive measurable progress. This role blends strategic thinking wit
+We’re looking for a Senior Analytics manager who is passionate about our mission of Money Without Borders to partner with our financial crime product teams to help drive data-driven and innovative gro
 Reference
-1b3d0484-1ce0-454f-9616-f6ec11f454f0
+e605d54f-81f7-4304-9934-ab605b7b8f3e
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Business Customer Support Specialist
+FinCrime Investigator - AML Investigations
 Salary
-6680 - 7700 BRL Monthly
+900000 - 1000000 INR Annual + RSUs
 Location
-São Paulo
+Hyderabad
 Job Family Group
-Customer Support - General
+Customer Compliance
 Locations
-São Paulo
+Hyderabad
 Description
-Your mission is to be the first point of contact for our customers, acting as a skilled problem solver and customer advocate. Because our Customer Support team forms a large part of the company’s publ
+We’re looking for an AML Investigator to join our growing AML Investigation team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s mission, grow as a specialist in anti-money
 Reference
-ca184556-2a8f-4f34-b43b-cc9caa17974a
+b48816c6-6b6e-4779-8d6a-127f850dc3af
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Customer Support Specialist
+Senior Recruiter - Non Tech
 Salary
-670000 INR Annual + RSUs
+27,00,000 INR to 35,00,000 INR + RSUs
 Location
 Hyderabad
 Job Family Group
-Customer Support - General
+Recruitment
 Locations
 Hyderabad
 Description
-As a Customer Support Specialist at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empa
+As a Senior Recruiter at Wise you’ll be responsible for hiring the best talent for Servicing teams in Hyderabad. You’ll own talent management, helping servicing to scale to enable Wise to achieve our
 Reference
-16639fa7-3921-4647-b10b-b60f2e7cffb6
+fa03095c-2162-412e-8638-84af79cf4faf
 Expiry Date
 01/01/0001
 Read more
@@ -443,6 +443,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Des Moines
+GeoOptions: 339
