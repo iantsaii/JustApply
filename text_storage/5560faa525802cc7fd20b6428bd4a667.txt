@@ -116,9 +116,9 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Analytics Senior Manager - Risk & Controls
+Senior Product Analyst - Scalable Platform
 Salary
-0
+8500 - 10900 SGD Monthly
 Location
 Singapore
 Job Family Group
@@ -126,47 +126,47 @@ Analytics - General
 Locations
 Singapore
 Description
-We’re looking for a Senior Analytics manager who is passionate about our mission of Money Without Borders to partner with our financial crime product teams to help drive data-driven and innovative gro
+THE ROLEYou’ll be joining the Grow Squad. We manage a complex, multi-product portfolio including Current Accounts, Savings, Investments, and Digital Assets.Focus Area: While other teams focus on acqui
 Reference
-e605d54f-81f7-4304-9934-ab605b7b8f3e
+57282a6e-ffd0-4c6f-a0fa-c1df7ce969a4
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Investigator - AML Investigations
+People Operations Intern (12 month fixed-term)
 Salary
-900000 - 1000000 INR Annual + RSUs
+500000 - 500000 INR Annual
 Location
 Hyderabad
 Job Family Group
-Customer Compliance
+People - General
 Locations
 Hyderabad
 Description
-We’re looking for an AML Investigator to join our growing AML Investigation team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s mission, grow as a specialist in anti-money
+Onboarding supportSupport the administrative process of onboarding new joiners, helping ensure the Wiser journey is as smooth as possible with everyone involved kept in the loopCoordinate adaptable on
 Reference
-b48816c6-6b6e-4779-8d6a-127f850dc3af
+dbab6660-ff27-4882-bf60-8faec13dfa38
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Recruiter - Non Tech
+Senior Product Compliance Manager
 Salary
-27,00,000 INR to 35,00,000 INR + RSUs
+134000 - 170000 USD Annual
 Location
-Hyderabad
+Austin
 Job Family Group
-Recruitment
+Product Compliance
 Locations
-Hyderabad
+Austin
 Description
-As a Senior Recruiter at Wise you’ll be responsible for hiring the best talent for Servicing teams in Hyderabad. You’ll own talent management, helping servicing to scale to enable Wise to achieve our
+We are seeking a highly experienced and hands-on Senior Product Compliance and Risk Manager to support a rapidly expanding product in North America. This role is responsible for ensuring Wise's US and
 Reference
-fa03095c-2162-412e-8638-84af79cf4faf
+41025721-7abc-44c3-a725-c69733c72787
 Expiry Date
 01/01/0001
 Read more
@@ -444,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
+City: Boydton
 GeoOptions: 339
