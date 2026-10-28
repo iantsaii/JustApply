@@ -1,44 +1,48 @@
 # Latest Scraper Results
 
-## 2026-10-27 08:36:24
+## 2026-10-28 09:16:23
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-- 0
-+ 134000 - 170000 USD Annual
-- 27,00,000 INR to 35,00,000 INR + RSUs
-+ 41025721-7abc-44c3-a725-c69733c72787
-+ 500000 - 500000 INR Annual
-+ 57282a6e-ffd0-4c6f-a0fa-c1df7ce969a4
-+ 8500 - 10900 SGD Monthly
-- 900000 - 1000000 INR Annual + RSUs
-- Analytics Senior Manager - Risk & Controls
-- As a Senior Recruiter at Wise you’ll be responsible for hiring the best talent for Servicing teams in Hyderabad. You’ll own talent management, helping servicing to scale to enable Wise to achieve our
-+ Austin x2
-+ City: Boydton
-- City: Des Moines
-- Customer Compliance
-- FinCrime Investigator - AML Investigations
-- Hyderabad x2
-+ Onboarding supportSupport the administrative process of onboarding new joiners, helping ensure the Wiser journey is as smooth as possible with everyone involved kept in the loopCoordinate adaptable on
-+ People - General
-+ People Operations Intern (12 month fixed-term)
-+ Product Compliance
-- Recruitment
-+ Senior Product Analyst - Scalable Platform
-+ Senior Product Compliance Manager
-- Senior Recruiter - Non Tech
-+ THE ROLEYou’ll be joining the Grow Squad. We manage a complex, multi-product portfolio including Current Accounts, Savings, Investments, and Digital Assets.Focus Area: While other teams focus on acqui
-+ We are seeking a highly experienced and hands-on Senior Product Compliance and Risk Manager to support a rapidly expanding product in North America. This role is responsible for ensuring Wise's US and
-- We’re looking for a Senior Analytics manager who is passionate about our mission of Money Without Borders to partner with our financial crime product teams to help drive data-driven and innovative gro
-- We’re looking for an AML Investigator to join our growing AML Investigation team in Hyderabad. This role is a unique opportunity to have an impact on Wise’s mission, grow as a specialist in anti-money
-- b48816c6-6b6e-4779-8d6a-127f850dc3af
-+ dbab6660-ff27-4882-bf60-8faec13dfa38
-- e605d54f-81f7-4304-9934-ab605b7b8f3e
-- fa03095c-2162-412e-8638-84af79cf4faf
++ -
++ 0
++ 00dfdcd8-4d76-4308-a106-73c3858ee1c8
++ 111000 - 145000 GBP Annual + RSUs
+- 134000 - 170000 USD Annual
+- 41025721-7abc-44c3-a725-c69733c72787
+- 500000 - 500000 INR Annual
+- 57282a6e-ffd0-4c6f-a0fa-c1df7ce969a4
+- 8500 - 10900 SGD Monthly
+- Analytics - General
++ At Wise, our customers rely on us to handle their data carefully. Our global Privacy team helps make that happen while keeping things simple for customers and Wisers.As our Privacy Operations Manager,
+- Austin x2
++ Budapest x2
+- City: Boydton
++ City: Phoenix
++ Compliance
++ Country Regulatory Compliance Officer - India
++ Engineering
++ London x2
+- Onboarding supportSupport the administrative process of onboarding new joiners, helping ensure the Wiser journey is as smooth as possible with everyone involved kept in the loopCoordinate adaptable on
+- People - General
+- People Operations Intern (12 month fixed-term)
++ Privacy
++ Privacy Operations Lead
+- Product Compliance
++ Role OverviewWe are seeking a proactive, independent, and detail-oriented Senior Regulatory Compliance Expert to join our team of compliance officers in India. In this role, you will work independentl
+- Senior Product Analyst - Scalable Platform
+- Senior Product Compliance Manager
++ Senior Software Engineer II - FX Markets
+- Singapore x2
+- THE ROLEYou’ll be joining the Grow Squad. We manage a complex, multi-product portfolio including Current Accounts, Savings, Investments, and Digital Assets.Focus Area: While other teams focus on acqui
++ We are looking for a Senior Software Engineer II with deep systems thinking, data engineering expertise, and a product-oriented mindset to join our Treasury FX function — spanning both the Market Data
+- We are seeking a highly experienced and hands-on Senior Product Compliance and Risk Manager to support a rapidly expanding product in North America. This role is responsible for ensuring Wise's US and
++ c483339b-bf12-40bb-b77a-94c4e7adbc20
+- dbab6660-ff27-4882-bf60-8faec13dfa38
++ ea3b5d8a-02e8-4d3f-b7d0-02742b82896c
 ```
 
 ---

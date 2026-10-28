@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Senior Product Analyst - Scalable Platform
+Privacy Operations Lead
 Salary
-8500 - 10900 SGD Monthly
+-
 Location
-Singapore
+Budapest
 Job Family Group
-Analytics - General
+Privacy
 Locations
-Singapore
+Budapest
 Description
-THE ROLEYou’ll be joining the Grow Squad. We manage a complex, multi-product portfolio including Current Accounts, Savings, Investments, and Digital Assets.Focus Area: While other teams focus on acqui
+At Wise, our customers rely on us to handle their data carefully. Our global Privacy team helps make that happen while keeping things simple for customers and Wisers.As our Privacy Operations Manager,
 Reference
-57282a6e-ffd0-4c6f-a0fa-c1df7ce969a4
+ea3b5d8a-02e8-4d3f-b7d0-02742b82896c
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-People Operations Intern (12 month fixed-term)
+Senior Software Engineer II - FX Markets
 Salary
-500000 - 500000 INR Annual
+111000 - 145000 GBP Annual + RSUs
 Location
-Hyderabad
+London
 Job Family Group
-People - General
+Engineering
 Locations
-Hyderabad
+London
 Description
-Onboarding supportSupport the administrative process of onboarding new joiners, helping ensure the Wiser journey is as smooth as possible with everyone involved kept in the loopCoordinate adaptable on
+We are looking for a Senior Software Engineer II with deep systems thinking, data engineering expertise, and a product-oriented mindset to join our Treasury FX function — spanning both the Market Data
 Reference
-dbab6660-ff27-4882-bf60-8faec13dfa38
+c483339b-bf12-40bb-b77a-94c4e7adbc20
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Product Compliance Manager
+Country Regulatory Compliance Officer - India
 Salary
-134000 - 170000 USD Annual
+0
 Location
-Austin
+Hyderabad
 Job Family Group
-Product Compliance
+Compliance
 Locations
-Austin
+Hyderabad
 Description
-We are seeking a highly experienced and hands-on Senior Product Compliance and Risk Manager to support a rapidly expanding product in North America. This role is responsible for ensuring Wise's US and
+Role OverviewWe are seeking a proactive, independent, and detail-oriented Senior Regulatory Compliance Expert to join our team of compliance officers in India. In this role, you will work independentl
 Reference
-41025721-7abc-44c3-a725-c69733c72787
+00dfdcd8-4d76-4308-a106-73c3858ee1c8
 Expiry Date
 01/01/0001
 Read more
@@ -444,5 +444,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Boydton
+City: Phoenix
 GeoOptions: 339
