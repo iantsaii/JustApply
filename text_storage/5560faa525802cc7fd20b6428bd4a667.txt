@@ -116,57 +116,57 @@ Wise Women Code London: Mentoring the Future of Tech
 Close
 List #1
 Latest jobs
-Privacy Operations Lead
+Senior Software Engineer - Java - AML Handling
 Salary
--
+5750 - 7083.33 EUR Monthly + RSUs
 Location
-Budapest
-Job Family Group
-Privacy
-Locations
-Budapest
-Description
-At Wise, our customers rely on us to handle their data carefully. Our global Privacy team helps make that happen while keeping things simple for customers and Wisers.As our Privacy Operations Manager,
-Reference
-ea3b5d8a-02e8-4d3f-b7d0-02742b82896c
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Software Engineer II - FX Markets
-Salary
-111000 - 145000 GBP Annual + RSUs
-Location
-London
+Tallinn
 Job Family Group
 Engineering
 Locations
-London
+Tallinn
 Description
-We are looking for a Senior Software Engineer II with deep systems thinking, data engineering expertise, and a product-oriented mindset to join our Treasury FX function — spanning both the Market Data
+The team you will join: AML Handling within the AML Squad in the FinCrime Chapter Why this team exists Regulatory expectations demand that we review more users, monitor additional typologies, and cont
 Reference
-c483339b-bf12-40bb-b77a-94c4e7adbc20
+7aee28e9-1dea-4cef-9ba9-0e2cda7c10f3
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Country Regulatory Compliance Officer - India
+People Operations Specialist
 Salary
-0
+37000 - 46000 GBP Annual
 Location
-Hyderabad
+London
 Job Family Group
-Compliance
+People Operations
 Locations
-Hyderabad
+London
 Description
-Role OverviewWe are seeking a proactive, independent, and detail-oriented Senior Regulatory Compliance Expert to join our team of compliance officers in India. In this role, you will work independentl
+We are looking for a People Operations Specialist to join our People Operations team in London and to support our Wisers across UK and EU markets. This role is a unique opportunity to have an impact o
 Reference
-00dfdcd8-4d76-4308-a106-73c3858ee1c8
+a868dee3-a7e8-48dc-8206-ea60c4f1d6c9
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Safeguarding Controller - APAC
+Salary
+8,250 - 13,000 SGD Monthly + RSUs
+Location
+Singapore
+Job Family Group
+Finance Specialists
+Locations
+Singapore
+Description
+Job DescriptionWorking alongside an existing team of Safeguarding specialists and reporting to the Global Safeguarding Accountable Owner, your role is to assist each of the existing controllers and pr
+Reference
+11742903-2660-4a43-8166-c29c9f3548dc
 Expiry Date
 01/01/0001
 Read more
@@ -176,6 +176,24 @@ Shortlist
 View all
 List #1
 Latest blogs
+Inside the Wise Product Academy: Different Paths into Product Management (Part 2)
+Teaser
+Early careers
+Content Type
+Blog
+Publish date
+10/27/2026
+Summary
+In our previous look inside the Wise Product Academy, we explored how Riine and Marta successfully made the leap into product ownership, you can read it here. But there is no single blueprint
+Teaser
+We’re spotlighting two more Product Managers, Beatriz Borguesan and Joosep Tõnso, who transformed their backgrounds into high-impact product associates through our immersive 12-week Product Academy programme.
+Read more
+by
+Sapphire Birmingham
+by
+Sapphire Birmingham
+Early Careers
+Life at Wise
 Driving Product Decisions Through Data Insights
 Teaser
 People profile
@@ -360,27 +378,6 @@ Life at Wise
 Product
 Analytics
 London
-From attending a campus talk to leading in FinCrime
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-06/10/2026
-Summary
-"Wise truly sees potential in people; they don’t just look at your current role, they look at what you’re capable of becoming."
-Islam Muhammad (He/Him)
-Interim FinCrime Operations Seni
-Teaser
-From attending a campus talk to leading in our Financial Crime Operations, Islam Muhammad’s journey at Wise has come full circle.
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-AML Operations
-Budapest
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -444,5 +441,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Phoenix
+City: Moses Lake
 GeoOptions: 339
