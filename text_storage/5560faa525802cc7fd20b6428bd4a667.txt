@@ -55,12 +55,23 @@ Shortlist
 0
 Wise women code
 Search for jobs
-Looking to break into the world of tech?  Our award winning WiseWomenCode program is an opportunity to be part of the next generation of women and non-binary tech stars.
-Watch Video
-Program Overview
+Looking to break into the world of tech? Our award winning WiseWomenCode program is an opportunity to be part of the next generation of women and non-binary tech stars.
+Duration
+3 days
+Eligibility
+Women and non-binary individuals who are eager to kickstart their careers in the tech world.
+Location
+Tallinn, Budapest, London, Singapore, Sao Paulo
+Format
+Onsite
+Outcome
+Skills to successfully apply to Internships and Graduate programs.
+Intake Date
+Winter and early spring, depending on location.
+Program overview
 WiseWomenCode is a unique experience launched by Wise. It’s designed to bridge the gender gap in technology by providing support, guidance and opportunities to women and non-binary individuals who are eager to kickstart their careers in the tech world.
-This 3-day immersive experience is packed with valuable insights, hands-on workshops and networking opportunities, all aimed at boosting your confidence and helping you to explore different engineering paths within the fintech industry.
-In 2026, we will be hosting this program in Singapore, London, Tallinn and Budapest.
+This 1-day or 3-day (depending on location) immersive experience is packed with valuable insights, hands-on workshops and networking opportunities, all aimed at boosting your confidence and helping you to explore different career paths within the fintech industry.
+In 2026/27, we will be hosting this program in Hyderabad, Singapore, Austin, Tallinn, Budapest and London.
 Day 2
 SHADOWING
 Spend a full day shadowing a seasoned engineer and gain a firsthand experience of their daily work. Learn about the practical aspects of the tech world and get a glimpse into the exciting projects taking place within our organisation.
@@ -83,90 +94,173 @@ Day 2
 SHADOWING
 Spend a full day shadowing a seasoned engineer and gain a firsthand experience of their daily work. Learn about the practical aspects of the tech world and get a glimpse into the exciting projects taking place within our organisation.
 So, what are we focused on?
-What you’ll get from WiseWomenCode
-Feel more confident in your tech skills.
-Build a supportive network of like-minded individuals.
-Understand the diverse career paths available in the tech field.
-De-mystify the world of technology and engineering.
-At Wise, we believe that diversity and inclusion are essential for innovation and progress. We are committed to supporting women and non-binary individuals on their journey to succeed in the tech world.
-How to apply
-Applications now open for 2026:
--
-Apply here for Tallinn
-18th - 20th February
--
-Apply here for Budapest
-18th - 20th February
-Apply before the 31st December.
-Stay tuned for updates on
-LinkedIn
-and
-Instagram
-of our
-next openings in Singapore and London
-.
+You should apply if you fit any of these descriptions:
+You should apply if you fit any of these descriptions:
+You’re just starting your career in technology with some foundational coding skills and tech knowledge and eager to build your foundational skills in either engineering or analytics (analytics paths available in Tallinn, Budapest, Singapore and London).
+You’re a 1st or 2nd year student looking to explore career options early in your university journey.
+You’re a career switcher making a move into tech from a different industry.
+You’re returning to the workforce after a career break or extended leave.
+You’re curious about fintech and want to explore engineering pathways in the industry.
+What you will get in return:
+A one-day or a three-day (depending on location) immersive experience focused on careers in technology
+Knowledge sharing sessions about Wise, its products, and how different tech teams work
+Hands-on coding workshops with engineer support and mentoring
+Learn from experts what an engineer does day to day
+Networking opportunities with Wisers and other participants
+Panel sessions and talks that provide insight into engineering at Wise and the wider fintech environment
+Confidence-building support aimed at helping participants explore possible next steps in tech
+India
+Hyderabad, India 🇮🇳
+Applications Open:
+Autumn |
+Program Date:
+Early December
+Program:
+WiseWomenCode: Hyderabad
+Ready to supercharge your tech career? Join us for a 1-day immersive program at our Hyderabad office! Get an inside look at Wise, dive into hands-on engineering workshops, and learn exactly how to ace our technical interviews. You’ll have the chance to network directly with Wisers and build the confidence to apply for our intern and graduate roles.
+👉 Register your interest
+Singapore
+Singapore 🇸🇬
+Applications Open:
+Autumn |
+Program Date:
+Early December
+Program:
+WiseWomenCode: Singapore
+Step into fintech at our Singapore office for an exclusive 1-day WiseWomenCode event! Experience interactive engineering sessions, gain top tips on navigating our technical interview process, and connect with Wisers across our teams. The program is the most suitable if you are interested in engineering or analytics. This day is designed to give you the skills and confidence to kickstart your career through our intern and graduate opportunities.
+👉 Register your interest
+United States
+Austin, USA 🇺🇸
+Applications Open:
+Late Autumn |
+Program Date:
+Early January
+Program:
+WiseWomenCode: Austin
+Kick off the new year with us at our Austin office! Our 1-day WiseWomenCode program brings you an introduction to life at Wise, practical engineering workshops, and actionable advice to help you ace our technical interviews. Network with our local Wisers and take the first step toward applying for our upcoming intern and graduate roles.
+👉 Register your interest
+Estonia
+Tallinn, Estonia 🇪🇪
+Applications Open:
+Late Autumn |
+Program Date:
+Late January
+Program:
+WiseWomenCode: Tallinn
+Immerse yourself in fintech with an intensive 3-day program at our Tallinn office! You'll cover everything from the basics of Wise and interactive coding workshops to hands-on job shadowing with our engineers. This program is the most suitable if you are interested in engineering. Master your technical interviewing skills, expand your network with local Wisers, and discover your path into our intern and graduate opportunities.
+👉 Register your interest
+Hungary
+Budapest, Hungary 🇭🇺
+Applications Open:
+Late Autumn |
+Program Date:
+Early February
+Program:
+WiseWomenCode: Budapest
+Join us in our Budapest office for an exciting 3-day WiseWomenCode experience! Dive into hands-on workshops, spend a day job shadowing seasoned technical specialists, and build valuable networking connections across Wise. This program is the most suitable if you are interested in engineering or analytics. You'll sharpen your interviewing skills and gain the exact tools and confidence needed to apply for our future tech roles.
+👉 Register your interest
+Brazil
+São Paulo, Brazil 🇧🇷
+Applications Open:
+Late Autumn / Early Winter |
+Program Date:
+February
+Program:
+WiseWomenCode: São Paulo
+Join us in February at our São Paulo office for a day of learning, inspiration, and networking! You’ll get an insider’s view of engineering at Wise, participate in interactive workshops, and master the skills needed to tackle our technical interviews with engineering as the key focus. Discover how to take your next big step into our intern and graduate positions.
+👉 Register your interest
+United Kingdom
+London, UK 🇬🇧
+Applications Open:
+Late Autumn / Winter |
+Program Date:
+Late March
+Program:
+WiseWomenCode: London
+Take your tech journey further at our London office during this 3-day immersive event! Get a complete look into life at Wise, shadow engineers on real-world projects, participate in skill-building workshops, and perfect your technical interview preparation. Connect directly with industry mentors and prepare your application for our intern and graduate schemes. This program is the most suitable if you are interested in engineering or analytics.
+👉 Register your interest
+Hyderabad, India 🇮🇳
+Applications Open:
+Autumn |
+Program Date:
+Early December
+Program:
+WiseWomenCode: Hyderabad
+Ready to supercharge your tech career? Join us for a 1-day immersive program at our Hyderabad office! Get an inside look at Wise, dive into hands-on engineering workshops, and learn exactly how to ace our technical interviews. You’ll have the chance to network directly with Wisers and build the confidence to apply for our intern and graduate roles.
+👉 Register your interest
+Application Process
+1.
+Apply Online
+: Submit your CV (in English) alongside a cover letter answering these two questions:
+Are you available to join the WiseWomenCode program on the dates listed?
+What is your proudest achievement? (around 200 words)
+2.
+Complete the Assessment:
+If your background is a good fit, we’ll invite you to complete a short assessment. This includes:
+Video/Written Prompts:
+Share your motivation for the program, what you hope to learn, and why you're excited about a career in tech.
+Technical Task
+: A quick assessment to help us understand your foundational tech skills.
+Save the date
+Dates for WiseWomenCode 2027 sessions are announced in autumn 2026.
+Stay tuned for updates on LinkedIn and Instagram of our next openings!
 If you have any questions or need more information, feel free to reach out to
 wisestart@wise.com
 .
-Snippet heading
-Watch Video
-Wise Women Code London: Mentoring the Future of Tech
-https://www.youtube.com/embed/cRXUjDDBe-Q
-Wise Women Code London: Mentoring the Future of Tech
-Close
+Sign up your interest
 List #1
 Latest jobs
-Senior Software Engineer - Java - AML Handling
+Banking Operations Function Lead – Europe & SWIFT
 Salary
-5750 - 7083.33 EUR Monthly + RSUs
+89000 - 127000 GBP Annual
+Location
+London
+Job Family Group
+Payment Operations
+Locations
+London
+Description
+About the roleWise relies on banking partners to move customers’ money around the world. When those partners are slow, unavailable or make mistakes, payments get delayed or fail, customers are affecte
+Reference
+04469895-5256-4e85-a0d3-0faf77a39832
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+FinCrime Operations Investigator - Sanctions
+Salary
+2225 - 2600 EUR Monthly
 Location
 Tallinn
+Job Family Group
+Customer Compliance
+Locations
+Tallinn
+Description
+Your mission: We’re looking for Fincrime Operations Senior Analyst/Sanctions Investigator to join our growing Sanctions Investigator team in EU. This role is a unique opportunity to have an impact on
+Reference
+656c4a2a-02cc-4af4-87a5-96a6ec4b07a9
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Engineering Lead - Recommend Team (Backend Focused - Hands on)
+Salary
+105000 - 135000 GBP Annual
+Location
+London
 Job Family Group
 Engineering
 Locations
-Tallinn
-Description
-The team you will join: AML Handling within the AML Squad in the FinCrime Chapter Why this team exists Regulatory expectations demand that we review more users, monitor additional typologies, and cont
-Reference
-7aee28e9-1dea-4cef-9ba9-0e2cda7c10f3
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-People Operations Specialist
-Salary
-37000 - 46000 GBP Annual
-Location
-London
-Job Family Group
-People Operations
-Locations
 London
 Description
-We are looking for a People Operations Specialist to join our People Operations team in London and to support our Wisers across UK and EU markets. This role is a unique opportunity to have an impact o
+We are looking for an experienced Engineering Lead to join our Recommend team in the London office.At the Recommend team, we aim to grow the Wise customer base through Referrals and Word of Mouth.  We
 Reference
-a868dee3-a7e8-48dc-8206-ea60c4f1d6c9
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Safeguarding Controller - APAC
-Salary
-8,250 - 13,000 SGD Monthly + RSUs
-Location
-Singapore
-Job Family Group
-Finance Specialists
-Locations
-Singapore
-Description
-Job DescriptionWorking alongside an existing team of Safeguarding specialists and reporting to the Global Safeguarding Accountable Owner, your role is to assist each of the existing controllers and pr
-Reference
-11742903-2660-4a43-8166-c29c9f3548dc
+db4ce603-92a2-4d68-bce0-658ceea9468f
 Expiry Date
 01/01/0001
 Read more
@@ -441,5 +535,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Moses Lake
+City: San Jose
 GeoOptions: 339
