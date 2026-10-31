@@ -1,161 +1,250 @@
 # Latest Scraper Results
 
-## 2026-10-30 09:33:39
+## 2026-10-31 09:15:15
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-- - x2
++ - x2
+- 04469895-5256-4e85-a0d3-0faf77a39832
++ 104,000 USD Annual
+- 105000 - 135000 GBP Annual
++ 165abfa3-e125-4ca4-8200-d3bb9e2cd43c
+- 2225 - 2600 EUR Monthly
+- 656c4a2a-02cc-4af4-87a5-96a6ec4b07a9
++ 6f23869d-b6ec-4015-9c2a-d0d149050e69
+- 89000 - 127000 GBP Annual
+- About the roleWise relies on banking partners to move customers’ money around the world. When those partners are slow, unavailable or make mistakes, payments get delayed or fail, customers are affecte
++ Analytics - General
++ As a Graduate Product Analyst, you’ll join our North America Regional Analytics team in September 2027.
++ Austin x2
+- Banking Operations Function Lead – Europe & SWIFT
++ City: Des Moines
+- City: San Jose
+- Customer Compliance
+- Engineering
+- Engineering Lead - Recommend Team (Backend Focused - Hands on)
+- FinCrime Operations Investigator - Sanctions
++ Graduate Analyst
++ Hyderabad x2
+- London x4
+- Payment Operations
++ Product Compliance x2
++ Senior Product Compliance & Risk Manager - India x2
++ Singapore x2
+- Tallinn x2
++ The Product Compliance & Risk (PC&R) team sits at the centre of Wise’s product development function, supporting our cross-functional teams to deliver exceptional compliant-by-design products for our c x2
++ This full-time role is a chance to make a real impact early and kickstart your career. You’ll
+- We are looking for an experienced Engineering Lead to join our Recommend team in the London office.At the Recommend team, we aim to grow the Wise customer base through Referrals and Word of Mouth.  We
+- Your mission: We’re looking for Fincrime Operations Senior Analyst/Sanctions Investigator to join our growing Sanctions Investigator team in EU. This role is a unique opportunity to have an impact on
++ a1c5e31c-cac8-4d81-a49b-a5728dac2302
+- db4ce603-92a2-4d68-bce0-658ceea9468f
+```
+
+---
+### [https://careers.smartrecruiters.com/Visa/university-recruiting](https://careers.smartrecruiters.com/Visa/university-recruiting)
+
+**Line changes detected!**
+
+```diff
++ (8161) Lemoore: Delivery Driver
++ (8372) Morro Bay: Customer Service Rep
++ (opens in a new window) x99
 - .
-+ 04469895-5256-4e85-a0d3-0faf77a39832
-+ 1.
-+ 105000 - 135000 GBP Annual
-- 11742903-2660-4a43-8166-c29c9f3548dc
-- 18th - 20th February x2
-+ 2.
-+ 2225 - 2600 EUR Monthly
-+ 3 days
-- 37000 - 46000 GBP Annual
-- 5750 - 7083.33 EUR Monthly + RSUs
-+ 656c4a2a-02cc-4af4-87a5-96a6ec4b07a9
-- 7aee28e9-1dea-4cef-9ba9-0e2cda7c10f3
-- 8,250 - 13,000 SGD Monthly + RSUs
-+ 89000 - 127000 GBP Annual
-+ : A quick assessment to help us understand your foundational tech skills.
-+ : Submit your CV (in English) alongside a cover letter answering these two questions:
-+ A one-day or a three-day (depending on location) immersive experience focused on careers in technology
-+ About the roleWise relies on banking partners to move customers’ money around the world. When those partners are slow, unavailable or make mistakes, payments get delayed or fail, customers are affecte
-+ Application Process
-+ Applications Open: x8
-- Applications now open for 2026:
-+ Apply Online
-- Apply before the 31st December.
-- Apply here for Budapest
-- Apply here for Tallinn
-+ Are you available to join the WiseWomenCode program on the dates listed?
-- At Wise, we believe that diversity and inclusion are essential for innovation and progress. We are committed to supporting women and non-binary individuals on their journey to succeed in the tech world.
-+ Austin, USA 🇺🇸
-+ Autumn | x3
-+ Banking Operations Function Lead – Europe & SWIFT
-+ Brazil
-+ Budapest, Hungary 🇭🇺
-- Build a supportive network of like-minded individuals.
-- City: Moses Lake
-+ City: San Jose
-- Close
-+ Complete the Assessment:
-+ Confidence-building support aimed at helping participants explore possible next steps in tech
-+ Customer Compliance
-+ Dates for WiseWomenCode 2027 sessions are announced in autumn 2026.
-- De-mystify the world of technology and engineering.
-+ Duration
-+ Early December x3
-+ Early February
-+ Early January
-+ Eligibility
-+ Engineering Lead - Recommend Team (Backend Focused - Hands on)
-+ Estonia
-+ February
-- Feel more confident in your tech skills.
-+ FinCrime Operations Investigator - Sanctions
-- Finance Specialists
-+ Format
-+ Hands-on coding workshops with engineer support and mentoring
-- How to apply
-+ Hungary
-+ Hyderabad, India 🇮🇳 x2
-+ If your background is a good fit, we’ll invite you to complete a short assessment. This includes:
-+ Immerse yourself in fintech with an intensive 3-day program at our Tallinn office! You'll cover everything from the basics of Wise and interactive coding workshops to hands-on job shadowing with our engineers. This program is the most suitable if you are interested in engineering. Master your technical interviewing skills, expand your network with local Wisers, and discover your path into our intern and graduate opportunities.
-- In 2026, we will be hosting this program in Singapore, London, Tallinn and Budapest.
-+ In 2026/27, we will be hosting this program in Hyderabad, Singapore, Austin, Tallinn, Budapest and London.
-+ India
-- Instagram
-+ Intake Date
-- Job DescriptionWorking alongside an existing team of Safeguarding specialists and reporting to the Global Safeguarding Accountable Owner, your role is to assist each of the existing controllers and pr
-+ Join us in February at our São Paulo office for a day of learning, inspiration, and networking! You’ll get an insider’s view of engineering at Wise, participate in interactive workshops, and master the skills needed to tackle our technical interviews with engineering as the key focus. Discover how to take your next big step into our intern and graduate positions.
-+ Join us in our Budapest office for an exciting 3-day WiseWomenCode experience! Dive into hands-on workshops, spend a day job shadowing seasoned technical specialists, and build valuable networking connections across Wise. This program is the most suitable if you are interested in engineering or analytics. You'll sharpen your interviewing skills and gain the exact tools and confidence needed to apply for our future tech roles.
-+ Kick off the new year with us at our Austin office! Our 1-day WiseWomenCode program brings you an introduction to life at Wise, practical engineering workshops, and actionable advice to help you ace our technical interviews. Network with our local Wisers and take the first step toward applying for our upcoming intern and graduate roles.
-+ Knowledge sharing sessions about Wise, its products, and how different tech teams work
-+ Late Autumn / Early Winter |
-+ Late Autumn / Winter |
-+ Late Autumn | x3
-+ Late January
-+ Late March
-+ Learn from experts what an engineer does day to day
-- LinkedIn
-+ Location
-+ London x2
-+ London, UK 🇬🇧
-- Looking to break into the world of tech?  Our award winning WiseWomenCode program is an opportunity to be part of the next generation of women and non-binary tech stars.
-+ Looking to break into the world of tech? Our award winning WiseWomenCode program is an opportunity to be part of the next generation of women and non-binary tech stars.
-+ Networking opportunities with Wisers and other participants
-+ Onsite
-+ Outcome
-+ Panel sessions and talks that provide insight into engineering at Wise and the wider fintech environment
-+ Payment Operations
-- People Operations
-- People Operations Specialist
-+ Program Date: x8
-- Program Overview
-+ Program overview
-+ Program: x8
-+ Ready to supercharge your tech career? Join us for a 1-day immersive program at our Hyderabad office! Get an inside look at Wise, dive into hands-on engineering workshops, and learn exactly how to ace our technical interviews. You’ll have the chance to network directly with Wisers and build the confidence to apply for our intern and graduate roles. x2
-- Safeguarding Controller - APAC
-+ Save the date
-- Senior Software Engineer - Java - AML Handling
-+ Share your motivation for the program, what you hope to learn, and why you're excited about a career in tech.
-+ Sign up your interest
-- Singapore
-+ Singapore 🇸🇬
-+ Skills to successfully apply to Internships and Graduate programs.
-- Snippet heading
-- Stay tuned for updates on
-+ Stay tuned for updates on LinkedIn and Instagram of our next openings!
-+ Step into fintech at our Singapore office for an exclusive 1-day WiseWomenCode event! Experience interactive engineering sessions, gain top tips on navigating our technical interview process, and connect with Wisers across our teams. The program is the most suitable if you are interested in engineering or analytics. This day is designed to give you the skills and confidence to kickstart your career through our intern and graduate opportunities.
-+ São Paulo, Brazil 🇧🇷
-+ Take your tech journey further at our London office during this 3-day immersive event! Get a complete look into life at Wise, shadow engineers on real-world projects, participate in skill-building workshops, and perfect your technical interview preparation. Connect directly with industry mentors and prepare your application for our intern and graduate schemes. This program is the most suitable if you are interested in engineering or analytics.
-+ Tallinn, Budapest, London, Singapore, Sao Paulo
-+ Tallinn, Estonia 🇪🇪
-+ Technical Task
-- The team you will join: AML Handling within the AML Squad in the FinCrime Chapter Why this team exists Regulatory expectations demand that we review more users, monitor additional typologies, and cont
-+ This 1-day or 3-day (depending on location) immersive experience is packed with valuable insights, hands-on workshops and networking opportunities, all aimed at boosting your confidence and helping you to explore different career paths within the fintech industry.
-- This 3-day immersive experience is packed with valuable insights, hands-on workshops and networking opportunities, all aimed at boosting your confidence and helping you to explore different engineering paths within the fintech industry.
-- Understand the diverse career paths available in the tech field.
-+ United Kingdom
-+ United States
-+ Video/Written Prompts:
-- Watch Video x2
-- We are looking for a People Operations Specialist to join our People Operations team in London and to support our Wisers across UK and EU markets. This role is a unique opportunity to have an impact o
-+ We are looking for an experienced Engineering Lead to join our Recommend team in the London office.At the Recommend team, we aim to grow the Wise customer base through Referrals and Word of Mouth.  We
-+ What is your proudest achievement? (around 200 words)
-+ What you will get in return:
-- What you’ll get from WiseWomenCode
-+ Winter and early spring, depending on location.
-- Wise Women Code London: Mentoring the Future of Tech x2
-+ WiseWomenCode: Austin
-+ WiseWomenCode: Budapest
-+ WiseWomenCode: Hyderabad x2
-+ WiseWomenCode: London
-+ WiseWomenCode: Singapore
-+ WiseWomenCode: São Paulo
-+ WiseWomenCode: Tallinn
-+ Women and non-binary individuals who are eager to kickstart their careers in the tech world.
-+ You should apply if you fit any of these descriptions: x2
-+ Your mission: We’re looking for Fincrime Operations Senior Analyst/Sanctions Investigator to join our growing Sanctions Investigator team in EU. This role is a unique opportunity to have an impact on
-+ You’re a 1st or 2nd year student looking to explore career options early in your university journey.
-+ You’re a career switcher making a move into tech from a different industry.
-+ You’re curious about fintech and want to explore engineering pathways in the industry.
-+ You’re just starting your career in technology with some foundational coding skills and tech knowledge and eager to build your foundational skills in either engineering or analytics (analytics paths available in Tallinn, Budapest, Singapore and London).
-+ You’re returning to the workforce after a career break or extended leave.
-- a868dee3-a7e8-48dc-8206-ea60c4f1d6c9
-- and
-+ db4ce603-92a2-4d68-bce0-658ceea9468f
-- https://www.youtube.com/embed/cRXUjDDBe-Q
-- next openings in Singapore and London
-- of our
-+ 👉 Register your interest x8
++ 10 minutes ago
++ 100 jobs found
++ 13 minutes ago x2
++ 2 hours ago x11
++ 2 minutes ago
++ 21 minutes ago
++ 24 minutes ago
++ 28 minutes ago x2
++ 3 hours ago x24
++ 33 minutes ago x2
++ 34 minutes ago
++ 37 minutes ago
++ 4 hours ago x9
++ 42 minutes ago
++ 43 minutes ago
++ 5 hours ago x2
++ 5 minutes ago
++ 6 hours ago x4
++ 7 hours ago x7
++ 8 hours ago x7
+- A cookie can fit more than one category. Disabling cookies may prevent the website from working properly. You can find a specific list of cookies utilized by SmartRecruiters, and additional cookie information in our cookie policy. To reject cookies, click the "Cookie Settings" button, and then you individually choose which cookies turn off or on.
++ ACE Cim Graduate
++ AGENT D’ENTRETIEN ET DE MAINTENANCE / CONDUCTEUR DE RATRACK (H/F)
+- Accept All Cookies
++ AccorHotel x4
+- Apple Safari
++ Assistent Store Manager x3
+- Associate Product Management Program (APM)
++ Avery Dennison
++ BOUCHER (H/F)
++ BUT x3
++ Bar & Waiting Staff
++ Better Homes and Gardens Real Estate Advantage Realty
+- Browse amazing opportunities to get going with your career—no matter where you are on your journey:
+- Browse by:
+- By clicking “Accept All Cookies”, you accept and consent
++ CIM Finance
++ California Closets
+- Careers at Visa x2
++ CityFibre x4
+- Clear search results
+- Client Services Development Program (CSDP)
++ Comercial de Soluciones Digitales para Hostelería (temporal) - El Puerto de Sta Mª
++ Commis 1 - South Indian
+- Continue
+- Cookies Settings
++ Customer Service Rep (9116) - 3721 W South Jordan
++ Customer Service Rep(02035) - 84 N Main Street
++ Customer Service Rep(03253) - 1273 Memorial Drive
++ Customer Service Representative
++ Delivery Driver(06020) - 1710 East Grand Ave.
++ Delivery Driver(06051)  1538 N Main St
++ Demi Chef de Partie (Pastry & Bakery)
++ Domino's x9
++ Dungarvin x13
++ Duty Engineer
++ EMPLOI ETUDIANT
++ EN - F&B Services_Restaurant Manager
++ EN - Housekeeping_ Housekeeping Executive
++ EN - Safety & Security_ Security Officer
++ Equip Maint Technician (Wafer Sort)
++ FR - CA - Chef de Réception - H/F
++ FR - CA - Veilleur de nuit - H/F
++ FULL TIME OWNER DRIVER - £230 Per Day (Plus VAT)
+- Financial Leadership Development Program (FLDP)
++ General Purpose Technician
+- Go back to top
+- Google Chrome
++ Greene King x3
++ Groupement Mousquetaires x8
++ Guest Service Associate
++ H&M Group x2
++ Hotel Staff
++ HÔTE DE CAISSE (H/F) x2
++ HÔTE D’ACCUEIL / CAISSE (H/F)
++ Hôte de caisse polyvalent F/H/X
+- Ignite a career that impacts the world of payments
++ Industrial Supplier Quality Engineer – Pyrotechnics
++ JYSK x14
++ Job Location Type
+- Job Opportunities
+- Join Our Inclusive Community
+- Join Visa and do work that matters – to you, to your community, and to the world.
++ Kitchen Team Leader
++ Latest Jobs
+- Location
++ Louvre Hotels Group x3
+- MENU
++ METRO/MAKRO
++ Magasinier F/H/X
++ Manager, Supplier Enablement Agriculture
++ Medewerker magazijn/verkoop x2
++ Mental Health Program Manager (MHPD) * Up to $5000 sign on bonus * x5
+- Microsoft Edge
++ Motel One
+- Mozilla Firefox
++ Nearmap
++ Night Manager
+- No job postings are currently available.
++ Operational Program Director / 245D Designated Manager
++ Operational Program Director / 245D Designated Manager * Up to $5000 sign on bonus * x6
++ PART TIME SALES ADVISOR (ROBINSONS PLACE ERMITA
++ POISSONNIER (H/F)
+- People Team Development Program (PTDP)
+- Please update to one of the following browsers:
++ Powered by
++ Primark
++ Procurement Manager - Indirect x4
++ Production Supervisor, Mon - Fri, 12am - 8:30am (Overnights)
++ Program Manager - Residential
+- Progress starts with you.
++ Projects I (Construction)
++ RETAIL ASSISTANT - NIGHT SHIFT
++ Radisson Hotel Group x4
++ Raising Cane's
+- Read
++ Real Estate Data Entry Operator
++ Receptionniste - H/F
++ Regulatory Affairs Director (P&C Insurance)
+- Reject All
++ Relais & Châteaux
++ Renesas Electronics x2
++ Restaurant Leader
++ SKIP合同会社 x2
++ Scalian
+- Search job openings, e.g. "manager" x2
++ Search jobs by job title, location, keyword or company name
+- Skip content section
+- Skip header section
+- Skip hero section
+- Skip openings section
++ SmartRecruiters Job Search
++ SmartRecruiters Jobs
+- SmartRecruiters is acting as a Data Processor, on behalf of the Company you're applying for, which is the Data Controller.
++ Solvios Technology
+- Sorry, Internet Explorer 11 is no longer supported by SmartRecruiters
++ Specialist, Commercial Asset Finance
++ Sr Equip Maint Technician (Final Test)
++ Standard Bank Group x2
++ Store & Receiving Associate
++ Store Manager Trainee x3
+- Students + Early Careers
++ Talent Acquisition Specialist
+- The change you create doesn’t stop at your desk — every contribution connects to something bigger, moving more than money and helping move the world forward together.
+- Universal acceptance for everyone, everywhere is at the heart of our company. We promote diversity of thought, culture and background, which connects the entire Visa family. As such, Visa is proud to be an Equal Opportunity Employer. We do not discriminate on the basis of race, color, ancestry, national origin, religion or religious creed, mental or physical disability, medical condition, genetic information, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender identity, gender expression, age, marital status, military or veteran status, citizenship, or other characteristic protected by state or federal law or local ordinance.
++ Vendeur en poissonnerie H/F
++ Vendeur produit de complément (décoration) F/H/X
++ Vendeuse Boucherie/Volaille (H/F)
++ Verkoopmedewerker met doorgroeimogelijkheden x3
++ Verkäufer/in (a) 20-40% in der Filiale Widnau
++ Verkäufer/in (a) 40-60% in der Filiale Widnau
++ Verkäufer/in (a) 60-80% in der Filiale Widnau
++ Villa Group
+- Visa
+- Visa Champions Program (VCP)
+- Visa Leadership Associate Program (VLA)
+- Visa's Equal Employment Opportunity Policy
+- Visa's Rotational Programs
+- Visa’s trusted global network carries ideas across borders and powers billions of transactions every year, driving progress for people, businesses, and economies everywhere.
++ Warehouse Associate
++ Warehouse Associate (Part-Time)
++ Westgate Resorts
+- Whether you aspire to be an engineer, designer, marketer, or anything in between, you’ll make your mark at Visa dreaming up new ideas and gaining exposure to some of the most advanced technology in the industry.
+- With your consent, when browsing this website, SmartRecruiters uses the categories of cookies described below and other similar technologies so that you can apply for jobs with SmartRecruiters’ customers, (the Company you're applying for) and for the additional purposes set forth below.
++ XLSS
+- You can find details about supported web browsers
+- Your work reaches further
+- You’re an Individual. We are a team of 33,000+ smart, collaborative colleagues across 200+ countries and territories who are inspired by a common purpose: to uplift everyone, everywhere by being the best way to pay and be paid.
++ an hour ago x20
+- here
+- powered by
+- to learn more.
+- to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Please see our Cookie Policy for more information:
+- ×
++ ☆完全週払い！軽貨物配送ドライバー、土日祝含め稼働できる方積極採用！！
++ ☆足立区、積極採用！繁忙期による高報酬実現！9割が置き配の軽貨物ドライバー
++ ⭐️足立区【高報酬】軽貨物配送ドライバー｜日額21,030円〜23,450円＋インセンティブ｜リース代無料・未経験歓迎
++ ⭐️週1日～OK！時給制の配送ドライバー｜7時～14時・14時～17時｜車両貸与あり・未経験歓迎
++ 【ガソリン代支給／週払いOK】【インセンティブ支給あり】日給19,070円〜27,000円！Amazonオフィシャル配送パートナーの軽自動車配送ドライバー
++ 【人数限定募集再開！】✨ガソリン代支給✨（報酬に追加支給！）の週5稼働ドライバー残り2名！日当24000円以上も！（ダブルインセンティブを報酬に追加）駐禁リスクなし！✨月500,000円以上可能✨セール期はさらに追加インセンティブ追加！ロイヤリティ無し/軽貨物ドライバー
++ 【激レア！人数限定募集開始！】オープニングメンバー募集！DSP2.0 amazonオフィシャル配送サービスパートナーのウォーカー配達（歩いて荷物をお渡しする配達）のお仕事です！｜未経験歓迎|日給保証あり｜ロヤリティ無し
++ 【茨城県つくば市】【インセンティブ支給】Amazonのオフィシャル配送サービスパートナー｜日額19,070円～/ガソリン代支給！週払い対応！
++ スグ稼げる・スグ貰える！[週払い可]×[日額19,070円保障]Amazonのオフィシャル配送サービスパートナー　インセンティブあります！
++ 合同会社YUM JAM x3
++ 年末は収入アップのチャンス！繁忙期限定インセンティブ最大8,800円プラス！日額最大32,800円｜週払いOK・寮完備・未経験歓迎！
++ 株式会社FFL x3
++ 株式会社熱帯雨林 x2
++ 株式会社Ｅｌｌｙ’ｓＴｒａｄｉｎｇ x3
++ 駐禁リスクなし！Amazon委託配送の軽貨物宅配ドライバー/最大報酬30,050円〜！メディア多数出演の話題の会社！
++ 駐禁リスクなし！Amazon委託配送の軽貨物宅配ドライバー/最大報酬30,050円以上〜！メディア多数出演の話題の会社！
++ 駐禁リスクなし！Amazon委託配送の軽貨物宅配ドライバー/最大報酬30,050円以上！メディア多数出演の話題の会社！
++ 신세계센텀시티점 Sales Advisor
 ```
 
 ---

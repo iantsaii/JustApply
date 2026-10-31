@@ -210,57 +210,58 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Banking Operations Function Lead – Europe & SWIFT
+Senior Product Compliance & Risk Manager - India
 Salary
-89000 - 127000 GBP Annual
+-
 Location
-London
+Singapore
 Job Family Group
-Payment Operations
+Product Compliance
 Locations
-London
+Singapore
 Description
-About the roleWise relies on banking partners to move customers’ money around the world. When those partners are slow, unavailable or make mistakes, payments get delayed or fail, customers are affecte
+The Product Compliance & Risk (PC&R) team sits at the centre of Wise’s product development function, supporting our cross-functional teams to deliver exceptional compliant-by-design products for our c
 Reference
-04469895-5256-4e85-a0d3-0faf77a39832
+165abfa3-e125-4ca4-8200-d3bb9e2cd43c
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Investigator - Sanctions
+Senior Product Compliance & Risk Manager - India
 Salary
-2225 - 2600 EUR Monthly
+-
 Location
-Tallinn
+Hyderabad
 Job Family Group
-Customer Compliance
+Product Compliance
 Locations
-Tallinn
+Hyderabad
 Description
-Your mission: We’re looking for Fincrime Operations Senior Analyst/Sanctions Investigator to join our growing Sanctions Investigator team in EU. This role is a unique opportunity to have an impact on
+The Product Compliance & Risk (PC&R) team sits at the centre of Wise’s product development function, supporting our cross-functional teams to deliver exceptional compliant-by-design products for our c
 Reference
-656c4a2a-02cc-4af4-87a5-96a6ec4b07a9
+a1c5e31c-cac8-4d81-a49b-a5728dac2302
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Lead - Recommend Team (Backend Focused - Hands on)
+Graduate Analyst
 Salary
-105000 - 135000 GBP Annual
+104,000 USD Annual
 Location
-London
+Austin
 Job Family Group
-Engineering
+Analytics - General
 Locations
-London
+Austin
 Description
-We are looking for an experienced Engineering Lead to join our Recommend team in the London office.At the Recommend team, we aim to grow the Wise customer base through Referrals and Word of Mouth.  We
+As a Graduate Product Analyst, you’ll join our North America Regional Analytics team in September 2027.
+This full-time role is a chance to make a real impact early and kickstart your career. You’ll
 Reference
-db4ce603-92a2-4d68-bce0-658ceea9468f
+6f23869d-b6ec-4015-9c2a-d0d149050e69
 Expiry Date
 01/01/0001
 Read more
@@ -535,5 +536,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Des Moines
 GeoOptions: 339
