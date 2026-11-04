@@ -210,58 +210,57 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Head of Finance, Europe
+Senior Software Engineer - Payment Processing Platform
 Salary
-9100 - 13300 EUR Monthly
+5550 - 6900 EUR Monthly
 Location
-Brussels
+Tallinn
 Job Family Group
-Finance Specialists
+Engineering
 Locations
-Brussels
+Tallinn
 Description
-A bit about the roleWe are looking to hire a Head of Finance to lead our Europe Regional Finance team! If you’ve got Financial Services experience dealing with commercial finance, strategic advisory,
+Payment Processing PlatformOur goal is to provide reliable and scalable services that can be used by all the other product teams in the company. We provide such systems for transfers, and payouts doma
 Reference
-44153206-1990-4c71-837b-22505bf63e3f
+aa1cdbb8-85e6-481f-bb2f-7e012b13eb39
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Engineering Team Lead - Analytics Platform
+Lead Data Scientist - Agentic AI / AML
 Salary
-135000 - 175000 GBP Annual
+90500 - 127000 GBP Annual
 Location
 London
 Job Family Group
-Engineering
+Data Science
 Locations
 London
 Description
-About the role:
-Enter: our Data Lakehouse Platform team! 🎉For our customers, using Wise is as simple as sending money from A to B. Yet behind our app and website is a complex engine of currencies
+Lead Data Scientist - Anti-Money Laundering (AML) Handling & PreventWe’re looking for a Lead Data Scientist (IC3) to join our Anti-Money Laundering (AML) Handling & Prevent team in London.This role is
 Reference
-91e0bba4-9bce-4faa-a719-797afb69cf0d
+bb9fbad8-4a5b-48ed-9936-99421e2ef5b2
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Engineering Team Lead - Generative AI Platform
+Technical Program Manager
 Salary
-135000 - 175000 GBP Annual
+-
 Location
-London
+Hyderabad
 Job Family Group
-Engineering
+Implementation
 Locations
-London
+Hyderabad
 Description
-Enter: our Generative AI Platform team! 🎉For our customers, using Wise is as simple as sending money from A to B. Yet behind our app and website is a complex engine of currencies, routes, products an
+Role OverviewWe are looking for an Technical Program Manager with a strong technical or product delivery background to join our newly established Implementation Management team.In this role, you will
 Reference
-023a39b1-514e-472e-8123-adc8b6fd5567
+9bb0b41e-a103-44be-b970-5b937b2e5ea5
 Expiry Date
 01/01/0001
 Read more
@@ -535,6 +534,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: GB
-City: London
-GeoOptions: 343
+Location: US
+City: Moses Lake
+GeoOptions: 339
