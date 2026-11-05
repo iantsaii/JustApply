@@ -110,7 +110,7 @@ Networking opportunities with Wisers and other participants
 Panel sessions and talks that provide insight into engineering at Wise and the wider fintech environment
 Confidence-building support aimed at helping participants explore possible next steps in tech
 India
-Hyderabad, India 🇮🇳
+Hyderabad, India
 Applications Open:
 Autumn |
 Program Date:
@@ -120,7 +120,7 @@ WiseWomenCode: Hyderabad
 Ready to supercharge your tech career? Join us for a 1-day immersive program at our Hyderabad office! Get an inside look at Wise, dive into hands-on engineering workshops, and learn exactly how to ace our technical interviews. You’ll have the chance to network directly with Wisers and build the confidence to apply for our intern and graduate roles.
 👉 Register your interest
 Singapore
-Singapore 🇸🇬
+Singapore
 Applications Open:
 Autumn |
 Program Date:
@@ -130,7 +130,7 @@ WiseWomenCode: Singapore
 Step into fintech at our Singapore office for an exclusive 1-day WiseWomenCode event! Experience interactive engineering sessions, gain top tips on navigating our technical interview process, and connect with Wisers across our teams. The program is the most suitable if you are interested in engineering or analytics. This day is designed to give you the skills and confidence to kickstart your career through our intern and graduate opportunities.
 👉 Register your interest
 United States
-Austin, USA 🇺🇸
+Austin, USA
 Applications Open:
 Late Autumn |
 Program Date:
@@ -140,7 +140,7 @@ WiseWomenCode: Austin
 Kick off the new year with us at our Austin office! Our 1-day WiseWomenCode program brings you an introduction to life at Wise, practical engineering workshops, and actionable advice to help you ace our technical interviews. Network with our local Wisers and take the first step toward applying for our upcoming intern and graduate roles.
 👉 Register your interest
 Estonia
-Tallinn, Estonia 🇪🇪
+Tallinn, Estonia
 Applications Open:
 Late Autumn |
 Program Date:
@@ -150,7 +150,7 @@ WiseWomenCode: Tallinn
 Immerse yourself in fintech with an intensive 3-day program at our Tallinn office! You'll cover everything from the basics of Wise and interactive coding workshops to hands-on job shadowing with our engineers. This program is the most suitable if you are interested in engineering. Master your technical interviewing skills, expand your network with local Wisers, and discover your path into our intern and graduate opportunities.
 👉 Register your interest
 Hungary
-Budapest, Hungary 🇭🇺
+Budapest, Hungary
 Applications Open:
 Late Autumn |
 Program Date:
@@ -160,7 +160,7 @@ WiseWomenCode: Budapest
 Join us in our Budapest office for an exciting 3-day WiseWomenCode experience! Dive into hands-on workshops, spend a day job shadowing seasoned technical specialists, and build valuable networking connections across Wise. This program is the most suitable if you are interested in engineering or analytics. You'll sharpen your interviewing skills and gain the exact tools and confidence needed to apply for our future tech roles.
 👉 Register your interest
 Brazil
-São Paulo, Brazil 🇧🇷
+São Paulo, Brazil
 Applications Open:
 Late Autumn / Early Winter |
 Program Date:
@@ -170,7 +170,7 @@ WiseWomenCode: São Paulo
 Join us in February at our São Paulo office for a day of learning, inspiration, and networking! You’ll get an insider’s view of engineering at Wise, participate in interactive workshops, and master the skills needed to tackle our technical interviews with engineering as the key focus. Discover how to take your next big step into our intern and graduate positions.
 👉 Register your interest
 United Kingdom
-London, UK 🇬🇧
+London, UK
 Applications Open:
 Late Autumn / Winter |
 Program Date:
@@ -179,7 +179,7 @@ Program:
 WiseWomenCode: London
 Take your tech journey further at our London office during this 3-day immersive event! Get a complete look into life at Wise, shadow engineers on real-world projects, participate in skill-building workshops, and perfect your technical interview preparation. Connect directly with industry mentors and prepare your application for our intern and graduate schemes. This program is the most suitable if you are interested in engineering or analytics.
 👉 Register your interest
-Hyderabad, India 🇮🇳
+Hyderabad, India
 Applications Open:
 Autumn |
 Program Date:
@@ -210,9 +210,47 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Senior Software Engineer - Payment Processing Platform
+Fincrime Operations Investigator - Fraud
 Salary
-5550 - 6900 EUR Monthly
+800000 - 970000 HUF Monthly
+Location
+Budapest
+Job Family Group
+Customer Compliance
+Locations
+Budapest
+Description
+As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
+Reference
+e6fbca62-b320-4c62-8f5a-e80c16020eb6
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+KYC Operations Senior Analyst - Deactivations
+Salary
+750000 - 850000 INR Annual
+Location
+Hyderabad
+Job Family Group
+Verification
+Locations
+Hyderabad
+Description
+Job Responsibilities Conduct Enhanced Due Diligence (EDD) reviews based on customer’s risk profile. Take frequent risk based approach decisions while conducting customer reviews ensuring risk manageme
+Reference
+14c9fe1a-7863-488d-8c94-5da12aa50678
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Senior Software Engineer - Cloud Platform
+Salary
+5,750 - 7083.33 EUR/Monthly + RSUs
 Location
 Tallinn
 Job Family Group
@@ -220,47 +258,9 @@ Engineering
 Locations
 Tallinn
 Description
-Payment Processing PlatformOur goal is to provide reliable and scalable services that can be used by all the other product teams in the company. We provide such systems for transfers, and payouts doma
+You are a Senior Software Engineer who will be joining the team of world class DevOps Engineers. The team maintains, supports and grows Wise’s Kubernetes based Compute Platform. Your mission will be t
 Reference
-aa1cdbb8-85e6-481f-bb2f-7e012b13eb39
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Lead Data Scientist - Agentic AI / AML
-Salary
-90500 - 127000 GBP Annual
-Location
-London
-Job Family Group
-Data Science
-Locations
-London
-Description
-Lead Data Scientist - Anti-Money Laundering (AML) Handling & PreventWe’re looking for a Lead Data Scientist (IC3) to join our Anti-Money Laundering (AML) Handling & Prevent team in London.This role is
-Reference
-bb9fbad8-4a5b-48ed-9936-99421e2ef5b2
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Technical Program Manager
-Salary
--
-Location
-Hyderabad
-Job Family Group
-Implementation
-Locations
-Hyderabad
-Description
-Role OverviewWe are looking for an Technical Program Manager with a strong technical or product delivery background to join our newly established Implementation Management team.In this role, you will
-Reference
-9bb0b41e-a103-44be-b970-5b937b2e5ea5
+a5ee71b5-2fb7-4a28-a94a-3119faaba8ac
 Expiry Date
 01/01/0001
 Read more
@@ -535,5 +535,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Moses Lake
+City: San Jose
 GeoOptions: 339
