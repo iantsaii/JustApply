@@ -210,6 +210,25 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
+Senior Backend Engineer - Personal and Business Pricing
+Salary
+87500 - 111000 GBP Annual
+Location
+London
+Job Family Group
+Engineering
+Locations
+London
+Description
+We are looking for a passionate Senior Backend Software Engineer to join the Personal & Business Pricing Team.Pricing is core to Wise's mission of transparency. This role offers an opportunity to have
+Reference
+d34ccd4c-8577-403a-95ed-e87473240702
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
 Fincrime Operations Investigator - Fraud
 Salary
 800000 - 970000 HUF Monthly
@@ -220,7 +239,7 @@ Customer Compliance
 Locations
 Budapest
 Description
-As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
+The position is based in Budapest and follows a hybrid working model, offering the flexibility to work from home as well as from the office.As a FinCrime Operations Investigator, you will play a criti
 Reference
 e6fbca62-b320-4c62-8f5a-e80c16020eb6
 Expiry Date
@@ -229,38 +248,19 @@ Read more
 Shortlist
 Read more
 Shortlist
-KYC Operations Senior Analyst - Deactivations
+Group Design Lead - Spend
 Salary
-750000 - 850000 INR Annual
+18415 - 24915 SGD Monthly
 Location
-Hyderabad
+Singapore
 Job Family Group
-Verification
+Design - General
 Locations
-Hyderabad
+Singapore
 Description
-Job Responsibilities Conduct Enhanced Due Diligence (EDD) reviews based on customer’s risk profile. Take frequent risk based approach decisions while conducting customer reviews ensuring risk manageme
+We’re looking for an exceptional design leader to join our Spend design team. You’ll be working with the cross-functional team that creates a best in class spending experience for users all over the w
 Reference
-14c9fe1a-7863-488d-8c94-5da12aa50678
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Software Engineer - Cloud Platform
-Salary
-5,750 - 7083.33 EUR/Monthly + RSUs
-Location
-Tallinn
-Job Family Group
-Engineering
-Locations
-Tallinn
-Description
-You are a Senior Software Engineer who will be joining the team of world class DevOps Engineers. The team maintains, supports and grows Wise’s Kubernetes based Compute Platform. Your mission will be t
-Reference
-a5ee71b5-2fb7-4a28-a94a-3119faaba8ac
+c6fbd9b9-fc01-4283-ad5a-d0f7578a422d
 Expiry Date
 01/01/0001
 Read more
@@ -535,5 +535,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Long Hill Twp
 GeoOptions: 339
