@@ -210,7 +210,7 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Senior Backend Engineer - Personal and Business Pricing
+Senior Software Engineer II - Risk Control & Governance
 Salary
 87500 - 111000 GBP Annual
 Location
@@ -220,47 +220,47 @@ Engineering
 Locations
 London
 Description
-We are looking for a passionate Senior Backend Software Engineer to join the Personal & Business Pricing Team.Pricing is core to Wise's mission of transparency. This role offers an opportunity to have
+Job DescriptionWe're looking for an experienced Senior Product Engineer to join the Risk & Control Governance team / Risk Assessment Group. You'll be instrumental in building the governance, assurance
 Reference
-d34ccd4c-8577-403a-95ed-e87473240702
+3abb2507-290a-4ed0-8b0e-dd7247497da6
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Fincrime Operations Investigator - Fraud
+Senior Software Engineer I - KYC & Onboarding
 Salary
-800000 - 970000 HUF Monthly
+87500 - 111000 GBP Annual
 Location
-Budapest
+London
 Job Family Group
-Customer Compliance
+Engineering
 Locations
-Budapest
+London
 Description
-The position is based in Budapest and follows a hybrid working model, offering the flexibility to work from home as well as from the office.As a FinCrime Operations Investigator, you will play a criti
+We are the Global KYC and Onboarding squad in the Servicing department and we have a mission: to enable teams at Wise to expand and fine-tune the business in a "config change" manner all across the gl
 Reference
-e6fbca62-b320-4c62-8f5a-e80c16020eb6
+62e2344b-4c83-45e1-badc-6fc6159141d5
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Group Design Lead - Spend
+Senior Data Engineer I - Global KYC & Onboarding
 Salary
-18415 - 24915 SGD Monthly
+87500 - 111000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
-Design - General
+Engineering
 Locations
-Singapore
+London
 Description
-We’re looking for an exceptional design leader to join our Spend design team. You’ll be working with the cross-functional team that creates a best in class spending experience for users all over the w
+We're looking for an experienced Senior Data Engineer to join our Global KYC & Onboarding squad within the FinCrime organisation. You will be instrumental in designing and building the data pipelines,
 Reference
-c6fbd9b9-fc01-4283-ad5a-d0f7578a422d
+e36175f1-9a74-42f0-8104-c8b59e8fb8cb
 Expiry Date
 01/01/0001
 Read more
@@ -535,5 +535,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Long Hill Twp
+City: San Jose
 GeoOptions: 339
