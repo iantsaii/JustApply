@@ -210,28 +210,9 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Software Engineer - Fincrime Reporting
+Senior Software Engineer - Cash Management
 Salary
-4250 - 5750 EUR Monthly
-Location
-Tallinn
-Job Family Group
-Engineering
-Locations
-Tallinn
-Description
-When Wise’s investigation teams find suspicious activity, we have a legal obligation to report it to Financial Intelligence Units (FIUs) around the world — quickly, accurately and in the format each c
-Reference
-c8745ac2-9ed6-4fc2-8385-119f80e31fea
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Software Engineer - Risk Control & Governance
-Salary
-68000 - 87500 GBP Annual
+111000 - 145000 GBP Annual
 Location
 London
 Job Family Group
@@ -239,28 +220,47 @@ Engineering
 Locations
 London
 Description
-Job DescriptionWe're looking for an experienced Software Engineer to join the Risk & Control Governance team / Risk Assessment Group. You'll be instrumental in building the governance, assurance, and
+About the teamBanks need flexibility in how they fund international payments, settle with Wise and convert currencies. Our Cash Management team builds the products that give them that control and make
 Reference
-4542cdcf-cada-435f-9175-0a91a7b49fcd
+6f68e4a7-0e88-461f-a195-a27ec32c4555
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Software Engineer - APAC Expansion
+Senior Software Engineer - Wise for Enterprise
 Salary
-148,800 - 185,000 SGD base per annum + RSUs
+111000 - 145000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
 Engineering
 Locations
-Singapore
+London
 Description
-Salary range: 148,800 - 185,000 SGD base per annum + RSUsAPAC Expansion specialises in taking Wise from 0 to 1 in markets where our products are unavailable or our presence is still limited. We build
+About the roleWe at Wise Platform aim to be the infrastructure that powers the world's money by connecting banks, financial institutions, and enterprises to our next-generation payment solutions. You’
 Reference
-25668564-ea59-45bc-bec9-1b31d31dcf0a
+b373fbb1-1c5f-40fb-b483-96c2a9b4a835
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Head of Regional Payment Operations - LATAM & MEA Region
+Salary
+29000 - 38300 BRL Monthly
+Location
+São Paulo
+Job Family Group
+Payment Operations
+Locations
+São Paulo
+Description
+Are you ready to shape the future of payments in Latin America, Middle East & Africa and beyond?We’re seeking a strategic and experienced Head of Regional Payment Operations to lead our teams across L
+Reference
+ec4b2ee5-9b64-4660-879a-41f09b5c756f
 Expiry Date
 01/01/0001
 Read more
@@ -535,5 +535,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Des Moines
+City: Long Hill Twp
 GeoOptions: 339
