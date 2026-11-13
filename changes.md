@@ -1,42 +1,49 @@
 # Latest Scraper Results
 
-## 2026-11-12 10:36:29
+## 2026-11-13 10:29:02
 
 ### [https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.](https://wise.jobs/wise-women-code#:~:text=How%20to%20apply,wise.com.)
 
 **Line changes detected!**
 
 ```diff
-+ 105000 - 135000 GBP Annual x2
-- 2350 - 2850 EUR Monthly
-- 3500 - 5000 EUR Monthly
-+ 798a9b37-1bea-4b3b-9f53-d5f844147a36
-+ About the role:We’re looking for an Engineering Lead to join the Send for Partners team - the team that empowers banks and enterprises to leverage Wise’s infrastructure to offer their customers world
-- Analytics - General
-- As a FinCrime Operations Investigator, you will play a critical role in safeguarding Wise and its customers from financial crime. You will be responsible for investigating and analyzing customer accou
-- City: Canton
-+ City: Hägersten
-- Customer Compliance
-+ Engineering x2
-+ Engineering Lead - Send for Partners
-+ Engineering Lead - Wise for Enterprise
-- FinCrime Investigator - Fraud
-+ FinCrime Quality Specialist
-- Fincrime Quality Specialist
-- GeoOptions: 339
-+ GeoOptions: 374
-+ Location: SE
-- Location: US
-+ London x4
-- Senior Product Analyst - AUP (Fraud Squad)
-- Tallinn x4
-- We’re looking for a Senior Product Analyst who is passionate about our mission of Money Without Borders to join our Global Fraud Squad. In this role, you’ll help Wise scale safely and efficiently by u
-+ We’re looking for an Engineering Lead to join the embedded finance team. Our mission is to build the world's best embedded finance platform for our partners. You’ll be working closely with multiple fu
-+ Wise Women Code | Empowering Women in Tech | Wise Jobs
-- Wise women code | Wise
-- a4e9ffe6-3ce0-40c2-a448-1b4eb6f8e23f
-- d0287548-05b1-4b34-bbc6-559daf5e5fb6
-+ ea80ec81-db36-4746-a4a2-c739767dc5ad
+- 105000 - 135000 GBP Annual x2
++ 111000 - 145000 GBP Annual + RSUs
++ 12400 - 15417 SGD Monthly
++ 1300000 - 1700000 HUF Monthly
+- 3b8cf14e-22ce-4ddd-af4b-32f6285aa782
++ 475cc7ee-adc5-4661-a6b8-d4e1a13e34b3
++ 56265d46-2dfe-4e9f-9684-c366e7feca88
+- 798a9b37-1bea-4b3b-9f53-d5f844147a36
+- 935,000 - 1000,000 INR Annual + RSUs
++ About the Role
+- About the role:We’re looking for an Engineering Lead to join the Send for Partners team - the team that empowers banks and enterprises to leverage Wise’s infrastructure to offer their customers world
++ About the role We're looking for a skilled iOS engineer to become part of our Account Mobile team,  where you will play a key role in crafting a cohesive, polished, and responsive experience for all W
++ As a Senior Software Engineer in the Contact Automation team, you will play a pivotal role in shaping the future of customer support at Wise. You'll be a key technical leader in an aut
++ Budapest x2
+- City: Hägersten
++ City: Moses Lake
++ Engineering
+- Engineering Lead - Send for Partners
+- Engineering Lead - Wise for Enterprise
+- FinCrime Quality Specialist
++ GeoOptions: 339
+- GeoOptions: 374
+- Hyderabad x2
+- Location: SE
++ Location: US
+- London x2
++ Our Cards API powers programmatic digital and physical card issuance for global fintech leaders such as Nubank, Tiger Brokers, and XP, alongside a full suite of management tools for spending controls
+- Quality
++ Senior Software Engineer - Cards API team
++ Senior iOS Engineer II - Account Mobile
++ Singapore x2
++ Software Engineer - Contact Automation - AI
+- The main purpose of the Quality Specialist role is to improve customer experience and ensure compliance with business and l
+- Weʼre looking for a FinCrime Quality Specialist to join our growing team.
+- We’re looking for an Engineering Lead to join the embedded finance team. Our mission is to build the world's best embedded finance platform for our partners. You’ll be working closely with multiple fu
++ ba0e5b78-0ec5-41e6-ad43-edf45a2a6f78
+- ea80ec81-db36-4746-a4a2-c739767dc5ad
 ```
 
 ---

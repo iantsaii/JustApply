@@ -210,9 +210,9 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Engineering Lead - Send for Partners
+Senior iOS Engineer II - Account Mobile
 Salary
-105000 - 135000 GBP Annual
+111000 - 145000 GBP Annual + RSUs
 Location
 London
 Job Family Group
@@ -220,48 +220,48 @@ Engineering
 Locations
 London
 Description
-About the role:We’re looking for an Engineering Lead to join the Send for Partners team - the team that empowers banks and enterprises to leverage Wise’s infrastructure to offer their customers world
+About the role We're looking for a skilled iOS engineer to become part of our Account Mobile team,  where you will play a key role in crafting a cohesive, polished, and responsive experience for all W
 Reference
-798a9b37-1bea-4b3b-9f53-d5f844147a36
+475cc7ee-adc5-4661-a6b8-d4e1a13e34b3
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Lead - Wise for Enterprise
+Software Engineer - Contact Automation - AI
 Salary
-105000 - 135000 GBP Annual
+1300000 - 1700000 HUF Monthly
 Location
-London
+Budapest
 Job Family Group
 Engineering
 Locations
-London
+Budapest
 Description
-We’re looking for an Engineering Lead to join the embedded finance team. Our mission is to build the world's best embedded finance platform for our partners. You’ll be working closely with multiple fu
+About the Role
+As a Senior Software Engineer in the Contact Automation team, you will play a pivotal role in shaping the future of customer support at Wise. You'll be a key technical leader in an aut
 Reference
-ea80ec81-db36-4746-a4a2-c739767dc5ad
+56265d46-2dfe-4e9f-9684-c366e7feca88
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Quality Specialist
+Senior Software Engineer - Cards API team
 Salary
-935,000 - 1000,000 INR Annual + RSUs
+12400 - 15417 SGD Monthly
 Location
-Hyderabad
+Singapore
 Job Family Group
-Quality
+Engineering
 Locations
-Hyderabad
+Singapore
 Description
-Weʼre looking for a FinCrime Quality Specialist to join our growing team.
-The main purpose of the Quality Specialist role is to improve customer experience and ensure compliance with business and l
+Our Cards API powers programmatic digital and physical card issuance for global fintech leaders such as Nubank, Tiger Brokers, and XP, alongside a full suite of management tools for spending controls
 Reference
-3b8cf14e-22ce-4ddd-af4b-32f6285aa782
+ba0e5b78-0ec5-41e6-ad43-edf45a2a6f78
 Expiry Date
 01/01/0001
 Read more
@@ -535,6 +535,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: SE
-City: Hägersten
-GeoOptions: 374
+Location: US
+City: Moses Lake
+GeoOptions: 339
