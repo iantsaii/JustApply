@@ -210,57 +210,58 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Complaints & Ombudsman Officer
+Staff Software Engineer - APAC Onboarding and KYC
 Salary
-7800 - 9350 BRL Monthly
+185,000 -230,000 SGD base per annum + RSUs
 Location
-São Paulo
+Singapore
 Job Family Group
-Complaints
+Engineering
 Locations
-São Paulo
+Singapore
 Description
-As a Complaints Officer, you’ll investigate customer complaints, ensure timely and fair resolutions, and maintain a strong understanding of our regulatory obligations across multiple jurisdictions. Th
+Salary range: 185,000 - 230,000 SGD base per annum + RSUsAt Wise, we’re on a mission to make money borderless, instant, and convenient for millions of people and businesses worldwide. Our engineers ar
 Reference
-ec934386-f00a-4cd1-abcb-befb360a5ac6
+2fa24d97-377f-4bc9-afa4-c139130b47e7
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Complaints & Ombudsman Officer - Exclusive for PwD
+KYC Operations Associate Analyst - Specialised Markets
 Salary
-7800 - 9350 BRL Monthly
+650000 INR Annual + RSU's
 Location
-São Paulo
+Hyderabad
 Job Family Group
-Complaints
+Verification
 Locations
-São Paulo
+Hyderabad
 Description
-As a Complaints Officer, you’ll investigate customer complaints, ensure timely and fair resolutions, and maintain a strong understanding of our regulatory obligations across multiple jurisdictions. Th
+Company DescriptionWise is a global technology company, building the best way to move and manage the world’s money.
+Min fees. Max ease. Full speed.Whether people and businesses are sending money to a
 Reference
-596a4cb8-03e4-4ac8-9142-992e7ff99f97
+b7af4550-c93b-4f6a-ac49-6fd779f5b3c3
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Sr. Business Development Manager - Banks
+Recruiter - 12 month FTC
 Salary
-225000 - 284000 USD Annual
+From 1405000 INR per annum
 Location
-Austin
+Hyderabad
 Job Family Group
-Business Development
+Recruitment
 Locations
-Austin
+Hyderabad
 Description
-We are seeking an experienced and dynamic Senior Business Development Manager to join our Wise Platform team in North America. In this role, you will help deliver world-class API payment solutions to
+As a Recruiter at Wise you’ll be responsible for hiring the best talent for Servicing Operations in Hyderabad. You’ll own talent management, helping Servicing Operations to scale to enable Wise to ach
 Reference
-3eedb69a-9a39-4cb1-b0e4-6448e00e7158
+bf48a35e-287e-4a9d-ad83-cc9a1a952157
 Expiry Date
 01/01/0001
 Read more
@@ -535,5 +536,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Des Moines
 GeoOptions: 339
