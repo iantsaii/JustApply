@@ -210,29 +210,28 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Legal Counsel APAC
+APAC Marketing Director
 Salary
-17700 - 23300 SGD Monthly + RSUs
+22400 - 31600 SGD Monthly
 Location
 Singapore
 Job Family Group
-Legal - General
+Regional Marketing
 Locations
 Singapore
 Description
-About the role
-Wise is expanding rapidly across APAC, the Middle East and beyond, and we're looking for a lawyer to join our legal team. You'll work with a high degree of autonomy, advising business
+Our Regional Marketing team ensures we deliver on our mission to make international money transfers instant, affordable, and transparent for everyone, everywhere.The Regional Marketing team plays a pi
 Reference
-90c07f7e-ef0f-4fa5-b837-208069015e72
+e50a3f57-6114-414c-8215-88aad20533f8
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Security Engineer
+Senior Software Engineer II - Account Integrity
 Salary
-87500 - 111000 GBP Annual
+111000 - 145000 GBP Annual
 Location
 London
 Job Family Group
@@ -240,28 +239,28 @@ Engineering
 Locations
 London
 Description
-We are looking for a Senior Full Stack Engineer with a passion for all things security.Our team is Security Engineering, in the Security squad. We build and operate the foundational authorisation and
+About the role:Join us as a Senior Software Engineer in our critical Account Integrity team. This is a high-impact engineering role with a strong product focus, dedicated to solving complex, real-worl
 Reference
-5470265c-0615-49ee-b644-38de34669442
+1ffc5c05-29ba-4988-a122-9b320e26894b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Lead
+FinCrime Operations Team Lead - AML Investigations
 Salary
-7500000 - 11500000 INR Annual
+MYR 10,600 Monthly + RSUs
 Location
-Hyderabad
+Kuala Lumpur
 Job Family Group
-Engineering
+Customer Compliance
 Locations
-Hyderabad
+Kuala Lumpur
 Description
-The team you will be joining: Personal Onboarding VerificationThe Personal Onboarding Verification team is part of the Global KYC and Onboarding Squad. The team is responsible for KYC (Know Your Custo
+We’re looking for an AML Investigations Team Lead to join our team in KL. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicious activity and through that
 Reference
-e4ab7eb6-89f0-41f5-8192-d0816622aa09
+f3e0ab01-d240-4d4a-b7c6-21c1096a36bb
 Expiry Date
 01/01/0001
 Read more
@@ -535,6 +534,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: IE
-City: Dublin
-GeoOptions: 387
+Location: US
+City: Moses Lake
+GeoOptions: 339
