@@ -12,7 +12,6 @@ Back
 Our story
 Our mission
 Our teams
-Our locations
 Our partnerships
 Wise platform
 Life at Wise
@@ -37,6 +36,19 @@ Front End System Design Interviews
 Engineering Product Round Interviews
 Offer
 Diversity, equity and inclusion
+Locations
+Back
+Austin
+Budapest
+Brussels
+Hyderabad
+Kuala Lumpur
+London
+New York
+Singapore
+São Paulo
+Tallinn
+Tokyo
 Early careers
 Back
 WiseStart Overview
@@ -210,57 +222,57 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-APAC Marketing Director
+Senior Software Engineer - Send High Volume
 Salary
-22400 - 31600 SGD Monthly
+5750 - 7083.33 EUR Monthly
 Location
-Singapore
-Job Family Group
-Regional Marketing
-Locations
-Singapore
-Description
-Our Regional Marketing team ensures we deliver on our mission to make international money transfers instant, affordable, and transparent for everyone, everywhere.The Regional Marketing team plays a pi
-Reference
-e50a3f57-6114-414c-8215-88aad20533f8
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Senior Software Engineer II - Account Integrity
-Salary
-111000 - 145000 GBP Annual
-Location
-London
+Tallinn
 Job Family Group
 Engineering
 Locations
-London
+Tallinn
 Description
-About the role:Join us as a Senior Software Engineer in our critical Account Integrity team. This is a high-impact engineering role with a strong product focus, dedicated to solving complex, real-worl
+The Send High Volume team tackles the challenges unique to customers sending large amounts internationally — think relocators moving their life savings, people managing investments abroad, or business
 Reference
-1ffc5c05-29ba-4988-a122-9b320e26894b
+ef213e7b-a03e-4c2f-b65a-9be44ccd84d5
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-FinCrime Operations Team Lead - AML Investigations
+KYC Operations Analyst - Platform
 Salary
-MYR 10,600 Monthly + RSUs
+4950 SGD Monthly
 Location
-Kuala Lumpur
+Singapore
+Job Family Group
+Verification
+Locations
+Singapore
+Description
+Role & Job purposeAs a KYC Operations Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting thorough cu
+Reference
+757c268f-8dfb-4cd3-aeff-59ca321c15e6
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Team Lead, Financial Crime Operations (SAR Reporting)
+Salary
+2150000 - 2950000 INR Annual
+Location
+Hyderabad
 Job Family Group
 Customer Compliance
 Locations
-Kuala Lumpur
+Hyderabad
 Description
-We’re looking for an AML Investigations Team Lead to join our team in KL. This role is a unique opportunity to have an impact on Wise’s mission by helping identify suspicious activity and through that
+Are you a decisive, hands-on leader ready to make a real impact?Wise is seeking a dynamic and experienced Team Lead to establish and lead our Financial Crime Operations team (focused on suspicious act
 Reference
-f3e0ab01-d240-4d4a-b7c6-21c1096a36bb
+323c623a-88a7-4125-b463-988364f0d4d8
 Expiry Date
 01/01/0001
 Read more
@@ -534,6 +546,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Moses Lake
-GeoOptions: 339
+Location: IE
+City: Dublin
+GeoOptions: 387
