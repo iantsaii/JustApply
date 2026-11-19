@@ -222,57 +222,57 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Senior Software Engineer - Send High Volume
+Lead Product Analyst - Business Squad
 Salary
-5750 - 7083.33 EUR Monthly
+75000 - 115,000 GBP Annual
 Location
-Tallinn
+London
 Job Family Group
-Engineering
+Analytics - General
 Locations
-Tallinn
+London
 Description
-The Send High Volume team tackles the challenges unique to customers sending large amounts internationally — think relocators moving their life savings, people managing investments abroad, or business
+We’re looking for a Lead Product Analysts to join Wise Business Squad, our international business account. The Wise Business account helps small and medium-sized businesses across the world focus on w
 Reference
-ef213e7b-a03e-4c2f-b65a-9be44ccd84d5
+40a04930-ca88-45ee-bbcc-19b44beb7cdd
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-KYC Operations Analyst - Platform
+Product Director, Receive
 Salary
-4950 SGD Monthly
+155000 - 190000 GBP Annual
 Location
-Singapore
+London
 Job Family Group
-Verification
+Product Management
 Locations
-Singapore
+London
 Description
-Role & Job purposeAs a KYC Operations Analyst, you will play a critical role in ensuring that Wise adheres to regulatory and compliance requirements. You will be responsible for conducting thorough cu
+In this role you’ll be responsible for growing Receive - helping our customers get paid easily and seamlessly wherever they may be. You’ll be responsible for the Receive strategy, executing on it and
 Reference
-757c268f-8dfb-4cd3-aeff-59ca321c15e6
+71f5e527-8b56-4e54-a5a7-2523f3df474b
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Team Lead, Financial Crime Operations (SAR Reporting)
+Senior Product Manager – Payment integrations
 Salary
-2150000 - 2950000 INR Annual
+93000 - 120000 GBP Annual
 Location
-Hyderabad
+London
 Job Family Group
-Customer Compliance
+Product Management
 Locations
-Hyderabad
+London
 Description
-Are you a decisive, hands-on leader ready to make a real impact?Wise is seeking a dynamic and experienced Team Lead to establish and lead our Financial Crime Operations team (focused on suspicious act
+Wise’s Payment Integrations Platform team builds the infrastructure that connects Wise to banks and payment schemes around the world. Regional teams build and operate Wise’s connections to local banks
 Reference
-323c623a-88a7-4125-b463-988364f0d4d8
+c789920f-e34b-4f5e-941b-3a3e2cfb9bcf
 Expiry Date
 01/01/0001
 Read more
@@ -546,6 +546,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: IE
-City: Dublin
-GeoOptions: 387
+Location: US
+City: Long Hill Twp
+GeoOptions: 339
