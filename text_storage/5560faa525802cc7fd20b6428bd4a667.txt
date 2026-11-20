@@ -222,57 +222,57 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Lead Product Analyst - Business Squad
+Product Manager - Connect (Cloud Platform)
 Salary
-75000 - 115,000 GBP Annual
+4750 - 5850 EUR Monthly
 Location
-London
+Tallinn
 Job Family Group
-Analytics - General
+Product Management
 Locations
-London
+Tallinn
 Description
-We’re looking for a Lead Product Analysts to join Wise Business Squad, our international business account. The Wise Business account helps small and medium-sized businesses across the world focus on w
+Connect’s mission is to enable services and customers to communicate securely, reliably, efficiently and conveniently. The team owns Wise’s public ingress, making extensive use of Cloudflare, and our
 Reference
-40a04930-ca88-45ee-bbcc-19b44beb7cdd
+61677231-3de7-4c8e-84e5-49e4cc032325
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Product Director, Receive
+Engineering Lead - API Experience
 Salary
-155000 - 190000 GBP Annual
+105000 - 135000 GBP Annual
 Location
 London
 Job Family Group
-Product Management
+Engineering
 Locations
 London
 Description
-In this role you’ll be responsible for growing Receive - helping our customers get paid easily and seamlessly wherever they may be. You’ll be responsible for the Receive strategy, executing on it and
+We’re looking for an experienced Engineering Lead to join our API Experience team. You’ll lead and manage a team of engineers building the tooling and infrastructure that enables partners to securely
 Reference
-71f5e527-8b56-4e54-a5a7-2523f3df474b
+8785c23f-a1c9-488a-81f3-7db09ec623c8
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Senior Product Manager – Payment integrations
+Engineering Lead - Send for Partners
 Salary
-93000 - 120000 GBP Annual
+105000 - 135000 GBP Annual
 Location
 London
 Job Family Group
-Product Management
+Engineering
 Locations
 London
 Description
-Wise’s Payment Integrations Platform team builds the infrastructure that connects Wise to banks and payment schemes around the world. Regional teams build and operate Wise’s connections to local banks
+About the role:We’re looking for an Engineering Lead to join the Send for Partners team - the team that empowers banks and enterprises to leverage Wise’s infrastructure to offer their customers world
 Reference
-c789920f-e34b-4f5e-941b-3a3e2cfb9bcf
+798a9b37-1bea-4b3b-9f53-d5f844147a36
 Expiry Date
 01/01/0001
 Read more
@@ -547,5 +547,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: Long Hill Twp
+City: San Jose
 GeoOptions: 339
