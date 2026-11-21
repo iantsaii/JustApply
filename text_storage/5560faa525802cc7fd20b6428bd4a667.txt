@@ -222,28 +222,9 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Product Manager - Connect (Cloud Platform)
+IT SOX Controls Tester - Cloud Assurance
 Salary
-4750 - 5850 EUR Monthly
-Location
-Tallinn
-Job Family Group
-Product Management
-Locations
-Tallinn
-Description
-Connect’s mission is to enable services and customers to communicate securely, reliably, efficiently and conveniently. The team owns Wise’s public ingress, making extensive use of Cloudflare, and our
-Reference
-61677231-3de7-4c8e-84e5-49e4cc032325
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Engineering Lead - API Experience
-Salary
-105000 - 135000 GBP Annual
+68000 - 87500 GBP Annual
 Location
 London
 Job Family Group
@@ -251,28 +232,47 @@ Engineering
 Locations
 London
 Description
-We’re looking for an experienced Engineering Lead to join our API Experience team. You’ll lead and manage a team of engineers building the tooling and infrastructure that enables partners to securely
+We are looking for an IT SOX Controls Tester to join our mission and help us build a global platform that’s scalable, reliable, and secure. The Security Controls team plays a vital role in safeguardin
 Reference
-8785c23f-a1c9-488a-81f3-7db09ec623c8
+27048faf-8d21-4929-bef2-93e03769edca
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Engineering Lead - Send for Partners
+Staff Product Designer - Money Movement
 Salary
-105000 - 135000 GBP Annual
+102000 - 133000 GBP Annual
 Location
 London
 Job Family Group
-Engineering
+Product Design
 Locations
 London
 Description
-About the role:We’re looking for an Engineering Lead to join the Send for Partners team - the team that empowers banks and enterprises to leverage Wise’s infrastructure to offer their customers world
+How do you make moving money across borders feel simple? How do you build pricing that makes sense for the way customers use Wise? And how do you make complex business payment workflows simpler to man
 Reference
-798a9b37-1bea-4b3b-9f53-d5f844147a36
+289f8cd8-f78a-4b6a-8944-5ad212a299a6
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+Complaints Officer
+Salary
+750000 - 875000 INR Annual
+Location
+Hyderabad
+Job Family Group
+Complaints
+Locations
+Hyderabad
+Description
+The Complaints Officer plays a pivotal role in ensuring that Wise delivers a fair, transparent, and customer-focused experience. By investigating customer complaints and providing timely, comprehensiv
+Reference
+87f47ca2-bc21-4bbd-88c6-b97f2369430b
 Expiry Date
 01/01/0001
 Read more
@@ -547,5 +547,5 @@ Wise women code
 Keyword: No Keyword
 Options: No options
 Location: US
-City: San Jose
+City: Boydton
 GeoOptions: 339
