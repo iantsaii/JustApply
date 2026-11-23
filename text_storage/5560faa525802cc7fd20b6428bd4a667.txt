@@ -60,6 +60,7 @@ Product Academy
 Apprenticeships
 Back
 Programa de Aprendizagem WiseStart
+UK Apprenticeships
 Blogs
 In the news
 Search roles
@@ -546,6 +547,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: SE
-City: Hägersten
-GeoOptions: 374
+Location: US
+City: Phoenix
+GeoOptions: 339
