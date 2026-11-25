@@ -223,58 +223,57 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Market Abuse and Operations Delivery Specialist
+Senior Product Manager – Payment integrations
 Salary
-2225 - 2600 EUR Monthly
+93000 - 120000 GBP Annual
 Location
-Tallinn
+London
 Job Family Group
-Operations - General
+Product Management
 Locations
-Tallinn
+London
 Description
-Wise is expanding its Assets product into stocks and ETFs. We’re looking for a Market Abuse and Operations Delivery Specialist to help run day-to-day trading operations for Wise Assets and perform fir
+Wise’s Payment Integrations Platform team builds the infrastructure that connects Wise to banks and payment schemes around the world. Regional teams build and operate Wise’s connections to local banks
 Reference
-049e58b5-7b27-439b-b174-c8cb79f9e5df
+c789920f-e34b-4f5e-941b-3a3e2cfb9bcf
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-General Accounting Senior Lead (Product accounting & Journaling)
+People Operations Junior Specialist (18-month contract)
 Salary
-4500 - 5200 EUR gross/monthly + RSUs
+1900 - 2250 EUR Monthly
 Location
 Tallinn
 Job Family Group
-Finance Specialists
+People Operations
 Locations
 Tallinn
 Description
-Join our FINANCE team and help navigate us through a critical transformationThe Finance team is critical in supporting the Wise mission. As we continue to scale globally and evolve our Finance operati
+We're looking for a People Operations Junior Specialist to join our People Operations team in the Tallinn office on an 18-month fixed-term contract. In this role, you'll help shape Wise's mission by s
 Reference
-51dd1707-2d04-499b-b511-e47e1a5dfef4
+84c187cb-8090-43b6-ae17-2ac57bbc74e4
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-Regulatory Compliance Manager
+FinCrime Reporting Specialist
 Salary
-135000 - 160000 AUD (Annual Base) + RSUs
+900000 - 1000000 INR Annual + RSUs
 Location
-Sydney
+Hyderabad
 Job Family Group
-Compliance
+Customer Compliance
 Locations
-Sydney
+Hyderabad
 Description
-Since 2011, we’ve had a clear mission: Money without Borders. Built by and for people who live global lives, we’re the fairest, easiest way to manage your money across borders.
-We’re just at the be
+We’re looking for a Financial Crime Specialist (focused on Suspicious Activity Reporting) to join our team in Hyderabad, India. This is an exciting opportunity to be one of the very first founding mem
 Reference
-487f5d47-57f2-49fb-9aeb-0455fcc179e6
+100303eb-5c99-41cc-a750-48032f7d3f03
 Expiry Date
 01/01/0001
 Read more
@@ -284,6 +283,26 @@ Shortlist
 View all
 List #1
 Latest blogs
+Summer internships 2026: Hear directly from our interns
+Teaser
+People profile
+Content Type
+Blog
+Publish date
+11/23/2026
+Summary
+Every summer, a talented cohort of interns joins Wise across different teams, for example, engineering, design, and analytics to tackle real challenges, build scalable features, and impact mil
+Teaser
+Every summer, a talented cohort of interns joins Wise across different teams, for example, engineering, design, and analytics to tackle real challenges, build scalable features, and impact millions of customers worldwide. Rather than giving our own recap of what the internship experience is like, we handed the mic over to our interns.
+Here is what they had to say about the work they owned, the skills they built, and the culture they experienced, entirely in their own words.
+Read more
+by
+Sapphire Birmingham
+by
+Sapphire Birmingham
+Early Careers
+Life at Wise
+Our work
 Inside the Wise Product Academy: Different Paths into Product Management (Part 2)
 Teaser
 Early careers
@@ -466,26 +485,6 @@ Life at Wise
 Customer Support
 Payment Operations
 London
-From 7 to scaled: What I’ve learned leading Product Analytics at Wise
-Teaser
-People profile
-Content Type
-Blog
-Publish date
-07/22/2026
-Summary
-"At Wise, we expect our analysts to have just as much voice and ownership over what we build—and in what order—as the Product Managers. It is a true, cross-functional partnership."Hazal Mu
-Teaser
-6 years ago, Hazal Muhtar took on scaling Product Analytics at Wise. Today, her team uses data & AI to drive big strategic moves and shape our product roadmap side-by-side with PMs & Engineers. 🚀
-Read more
-by
-Verona Hasani
-by
-Verona Hasani
-Life at Wise
-Product
-Analytics
-London
 View all
 Join us
 For everyone, everywhere. We’re people building money without borders.
@@ -548,6 +547,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: SE
-City: Hägersten
-GeoOptions: 374
+Location: US
+City: Des Moines
+GeoOptions: 339
