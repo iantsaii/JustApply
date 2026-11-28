@@ -223,58 +223,57 @@ wisestart@wise.com
 Sign up your interest
 List #1
 Latest jobs
-Customer Support Specialist
+Wise Platform Enterprise Specialist
 Salary
-670000 INR Annual
+11000 - 15400 BRL Monthly
 Location
-Hyderabad
+São Paulo
 Job Family Group
 Customer Support - General
 Locations
+São Paulo
+Description
+About the RoleAs an Enterprise Support Specialist for Wise Platform, your mission is to drive operational efficiency and scalability for our B2B partners (Embedded Solutions, Correspondent Services,
+Reference
+dd0368bf-a5f7-4886-b845-1cc8553e4024
+Expiry Date
+01/01/0001
+Read more
+Shortlist
+Read more
+Shortlist
+People Operations Intern
+Salary
+500000 - 500000 INR Annual
+Location
+Hyderabad
+Job Family Group
+People - General
+Locations
 Hyderabad
 Description
-As a Customer Support Specialist at Wise you are the first point of contact for our Customers. You are a skilled problem solver and customer advocate. You handle complex issues with ownership and empa
+Onboarding supportSupport the administrative process of onboarding new joiners, helping ensure the Wiser journey is as smooth as possible with everyone involved kept in the loopCoordinate adaptable on
 Reference
-fd1be1d3-176d-4733-aecf-7fa96903af2f
+dbab6660-ff27-4882-bf60-8faec13dfa38
 Expiry Date
 01/01/0001
 Read more
 Shortlist
 Read more
 Shortlist
-KYC Operations Team Lead-Consumer
+Senior Procurement Lead - People & Workplace
 Salary
-930000 - 1130000 HUF Monthly
-Location
-Budapest
-Job Family Group
-Verification
-Locations
-Budapest
-Description
-Role & Job purpose: As a KYC Operations Team Lead you will oversee the daily operations of a team of KYC Analysts. Your team is responsible for conducting thorough customer due diligence reviews, anal
-Reference
-154566c3-cf6f-48e7-a2ec-6d7a0b3e2f61
-Expiry Date
-01/01/0001
-Read more
-Shortlist
-Read more
-Shortlist
-Backend Engineer - Product Eligibility
-Salary
-68000 - 87500 GBP Annual
+89000 - 110000 GBP Annual
 Location
 London
 Job Family Group
-Engineering
+Service Delivery
 Locations
 London
 Description
-We’re unable to support relocation or visa sponsorship for this role. Candidates will need to already be based in the UK (or able to work from the UK)
-Product Eligibility team is a fairly new team
+We’re looking for a Senior Procurement Lead to join our Third Party Management and Procurement Team in London (UK). This role will focus on leading the People & Workplace category comprising or subcat
 Reference
-6e1f9f45-2ef7-4af0-912b-49a0913b2d4e
+987019c0-a054-4159-8a4f-859b2ace41c7
 Expiry Date
 01/01/0001
 Read more
@@ -548,6 +547,6 @@ People
 Wise women code
 Keyword: No Keyword
 Options: No options
-Location: US
-City: Canton
-GeoOptions: 339
+Location: GB
+City: London
+GeoOptions: 343
